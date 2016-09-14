@@ -44,8 +44,10 @@ Personal goals made open source for accessibility across computers I use.
 - [X] Liquid
 - [ ] [Read all the MDN Reference](https://developer.mozilla.org)
 - [ ] [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
-- [ ] [Read Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
+- [ ] [Must Watch CSS (Awesome)](https://github.com/AllThingsSmitty/must-watch-css)
 - [ ] [Must Watch JavaScript](https://github.com/bolshchikov/js-must-watch)
+- [ ] [Must Watch JavaScript (Awesome)](https://github.com/AllThingsSmitty/must-watch-javascript)
+- [ ] [Read Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 - [ ] [Watch My 14 favorite talks in 2014](https://www.youtube.com/playlist?list=PLukmoz92KRt47Ov08yjXpIokDjXJjrmEG)
 - [ ] [Read again OOCSS](https://github.com/stubbornella/oocss/tree/master/oocss)
 - [ ] [Learn about SVG](https://github.com/willianjusten/awesome-svg)
