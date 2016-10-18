@@ -27,6 +27,8 @@ Personal goals made open source for accessibility across computers I use.
 - [X] Jekyll
 - [X] Markdown
 - [X] YAML
+- [X] 05/10/2016 - [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf) (Video: 15)
+- [ ] 06/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv) (Video: 13)
 - [ ] JavaScript for Kids
 - [ ] JavaScript & jQuery - John Ducket
 - [ ] Eloquent JavaScript
@@ -42,7 +44,7 @@ Personal goals made open source for accessibility across computers I use.
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
 - [ ] [Picturefill](http://scottjehl.github.io/picturefill) my portfolio
 - [X] Liquid
-- [ ] [Read all the MDN Reference](https://developer.mozilla.org)
+- [ ] [Read MDN Reference](https://developer.mozilla.org)
 - [ ] [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
 - [ ] [Must Watch CSS (Awesome)](https://github.com/AllThingsSmitty/must-watch-css)
 - [ ] [Must Watch JavaScript](https://github.com/bolshchikov/js-must-watch)
