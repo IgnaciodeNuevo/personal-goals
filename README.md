@@ -1,19 +1,22 @@
-Personal Goals
-==============
+# Personal Goals
 
-Personal goals made open source for accessibility across computers I use.
+# LAST UPDATE: October 26, 2016
+
+Personal goals made open source across computers I use.
 
 # Overarching Goals for 2016:
 1. JavaScript!
-2. Build a Lot of personal projects
-
-# March 28, 2016
+2. Build a lot of personal projects
 
 ## Things I'll do this month:
 
-- [X] We CodeSign Podcast's Web
 - [ ] FreeCodeCamp
-- [ ] Read 4 new Front-end Books
+
+### Projects
+
+- [X] We CodeSign Podcast's Web
+- [ ] [Semillasocial](https://www.semillasocial.org)
+- [ ] Open Source Weekends Website
 
 ### Things I'll do and read in the future:
 
@@ -27,8 +30,8 @@ Personal goals made open source for accessibility across computers I use.
 - [X] Jekyll
 - [X] Markdown
 - [X] YAML
-- [X] 05/10/2016 - [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf) (Video: 15)
-- [ ] 06/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv) (Video: 13)
+- [X] 21/10/2016 - [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
+- [X] 26/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
 - [ ] JavaScript for Kids
 - [ ] JavaScript & jQuery - John Ducket
 - [ ] Eloquent JavaScript
@@ -42,14 +45,12 @@ Personal goals made open source for accessibility across computers I use.
 - [ ] Web Typography
 - [ ] SVG
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
-- [ ] [Picturefill](http://scottjehl.github.io/picturefill) my portfolio
 - [X] Liquid
 - [ ] [Read MDN Reference](https://developer.mozilla.org)
-- [ ] [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
 - [ ] [Must Watch CSS (Awesome)](https://github.com/AllThingsSmitty/must-watch-css)
-- [ ] [Must Watch JavaScript](https://github.com/bolshchikov/js-must-watch)
 - [ ] [Must Watch JavaScript (Awesome)](https://github.com/AllThingsSmitty/must-watch-javascript)
 - [ ] [Read Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
+- [ ] [Recent Conference Talks Worth Watching](https://css-tricks.com/recent-conference-talks-worth-watching/)
 - [ ] [Watch My 14 favorite talks in 2014](https://www.youtube.com/playlist?list=PLukmoz92KRt47Ov08yjXpIokDjXJjrmEG)
 - [ ] [Read again OOCSS](https://github.com/stubbornella/oocss/tree/master/oocss)
 - [ ] [Learn about SVG](https://github.com/willianjusten/awesome-svg)
@@ -58,7 +59,6 @@ Personal goals made open source for accessibility across computers I use.
 - [ ] [Polymer + Web Components](https://www.polymer-project.org/1.0)
 - [ ] Service Worker
 - [ ] [Grid Layout Module Level 1](https://www.w3.org/TR/css-grid-1)
-
 
 ### Practice:
 
