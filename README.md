@@ -1,6 +1,6 @@
 # Personal Goals
 
-# LAST UPDATE: October 26, 2016
+# LAST UPDATE: October 27, 2016
 
 Personal goals made open source across computers I use.
 
@@ -14,9 +14,9 @@ Personal goals made open source across computers I use.
 
 ### Projects
 
-- [X] We CodeSign Podcast's Web
+- [x] We CodeSign Podcast's Web
+- [x] [Open Source Weekends Website](https://osweekends.github.io)
 - [ ] [Semillasocial](https://www.semillasocial.org)
-- [ ] Open Source Weekends Website
 
 ### Books
 
@@ -40,6 +40,7 @@ Personal goals made open source across computers I use.
 - [ ] [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
 
 ### JavaScript
+
 - [x] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 - [x] [Learning Angular -- egghead.io](http://egghead.io)
 - [x] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
@@ -62,6 +63,7 @@ Personal goals made open source across computers I use.
 - [X] Liquid
 - [X] 21/10/2016 - [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
 - [X] 26/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
+- [ ] [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX) (Video: 7)
 - [ ] [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
 - [ ] JavaScript & jQuery - John Ducket
