@@ -87,6 +87,14 @@ Personal goals made open source across computers I use.
 - [ ] [Web Animation](https://www.w3.org/TR/web-animations)
 - [ ] [Polymer + Web Components](https://www.polymer-project.org/1.0)
 
+
+### Conf Videos
+
+- [x] 1/11/2016 - [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
+- [x] 1/11/2016 - [Brenna O'Brien: JavaScript Community: The Good Parts | JSConf EU 2015](https://www.youtube.com/watch?v=2ypYniQa7_o)
+- [x] 1/11/2016 - [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
+- [x] 1/11/2016 - [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
+
 ### Web Performance
 
 - [ ] [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be) (27 mins)
