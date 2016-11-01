@@ -1,7 +1,5 @@
 # Personal Goals
 
-# LAST UPDATE: October 31, 2016
-
 Personal goals made open source across computers I use.
 
 # Overarching Goals for 2016:
@@ -39,14 +37,12 @@ Personal goals made open source across computers I use.
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
 - [ ] [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
 
-### JavaScript
+### Videos
 
-- [x] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
-- [x] [Learning Angular -- egghead.io](http://egghead.io)
-- [x] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
-- [x] [Free JS Books](http://jsbooks.revolunet.com/)
-- [x] [Superhero.js](http://superherojs.com/)
-- [x] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
+- [x] 01/11/2016 - [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
+- [x] 01/11/2016 - [Brenna O'Brien: JavaScript Community: The Good Parts | JSConf EU 2015](https://www.youtube.com/watch?v=2ypYniQa7_o)
+- [x] 01/11/2016 - [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
+- [x] 01/11/2016 - [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
 
 ### Things I'll do in the future:
 
@@ -87,82 +83,14 @@ Personal goals made open source across computers I use.
 - [ ] [Web Animation](https://www.w3.org/TR/web-animations)
 - [ ] [Polymer + Web Components](https://www.polymer-project.org/1.0)
 
+### JavaScript
 
-### Conf Videos
-
-- [x] 1/11/2016 - [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
-- [x] 1/11/2016 - [Brenna O'Brien: JavaScript Community: The Good Parts | JSConf EU 2015](https://www.youtube.com/watch?v=2ypYniQa7_o)
-- [x] 1/11/2016 - [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
-- [x] 1/11/2016 - [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
-
-### Web Performance
-
-- [ ] [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be) (27 mins)
-- [ ] [Building for Performance and Resiliencee](http://vimeo.com/channels/smashingconf/102347448) (40 mins)
-- [ ] [Delivering the Goods with Paul Irish](https://www.youtube.com/watch?v=R8W_6xWphtw) (24 mins)
-- [ ] [Jank Busters](https://www.youtube.com/watch?v=hAzhayTnhEI#t=114)
-- [ ] [Breaking the 1000ms to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM) (46 mins)
-
-### Web Components
-
-- [ ] [The Road to Web Components](https://www.youtube.com/watch?v=6peu4KporaA) (32 mins)
-- [ ] [Web Components: Google I/O 13](https://www.youtube.com/watch?v=fqULJBBEVQE) (32 mins)
-- [ ] [Let's Build Some Apps With Polymer!](https://www.youtube.com/watch?v=kV0hgdMpH28) (28 mins)
-
-### Testing
-
-- [ ] [Writing Testable JS](https://www.youtube.com/watch?v=OzjogCFO4Zo) (40 mins)
-
-### Color on Screen
-
-- [ ] [Engineering Color on the Web -- Lea Verou](http://vimeo.com/channels/smashingconf/96426732) (40 mins)
-
-### Web Browsers
-
-- [ ] [Taming the Browsers of Tomorrow](https://www.youtube.com/watch?v=toKRa0MsI4Q&list=UUyBAm31tEpZ17hka6ZvVqcg) (26 mins)
-
-### SVG
-
-- [ ] [Styling & Animating SVGs w/CSS](https://www.youtube.com/watch?v=hI9roqOKKO8) (39 mins)
-
-### Accessibility
-
-- [ ] [JS for Everybody](https://www.youtube.com/watch?v=04DOp1F9Od4) (29 mins)
-- [ ] [Designing for Accessibility](http://teamtreehouse.com/library/generate-london-2014/designing-for-accessibility)
-
-### Javascript
-
-- [ ] [Meteor.js & Famo.us](https://www.youtube.com/watch?v=bmd-cXSGQAA&feature=youtu.be)
-- [ ] [Object.observe](http://addyosmani.com/blog/the-future-of-data-binding-is-object-observe/)
-- [ ] [Must-Watch JS Videos List*](https://github.com/AllThingsSmitty/must-watch-javascript)
-- [ ] [Introducing React Native](https://www.youtube.com/watch?v=KVZ-P-ZI6W4) (32 mins)
-- [ ] [Rethinking Best Practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) (29 mins)
-
-### Design
-
-- [ ] [Making Good Design Descisions Fireside Chat](http://www.organizedwonder.com/videos/2449)
-
-### Dev Tools
-
-- [ ] [Google Dev Tools Vids](http://discover-devtools.codeschool.com/)
-
-### Future of Web
-
-- [ ] [Future of Web is Offline](https://vimeo.com/120474703)
-
-### PostCSS
-
-- [ ] [PostCSS](https://www.youtube.com/watch?t=47&v=73dl5dk9z4Q)
-
-### Recommendations from Twittersphere
-
-- [ ] [What's the Harm in Sorting, by Jenn Schiffer](https://www.youtube.com/watch?v=pj4U_W0OFoE&autoplay=1&app=desktop) (18 mins)
-- [ ] [All Our Yesterdays -- Jeremy Keith](https://vimeo.com/34269615) (46 mins)
-- [ ] [The ROI of Front-end Experiments -- Martin Ringlein](https://www.youtube.com/watch?v=AYrot4U9oLc&app=desktop) (30 mins)
-- [ ] [Thinking Beyond Scalable CSS -- Nicolas Gallagher](https://www.youtube.com/watch?v=L8w3v9m6G04) (17 mins)
-- [ ] [10 Principles for effective Front-end Development -- Harry Roberts](https://www.youtube.com/watch?v=8adsZeMQjGQ) (17 mins)
-- [ ] [Effortless Style](https://vimeo.com/101718785)
-- [ ] [What is a CSS Framework Anyway -- Harry Roberts](https://vimeo.com/95734680) (48 mins)
+- [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
+- [ ] [Learning Angular -- egghead.io](http://egghead.io)
+- [ ] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
+- [ ] [Free JS Books](http://jsbooks.revolunet.com/)
+- [ ] [Superhero.js](http://superherojs.com/)
+- [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
 
 ### Practice:
 
