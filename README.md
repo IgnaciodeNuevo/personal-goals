@@ -43,6 +43,7 @@ Personal goals made open source across computers I use.
 - [x] 01/11/2016 - [Brenna O'Brien: JavaScript Community: The Good Parts | JSConf EU 2015](https://www.youtube.com/watch?v=2ypYniQa7_o)
 - [x] 01/11/2016 - [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
 - [x] 01/11/2016 - [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
+- [X] 02/11/2016 - [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
 
 ### Things I'll do in the future:
 
@@ -59,7 +60,7 @@ Personal goals made open source across computers I use.
 - [X] Liquid
 - [X] 21/10/2016 - [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
 - [X] 26/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
-- [ ] [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX) (Video: 8)
+- [ ] [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX) (Video: 10)
 - [ ] [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
 - [ ] JavaScript & jQuery - John Ducket
@@ -97,7 +98,8 @@ Personal goals made open source across computers I use.
 - [ ] Accordions
 - [ ] Carousel
 - [X] CodePen
-- [X] Counters
+- [ ] Counters
+- [ ] Responsive Images: picture / srcset
 - [ ] Grid Layout Module
 - [ ] Heatmap
 - [ ] Layaout con 3 tabs
