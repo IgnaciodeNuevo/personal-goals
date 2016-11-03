@@ -8,7 +8,7 @@ Personal goals made open source across computers I use.
 
 ## Things I'll do this month:
 
-- [ ] FreeCodeCamp
+- [ ] Finish FreeCodeCamp
 
 ### Projects
 
@@ -42,6 +42,7 @@ Personal goals made open source across computers I use.
 - [X] 01/01/2016 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) (Video: 7)
 - [X] 01/01/2016 - [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 - [X] 01/01/2016 - [Mastering Markdown](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
+- [X] 01/01/2016 - [Totally Tooling Tips](https://www.youtube.com/watch?v=6LQJtH90-aA&index=1&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ) (Video: 40 - S3 Mini Tip )
 - [x] 01/11/2016 - [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
 - [x] 01/11/2016 - [Brenna O'Brien: JavaScript Community: The Good Parts | JSConf EU 2015](https://www.youtube.com/watch?v=2ypYniQa7_o)
 - [x] 01/11/2016 - [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
@@ -51,6 +52,7 @@ Personal goals made open source across computers I use.
 
 ### Things I'll do in the future:
 
+- [X] Flexbox
 - [X] Curso Intensivo CSS3 Wakkos
 - [X] Review Trazos Master's theme
 - [X] Read HTML&CSS - John Duckett
@@ -71,9 +73,10 @@ Personal goals made open source across computers I use.
 - [ ] ES6.io
 - [ ] Finish FreeCodeCamp
 - [ ] You don't know JavaScript
+- [ ] SublimeText speed up tutorial
+- [ ] SublimeText - Wes Bos
+- [ ] Emmet speed up tutorial
 - [ ] React for Beginners
-- [ ] SublimeText (Wes Bos - Course) + Package to learn Sublime
-- [ ] Flexbox
 - [ ] Web Typography
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
 - [ ] [Watch My 14 favorite talks in 2014](https://www.youtube.com/playlist?list=PLukmoz92KRt47Ov08yjXpIokDjXJjrmEG)
@@ -102,6 +105,7 @@ Personal goals made open source across computers I use.
 - [ ] Accordions
 - [ ] Carousel
 - [X] CodePen
+- [ ] Flexbox
 - [ ] Counters
 - [ ] Responsive Images: picture / srcset
 - [ ] Grid Layout Module
