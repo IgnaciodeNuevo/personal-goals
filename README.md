@@ -39,6 +39,9 @@ Personal goals made open source across computers I use.
 
 ### Videos
 
+- [X] 01/01/2016 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) (Video: 7)
+- [X] 01/01/2016 - [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
+- [X] 01/01/2016 - [Mastering Markdown](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
 - [x] 01/11/2016 - [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
 - [x] 01/11/2016 - [Brenna O'Brien: JavaScript Community: The Good Parts | JSConf EU 2015](https://www.youtube.com/watch?v=2ypYniQa7_o)
 - [x] 01/11/2016 - [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
