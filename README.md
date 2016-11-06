@@ -49,6 +49,8 @@ Personal goals made open source across computers I use.
 - [x] 01/11/2016 - [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
 - [X] 02/11/2016 - [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
 - [X] 03/11/2016 - [Lessons Learned From Building Your Own CSS FrameworkN](https://www.youtube.com/watch?v=QOVNb-DzZdA&feature=youtu.be)
+- [X] 04/11/2016 - [Supercharged ](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr) (Video: 34)
+- [x] 06/11/2016 - [HTTP2](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e) (Video: 22)
 
 ### Things I'll do in the future:
 
