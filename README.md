@@ -51,6 +51,8 @@ Personal goals made open source across computers I use.
 - [X] 03/11/2016 - [Lessons Learned From Building Your Own CSS FrameworkN](https://www.youtube.com/watch?v=QOVNb-DzZdA&feature=youtu.be)
 - [X] 04/11/2016 - [Supercharged ](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr) (Video: 34)
 - [x] 06/11/2016 - [HTTP2](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e) (Video: 22)
+- [x] 15/11/2016 - [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+- [x] 15/11/2016 - [Emanuel Kluge: Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
 
 ### Things I'll do in the future:
 
