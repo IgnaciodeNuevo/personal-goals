@@ -53,6 +53,7 @@ Personal goals made open source across computers I use.
 - [x] 06/11/2016 - [HTTP2](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e) (Video: 22)
 - [x] 15/11/2016 - [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 - [x] 15/11/2016 - [Emanuel Kluge: Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
+- [x] 17/11/2016 - [Docker, gestión y despliegue en Azure](https://www.youtube.com/watch?v=najjrEg5_D4)
 
 ### Things I'll do in the future:
 
