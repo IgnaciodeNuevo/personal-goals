@@ -54,6 +54,8 @@ Personal goals made open source across computers I use.
 - [x] 15/11/2016 - [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 - [x] 15/11/2016 - [Emanuel Kluge: Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
 - [x] 17/11/2016 - [Docker, gestión y despliegue en Azure](https://www.youtube.com/watch?v=najjrEg5_D4)
+- [x] 23/11/2016 - [Manage large CSS projects with ITCSS](https://www.youtube.com/watch?v=hz76JIU_xB0)
+- [x] 24/11/2016 - [Managing CSS Projects with ITCSS](https://www.youtube.com/watch?v=1OKZOV-iLj4)
 
 ### Things I'll do in the future:
 
