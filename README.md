@@ -56,6 +56,11 @@ Personal goals made open source across computers I use.
 - [x] 17/11/2016 - [Docker, gestión y despliegue en Azure](https://www.youtube.com/watch?v=najjrEg5_D4)
 - [x] 23/11/2016 - [Manage large CSS projects with ITCSS](https://www.youtube.com/watch?v=hz76JIU_xB0)
 - [x] 24/11/2016 - [Managing CSS Projects with ITCSS](https://www.youtube.com/watch?v=1OKZOV-iLj4)
+- [X] 24/11/2016 - [You Should Learn to Program: Christian Genco at TEDxSMU](https://www.youtube.com/watch?v=xfBWk4nw440)
+- [X] 24/11/2016 - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+- [X] 25/11/2016 - [Susana Morcuende; Yamila Moreno; Jorge Arévalo Los androides no sueñan con ovejas eléctricas](https://www.youtube.com/watch?v=CqqSG83UvfQ)
+- [X] 25/11/2016 - [Addy Osmani: Plight Of The Butterfly: Object.observe()](2https://www.youtube.com/watch?v=mfOh-J-9BY0)
+- [X] 25/11/2016 - [Accessibility for developers - Alistair Duggin](https://www.youtube.com/watch?v=msrcqmlAnLA)
 
 ### Things I'll do in the future:
 
@@ -106,6 +111,11 @@ Personal goals made open source across computers I use.
 - [ ] [Free JS Books](http://jsbooks.revolunet.com/)
 - [ ] [Superhero.js](http://superherojs.com/)
 - [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
+
+
+### My JavaScript Path
+
+- [ ] 25/11/2016 - [JavaScript para desarrolladores web](https://github.com/IgnaciodeNuevo/Curso-JS-para-desarrolladores-web_ed6) (clase: 2)
 
 ### Practice:
 
