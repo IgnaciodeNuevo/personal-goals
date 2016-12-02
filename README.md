@@ -61,6 +61,10 @@ Personal goals made open source across computers I use.
 - [X] 25/11/2016 - [Susana Morcuende; Yamila Moreno; Jorge Arévalo Los androides no sueñan con ovejas eléctricas](https://www.youtube.com/watch?v=CqqSG83UvfQ)
 - [X] 25/11/2016 - [Addy Osmani: Plight Of The Butterfly: Object.observe()](2https://www.youtube.com/watch?v=mfOh-J-9BY0)
 - [X] 25/11/2016 - [Accessibility for developers - Alistair Duggin](https://www.youtube.com/watch?v=msrcqmlAnLA)
+- [X] 27/11/2016 - [Luis González - Nadie quiere trabajar contigo en Codemotion 2016](https://www.youtube.com/watch?list=PLKxa4AIfm4pUvMn4lZ8zin500bsp3oL2A&v=T44bgTCxTPg)
+- [X] 28/11/2016 - [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
+- [X] 30/11/2016 - [Lourdes Montano - Methods to Organize Your Learning Process in CSS - CascadiaFest 2016](https://www.youtube.com/watch?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe&v=IwMDKB27_ko)
+- [X] 02/12/2016 - ["Real Art Direction on the Web" - View Source Conference talk by Jen Simmons](https://www.youtube.com/watch?v=5Z7lSSMwRgo&index=12&list=PLo3w8EB99pqJBRZU8kUrtoznwE-yyT2Yh)
 
 ### Things I'll do in the future:
 
