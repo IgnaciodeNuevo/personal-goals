@@ -65,6 +65,8 @@ Personal goals made open source across computers I use.
 - [X] 28/11/2016 - [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
 - [X] 30/11/2016 - [Lourdes Montano - Methods to Organize Your Learning Process in CSS - CascadiaFest 2016](https://www.youtube.com/watch?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe&v=IwMDKB27_ko)
 - [X] 02/12/2016 - ["Real Art Direction on the Web" - View Source Conference talk by Jen Simmons](https://www.youtube.com/watch?v=5Z7lSSMwRgo&index=12&list=PLo3w8EB99pqJBRZU8kUrtoznwE-yyT2Yh)
+- [X] 06/12/2016 - [CSS Tips and Tricks #1 - CSS-only Christmas Lights](https://www.youtube.com/watch?v=B9OZkATMbag)
+- [X] 11/12/2016 - [Optimise your Web Development Workflow - Umar Hansa](https://www.youtube.com/watch?v=N33lYfsAsoU)
 
 ### Things I'll do in the future:
 
