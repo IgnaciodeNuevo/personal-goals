@@ -122,7 +122,9 @@ Personal goals made open source across computers I use.
 ### My JavaScript Path
 
 - [ ] 25/11/2016 - [JavaScript para desarrolladores web](https://github.com/IgnaciodeNuevo/Curso-JS-para-desarrolladores-web_ed6) (clase: 2)
-- [ ] 12/11/2016 - [JavaScript30](https://javascript30.com/) (Video: 1)
+- [ ] 12/12/2016 - [JavaScript30](https://javascript30.com/) (Video: 1)
+- [X] 15/12/2016 - [Curso de Angular 2](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd)
+- [X] 15/12/2016 - [Curso de Angular 2 desde el @CampusMadrid de Google](https://www.youtube.com/watch?v=YVVjXpquzBE)
 
 ### Practice:
 
