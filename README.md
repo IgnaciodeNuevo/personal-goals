@@ -129,6 +129,7 @@ Personal goals made open source across computers I use.
 
 - [X] 15/12/2016 - [Curso de Angular 2](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd)
 - [X] 15/12/2016 - [Curso de Angular 2 desde el @CampusMadrid de Google](https://www.youtube.com/watch?v=YVVjXpquzBE)
+- [X] 16/12/2016 - [Get Started with Angular 2](https://egghead.io/courses/angular-2-fundamentals)
 
 ### Practice:
 
