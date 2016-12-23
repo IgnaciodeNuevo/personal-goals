@@ -14,7 +14,7 @@ Personal goals made open source across computers I use.
 
 - [x] We CodeSign Podcast's Web
 - [x] [Open Source Weekends Website](https://osweekends.github.io)
-- [x] [Semillasocial](https://www.semillasocial.org)
+- [x] 19/12/2016 - [Semillasocial](https://www.semillasocial.org)
 
 ### Books
 
@@ -123,6 +123,7 @@ Personal goals made open source across computers I use.
 
 - [ ] 25/11/2016 - [JavaScript para desarrolladores web](https://github.com/IgnaciodeNuevo/Curso-JS-para-desarrolladores-web_ed6) (clase: 2)
 - [ ] 12/12/2016 - [JavaScript30](https://javascript30.com/) (Video: 1)
+- [ ] 23/12/2016 - [Awesome JavaScript learning resources](https://github.com/micromata/awesome-javascript-learning-resources)
 
 
 ### My Angular2 Path
