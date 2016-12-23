@@ -14,7 +14,7 @@ Personal goals made open source across computers I use.
 
 - [x] We CodeSign Podcast's Web
 - [x] [Open Source Weekends Website](https://osweekends.github.io)
-- [ ] [Semillasocial](https://www.semillasocial.org)
+- [x] [Semillasocial](https://www.semillasocial.org)
 
 ### Books
 
