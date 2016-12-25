@@ -67,6 +67,7 @@ Personal goals made open source across computers I use.
 - [X] 02/12/2016 - ["Real Art Direction on the Web" - View Source Conference talk by Jen Simmons](https://www.youtube.com/watch?v=5Z7lSSMwRgo&index=12&list=PLo3w8EB99pqJBRZU8kUrtoznwE-yyT2Yh)
 - [X] 06/12/2016 - [CSS Tips and Tricks #1 - CSS-only Christmas Lights](https://www.youtube.com/watch?v=B9OZkATMbag)
 - [X] 11/12/2016 - [Optimise your Web Development Workflow - Umar Hansa](https://www.youtube.com/watch?v=N33lYfsAsoU)
+- [x] 25/12/2016 - [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
 
 ### Things I'll do in the future:
 
