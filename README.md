@@ -69,6 +69,7 @@ Personal goals made open source across computers I use.
 - [X] 11/12/2016 - [Optimise your Web Development Workflow - Umar Hansa](https://www.youtube.com/watch?v=N33lYfsAsoU)
 - [X] 25/12/2016 - [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
 - [X] 29/12/2016 - [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM)
+- [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
 
 ### Things I'll do in the future:
 
