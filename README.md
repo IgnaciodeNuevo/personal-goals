@@ -113,6 +113,11 @@ Personal goals made open source across computers I use.
 - [ ] [Web Animation](https://www.w3.org/TR/web-animations)
 - [ ] [Polymer + Web Components](https://www.polymer-project.org/1.0)
 
+### Jekyll
+
+- [X] 31/12/2016 - [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
+- [ ] 31/12/2016 - [Jekyll - CloudCannon](https://www.youtube.com/watch?v=dExYSVImSJc&list=PLUybESC8Y06q_aV6D-ow9mmOQzc3-UnXq) (video: 1)
+
 ### JavaScript
 
 - [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
