@@ -70,6 +70,7 @@ Personal goals made open source across computers I use.
 - [X] 25/12/2016 - [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
 - [X] 29/12/2016 - [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM)
 - [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
+- [X] 31/12/2016 - [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 
 ### Things I'll do in the future:
 
