@@ -117,6 +117,7 @@ Personal goals made open source across computers I use.
 
 - [X] 31/12/2016 - [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
 - [X] 31/12/2016 - [Jekyll - CloudCannon](https://www.youtube.com/watch?v=dExYSVImSJc&list=PLUybESC8Y06q_aV6D-ow9mmOQzc3-UnXq)
+- [X] 01/01/2017 - [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 
 ### JavaScript
 
