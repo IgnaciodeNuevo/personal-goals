@@ -89,6 +89,7 @@ Personal goals made open source across computers I use.
 - [X] 21/10/2016 - [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
 - [X] 26/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
 - [X] 03/11/2016 - [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX) (Video: 15)
+- [X] 1/03/207 - JavaScript Jabber 
 - [ ] [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
 - [ ] JavaScript & jQuery - John Ducket
