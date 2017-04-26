@@ -33,7 +33,8 @@ Personal goals made open source across computers I use.
 - [x] [SMACSS](https://smacss.com)
 - [x] [Smashing Book 5](https://shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design)
 - [x] [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
-- [ ] [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
+- [X] [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
+- [X] [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
 - [ ] [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
 
@@ -72,6 +73,8 @@ Personal goals made open source across computers I use.
 - [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
 - [X] 31/12/2016 - [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 
+* Not tracked anymore
+
 ### Things I'll do in the future:
 
 - [X] Flexbox
@@ -90,7 +93,6 @@ Personal goals made open source across computers I use.
 - [X] 26/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
 - [X] 03/11/2016 - [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX) (Video: 15)
 - [X] 1/03/207 - JavaScript Jabber 
-- [ ] [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
 - [ ] JavaScript & jQuery - John Ducket
 - [ ] ES6.io
@@ -99,8 +101,8 @@ Personal goals made open source across computers I use.
 - [ ] SublimeText speed up tutorial
 - [ ] SublimeText - Wes Bos
 - [ ] Emmet speed up tutorial
-- [ ] React for Beginners
-- [ ] Web Typography
+- [X] React for Beginners
+- [X] Web Typography
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
 - [ ] [Watch My 14 favorite talks in 2014](https://www.youtube.com/playlist?list=PLukmoz92KRt47Ov08yjXpIokDjXJjrmEG)
 - [ ] [Must Watch CSS (Awesome)](https://github.com/AllThingsSmitty/must-watch-css)
@@ -109,7 +111,7 @@ Personal goals made open source across computers I use.
 - [ ] [Recent Conference Talks Worth Watching](https://css-tricks.com/recent-conference-talks-worth-watching/)
 - [ ] [Read again OOCSS](https://github.com/stubbornella/oocss/tree/master/oocss)
 - [ ] Service Worker
-- [ ] [Grid Layout Module Level 1](https://www.w3.org/TR/css-grid-1)
+- [X] [Grid Layout Module Level 1](https://www.w3.org/TR/css-grid-1)
 - [ ] SVG
 - [ ] [Web Animation](https://www.w3.org/TR/web-animations)
 - [ ] [Polymer + Web Components](https://www.polymer-project.org/1.0)
@@ -120,6 +122,7 @@ Personal goals made open source across computers I use.
 - [X] 31/12/2016 - [Jekyll - CloudCannon](https://www.youtube.com/watch?v=dExYSVImSJc&list=PLUybESC8Y06q_aV6D-ow9mmOQzc3-UnXq)
 - [X] 01/01/2017 - [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 - [X] 01/01/2017 - [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
+
 ### JavaScript
 
 - [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
@@ -128,6 +131,7 @@ Personal goals made open source across computers I use.
 - [ ] [Free JS Books](http://jsbooks.revolunet.com/)
 - [ ] [Superhero.js](http://superherojs.com/)
 - [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
+- [ ] [Design Patterns](https://sourcemaking.com/design_patterns)
 
 
 ### My JavaScript Path
