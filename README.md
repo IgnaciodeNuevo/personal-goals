@@ -6,10 +6,6 @@ Personal goals made open source across computers I use.
 1. JavaScript!
 2. Build a lot of personal projects
 
-## Things I'll do this month:
-
-- [ ] Finish FreeCodeCamp
-
 ### Projects
 
 - [x] We CodeSign Podcast's Web
@@ -39,6 +35,8 @@ Personal goals made open source across computers I use.
 - [ ] [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
 
 ### Videos
+
+* Not tracked anymore
 
 - [X] 01/01/2016 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) (Video: 7)
 - [X] 01/01/2016 - [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
@@ -73,8 +71,6 @@ Personal goals made open source across computers I use.
 - [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
 - [X] 31/12/2016 - [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 
-* Not tracked anymore
-
 ### Things I'll do in the future:
 
 - [X] Flexbox
@@ -96,12 +92,11 @@ Personal goals made open source across computers I use.
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
 - [ ] JavaScript & jQuery - John Ducket
 - [ ] ES6.io
-- [ ] Finish FreeCodeCamp
+- [ ] FreeCodeCamp
 - [ ] You don't know JavaScript
 - [ ] SublimeText speed up tutorial
 - [ ] SublimeText - Wes Bos
 - [ ] Emmet speed up tutorial
-- [X] React for Beginners
 - [X] Web Typography
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
 - [ ] [Watch My 14 favorite talks in 2014](https://www.youtube.com/playlist?list=PLukmoz92KRt47Ov08yjXpIokDjXJjrmEG)
@@ -113,8 +108,6 @@ Personal goals made open source across computers I use.
 - [ ] Service Worker
 - [X] [Grid Layout Module Level 1](https://www.w3.org/TR/css-grid-1)
 - [ ] SVG
-- [ ] [Web Animation](https://www.w3.org/TR/web-animations)
-- [ ] [Polymer + Web Components](https://www.polymer-project.org/1.0)
 
 ### Jekyll
 
@@ -136,26 +129,31 @@ Personal goals made open source across computers I use.
 
 ### My JavaScript Path
 
-- [ ] 25/11/2016 - [JavaScript para desarrolladores web](https://github.com/IgnaciodeNuevo/Curso-JS-para-desarrolladores-web_ed6) (clase: 2)
+- [X] 22/04/2017 - [JavaScript para desarrolladores web](https://github.com/IgnaciodeNuevo/Curso-JS-para-desarrolladores-web_ed6)
+- [ ] [JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed2)
 - [ ] 12/12/2016 - [JavaScript30](https://javascript30.com/) (Video: 1)
 - [ ] 23/12/2016 - [Awesome JavaScript learning resources](https://github.com/micromata/awesome-javascript-learning-resources)
 
 
-### My Angular2 Path
+### My Angular Path
 
 - [X] 15/12/2016 - [Curso de Angular 2](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd)
 - [X] 15/12/2016 - [Curso de Angular 2 desde el @CampusMadrid de Google](https://www.youtube.com/watch?v=YVVjXpquzBE)
 - [X] 16/12/2016 - [Get Started with Angular 2](https://egghead.io/courses/angular-2-fundamentals)
+
+### My React Path
+
+- [X] React for Beginners
 
 ### Practice:
 
 - [ ] Accordions
 - [ ] Carousel
 - [X] CodePen
-- [ ] Flexbox
+- [X] Flexbox
 - [ ] Counters
 - [ ] Responsive Images: picture / srcset
-- [ ] Grid Layout Module
+- [X] Grid Layout Module
 - [ ] Heatmap
 - [ ] Layaout con 3 tabs
 - [ ] Megadropdown
