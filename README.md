@@ -58,7 +58,7 @@ Personal goals made open source across computers I use.
 - [X] 24/11/2016 - [You Should Learn to Program: Christian Genco at TEDxSMU](https://www.youtube.com/watch?v=xfBWk4nw440)
 - [X] 24/11/2016 - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 - [X] 25/11/2016 - [Susana Morcuende; Yamila Moreno; Jorge Arévalo Los androides no sueñan con ovejas eléctricas](https://www.youtube.com/watch?v=CqqSG83UvfQ)
-- [X] 25/11/2016 - [Addy Osmani: Plight Of The Butterfly: Object.observe](2https://www.youtube.com/watch?v=mfOh-J-9BY0)
+- [X] 25/11/2016 - [Addy Osmani: Object.observe](https://www.youtube.com/watch?v=mfOh-J-9BY0)
 - [X] 25/11/2016 - [Accessibility for developers - Alistair Duggin](https://www.youtube.com/watch?v=msrcqmlAnLA)
 - [X] 27/11/2016 - [Luis González - Nadie quiere trabajar contigo en Codemotion 2016](https://www.youtube.com/watch?list=PLKxa4AIfm4pUvMn4lZ8zin500bsp3oL2A&v=T44bgTCxTPg)
 - [X] 28/11/2016 - [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
