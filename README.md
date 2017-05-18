@@ -147,6 +147,9 @@ Personal goals made open source across computers I use.
 - [X] 18/05/2017 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
 - [X] 18/05/2017 - [Teaching React without using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)
 - [X] 18/05/2017 - [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
+- [X] 18/05/2017 - [5 things you need to know to understand React](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
+- [ ] [Awesome React](https://github.com/enaqx/awesome-react)
+- [ ] [React/Redux Links](https://github.com/markerikson/react-redux-links)
 
 ### Practice:
 
