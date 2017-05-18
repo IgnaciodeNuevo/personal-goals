@@ -2,7 +2,7 @@
 
 Personal goals made open source across computers I use.
 
-# Overarching Goals for 2016:
+# Overarching Goals for 2017:
 1. JavaScript!
 2. Build a lot of personal projects
 
@@ -148,6 +148,13 @@ Personal goals made open source across computers I use.
 - [X] 18/05/2017 - [Teaching React without using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)
 - [X] 18/05/2017 - [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
 - [X] 18/05/2017 - [5 things you need to know to understand React](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
+- [ ] [React Docs](https://facebook.github.io/react/docs/hello-world.html)
+- [ ] [Pete Hunt: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+- [ ] [React in 7 minutes](https://egghead.io/lessons/react-react-in-7-minutes)
+- [ ] [A complete intro to React](https://btholt.github.io/complete-intro-to-react/)
+- [ ] [React Rally Day 1](https://www.youtube.com/watch?v=Fk--XUEorvc&feature=youtu.be&t=20666)
+- [ ] [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965)
+- [X] 18/05/2017 - [React 'aha' moments](https://tylermcginnis.com/react-aha-moments/)
 - [ ] [Awesome React](https://github.com/enaqx/awesome-react)
 - [ ] [React/Redux Links](https://github.com/markerikson/react-redux-links)
 
