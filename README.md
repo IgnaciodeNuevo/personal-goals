@@ -143,6 +143,10 @@ Personal goals made open source across computers I use.
 ### My React Path
 
 - [X] React for Beginners
+- [ ] [React Faq](https://github.com/xDae/react-faq)
+- [X] 18/05/2017 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+- [X] 18/05/2017 - [Teaching React without using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)
+- [X] 18/05/2017 - [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
 
 ### Practice:
 
