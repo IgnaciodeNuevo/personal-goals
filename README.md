@@ -143,7 +143,7 @@ Personal goals made open source across computers I use.
 ### My React Path
 
 - [X] React for Beginners
-- [ ] [React Faq](https://github.com/xDae/react-faq)
+- [ ] **[React Faq](https://github.com/xDae/react-faq)**
 - [X] 18/05/2017 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
 - [X] 18/05/2017 - [Teaching React without using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)
 - [X] 18/05/2017 - [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
@@ -155,8 +155,14 @@ Personal goals made open source across computers I use.
 - [ ] [React Rally Day 1](https://www.youtube.com/watch?v=Fk--XUEorvc&feature=youtu.be&t=20666)
 - [ ] [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965)
 - [X] 18/05/2017 - [React 'aha' moments](https://tylermcginnis.com/react-aha-moments/)
-- [ ] [Awesome React](https://github.com/enaqx/awesome-react)
-- [ ] [React/Redux Links](https://github.com/markerikson/react-redux-links)
+- [X] 18/05/2017 - [JSConfUS 2013 - Tom Occhino and Jordan Walke: JS Apps at Facebook](https://www.youtube.com/watch?v=GW0rj4sNH2w&index=10&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
+- [X] 18/05/2017 - [Is React.js fast? Faster than {framework}?](https://medium.com/react-weekly/is-react-js-fast-faster-than-framework-or-are-there-more-relevant-questions-to-be-asking-bcf40211f89b)
+- [X] 18/05/2017 - [7 Strengths of React every programmer should know about](https://vacuumlabs.com/blog/7-strengths-of-react-every-programmer-should-know-about)
+- [X] 18/05/2017 - [React Design Principles](https://facebook.github.io/react/contributing/design-principles.html)
+- [X] 18/05/2017 - [Tutorial: JSX](http://buildwithreact.com/tutorial/jsx)
+- [ ] [Create React App](https://www.youtube.com/watch?v=gbVhmaW04bc)
+- [ ] **[Awesome React](https://github.com/enaqx/awesome-react)**
+- [ ] **[React/Redux Links](https://github.com/markerikson/react-redux-links)**
 
 ### Practice:
 
