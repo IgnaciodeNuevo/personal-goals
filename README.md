@@ -160,6 +160,7 @@ Personal goals made open source across computers I use.
 - [X] 18/05/2017 - [7 Strengths of React every programmer should know about](https://vacuumlabs.com/blog/7-strengths-of-react-every-programmer-should-know-about)
 - [X] 18/05/2017 - [React Design Principles](https://facebook.github.io/react/contributing/design-principles.html)
 - [X] 18/05/2017 - [Tutorial: JSX](http://buildwithreact.com/tutorial/jsx)
+- [X] 19/05/2017 - [Which projects need react All of them](https://medium.freecodecamp.com/which-projects-need-react-all-of-them-e7ccb6629ba7)
 - [ ] [Create React App](https://www.youtube.com/watch?v=gbVhmaW04bc)
 - [ ] **[Awesome React](https://github.com/enaqx/awesome-react)**
 - [ ] **[React/Redux Links](https://github.com/markerikson/react-redux-links)**
