@@ -143,7 +143,6 @@ Personal goals made open source across computers I use.
 ### My React Path
 
 - [X] React for Beginners
-- [ ] **[React Faq](https://github.com/xDae/react-faq)**
 - [X] 18/05/2017 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
 - [X] 18/05/2017 - [Teaching React without using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)
 - [X] 18/05/2017 - [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
@@ -161,7 +160,9 @@ Personal goals made open source across computers I use.
 - [X] 18/05/2017 - [React Design Principles](https://facebook.github.io/react/contributing/design-principles.html)
 - [X] 18/05/2017 - [Tutorial: JSX](http://buildwithreact.com/tutorial/jsx)
 - [X] 19/05/2017 - [Which projects need react All of them](https://medium.freecodecamp.com/which-projects-need-react-all-of-them-e7ccb6629ba7)
-- [ ] [Create React App](https://www.youtube.com/watch?v=gbVhmaW04bc)
+- [X] 22/05/2017 - [Create React App](https://www.youtube.com/watch?v=gbVhmaW04bc)
+- [X] 22/05/2017 - [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
+- [X] 22/05/2017 - [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/)
 - [ ] **[Awesome React](https://github.com/enaqx/awesome-react)**
 - [ ] **[React/Redux Links](https://github.com/markerikson/react-redux-links)**
 
