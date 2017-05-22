@@ -163,6 +163,8 @@ Personal goals made open source across computers I use.
 - [X] 22/05/2017 - [Create React App](https://www.youtube.com/watch?v=gbVhmaW04bc)
 - [X] 22/05/2017 - [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
 - [X] 22/05/2017 - [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/)
+- [X] 22/05/2017 - [Leveling Up With React: React Router](https://css-tricks.com/learning-react-router/)
+- [X] 22/05/2017 - [Leveling Up With React: Container Components](https://css-tricks.com/learning-react-container-components/)
 - [ ] **[Awesome React](https://github.com/enaqx/awesome-react)**
 - [ ] **[React/Redux Links](https://github.com/markerikson/react-redux-links)**
 
