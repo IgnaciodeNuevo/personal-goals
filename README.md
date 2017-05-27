@@ -126,6 +126,12 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - * [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
 - [X] 27/05/2017 - [Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 - [X] 27/05/2017 - * [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [X] 27/05/2017 - [Announcing CSS Grid & the Firefox Grid Inspector Tool
+](https://www.youtube.com/watch?v=16enLRDbOyY)
+- [X] 27/05/2017 - * [CSS Grid Layout | Frontend NE: Video](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) & [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
+- [X] 27/05/2017 - [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
+- [X] 27/05/2017 - * [Grid Fallbacks](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
+- [X] 27/05/2017 - [Edge starts work on their Grid implementation update](https://rachelandrew.co.uk/archives/2017/04/04/edge-starts-work-on-their-grid-implementation-update)
 
 ### JavaScript
 
@@ -136,7 +142,6 @@ Personal goals made open source across computers I use.
 - [ ] [Superhero.js](http://superherojs.com/)
 - [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
 - [ ] [Design Patterns](https://sourcemaking.com/design_patterns)
-
 
 ### My JavaScript Path
 
