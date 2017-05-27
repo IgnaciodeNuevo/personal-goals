@@ -72,6 +72,7 @@ Personal goals made open source across computers I use.
 - [X] 31/12/2016 - [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 - [X] 27/05/2017 - [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
 - [X] 27/05/2017 - [A Chinese typography experiment - Talk.CSS](https://www.youtube.com/watch?v=tTV60oAk6Cs)
+- [X] 27/05/2017 - [Becoming Responsible for CSS](https://www.youtube.com/watch?v=uHDhtRyDR60)
 
 ### Things I'll do in the future:
 
@@ -117,6 +118,10 @@ Personal goals made open source across computers I use.
 - [X] 01/01/2017 - [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 - [X] 01/01/2017 - [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
 
+### CSS Related articles
+
+- [X] 27/05/2017 - [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
+
 ### My CSS Grid Layout Path
 
 * Must be read
@@ -138,6 +143,8 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - * [Box Alignment Cheetsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
 - [X] 27/05/2017 - [Wow, Grid has so many properties. Do we need them all?](http://jensimmons.com/post/mar-1-2017/wow-grid-has-so-many-properties-do-we-need-them-all)
 - [X] 27/05/2017 - [CSS Grid Layout: El futuro ya está aquí](https://people.igalia.com/mrego/talks/phpvigo-css-grid-layout/#/)
+- [X] 27/05/2017 - [CSS Grid Layout ya está aquí!](https://www.youtube.com/watch?v=xotm_GckeYY)
+- [X] 27/05/2017 - [Entendiendo CSS Grid Playlist](https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
 
 ### JavaScript
 
