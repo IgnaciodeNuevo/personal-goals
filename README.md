@@ -124,23 +124,28 @@ Personal goals made open source across computers I use.
 
 ### My CSS Grid Layout Path
 
-* Must be read
+(*) Must be read
 
-- [X] 27/05/2017 - [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/)
-- [X] 27/05/2017 - [Getting Started with CSS Grid](https://css-tricks.com/getting-started-css-grid/)
 - [X] 27/05/2017 - * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [X] 27/05/2017 - * [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
-- [X] 27/05/2017 - [Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 - [X] 27/05/2017 - * [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [X] 27/05/2017 - * [Grid Fallbacks](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
+- [X] 27/05/2017 - * [Box Alignment Cheetsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
+- [X] 27/05/2017 - * [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
+- [X] 27/05/2017 - * [CSS Grid Layout Module Level 1 Specification](https://www.w3.org/TR/css-grid-1/)
+- [X] 27/05/2017 - * [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
+- [X] 27/05/2017 - * [Griddy](http://griddy.io/)
+- [X] 27/05/2017 - * [LearnCSSGrid](http://learncssgrid.com/)
+- [X] 27/05/2017 - * [CSS Grid Layout | Frontend NE: Video](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) & [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
+- [X] 27/05/2017 - [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/)
+- [X] 27/05/2017 - [Getting Started with CSS Grid](https://css-tricks.com/getting-started-css-grid/)
+- [X] 27/05/2017 - [Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 - [X] 27/05/2017 - [Announcing CSS Grid & the Firefox Grid Inspector Tool
 ](https://www.youtube.com/watch?v=16enLRDbOyY)
-- [X] 27/05/2017 - * [CSS Grid Layout | Frontend NE: Video](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) & [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
 - [X] 27/05/2017 - [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
-- [X] 27/05/2017 - * [Grid Fallbacks](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
 - [X] 27/05/2017 - [Edge starts work on their Grid implementation update](https://rachelandrew.co.uk/archives/2017/04/04/edge-starts-work-on-their-grid-implementation-update)
 - [X] 27/05/2017 - [Learn CSS Grid Layout](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
 - [X] 27/05/2017 - [Labs - Jen Simmons](http://labs.jensimmons.com/)
-- [X] 27/05/2017 - * [Box Alignment Cheetsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
 - [X] 27/05/2017 - [Wow, Grid has so many properties. Do we need them all?](http://jensimmons.com/post/mar-1-2017/wow-grid-has-so-many-properties-do-we-need-them-all)
 - [X] 27/05/2017 - [CSS Grid Layout: El futuro ya está aquí](https://people.igalia.com/mrego/talks/phpvigo-css-grid-layout/#/)
 - [X] 27/05/2017 - [CSS Grid Layout ya está aquí!](https://www.youtube.com/watch?v=xotm_GckeYY)
@@ -149,9 +154,10 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - [Practical CSS Grid: Adding Grid to an Existing Design](https://alistapart.com/article/practical-grid)
 - [X] 27/05/2017 - [Grid + Flexbox: the best 1-2 punch in web layout](https://www.chenhuijing.com/blog/css-grid-flexbox-combo)
 - [X] 27/05/2017 - [Case Study: My First Practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
-- [X] 27/05/2017 - * [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
-- [X] 27/05/2017 - * [CSS Grid Layout Module Level 1 Specification](https://www.w3.org/TR/css-grid-1/)
-- [X] 27/05/2017 - * [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
+- [X] 27/05/2017 - [CSS Grid Ask Me Anything](https://github.com/rachelandrew/cssgrid-ama)
+- [X] 27/05/2017 - [Breaking Out With CSS Grid Layout](https://cloudfour.com/thinks/breaking-out-with-css-grid-layout/)
+- [X] 27/05/2017 - [Learn CSS Grid](http://varun.ca/css-grid/)
+- [X] 27/05/2017 - [Mozilla - CSS Grid](https://www.mozilla.org/en-US/developer/css-grid/)
 
 ### JavaScript
 
