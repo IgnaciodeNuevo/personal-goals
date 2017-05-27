@@ -70,6 +70,7 @@ Personal goals made open source across computers I use.
 - [X] 29/12/2016 - [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM)
 - [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
 - [X] 31/12/2016 - [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
+- [X] 27/05/2017 - [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
 
 ### Things I'll do in the future:
 
@@ -114,6 +115,17 @@ Personal goals made open source across computers I use.
 - [X] 31/12/2016 - [Jekyll - CloudCannon](https://www.youtube.com/watch?v=dExYSVImSJc&list=PLUybESC8Y06q_aV6D-ow9mmOQzc3-UnXq)
 - [X] 01/01/2017 - [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 - [X] 01/01/2017 - [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
+
+### My CSS Grid Layout Path
+
+* Must be read
+
+- [X] 27/05/2017 - [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/)
+- [X] 27/05/2017 - [Getting Started with CSS Grid](https://css-tricks.com/getting-started-css-grid/)
+- [X] 27/05/2017 - * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [X] 27/05/2017 - * [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+- [X] 27/05/2017 - [Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+- [X] 27/05/2017 - * [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
 ### JavaScript
 
