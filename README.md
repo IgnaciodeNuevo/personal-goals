@@ -145,6 +145,13 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - [CSS Grid Layout: El futuro ya está aquí](https://people.igalia.com/mrego/talks/phpvigo-css-grid-layout/#/)
 - [X] 27/05/2017 - [CSS Grid Layout ya está aquí!](https://www.youtube.com/watch?v=xotm_GckeYY)
 - [X] 27/05/2017 - [Entendiendo CSS Grid Playlist](https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW)
+- [X] 27/05/2017 - [Getting to know CSS Grid Layout](https://cm.engineering/getting-to-know-css-grid-layout-818e43ca71a5)
+- [X] 27/05/2017 - [Practical CSS Grid: Adding Grid to an Existing Design](https://alistapart.com/article/practical-grid)
+- [X] 27/05/2017 - [Grid + Flexbox: the best 1-2 punch in web layout](https://www.chenhuijing.com/blog/css-grid-flexbox-combo)
+- [X] 27/05/2017 - [Case Study: My First Practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
+- [X] 27/05/2017 - * [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
+- [X] 27/05/2017 - * [CSS Grid Layout Module Level 1 Specification](https://www.w3.org/TR/css-grid-1/)
+- [X] 27/05/2017 - * [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
 
 ### JavaScript
 
