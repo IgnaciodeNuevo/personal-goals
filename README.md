@@ -71,6 +71,7 @@ Personal goals made open source across computers I use.
 - [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
 - [X] 31/12/2016 - [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 - [X] 27/05/2017 - [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
+- [X] 27/05/2017 - [A Chinese typography experiment - Talk.CSS](https://www.youtube.com/watch?v=tTV60oAk6Cs)
 
 ### Things I'll do in the future:
 
@@ -132,6 +133,11 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
 - [X] 27/05/2017 - * [Grid Fallbacks](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
 - [X] 27/05/2017 - [Edge starts work on their Grid implementation update](https://rachelandrew.co.uk/archives/2017/04/04/edge-starts-work-on-their-grid-implementation-update)
+- [X] 27/05/2017 - [Learn CSS Grid Layout](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
+- [X] 27/05/2017 - [Labs - Jen Simmons](http://labs.jensimmons.com/)
+- [X] 27/05/2017 - * [Box Alignment Cheetsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
+- [X] 27/05/2017 - [Wow, Grid has so many properties. Do we need them all?](http://jensimmons.com/post/mar-1-2017/wow-grid-has-so-many-properties-do-we-need-them-all)
+- [X] 27/05/2017 - [CSS Grid Layout: El futuro ya está aquí](https://people.igalia.com/mrego/talks/phpvigo-css-grid-layout/#/)
 
 ### JavaScript
 
@@ -142,6 +148,7 @@ Personal goals made open source across computers I use.
 - [ ] [Superhero.js](http://superherojs.com/)
 - [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
 - [ ] [Design Patterns](https://sourcemaking.com/design_patterns)
+
 
 ### My JavaScript Path
 
