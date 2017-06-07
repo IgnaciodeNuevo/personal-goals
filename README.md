@@ -170,8 +170,9 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - [Grid 12 Column experiments](https://codepen.io/rachelandrew/pen/mPvboy)
 - [X] 07/06/2017 - [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
 
-### JavaScript
+### My JavaScript Path
 
+- [X] 07/06/2017 - [Introduction to commonly used ES6 features](https://zellwk.com/blog/es6/)
 - [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 - [ ] [Learning Angular -- egghead.io](http://egghead.io)
 - [ ] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
