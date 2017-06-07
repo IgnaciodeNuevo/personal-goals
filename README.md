@@ -168,6 +168,7 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - [Animating CSS Grid Layout properties](https://codepen.io/matuzo/post/animating-css-grid-layout-properties)
 - [X] 27/05/2017 - [CSS Grid Layout - New Terminology](https://codepen.io/stacy/pen/ObmjeZ)
 - [X] 27/05/2017 - [Grid 12 Column experiments](https://codepen.io/rachelandrew/pen/mPvboy)
+- [X] 07/06/2017 - [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
 
 ### JavaScript
 
