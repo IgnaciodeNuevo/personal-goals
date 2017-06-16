@@ -108,7 +108,6 @@ Personal goals made open source across computers I use.
 - [ ] [Recent Conference Talks Worth Watching](https://css-tricks.com/recent-conference-talks-worth-watching/)
 - [ ] [Read again OOCSS](https://github.com/stubbornella/oocss/tree/master/oocss)
 - [ ] Service Worker
-- [X] [Grid Layout Module Level 1](https://www.w3.org/TR/css-grid-1)
 - [ ] SVG
 
 ### Jekyll
@@ -136,6 +135,7 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - (*) [Grid Fallbacks](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
 - [X] 27/05/2017 - (*) [Box Alignment Cheetsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
 - [X] 27/05/2017 - (*) [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
+- [X] 17/06/2017 - (*) [How the minmax() function works](https://bitsofco.de/how-the-minmax-function-works/)
 - [X] 27/05/2017 - (*) [Griddy](http://griddy.io/)
 - [X] 27/05/2017 - (*) [LearnCSSGrid](http://learncssgrid.com/)
 - [X] 27/05/2017 - (*) [Grid Talk examples](https://codepen.io/collection/DEPOzv/)
@@ -173,6 +173,7 @@ Personal goals made open source across computers I use.
 ### My JavaScript Path
 
 - [X] 07/06/2017 - [Introduction to commonly used ES6 features](https://zellwk.com/blog/es6/)
+- [X] 15/06/2017 - [Altering the DOM with JavaScript(https://zellwk.com/blog/js-in-dom/)
 - [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 - [ ] [Learning Angular -- egghead.io](http://egghead.io)
 - [ ] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
