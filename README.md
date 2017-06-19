@@ -121,6 +121,11 @@ Personal goals made open source across computers I use.
 
 - [X] 27/05/2017 - [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 
+### My Advanced CSS Path
+
+- [X] 19/06/2017 - [CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
+- [X] 19/06/2017 - [Responsive Typography Scales in CSS](https://blog.madewithenvy.com/responsive-typographic-scales-in-css-b9f60431d1c4)
+
 ### My CSS Grid Layout Path
 
 (*) Must be read
@@ -143,6 +148,7 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - (*) [CSS Grid Layout](https://codepen.io/collection/XRRJGq/)
 - [X] 27/05/2017 - (*) [CSS Grid Layout | Frontend NE: Video](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) & [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
 - [X] 27/05/2017 - (*) [Grid Exercises](http://labs.jensimmons.com/2017/exercises.html)
+- [X] 19/06/2017 - [Building Production Ready CSS Grid Layout](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
 - [X] 27/05/2017 - [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/)
 - [X] 27/05/2017 - [Getting Started with CSS Grid](https://css-tricks.com/getting-started-css-grid/)
 - [X] 27/05/2017 - [Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
