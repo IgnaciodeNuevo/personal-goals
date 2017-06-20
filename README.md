@@ -175,6 +175,7 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - [CSS Grid Layout - New Terminology](https://codepen.io/stacy/pen/ObmjeZ)
 - [X] 27/05/2017 - [Grid 12 Column experiments](https://codepen.io/rachelandrew/pen/mPvboy)
 - [X] 07/06/2017 - [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
+- [X] 20/06/2017 - [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
 
 ### My JavaScript Path
 
