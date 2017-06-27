@@ -36,8 +36,6 @@ Personal goals made open source across computers I use.
 
 ### Videos
 
-* Not tracked anymore
-
 - [X] 01/01/2016 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) (Video: 7)
 - [X] 01/01/2016 - [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 - [X] 01/01/2016 - [Mastering Markdown](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
@@ -73,6 +71,7 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
 - [X] 27/05/2017 - [A Chinese typography experiment - Talk.CSS](https://www.youtube.com/watch?v=tTV60oAk6Cs)
 - [X] 27/05/2017 - [Becoming Responsible for CSS](https://www.youtube.com/watch?v=uHDhtRyDR60)
+- [X] 27/06/2017 - [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=kbGYPm9uYfk)
 
 ### Things I'll do in the future:
 
