@@ -117,14 +117,17 @@ Personal goals made open source across computers I use.
 - [X] 01/01/2017 - [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 - [X] 01/01/2017 - [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
 
-### CSS Related articles
-
-- [X] 27/05/2017 - [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
-
 ### My Advanced CSS Path
 
+- [X] 27/05/2017 - [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 - [X] 19/06/2017 - [CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
 - [X] 19/06/2017 - [Responsive Typography Scales in CSS](https://blog.madewithenvy.com/responsive-typographic-scales-in-css-b9f60431d1c4)
+- [X] 08/07/2017 - [CSS vs. JavaScript: Trust vs. Control](https://christianheilmann.com/2017/06/21/css-vs-javascript-trust-vs-control/)
+- [X] 08/07/2017 - [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/#💁)
+- [X] 08/07/2017 - [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
+- [X] 08/07/2017 - [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css)
+- [X] 08/07/2017 - [Build a Style Guide Straight from Sass](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/)
+- [X] 08/07/2017 - [Handling Long and Unexpected Content in CSS](https://css-tricks.com/handling-long-unexpected-content-css/)
 
 ### My CSS Grid Layout Path
 
@@ -240,9 +243,8 @@ Personal goals made open source across computers I use.
 - [X] CodePen
 - [X] Flexbox
 - [ ] Counters
-- [ ] Responsive Images: picture / srcset
+- [X] Responsive Images: picture / srcset
 - [X] Grid Layout Module
-- [ ] Heatmap
 - [ ] Layaout con 3 tabs
 - [ ] Megadropdown
-- [ ] Susy 2 Grid
+- [X] Susy 2 Grid
