@@ -127,6 +127,7 @@ Personal goals made open source across computers I use.
 - [X] 08/07/2017 - [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css)
 - [X] 08/07/2017 - [Build a Style Guide Straight from Sass](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/)
 - [X] 08/07/2017 - [Handling Long and Unexpected Content in CSS](https://css-tricks.com/handling-long-unexpected-content-css/)
+- [X] 11/07/2017 - [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
 
 ### My CSS Grid Layout Path
 
@@ -182,7 +183,8 @@ Personal goals made open source across computers I use.
 ### My JavaScript Path
 
 - [X] 07/06/2017 - [Introduction to commonly used ES6 features](https://zellwk.com/blog/es6/)
-- [X] 15/06/2017 - [Altering the DOM with JavaScript(https://zellwk.com/blog/js-in-dom/)
+- [X] 15/06/2017 - [Altering the DOM with JavaScript](https://zellwk.com/blog/js-in-dom/)
+- [X] 11/07/2017 - [Callbacks in JavaScript](https://zellwk.com/blog/callbacks/)
 - [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 - [ ] [Learning Angular -- egghead.io](http://egghead.io)
 - [ ] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
