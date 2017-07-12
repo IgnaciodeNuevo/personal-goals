@@ -128,6 +128,9 @@ Personal goals made open source across computers I use.
 - [X] 08/07/2017 - [Build a Style Guide Straight from Sass](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/)
 - [X] 08/07/2017 - [Handling Long and Unexpected Content in CSS](https://css-tricks.com/handling-long-unexpected-content-css/)
 - [X] 11/07/2017 - [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
+- [X] 11/07/2017 - [Did CSS get more complicated since the late nineties?](https://hiddedevries.nl/en/blog/2017-07-03-did-css-get-more-complicated-since-the-late-nineties)
+- [X] 11/07/2017 - [Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/)
+- [X] 11/07/2017 - [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
 
 ### My CSS Grid Layout Path
 
