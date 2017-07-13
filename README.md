@@ -131,6 +131,7 @@ Personal goals made open source across computers I use.
 - [X] 11/07/2017 - [Did CSS get more complicated since the late nineties?](https://hiddedevries.nl/en/blog/2017-07-03-did-css-get-more-complicated-since-the-late-nineties)
 - [X] 11/07/2017 - [Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/)
 - [X] 11/07/2017 - [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
+- [X] 11/07/2017 - [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
 
 ### My CSS Grid Layout Path
 
