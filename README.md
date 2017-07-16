@@ -159,8 +159,7 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/)
 - [X] 27/05/2017 - [Getting Started with CSS Grid](https://css-tricks.com/getting-started-css-grid/)
 - [X] 27/05/2017 - [Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
-- [X] 27/05/2017 - [Announcing CSS Grid & the Firefox Grid Inspector Tool
-](https://www.youtube.com/watch?v=16enLRDbOyY)
+- [X] 27/05/2017 - [Announcing CSS Grid & the Firefox Grid Inspector Tool](https://www.youtube.com/watch?v=16enLRDbOyY)
 - [X] 27/05/2017 - [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
 - [X] 27/05/2017 - [Edge starts work on their Grid implementation update](https://rachelandrew.co.uk/archives/2017/04/04/edge-starts-work-on-their-grid-implementation-update)
 - [X] 27/05/2017 - [Learn CSS Grid Layout](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
