@@ -72,6 +72,11 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - [A Chinese typography experiment - Talk.CSS](https://www.youtube.com/watch?v=tTV60oAk6Cs)
 - [X] 27/05/2017 - [Becoming Responsible for CSS](https://www.youtube.com/watch?v=uHDhtRyDR60)
 - [X] 27/06/2017 - [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=kbGYPm9uYfk)
+- [X] 26/07/2017 - [Refactoring Legacy CSS](https://www.youtube.com/watch?v=nCPAFcMf8qc)
+- [X] 26/07/2017 - [Organizing CSS with OOCSS, SMACSS, and BEM](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
+- [X] 26/07/2017 - [ALAN MOOIMAN CSS is dead, long live CSS | CascadiaFest 2015](https://www.youtube.com/watch?v=jWDZP8twWDg)
+- [X] 26/07/2017 - [CODE GENIUS - Cascading Shit Show by Jacob Thornton](https://www.youtube.com/watch?v=iniwPUEbPUM)
+- [X] 26/07/2017 - [Stephanie Hobson - Flipping Tables Displaying Data on Small Screens - CascadiaFest 2016](https://www.youtube.com/watch?v=bGlULfoY6Ls)
 
 ### Things I'll do in the future:
 
