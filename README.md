@@ -139,6 +139,7 @@ Personal goals made open source across computers I use.
 - [X] 11/07/2017 - [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
 - [X] 11/07/2017 - [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
 - [X] 18/07/2017 - [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
+- [X] 29/07/2017 - [Building a responsive timeline in CSS with Sass and BEM](https://assortment.io/posts/building-responsive-timelines-in-css-sass-bem)
 
 ### My CSS Grid Layout Path
 
