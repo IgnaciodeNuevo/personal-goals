@@ -114,6 +114,7 @@ Personal goals made open source across computers I use.
 - [ ] [Read again OOCSS](https://github.com/stubbornella/oocss/tree/master/oocss)
 - [ ] Service Worker
 - [ ] SVG
+- [X] 30/07/2017 - [Comandos de Git: Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
 
 ### Jekyll
 
@@ -140,6 +141,8 @@ Personal goals made open source across computers I use.
 - [X] 11/07/2017 - [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
 - [X] 18/07/2017 - [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
 - [X] 29/07/2017 - [Building a responsive timeline in CSS with Sass and BEM](https://assortment.io/posts/building-responsive-timelines-in-css-sass-bem)
+- [X] 30/07/2017 - [Writing the Correct CSS Once is Pretty Easy](https://micahgodbolt.com/blog/writing-the-correct-css-once-is-pretty-easy-all-situations/)
+- [X] 30/07/2017 - [What’s happening in CSS?](https://rachelandrew.co.uk/archives/2017/05/01/whats-happening-in-css/)
 
 ### My CSS Grid Layout Path
 
