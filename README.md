@@ -144,6 +144,10 @@ Personal goals made open source across computers I use.
 - [X] 29/07/2017 - [Building a responsive timeline in CSS with Sass and BEM](https://assortment.io/posts/building-responsive-timelines-in-css-sass-bem)
 - [X] 30/07/2017 - [Writing the Correct CSS Once is Pretty Easy](https://micahgodbolt.com/blog/writing-the-correct-css-once-is-pretty-easy-all-situations/)
 - [X] 30/07/2017 - [What’s happening in CSS?](https://rachelandrew.co.uk/archives/2017/05/01/whats-happening-in-css/)
+- [X] 31/07/2017 - [5 CSS Properties That You Probably Don’t Know](http://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/)
+- [X] 31/07/2017 - [Susy 3](https://medium.com/oddbird-web/welcome-to-susy3-a0127e594b53)
+- [X] 31/07/2017 - [Advanced SCSS](https://gist.github.com/jareware/4738651)
+- [X] 31/07/2017 - [Using viewport units to scale fixed layouts](https://hackernoon.com/using-viewport-units-to-scale-fixed-layouts-869638bb91f9)
 
 ### My CSS Grid Layout Path
 
