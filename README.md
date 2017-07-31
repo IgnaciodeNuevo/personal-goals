@@ -78,6 +78,7 @@ Personal goals made open source across computers I use.
 - [X] 26/07/2017 - [CODE GENIUS - Cascading Shit Show by Jacob Thornton](https://www.youtube.com/watch?v=iniwPUEbPUM)
 - [X] 26/07/2017 - [Stephanie Hobson - Flipping Tables Displaying Data on Small Screens - CascadiaFest 2016](https://www.youtube.com/watch?v=bGlULfoY6Ls)
 - [X] 28/07/2017 - [The Power of CSS – Una Kravets / Front-Trends 2017](https://www.youtube.com/watch?v=IRI1H5tyEAo)
+- [X] 31/07/2017 - [Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8)
 
 ### Things I'll do in the future:
 
