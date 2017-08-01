@@ -80,6 +80,7 @@ Personal goals made open source across computers I use.
 - [X] 28/07/2017 - [The Power of CSS – Una Kravets / Front-Trends 2017](https://www.youtube.com/watch?v=IRI1H5tyEAo)
 - [X] 31/07/2017 - [Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8)
 - [X] 01/08/2017 - [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
+- [X] 01/08/2017 - [Eric Portis on Contain Your Excitement](https://vimeo.com/223432117)
 
 ### Things I'll do in the future:
 
@@ -213,6 +214,9 @@ Personal goals made open source across computers I use.
 - [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
 - [ ] [Design Patterns](https://sourcemaking.com/design_patterns)
 
+### My Perf Path
+
+- [X] 01/08/2017 - [Performance and Resilience: Stress-Testing Third Parties](https://csswizardry.com/2017/07/performance-and-resilience-stress-testing-third-parties/)
 
 ### My JavaScript Path
 
