@@ -81,6 +81,8 @@ Personal goals made open source across computers I use.
 - [X] 31/07/2017 - [Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8)
 - [X] 01/08/2017 - [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
 - [X] 01/08/2017 - [Eric Portis on Contain Your Excitement](https://vimeo.com/223432117)
+- [X] 01/08/2017 - [Breaking Good Habits - Harry Roberts](https://vimeo.com/44773888)
+- [X] 01/08/2017 - [SmashingConf Freiburg: CSS For Software Engineers For CSS Developers](https://vimeo.com/140641366)
 
 ### Things I'll do in the future:
 
@@ -126,7 +128,7 @@ Personal goals made open source across computers I use.
 - [X] 01/01/2017 - [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 - [X] 01/01/2017 - [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
 
-### My Advanced CSS Path
+### My Advanced CSS and Sass Path
 
 - [X] 27/05/2017 - [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 - [X] 19/06/2017 - [CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
@@ -150,6 +152,8 @@ Personal goals made open source across computers I use.
 - [X] 31/07/2017 - [Susy 3](https://medium.com/oddbird-web/welcome-to-susy3-a0127e594b53)
 - [X] 31/07/2017 - [Advanced SCSS](https://gist.github.com/jareware/4738651)
 - [X] 31/07/2017 - [Using viewport units to scale fixed layouts](https://hackernoon.com/using-viewport-units-to-scale-fixed-layouts-869638bb91f9)
+- [X] 31/07/2017 - [Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
+- [X] 31/07/2017 - [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/https://css-tricks.com/the-sass-ampersand/)
 
 ### My CSS Grid Layout Path
 
@@ -201,6 +205,22 @@ Personal goals made open source across computers I use.
 - [X] 07/06/2017 - [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
 - [X] 20/06/2017 - [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
 
+### My Design Path
+
+- [X] 01/08/2017 - [Eight rules about color palettes that everyone should know](https://medium.springboard.com/a-designers-guide-to-selecting-colors-for-your-product-9944756838d4?mc_cid=abd76f7ad4)
+
+### My Typography Path
+
+- [X] 01/08/2017 - [The Equilateral Triangle of a Perfect Paragraph](https://css-tricks.com/equilateral-triangle-perfect-paragraph/)
+
+### My a11y Path
+
+- [X] 01/08/2017 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
+
+### My Perf Path
+
+- [X] 01/08/2017 - [Performance and Resilience: Stress-Testing Third Parties](https://csswizardry.com/2017/07/performance-and-resilience-stress-testing-third-parties/)
+
 ### My JavaScript Path
 
 - [X] 07/06/2017 - [Introduction to commonly used ES6 features](https://zellwk.com/blog/es6/)
@@ -214,17 +234,12 @@ Personal goals made open source across computers I use.
 - [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
 - [ ] [Design Patterns](https://sourcemaking.com/design_patterns)
 
-### My Perf Path
-
-- [X] 01/08/2017 - [Performance and Resilience: Stress-Testing Third Parties](https://csswizardry.com/2017/07/performance-and-resilience-stress-testing-third-parties/)
-
 ### My JavaScript Path
 
 - [X] 22/04/2017 - [JavaScript para desarrolladores web](https://github.com/IgnaciodeNuevo/Curso-JS-para-desarrolladores-web_ed6)
 - [ ] [JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed2)
 - [ ] 12/12/2016 - [JavaScript30](https://javascript30.com/) (Video: 1)
 - [ ] 23/12/2016 - [Awesome JavaScript learning resources](https://github.com/micromata/awesome-javascript-learning-resources)
-
 
 ### My Angular Path
 
