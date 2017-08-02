@@ -4,7 +4,6 @@ Personal goals made open source across computers I use.
 
 # Overarching Goals for 2017:
 1. JavaScript!
-2. Build a lot of personal projects
 
 ### Projects
 
@@ -72,7 +71,7 @@ Personal goals made open source across computers I use.
 - [ ] [Must Watch CSS (Awesome)](https://github.com/AllThingsSmitty/must-watch-css)
 - [ ] [Must Watch JavaScript (Awesome)](https://github.com/AllThingsSmitty/must-watch-javascript)
 - [ ] [Read again OOCSS](https://github.com/stubbornella/oocss/tree/master/oocss)
-- [ ] [Read Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
+- [X] [Read Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 - [ ] [Recent Conference Talks Worth Watching](https://css-tricks.com/recent-conference-talks-worth-watching/)
 - [ ] [Watch My 14 favorite talks in 2014](https://www.youtube.com/playlist?list=PLukmoz92KRt47Ov08yjXpIokDjXJjrmEG)
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
@@ -145,6 +144,11 @@ Personal goals made open source across computers I use.
 - [X] 01/08/2017 - [Breaking Good Habits - Harry Roberts](https://vimeo.com/44773888)
 - [X] 01/08/2017 - [SmashingConf Freiburg: CSS For Software Engineers For CSS Developers](https://vimeo.com/140641366)
 - [X] 02/08/2017 - [Automating CSS Regression Testing - Joan León #scbcn16](https://www.youtube.com/watch?v=4B0lUJn9XsY)
+- [X] 02/08/2017 - [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
+- [X] 02/08/2017 - [Code Smells in CSS Revisited](https://csswizardry.com/2017/02/code-smells-in-css-revisited/)
+- [X] 02/08/2017 - [Fix 90% of Your Problems With Susy by Getting This One Concept Right](https://zellwk.com/blog/context-with-susy/)
+- [X] 02/08/2017 - [When to use @extend; when to use a mixin](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
+- [X] 02/08/2017 - [Extending silent classes in Sass](https://csswizardry.com/2014/01/extending-silent-classes-in-sass/)
 
 ### CSS Grid Layout
 
@@ -200,6 +204,8 @@ Personal goals made open source across computers I use.
 
 - [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
 - [X] 01/08/2017 - [Eight rules about color palettes that everyone should know](https://medium.springboard.com/a-designers-guide-to-selecting-colors-for-your-product-9944756838d4?mc_cid=abd76f7ad4)
+- [X] 02/08/2017 - [Better grid systems in UI design tools](https://medium.com/subform/better-grid-systems-in-ui-design-tools-495dc35c5791)
+- [X] 02/08/2017 - [Why Are Wireframes Useful?](http://blog.teamtreehouse.com/how-to-design-a-useful-wireframe)
 
 ### Typography
 
@@ -209,6 +215,7 @@ Personal goals made open source across computers I use.
 
 - [X] 01/01/2016 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 - [X] 01/08/2017 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
+- [X] 02/08/2017 - [Make site accessible screen magnifiers](https://axesslab.com/make-site-accessible-screen-magnifiers/)
 
 ### Perf
 
@@ -217,6 +224,16 @@ Personal goals made open source across computers I use.
 
 ### JavaScript
 
+- [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
+- [ ] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
+- [ ] [Awesome JavaScript learning resources](https://github.com/micromata/awesome-javascript-learning-resources)
+- [ ] [Design Patterns](https://sourcemaking.com/design_patterns)
+- [ ] [Free JS Books](http://jsbooks.revolunet.com/)
+- [ ] [JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed2)
+- [ ] [JavaScript30](https://javascript30.com/)
+- [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
+- [ ] [Learning Angular -- egghead.io](http://egghead.io)
+- [ ] [Superhero.js](http://superherojs.com/)
 - [X] 15/11/2016 - [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 - [X] 15/11/2016 - [Emanuel Kluge: Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
 - [X] 25/11/2016 - [Addy Osmani: Object.observe](https://www.youtube.com/watch?v=mfOh-J-9BY0)
@@ -228,16 +245,9 @@ Personal goals made open source across computers I use.
 - [X] 15/06/2017 - [Altering the DOM with JavaScript](https://zellwk.com/blog/js-in-dom/)
 - [X] 11/07/2017 - [Callbacks in JavaScript](https://zellwk.com/blog/callbacks/)
 - [X] 02/08/2017 - [6. Writing Testable JavaScript](https://www.youtube.com/watch?v=OzjogCFO4Zo)
-- [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
-- [ ] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
-- [ ] [Awesome JavaScript learning resources](https://github.com/micromata/awesome-javascript-learning-resources)
-- [ ] [Design Patterns](https://sourcemaking.com/design_patterns)
-- [ ] [Free JS Books](http://jsbooks.revolunet.com/)
-- [ ] [JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed2)
-- [ ] [JavaScript30](https://javascript30.com/)
-- [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
-- [ ] [Learning Angular -- egghead.io](http://egghead.io)
-- [ ] [Superhero.js](http://superherojs.com/)
+- [X] 02/08/2017 - [ES6 simplificado - JSDayES 2016](https://www.youtube.com/watch?v=Dv0AgvVKLOw)
+- [X] 02/08/2017 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [X] 02/08/2017 - [Addy Osmani: The Browser Hackers Guide To Instantly Loading Everything | JSConf EU 2017](https://www.youtube.com/watch?v=7vUs5yOuv-o)
 
 ### Angular
 
@@ -265,8 +275,8 @@ Personal goals made open source across computers I use.
 - [X] 22/05/2017 - [Leveling Up With React: React Router](https://css-tricks.com/learning-react-router/)
 - [X] 22/05/2017 - [Leveling Up With React: Container Components](https://css-tricks.com/learning-react-container-components/)
 - [X] 23/05/2017 - [Leveling Up with React: ReduX](https://css-tricks.com/learning-react-redux/)
-- [ ] **[Awesome React](https://github.com/enaqx/awesome-react)**
-- [ ] **[React/Redux Links](https://github.com/markerikson/react-redux-links)**
+- [ ] [Awesome React](https://github.com/enaqx/awesome-react)
+- [ ] [React/Redux Links](https://github.com/markerikson/react-redux-links)
 - [ ] [React Docs](https://facebook.github.io/react/docs/hello-world.html)
 - [ ] [Pete Hunt: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 - [ ] [React in 7 minutes](https://egghead.io/lessons/react-react-in-7-minutes)
