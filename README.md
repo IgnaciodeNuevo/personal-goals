@@ -8,27 +8,27 @@ Personal goals made open source across computers I use.
 
 ### Projects
 
-- [x] We CodeSign Podcast's Web
-- [x] [Open Source Weekends Website](https://osweekends.github.io)
-- [x] 19/12/2016 - [Semillasocial](https://www.semillasocial.org)
+- [X] We CodeSign Podcast's Web
+- [X] [Open Source Weekends Website](https://osweekends.github.io)
+- [X] 19/12/2016 - [Semillasocial](https://www.semillasocial.org)
 
 ### Books
 
-- [x] [Best of 9 Smashing years](https://shop.smashingmagazine.com/products/best-of-nine-smashing-years)
-- [x] [Colour Accesibility](https://www.fivesimplesteps.com/products/colour-accessibility)
-- [x] [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
-- [x] [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
-- [x] [Design is a Job](https://abookapart.com/products/design-is-a-job)
-- [x] [Designing for Performance](http://designingforperformance.com)
-- [x] [Front-end Style Guides](http://maban.co.uk/projects/front-end-style-guides)
-- [x] [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers)
-- [x] [Mobile First](https://abookapart.com/products/mobile-first)
-- [x] [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
-- [x] [Responsive Web Design](https://abookapart.com/products/responsive-web-design)
-- [x] [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
-- [x] [SMACSS](https://smacss.com)
-- [x] [Smashing Book 5](https://shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design)
-- [x] [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
+- [X] [Best of 9 Smashing years](https://shop.smashingmagazine.com/products/best-of-nine-smashing-years)
+- [X] [Colour Accesibility](https://www.fivesimplesteps.com/products/colour-accessibility)
+- [X] [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
+- [X] [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
+- [X] [Design is a Job](https://abookapart.com/products/design-is-a-job)
+- [X] [Designing for Performance](http://designingforperformance.com)
+- [X] [Front-end Style Guides](http://maban.co.uk/projects/front-end-style-guides)
+- [X] [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers)
+- [X] [Mobile First](https://abookapart.com/products/mobile-first)
+- [X] [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
+- [X] [Responsive Web Design](https://abookapart.com/products/responsive-web-design)
+- [X] [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
+- [X] [SMACSS](https://smacss.com)
+- [X] [Smashing Book 5](https://shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design)
+- [X] [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
 - [X] [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
 - [X] [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
@@ -36,53 +36,19 @@ Personal goals made open source across computers I use.
 
 ### Videos
 
-- [X] 01/01/2016 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) (Video: 7)
-- [X] 01/01/2016 - [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
+- [X] 01/11/2016 - [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
 - [X] 01/01/2016 - [Mastering Markdown](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
-- [X] 01/01/2016 - [Totally Tooling Tips](https://www.youtube.com/watch?v=6LQJtH90-aA&index=1&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ) (Video: 40 - S3 Mini Tip )
-- [x] 01/11/2016 - [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
-- [x] 01/11/2016 - [Brenna O'Brien: JavaScript Community: The Good Parts | JSConf EU 2015](https://www.youtube.com/watch?v=2ypYniQa7_o)
-- [x] 01/11/2016 - [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
-- [x] 01/11/2016 - [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
-- [X] 02/11/2016 - [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
-- [X] 03/11/2016 - [Lessons Learned From Building Your Own CSS FrameworkN](https://www.youtube.com/watch?v=QOVNb-DzZdA&feature=youtu.be)
-- [X] 04/11/2016 - [Supercharged ](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr) (Video: 34)
-- [x] 06/11/2016 - [HTTP2](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e) (Video: 22)
-- [x] 15/11/2016 - [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
-- [x] 15/11/2016 - [Emanuel Kluge: Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
-- [x] 17/11/2016 - [Docker, gestión y despliegue en Azure](https://www.youtube.com/watch?v=najjrEg5_D4)
-- [x] 23/11/2016 - [Manage large CSS projects with ITCSS](https://www.youtube.com/watch?v=hz76JIU_xB0)
-- [x] 24/11/2016 - [Managing CSS Projects with ITCSS](https://www.youtube.com/watch?v=1OKZOV-iLj4)
+- [X] 04/11/2016 - [Supercharged ](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
+- [X] 06/11/2016 - [HTTP2](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e)
+- [X] 17/11/2016 - [Docker, gestión y despliegue en Azure](https://www.youtube.com/watch?v=najjrEg5_D4)
 - [X] 24/11/2016 - [You Should Learn to Program: Christian Genco at TEDxSMU](https://www.youtube.com/watch?v=xfBWk4nw440)
 - [X] 24/11/2016 - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 - [X] 25/11/2016 - [Susana Morcuende; Yamila Moreno; Jorge Arévalo Los androides no sueñan con ovejas eléctricas](https://www.youtube.com/watch?v=CqqSG83UvfQ)
-- [X] 25/11/2016 - [Addy Osmani: Object.observe](https://www.youtube.com/watch?v=mfOh-J-9BY0)
 - [X] 25/11/2016 - [Accessibility for developers - Alistair Duggin](https://www.youtube.com/watch?v=msrcqmlAnLA)
 - [X] 27/11/2016 - [Luis González - Nadie quiere trabajar contigo en Codemotion 2016](https://www.youtube.com/watch?list=PLKxa4AIfm4pUvMn4lZ8zin500bsp3oL2A&v=T44bgTCxTPg)
-- [X] 28/11/2016 - [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
-- [X] 30/11/2016 - [Lourdes Montano - Methods to Organize Your Learning Process in CSS - CascadiaFest 2016](https://www.youtube.com/watch?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe&v=IwMDKB27_ko)
-- [X] 02/12/2016 - ["Real Art Direction on the Web" - View Source Conference talk by Jen Simmons](https://www.youtube.com/watch?v=5Z7lSSMwRgo&index=12&list=PLo3w8EB99pqJBRZU8kUrtoznwE-yyT2Yh)
-- [X] 06/12/2016 - [CSS Tips and Tricks #1 - CSS-only Christmas Lights](https://www.youtube.com/watch?v=B9OZkATMbag)
 - [X] 11/12/2016 - [Optimise your Web Development Workflow - Umar Hansa](https://www.youtube.com/watch?v=N33lYfsAsoU)
 - [X] 25/12/2016 - [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
-- [X] 29/12/2016 - [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM)
-- [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
-- [X] 31/12/2016 - [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
-- [X] 27/05/2017 - [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
-- [X] 27/05/2017 - [A Chinese typography experiment - Talk.CSS](https://www.youtube.com/watch?v=tTV60oAk6Cs)
-- [X] 27/05/2017 - [Becoming Responsible for CSS](https://www.youtube.com/watch?v=uHDhtRyDR60)
-- [X] 27/06/2017 - [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=kbGYPm9uYfk)
-- [X] 26/07/2017 - [Refactoring Legacy CSS](https://www.youtube.com/watch?v=nCPAFcMf8qc)
-- [X] 26/07/2017 - [Organizing CSS with OOCSS, SMACSS, and BEM](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
-- [X] 26/07/2017 - [ALAN MOOIMAN CSS is dead, long live CSS | CascadiaFest 2015](https://www.youtube.com/watch?v=jWDZP8twWDg)
 - [X] 26/07/2017 - [CODE GENIUS - Cascading Shit Show by Jacob Thornton](https://www.youtube.com/watch?v=iniwPUEbPUM)
-- [X] 26/07/2017 - [Stephanie Hobson - Flipping Tables Displaying Data on Small Screens - CascadiaFest 2016](https://www.youtube.com/watch?v=bGlULfoY6Ls)
-- [X] 28/07/2017 - [The Power of CSS – Una Kravets / Front-Trends 2017](https://www.youtube.com/watch?v=IRI1H5tyEAo)
-- [X] 31/07/2017 - [Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8)
-- [X] 01/08/2017 - [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
-- [X] 01/08/2017 - [Eric Portis on Contain Your Excitement](https://vimeo.com/223432117)
-- [X] 01/08/2017 - [Breaking Good Habits - Harry Roberts](https://vimeo.com/44773888)
-- [X] 01/08/2017 - [SmashingConf Freiburg: CSS For Software Engineers For CSS Developers](https://vimeo.com/140641366)
 
 ### Things I'll do in the future:
 
@@ -100,7 +66,7 @@ Personal goals made open source across computers I use.
 - [X] Liquid
 - [X] 21/10/2016 - [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
 - [X] 26/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
-- [X] 03/11/2016 - [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX) (Video: 15)
+- [X] 03/11/2016 - [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 - [X] 1/03/207 - JavaScript Jabber 
 - [ ] JavaScript & jQuery - John Ducket
 - [ ] ES6.io
@@ -128,11 +94,26 @@ Personal goals made open source across computers I use.
 - [X] 01/01/2017 - [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 - [X] 01/01/2017 - [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
 
-### My Advanced CSS and Sass Path
+### Advanced CSS and Sass
 
+- [X] 01/01/2016 - [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
+- [X] 01/11/2016 - [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
+- [X] 02/11/2016 - [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
+- [X] 03/11/2016 - [Lessons Learned From Building Your Own CSS FrameworkN](https://www.youtube.com/watch?v=QOVNb-DzZdA&feature=youtu.be)
+- [X] 23/11/2016 - [Manage large CSS projects with ITCSS](https://www.youtube.com/watch?v=hz76JIU_xB0)
+- [X] 24/11/2016 - [Managing CSS Projects with ITCSS](https://www.youtube.com/watch?v=1OKZOV-iLj4)
+- [X] 30/11/2016 - [Lourdes Montano - Methods to Organize Your Learning Process in CSS - CascadiaFest 2016](https://www.youtube.com/watch?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe&v=IwMDKB27_ko)
+- [X] 06/12/2016 - [CSS Tips and Tricks #1 - CSS-only Christmas Lights](https://www.youtube.com/watch?v=B9OZkATMbag)
+- [X] 02/12/2016 - ["Real Art Direction on the Web" - View Source Conference talk by Jen Simmons](https://www.youtube.com/watch?v=5Z7lSSMwRgo&index=12&list=PLo3w8EB99pqJBRZU8kUrtoznwE-yyT2Yh)
+- [X] 31/12/2016 - [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
+- [X] 01/11/2016 - [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
+- [X] 27/05/2017 - [A Chinese typography experiment - Talk.CSS](https://www.youtube.com/watch?v=tTV60oAk6Cs)
+- [X] 27/05/2017 - [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
+- [X] 27/05/2017 - [Becoming Responsible for CSS](https://www.youtube.com/watch?v=uHDhtRyDR60)
 - [X] 27/05/2017 - [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 - [X] 19/06/2017 - [CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
 - [X] 19/06/2017 - [Responsive Typography Scales in CSS](https://blog.madewithenvy.com/responsive-typographic-scales-in-css-b9f60431d1c4)
+- [X] 27/06/2017 - [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=kbGYPm9uYfk)
 - [X] 08/07/2017 - [CSS vs. JavaScript: Trust vs. Control](https://christianheilmann.com/2017/06/21/css-vs-javascript-trust-vs-control/)
 - [X] 08/07/2017 - [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/#💁)
 - [X] 08/07/2017 - [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
@@ -146,16 +127,27 @@ Personal goals made open source across computers I use.
 - [X] 11/07/2017 - [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
 - [X] 18/07/2017 - [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
 - [X] 29/07/2017 - [Building a responsive timeline in CSS with Sass and BEM](https://assortment.io/posts/building-responsive-timelines-in-css-sass-bem)
+- [X] 26/07/2017 - [Refactoring Legacy CSS](https://www.youtube.com/watch?v=nCPAFcMf8qc)
+- [X] 26/07/2017 - [Organizing CSS with OOCSS, SMACSS, and BEM](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
+- [X] 26/07/2017 - [ALAN MOOIMAN CSS is dead, long live CSS | CascadiaFest 2015](https://www.youtube.com/watch?v=jWDZP8twWDg)
+- [X] 26/07/2017 - [Stephanie Hobson - Flipping Tables Displaying Data on Small Screens - CascadiaFest 2016](https://www.youtube.com/watch?v=bGlULfoY6Ls)
+- [X] 28/07/2017 - [The Power of CSS – Una Kravets / Front-Trends 2017](https://www.youtube.com/watch?v=IRI1H5tyEAo)
 - [X] 30/07/2017 - [Writing the Correct CSS Once is Pretty Easy](https://micahgodbolt.com/blog/writing-the-correct-css-once-is-pretty-easy-all-situations/)
 - [X] 30/07/2017 - [What’s happening in CSS?](https://rachelandrew.co.uk/archives/2017/05/01/whats-happening-in-css/)
+- [X] 31/07/2017 - [Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8)
 - [X] 31/07/2017 - [5 CSS Properties That You Probably Don’t Know](http://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/)
 - [X] 31/07/2017 - [Susy 3](https://medium.com/oddbird-web/welcome-to-susy3-a0127e594b53)
 - [X] 31/07/2017 - [Advanced SCSS](https://gist.github.com/jareware/4738651)
 - [X] 31/07/2017 - [Using viewport units to scale fixed layouts](https://hackernoon.com/using-viewport-units-to-scale-fixed-layouts-869638bb91f9)
 - [X] 31/07/2017 - [Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
 - [X] 31/07/2017 - [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/https://css-tricks.com/the-sass-ampersand/)
+- [X] 01/08/2017 - [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
+- [X] 01/08/2017 - [Eric Portis on Contain Your Excitement](https://vimeo.com/223432117)
+- [X] 01/08/2017 - [Breaking Good Habits - Harry Roberts](https://vimeo.com/44773888)
+- [X] 01/08/2017 - [SmashingConf Freiburg: CSS For Software Engineers For CSS Developers](https://vimeo.com/140641366)
+- [X] 02/08/2017 - [Automating CSS Regression Testing - Joan León #scbcn16](https://www.youtube.com/watch?v=4B0lUJn9XsY)
 
-### My CSS Grid Layout Path
+### CSS Grid Layout
 
 (*) Must be read
 
@@ -205,24 +197,33 @@ Personal goals made open source across computers I use.
 - [X] 07/06/2017 - [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
 - [X] 20/06/2017 - [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
 
-### My Design Path
+### Design
 
+- [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
 - [X] 01/08/2017 - [Eight rules about color palettes that everyone should know](https://medium.springboard.com/a-designers-guide-to-selecting-colors-for-your-product-9944756838d4?mc_cid=abd76f7ad4)
 
-### My Typography Path
+### Typography
 
 - [X] 01/08/2017 - [The Equilateral Triangle of a Perfect Paragraph](https://css-tricks.com/equilateral-triangle-perfect-paragraph/)
 
-### My a11y Path
+### a11y
 
+- [X] 01/01/2016 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 - [X] 01/08/2017 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
 
-### My Perf Path
+### Perf
 
+- [X] 01/01/2016 - [Totally Tooling Tips](https://www.youtube.com/watch?v=6LQJtH90-aA&index=1&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
 - [X] 01/08/2017 - [Performance and Resilience: Stress-Testing Third Parties](https://csswizardry.com/2017/07/performance-and-resilience-stress-testing-third-parties/)
 
-### My JavaScript Path
+### JavaScript
 
+- [X] 15/11/2016 - [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+- [X] 15/11/2016 - [Emanuel Kluge: Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
+- [X] 25/11/2016 - [Addy Osmani: Object.observe](https://www.youtube.com/watch?v=mfOh-J-9BY0)
+- [X] 28/11/2016 - [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
+- [X] 29/12/2016 - [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM)
+- [X] 01/11/2016 - [Brenna O'Brien: JavaScript Community: The Good Parts | JSConf EU 2015](https://www.youtube.com/watch?v=2ypYniQa7_o)
 - [X] 07/06/2017 - [Introduction to commonly used ES6 features](https://zellwk.com/blog/es6/)
 - [X] 15/06/2017 - [Altering the DOM with JavaScript](https://zellwk.com/blog/js-in-dom/)
 - [X] 11/07/2017 - [Callbacks in JavaScript](https://zellwk.com/blog/callbacks/)
@@ -233,21 +234,22 @@ Personal goals made open source across computers I use.
 - [ ] [Superhero.js](http://superherojs.com/)
 - [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
 - [ ] [Design Patterns](https://sourcemaking.com/design_patterns)
+- [X] 02/08/2017 - [6. Writing Testable JavaScript](https://www.youtube.com/watch?v=OzjogCFO4Zo)
 
-### My JavaScript Path
+### JavaScript
 
 - [X] 22/04/2017 - [JavaScript para desarrolladores web](https://github.com/IgnaciodeNuevo/Curso-JS-para-desarrolladores-web_ed6)
 - [ ] [JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed2)
-- [ ] 12/12/2016 - [JavaScript30](https://javascript30.com/) (Video: 1)
+- [ ] 12/12/2016 - [JavaScript30](https://javascript30.com/)
 - [ ] 23/12/2016 - [Awesome JavaScript learning resources](https://github.com/micromata/awesome-javascript-learning-resources)
 
-### My Angular Path
+### Angular
 
 - [X] 15/12/2016 - [Curso de Angular 2](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd)
 - [X] 15/12/2016 - [Curso de Angular 2 desde el @CampusMadrid de Google](https://www.youtube.com/watch?v=YVVjXpquzBE)
 - [X] 16/12/2016 - [Get Started with Angular 2](https://egghead.io/courses/angular-2-fundamentals)
 
-### My React Path
+### React
 
 - [X] React for Beginners
 - [X] 18/05/2017 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
@@ -272,7 +274,7 @@ Personal goals made open source across computers I use.
 - [X] 22/05/2017 - [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/)
 - [X] 22/05/2017 - [Leveling Up With React: React Router](https://css-tricks.com/learning-react-router/)
 - [X] 22/05/2017 - [Leveling Up With React: Container Components](https://css-tricks.com/learning-react-container-components/)
-- [X] 23/05/2017 - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
+- [X] 23/05/2017 - [Leveling Up with React: ReduX](https://css-tricks.com/learning-react-redux/)
 - [ ] **[Awesome React](https://github.com/enaqx/awesome-react)**
 - [ ] **[React/Redux Links](https://github.com/markerikson/react-redux-links)**
 
