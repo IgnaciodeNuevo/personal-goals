@@ -68,24 +68,23 @@ Personal goals made open source across computers I use.
 - [X] 26/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
 - [X] 03/11/2016 - [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 - [X] 1/03/207 - JavaScript Jabber 
-- [ ] JavaScript & jQuery - John Ducket
-- [ ] ES6.io
-- [ ] FreeCodeCamp
-- [ ] You don't know JavaScript
-- [ ] SublimeText speed up tutorial
-- [ ] SublimeText - Wes Bos
-- [ ] Emmet speed up tutorial
-- [X] Web Typography
-- [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
-- [ ] [Watch My 14 favorite talks in 2014](https://www.youtube.com/playlist?list=PLukmoz92KRt47Ov08yjXpIokDjXJjrmEG)
+- [X] 30/07/2017 - [Comandos de Git: Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
 - [ ] [Must Watch CSS (Awesome)](https://github.com/AllThingsSmitty/must-watch-css)
 - [ ] [Must Watch JavaScript (Awesome)](https://github.com/AllThingsSmitty/must-watch-javascript)
+- [ ] [Read again OOCSS](https://github.com/stubbornella/oocss/tree/master/oocss)
 - [ ] [Read Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 - [ ] [Recent Conference Talks Worth Watching](https://css-tricks.com/recent-conference-talks-worth-watching/)
-- [ ] [Read again OOCSS](https://github.com/stubbornella/oocss/tree/master/oocss)
+- [ ] [Watch My 14 favorite talks in 2014](https://www.youtube.com/playlist?list=PLukmoz92KRt47Ov08yjXpIokDjXJjrmEG)
+- [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
+- [ ] Emmet speed up tutorial
+- [ ] ES6.io
+- [ ] FreeCodeCamp
+- [ ] JavaScript & jQuery - John Ducket
 - [ ] Service Worker
+- [ ] SublimeText - Wes Bos
+- [ ] SublimeText speed up tutorial
 - [ ] SVG
-- [X] 30/07/2017 - [Comandos de Git: Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
+- [ ] You don't know JavaScript
 
 ### Jekyll
 
@@ -224,24 +223,21 @@ Personal goals made open source across computers I use.
 - [X] 28/11/2016 - [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
 - [X] 29/12/2016 - [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM)
 - [X] 01/11/2016 - [Brenna O'Brien: JavaScript Community: The Good Parts | JSConf EU 2015](https://www.youtube.com/watch?v=2ypYniQa7_o)
+- [X] 22/04/2017 - [JavaScript para desarrolladores web](https://github.com/IgnaciodeNuevo/Curso-JS-para-desarrolladores-web_ed6)
 - [X] 07/06/2017 - [Introduction to commonly used ES6 features](https://zellwk.com/blog/es6/)
 - [X] 15/06/2017 - [Altering the DOM with JavaScript](https://zellwk.com/blog/js-in-dom/)
 - [X] 11/07/2017 - [Callbacks in JavaScript](https://zellwk.com/blog/callbacks/)
+- [X] 02/08/2017 - [6. Writing Testable JavaScript](https://www.youtube.com/watch?v=OzjogCFO4Zo)
+- [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
+- [ ] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
+- [ ] [Awesome JavaScript learning resources](https://github.com/micromata/awesome-javascript-learning-resources)
+- [ ] [Design Patterns](https://sourcemaking.com/design_patterns)
+- [ ] [Free JS Books](http://jsbooks.revolunet.com/)
+- [ ] [JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed2)
+- [ ] [JavaScript30](https://javascript30.com/)
 - [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 - [ ] [Learning Angular -- egghead.io](http://egghead.io)
-- [ ] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
-- [ ] [Free JS Books](http://jsbooks.revolunet.com/)
 - [ ] [Superhero.js](http://superherojs.com/)
-- [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
-- [ ] [Design Patterns](https://sourcemaking.com/design_patterns)
-- [X] 02/08/2017 - [6. Writing Testable JavaScript](https://www.youtube.com/watch?v=OzjogCFO4Zo)
-
-### JavaScript
-
-- [X] 22/04/2017 - [JavaScript para desarrolladores web](https://github.com/IgnaciodeNuevo/Curso-JS-para-desarrolladores-web_ed6)
-- [ ] [JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed2)
-- [ ] 12/12/2016 - [JavaScript30](https://javascript30.com/)
-- [ ] 23/12/2016 - [Awesome JavaScript learning resources](https://github.com/micromata/awesome-javascript-learning-resources)
 
 ### Angular
 
@@ -256,12 +252,6 @@ Personal goals made open source across computers I use.
 - [X] 18/05/2017 - [Teaching React without using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)
 - [X] 18/05/2017 - [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
 - [X] 18/05/2017 - [5 things you need to know to understand React](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
-- [ ] [React Docs](https://facebook.github.io/react/docs/hello-world.html)
-- [ ] [Pete Hunt: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-- [ ] [React in 7 minutes](https://egghead.io/lessons/react-react-in-7-minutes)
-- [ ] [A complete intro to React](https://btholt.github.io/complete-intro-to-react/)
-- [ ] [React Rally Day 1](https://www.youtube.com/watch?v=Fk--XUEorvc&feature=youtu.be&t=20666)
-- [ ] [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965)
 - [X] 18/05/2017 - [React 'aha' moments](https://tylermcginnis.com/react-aha-moments/)
 - [X] 18/05/2017 - [JSConfUS 2013 - Tom Occhino and Jordan Walke: JS Apps at Facebook](https://www.youtube.com/watch?v=GW0rj4sNH2w&index=10&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
 - [X] 18/05/2017 - [Is React.js fast? Faster than {framework}?](https://medium.com/react-weekly/is-react-js-fast-faster-than-framework-or-are-there-more-relevant-questions-to-be-asking-bcf40211f89b)
@@ -277,16 +267,9 @@ Personal goals made open source across computers I use.
 - [X] 23/05/2017 - [Leveling Up with React: ReduX](https://css-tricks.com/learning-react-redux/)
 - [ ] **[Awesome React](https://github.com/enaqx/awesome-react)**
 - [ ] **[React/Redux Links](https://github.com/markerikson/react-redux-links)**
-
-### Practice:
-
-- [ ] Accordions
-- [ ] Carousel
-- [X] CodePen
-- [X] Flexbox
-- [ ] Counters
-- [X] Responsive Images: picture / srcset
-- [X] Grid Layout Module
-- [ ] Layaout con 3 tabs
-- [ ] Megadropdown
-- [X] Susy 2 Grid
+- [ ] [React Docs](https://facebook.github.io/react/docs/hello-world.html)
+- [ ] [Pete Hunt: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+- [ ] [React in 7 minutes](https://egghead.io/lessons/react-react-in-7-minutes)
+- [ ] [A complete intro to React](https://btholt.github.io/complete-intro-to-react/)
+- [ ] [React Rally Day 1](https://www.youtube.com/watch?v=Fk--XUEorvc&feature=youtu.be&t=20666)
+- [ ] [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965)
