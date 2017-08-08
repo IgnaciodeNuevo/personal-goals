@@ -68,6 +68,7 @@ Personal goals made open source across computers I use.
 - [X] 03/11/2016 - [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 - [X] 1/03/207 - JavaScript Jabber 
 - [X] 30/07/2017 - [Comandos de Git: Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
+- [X] 08/08/2017 - [Squash your commits with git rebase](https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase)
 - [ ] [Must Watch CSS (Awesome)](https://github.com/AllThingsSmitty/must-watch-css)
 - [ ] [Must Watch JavaScript (Awesome)](https://github.com/AllThingsSmitty/must-watch-javascript)
 - [ ] [Read again OOCSS](https://github.com/stubbornella/oocss/tree/master/oocss)
