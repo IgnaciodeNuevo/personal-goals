@@ -48,6 +48,7 @@ Personal goals made open source across computers I use.
 - [X] 11/12/2016 - [Optimise your Web Development Workflow - Umar Hansa](https://www.youtube.com/watch?v=N33lYfsAsoU)
 - [X] 25/12/2016 - [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
 - [X] 26/07/2017 - [CODE GENIUS - Cascading Shit Show by Jacob Thornton](https://www.youtube.com/watch?v=iniwPUEbPUM)
+- [X] 09/08/2017 - [Code: Debugging the gender gap](http://www.rtve.es/alacarta/videos/otros-documentales/otros-documentales-code-depurar-diferencia-genero/4155591/)
 
 ### Things I'll do in the future:
 
@@ -67,8 +68,6 @@ Personal goals made open source across computers I use.
 - [X] 26/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
 - [X] 03/11/2016 - [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 - [X] 1/03/207 - JavaScript Jabber 
-- [X] 30/07/2017 - [Comandos de Git: Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
-- [X] 08/08/2017 - [Squash your commits with git rebase](https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase)
 - [ ] [Must Watch CSS (Awesome)](https://github.com/AllThingsSmitty/must-watch-css)
 - [ ] [Must Watch JavaScript (Awesome)](https://github.com/AllThingsSmitty/must-watch-javascript)
 - [ ] [Read again OOCSS](https://github.com/stubbornella/oocss/tree/master/oocss)
@@ -85,13 +84,6 @@ Personal goals made open source across computers I use.
 - [ ] SublimeText speed up tutorial
 - [ ] SVG
 - [ ] You don't know JavaScript
-
-### Jekyll
-
-- [X] 31/12/2016 - [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
-- [X] 31/12/2016 - [Jekyll - CloudCannon](https://www.youtube.com/watch?v=dExYSVImSJc&list=PLUybESC8Y06q_aV6D-ow9mmOQzc3-UnXq)
-- [X] 01/01/2017 - [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
-- [X] 01/01/2017 - [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
 
 ### Advanced CSS and Sass
 
@@ -201,28 +193,6 @@ Personal goals made open source across computers I use.
 - [X] 07/06/2017 - [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
 - [X] 20/06/2017 - [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
 
-### Design
-
-- [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
-- [X] 01/08/2017 - [Eight rules about color palettes that everyone should know](https://medium.springboard.com/a-designers-guide-to-selecting-colors-for-your-product-9944756838d4?mc_cid=abd76f7ad4)
-- [X] 02/08/2017 - [Better grid systems in UI design tools](https://medium.com/subform/better-grid-systems-in-ui-design-tools-495dc35c5791)
-- [X] 02/08/2017 - [Why Are Wireframes Useful?](http://blog.teamtreehouse.com/how-to-design-a-useful-wireframe)
-
-### Typography
-
-- [X] 01/08/2017 - [The Equilateral Triangle of a Perfect Paragraph](https://css-tricks.com/equilateral-triangle-perfect-paragraph/)
-
-### a11y
-
-- [X] 01/01/2016 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
-- [X] 01/08/2017 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
-- [X] 02/08/2017 - [Make site accessible screen magnifiers](https://axesslab.com/make-site-accessible-screen-magnifiers/)
-
-### Perf
-
-- [X] 01/01/2016 - [Totally Tooling Tips](https://www.youtube.com/watch?v=6LQJtH90-aA&index=1&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
-- [X] 01/08/2017 - [Performance and Resilience: Stress-Testing Third Parties](https://csswizardry.com/2017/07/performance-and-resilience-stress-testing-third-parties/)
-- [X] 04/08/2017 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 
 ### JavaScript
 
@@ -285,3 +255,41 @@ Personal goals made open source across computers I use.
 - [ ] [A complete intro to React](https://btholt.github.io/complete-intro-to-react/)
 - [ ] [React Rally Day 1](https://www.youtube.com/watch?v=Fk--XUEorvc&feature=youtu.be&t=20666)
 - [ ] [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965)
+
+### Perf
+
+- [X] 01/01/2016 - [Totally Tooling Tips](https://www.youtube.com/watch?v=6LQJtH90-aA&index=1&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
+- [X] 01/08/2017 - [Performance and Resilience: Stress-Testing Third Parties](https://csswizardry.com/2017/07/performance-and-resilience-stress-testing-third-parties/)
+- [X] 04/08/2017 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+
+### a11y
+
+- [X] 01/01/2016 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+- [X] 01/08/2017 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
+- [X] 02/08/2017 - [Make site accessible screen magnifiers](https://axesslab.com/make-site-accessible-screen-magnifiers/)
+
+### Design
+
+- [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
+- [X] 01/08/2017 - [Eight rules about color palettes that everyone should know](https://medium.springboard.com/a-designers-guide-to-selecting-colors-for-your-product-9944756838d4?mc_cid=abd76f7ad4)
+- [X] 02/08/2017 - [Better grid systems in UI design tools](https://medium.com/subform/better-grid-systems-in-ui-design-tools-495dc35c5791)
+- [X] 02/08/2017 - [Why Are Wireframes Useful?](http://blog.teamtreehouse.com/how-to-design-a-useful-wireframe)
+
+### Typography
+
+- [X] 01/08/2017 - [The Equilateral Triangle of a Perfect Paragraph](https://css-tricks.com/equilateral-triangle-perfect-paragraph/)
+
+### Other resources and articles
+
+- [X] 30/07/2017 - [Comandos de Git: Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
+- [X] 08/08/2017 - [Squash your commits with git rebase](https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase)
+- [X] 09/08/2017 - [Learning at work](https://jvns.ca/blog/2017/08/06/learning-at-work/)
+- [X] 09/08/2017 - [The best career advice I’ve received](https://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/)
+
+### Jekyll
+
+- [X] 31/12/2016 - [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
+- [X] 31/12/2016 - [Jekyll - CloudCannon](https://www.youtube.com/watch?v=dExYSVImSJc&list=PLUybESC8Y06q_aV6D-ow9mmOQzc3-UnXq)
+- [X] 01/01/2017 - [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
+- [X] 01/01/2017 - [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
+
