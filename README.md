@@ -49,6 +49,8 @@ Personal goals made open source across computers I use.
 - [X] 25/12/2016 - [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
 - [X] 26/07/2017 - [CODE GENIUS - Cascading Shit Show by Jacob Thornton](https://www.youtube.com/watch?v=iniwPUEbPUM)
 - [X] 09/08/2017 - [Code: Debugging the gender gap](http://www.rtve.es/alacarta/videos/otros-documentales/otros-documentales-code-depurar-diferencia-genero/4155591/)
+- [X] 09/08/2017 - [Andy Hume — Building For Performance and Resilience (SmashingConf New York 2014](https://vimeo.com/102347448)
+- [X] 09/08/2017 - [Eduardo Ferro - El patadón pa'lante. Posponer decisiones en CAS Vitoria 2016](https://www.youtube.com/watch?v=vEr2xbNoUxM)
 
 ### Things I'll do in the future:
 
@@ -192,6 +194,7 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - [Grid 12 Column experiments](https://codepen.io/rachelandrew/pen/mPvboy)
 - [X] 07/06/2017 - [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
 - [X] 20/06/2017 - [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
+- [X] 09/08/2017 - [Changes to the Grid Spec and taking on Multi-Column layout](https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/)
 
 
 ### JavaScript
