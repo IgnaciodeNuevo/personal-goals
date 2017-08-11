@@ -51,6 +51,7 @@ Personal goals made open source across computers I use.
 - [X] 09/08/2017 - [Code: Debugging the gender gap](http://www.rtve.es/alacarta/videos/otros-documentales/otros-documentales-code-depurar-diferencia-genero/4155591/)
 - [X] 09/08/2017 - [Andy Hume — Building For Performance and Resilience (SmashingConf New York 2014](https://vimeo.com/102347448)
 - [X] 09/08/2017 - [Eduardo Ferro - El patadón pa'lante. Posponer decisiones en CAS Vitoria 2016](https://www.youtube.com/watch?v=vEr2xbNoUxM)
+- [X] 11/08/2017 - [Razvan Caliman (Adobe) - CSS for decoration / infoShare 2016](https://www.youtube.com/watch?v=WupAsZGHDcY)
 
 ### Things I'll do in the future:
 
@@ -223,6 +224,7 @@ Personal goals made open source across computers I use.
 - [X] 02/08/2017 - [ES6 simplificado - JSDayES 2016](https://www.youtube.com/watch?v=Dv0AgvVKLOw)
 - [X] 02/08/2017 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [X] 02/08/2017 - [Addy Osmani: The Browser Hackers Guide To Instantly Loading Everything | JSConf EU 2017](https://www.youtube.com/watch?v=7vUs5yOuv-o)
+- [X] 11/08/2017 - [How to think like a programmer](https://zellwk.com/blog/think/)
 
 ### Angular
 
@@ -270,6 +272,7 @@ Personal goals made open source across computers I use.
 - [X] 01/01/2016 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 - [X] 01/08/2017 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
 - [X] 02/08/2017 - [Make site accessible screen magnifiers](https://axesslab.com/make-site-accessible-screen-magnifiers/)
+- [X] 11/08/2017 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 
 ### Design
 
