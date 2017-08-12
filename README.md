@@ -145,6 +145,7 @@ Personal goals made open source across computers I use.
 - [X] 02/08/2017 - [Fix 90% of Your Problems With Susy by Getting This One Concept Right](https://zellwk.com/blog/context-with-susy/)
 - [X] 02/08/2017 - [When to use @extend; when to use a mixin](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 - [X] 02/08/2017 - [Extending silent classes in Sass](https://csswizardry.com/2014/01/extending-silent-classes-in-sass/)
+- [X] 12/08/2017 - [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
 
 ### CSS Grid Layout
 
@@ -196,6 +197,7 @@ Personal goals made open source across computers I use.
 - [X] 07/06/2017 - [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
 - [X] 20/06/2017 - [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
 - [X] 09/08/2017 - [Changes to the Grid Spec and taking on Multi-Column layout](https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/)
+- [X] 12/08/2017 - [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 
 
 ### JavaScript
@@ -225,6 +227,7 @@ Personal goals made open source across computers I use.
 - [X] 02/08/2017 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [X] 02/08/2017 - [Addy Osmani: The Browser Hackers Guide To Instantly Loading Everything | JSConf EU 2017](https://www.youtube.com/watch?v=7vUs5yOuv-o)
 - [X] 11/08/2017 - [How to think like a programmer](https://zellwk.com/blog/think/)
+- [X] 12/08/2017 - - [Keeping Up With the JavaScript World](https://daveceddia.com/keeping-up-with-javascript/)
 
 ### Angular
 
@@ -273,6 +276,8 @@ Personal goals made open source across computers I use.
 - [X] 01/08/2017 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
 - [X] 02/08/2017 - [Make site accessible screen magnifiers](https://axesslab.com/make-site-accessible-screen-magnifiers/)
 - [X] 11/08/2017 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
+- [X] 12/08/2017 - [Removing that ugly :focus ring (and keeping it too)](https://hackernoon.com/removing-that-ugly-focus-ring-and-keeping-it-too-6c8727fefcd2)
+- [X] 12/08/2017 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 
 ### Design
 
@@ -284,11 +289,15 @@ Personal goals made open source across computers I use.
 ### Typography
 
 - [X] 01/08/2017 - [The Equilateral Triangle of a Perfect Paragraph](https://css-tricks.com/equilateral-triangle-perfect-paragraph/)
+- [X] 12/08/2017 - [If you really dislike FOUT, `font-display: optional` might be your jam](https://css-tricks.com/really-dislike-fout-font-display-optional-might-jam/)
 
-### Other resources and articles
+### Git
 
 - [X] 30/07/2017 - [Comandos de Git: Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
 - [X] 08/08/2017 - [Squash your commits with git rebase](https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase)
+
+### Other resources and articles
+
 - [X] 09/08/2017 - [Learning at work](https://jvns.ca/blog/2017/08/06/learning-at-work/)
 - [X] 09/08/2017 - [The best career advice I’ve received](https://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/)
 
