@@ -198,6 +198,7 @@ Personal goals made open source across computers I use.
 - [X] 20/06/2017 - [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
 - [X] 09/08/2017 - [Changes to the Grid Spec and taking on Multi-Column layout](https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/)
 - [X] 12/08/2017 - [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
+- [X] 12/08/2017 - [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
 
 
 ### JavaScript
@@ -227,7 +228,9 @@ Personal goals made open source across computers I use.
 - [X] 02/08/2017 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [X] 02/08/2017 - [Addy Osmani: The Browser Hackers Guide To Instantly Loading Everything | JSConf EU 2017](https://www.youtube.com/watch?v=7vUs5yOuv-o)
 - [X] 11/08/2017 - [How to think like a programmer](https://zellwk.com/blog/think/)
-- [X] 12/08/2017 - - [Keeping Up With the JavaScript World](https://daveceddia.com/keeping-up-with-javascript/)
+- [X] 12/08/2017 - [Keeping Up With the JavaScript World](https://daveceddia.com/keeping-up-with-javascript/)
+- [X] 12/08/2017 - [Shadow DOM: fast and encapsulated styles](https://meowni.ca/posts/shadow-dom/)
+- [X] 12/08/2017 - [Lazy loading images using intersection observer](https://deanhume.com/Home/BlogPost/lazy-loading-images-using-intersection-observer/10163)
 
 ### Angular
 
