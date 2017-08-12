@@ -272,6 +272,7 @@ Personal goals made open source across computers I use.
 - [X] 01/01/2016 - [Totally Tooling Tips](https://www.youtube.com/watch?v=6LQJtH90-aA&index=1&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
 - [X] 01/08/2017 - [Performance and Resilience: Stress-Testing Third Parties](https://csswizardry.com/2017/07/performance-and-resilience-stress-testing-third-parties/)
 - [X] 04/08/2017 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+- [X] 13/08/2017 - [The Critical Request](https://css-tricks.com/the-critical-request/)
 
 ### a11y
 
