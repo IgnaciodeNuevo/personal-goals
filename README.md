@@ -33,26 +33,6 @@ Personal goals made open source across computers I use.
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
 - [ ] [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
 
-### Videos
-
-- [X] 01/11/2016 - [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
-- [X] 01/01/2016 - [Mastering Markdown](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
-- [X] 04/11/2016 - [Supercharged ](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
-- [X] 06/11/2016 - [HTTP2](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e)
-- [X] 17/11/2016 - [Docker, gestión y despliegue en Azure](https://www.youtube.com/watch?v=najjrEg5_D4)
-- [X] 24/11/2016 - [You Should Learn to Program: Christian Genco at TEDxSMU](https://www.youtube.com/watch?v=xfBWk4nw440)
-- [X] 24/11/2016 - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
-- [X] 25/11/2016 - [Susana Morcuende; Yamila Moreno; Jorge Arévalo Los androides no sueñan con ovejas eléctricas](https://www.youtube.com/watch?v=CqqSG83UvfQ)
-- [X] 25/11/2016 - [Accessibility for developers - Alistair Duggin](https://www.youtube.com/watch?v=msrcqmlAnLA)
-- [X] 27/11/2016 - [Luis González - Nadie quiere trabajar contigo en Codemotion 2016](https://www.youtube.com/watch?list=PLKxa4AIfm4pUvMn4lZ8zin500bsp3oL2A&v=T44bgTCxTPg)
-- [X] 11/12/2016 - [Optimise your Web Development Workflow - Umar Hansa](https://www.youtube.com/watch?v=N33lYfsAsoU)
-- [X] 25/12/2016 - [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
-- [X] 26/07/2017 - [CODE GENIUS - Cascading Shit Show by Jacob Thornton](https://www.youtube.com/watch?v=iniwPUEbPUM)
-- [X] 09/08/2017 - [Code: Debugging the gender gap](http://www.rtve.es/alacarta/videos/otros-documentales/otros-documentales-code-depurar-diferencia-genero/4155591/)
-- [X] 09/08/2017 - [Andy Hume — Building For Performance and Resilience (SmashingConf New York 2014](https://vimeo.com/102347448)
-- [X] 09/08/2017 - [Eduardo Ferro - El patadón pa'lante. Posponer decisiones en CAS Vitoria 2016](https://www.youtube.com/watch?v=vEr2xbNoUxM)
-- [X] 11/08/2017 - [Razvan Caliman (Adobe) - CSS for decoration / infoShare 2016](https://www.youtube.com/watch?v=WupAsZGHDcY)
-
 ### Things I'll do in the future:
 
 - [X] Flexbox
@@ -145,6 +125,7 @@ Personal goals made open source across computers I use.
 - [X] 02/08/2017 - [Fix 90% of Your Problems With Susy by Getting This One Concept Right](https://zellwk.com/blog/context-with-susy/)
 - [X] 02/08/2017 - [When to use @extend; when to use a mixin](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 - [X] 02/08/2017 - [Extending silent classes in Sass](https://csswizardry.com/2014/01/extending-silent-classes-in-sass/)
+- [X] 11/08/2017 - [Razvan Caliman (Adobe) - CSS for decoration / infoShare 2016](https://www.youtube.com/watch?v=WupAsZGHDcY)
 - [X] 12/08/2017 - [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
 
 ### CSS Grid Layout
@@ -200,7 +181,6 @@ Personal goals made open source across computers I use.
 - [X] 12/08/2017 - [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 - [X] 12/08/2017 - [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
 
-
 ### JavaScript
 
 - [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
@@ -231,6 +211,7 @@ Personal goals made open source across computers I use.
 - [X] 12/08/2017 - [Keeping Up With the JavaScript World](https://daveceddia.com/keeping-up-with-javascript/)
 - [X] 12/08/2017 - [Shadow DOM: fast and encapsulated styles](https://meowni.ca/posts/shadow-dom/)
 - [X] 12/08/2017 - [Lazy loading images using intersection observer](https://deanhume.com/Home/BlogPost/lazy-loading-images-using-intersection-observer/10163)
+- [X] 14/08/2017 - [async / await in JavaScript - What, Why and How - Fun Fun Function](https://www.youtube.com/watch?v=568g8hxJJp4)
 
 ### Angular
 
@@ -270,13 +251,16 @@ Personal goals made open source across computers I use.
 ### Perf
 
 - [X] 01/01/2016 - [Totally Tooling Tips](https://www.youtube.com/watch?v=6LQJtH90-aA&index=1&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
+- [X] 11/12/2016 - [Optimise your Web Development Workflow - Umar Hansa](https://www.youtube.com/watch?v=N33lYfsAsoU)
 - [X] 01/08/2017 - [Performance and Resilience: Stress-Testing Third Parties](https://csswizardry.com/2017/07/performance-and-resilience-stress-testing-third-parties/)
 - [X] 04/08/2017 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+- [X] 09/08/2017 - [Andy Hume — Building For Performance and Resilience (SmashingConf New York 2014](https://vimeo.com/102347448)
 - [X] 13/08/2017 - [The Critical Request](https://css-tricks.com/the-critical-request/)
 
 ### a11y
 
 - [X] 01/01/2016 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+- [X] 25/11/2016 - [Accessibility for developers - Alistair Duggin](https://www.youtube.com/watch?v=msrcqmlAnLA)
 - [X] 01/08/2017 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
 - [X] 02/08/2017 - [Make site accessible screen magnifiers](https://axesslab.com/make-site-accessible-screen-magnifiers/)
 - [X] 11/08/2017 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
@@ -285,6 +269,7 @@ Personal goals made open source across computers I use.
 
 ### Design
 
+- [X] 01/11/2016 - [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
 - [X] 30/12/2016 - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
 - [X] 01/08/2017 - [Eight rules about color palettes that everyone should know](https://medium.springboard.com/a-designers-guide-to-selecting-colors-for-your-product-9944756838d4?mc_cid=abd76f7ad4)
 - [X] 02/08/2017 - [Better grid systems in UI design tools](https://medium.com/subform/better-grid-systems-in-ui-design-tools-495dc35c5791)
@@ -300,11 +285,6 @@ Personal goals made open source across computers I use.
 - [X] 30/07/2017 - [Comandos de Git: Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
 - [X] 08/08/2017 - [Squash your commits with git rebase](https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase)
 
-### Other resources and articles
-
-- [X] 09/08/2017 - [Learning at work](https://jvns.ca/blog/2017/08/06/learning-at-work/)
-- [X] 09/08/2017 - [The best career advice I’ve received](https://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/)
-
 ### Jekyll
 
 - [X] 31/12/2016 - [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
@@ -312,3 +292,28 @@ Personal goals made open source across computers I use.
 - [X] 01/01/2017 - [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 - [X] 01/01/2017 - [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
 
+### Software Craftship
+
+- [X] 09/08/2017 - [Eduardo Ferro - El patadón pa'lante. Posponer decisiones en CAS Vitoria 2016](https://www.youtube.com/watch?v=vEr2xbNoUxM)
+- [X] 13/08/2017 - [Antonio de la Torre - Comunidades de necesidad vs comunidades de soluciones en CAS Vitoria 2016](https://www.youtube.com/watch?v=jzV7pMshyic)
+- [X] 13/08/2017 - [Sandro Mancuso/Masook Badar - Curing Agile Hangover with Craftsmanship](https://vimeo.com/44243846)
+- [X] 14/08/2017 - [r | p 2012: The Scams That Derail Programming, Motherfucker - Zed Shaw, Creator of Mongrel](https://www.youtube.com/watch?v=c5Xh2Go-jkM)
+
+### Other resources
+
+- [X] 01/01/2016 - [Mastering Markdown](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
+- [X] 04/11/2016 - [Supercharged ](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
+- [X] 06/11/2016 - [HTTP2](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e)
+- [X] 17/11/2016 - [Docker, gestión y despliegue en Azure](https://www.youtube.com/watch?v=najjrEg5_D4)
+- [X] 24/11/2016 - [You Should Learn to Program: Christian Genco at TEDxSMU](https://www.youtube.com/watch?v=xfBWk4nw440)
+- [X] 24/11/2016 - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+- [X] 25/11/2016 - [Susana Morcuende; Yamila Moreno; Jorge Arévalo Los androides no sueñan con ovejas eléctricas](https://www.youtube.com/watch?v=CqqSG83UvfQ)
+- [X] 27/11/2016 - [Luis González - Nadie quiere trabajar contigo en Codemotion 2016](https://www.youtube.com/watch?list=PLKxa4AIfm4pUvMn4lZ8zin500bsp3oL2A&v=T44bgTCxTPg)
+- [X] 25/12/2016 - [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
+- [X] 26/07/2017 - [CODE GENIUS - Cascading Shit Show by Jacob Thornton](https://www.youtube.com/watch?v=iniwPUEbPUM)
+- [X] 09/08/2017 - [Code: Debugging the gender gap](http://www.rtve.es/alacarta/videos/otros-documentales/otros-documentales-code-depurar-diferencia-genero/4155591/)
+- [X] 09/08/2017 - [Learning at work](https://jvns.ca/blog/2017/08/06/learning-at-work/)
+- [X] 09/08/2017 - [The best career advice I’ve received](https://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/)
+- [X] 14/08/2017 - [Top developers can have a life outside coding](https://belenalbeza.com/top-developers-can-have-a-life-outside-coding/)
+- [X] 14/08/2017 - [The ethics of unpaid labor and the oss community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+- [X] 14/08/2017 - [What should I learn to be a frontend developer](https://belenalbeza.com/what-should-i-learn-to-be-a-front-end-developer/)
