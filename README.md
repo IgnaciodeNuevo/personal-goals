@@ -7,7 +7,7 @@ Personal goals made open source across computers I use.
 
 ### Projects
 
-- [X] We CodeSign Podcast's Web
+- [X] [WeCodeSign Podcast's Website](http://wecodesignpodcast.com/)
 - [X] [Open Source Weekends Website](https://osweekends.github.io)
 - [X] 19/12/2016 - [Semillasocial](https://www.semillasocial.org)
 
@@ -51,21 +51,9 @@ Personal goals made open source across computers I use.
 - [X] 26/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
 - [X] 03/11/2016 - [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 - [X] 1/03/207 - JavaScript Jabber 
-- [ ] [Must Watch CSS (Awesome)](https://github.com/AllThingsSmitty/must-watch-css)
-- [ ] [Must Watch JavaScript (Awesome)](https://github.com/AllThingsSmitty/must-watch-javascript)
-- [ ] [Read again OOCSS](https://github.com/stubbornella/oocss/tree/master/oocss)
-- [X] [Read Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
-- [ ] [Recent Conference Talks Worth Watching](https://css-tricks.com/recent-conference-talks-worth-watching/)
-- [ ] [Watch My 14 favorite talks in 2014](https://www.youtube.com/playlist?list=PLukmoz92KRt47Ov08yjXpIokDjXJjrmEG)
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
-- [ ] Emmet speed up tutorial
 - [ ] ES6.io
 - [ ] FreeCodeCamp
-- [ ] JavaScript & jQuery - John Ducket
-- [ ] Service Worker
-- [ ] SublimeText - Wes Bos
-- [ ] SublimeText speed up tutorial
-- [ ] SVG
 - [ ] You don't know JavaScript
 
 ### Advanced CSS and Sass
@@ -212,6 +200,7 @@ Personal goals made open source across computers I use.
 - [X] 12/08/2017 - [Shadow DOM: fast and encapsulated styles](https://meowni.ca/posts/shadow-dom/)
 - [X] 12/08/2017 - [Lazy loading images using intersection observer](https://deanhume.com/Home/BlogPost/lazy-loading-images-using-intersection-observer/10163)
 - [X] 14/08/2017 - [async / await in JavaScript - What, Why and How - Fun Fun Function](https://www.youtube.com/watch?v=568g8hxJJp4)
+- [X] 14/08/2017 - [Angelina Fabbro: JavaScript Masterclass | JSConfUS 2013](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
 
 ### Angular
 
@@ -279,6 +268,8 @@ Personal goals made open source across computers I use.
 
 - [X] 01/08/2017 - [The Equilateral Triangle of a Perfect Paragraph](https://css-tricks.com/equilateral-triangle-perfect-paragraph/)
 - [X] 12/08/2017 - [If you really dislike FOUT, `font-display: optional` might be your jam](https://css-tricks.com/really-dislike-fout-font-display-optional-might-jam/)
+- [X] 14/08/2017 - [The web font loading glossary](https://www.zachleat.com/web/webfont-glossary/)
+- [X] 14/08/2017 - [CSS Poly Fluid Sizing using calc(), vw, breakpoints and linear equations](https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab)
 
 ### Git
 
@@ -298,6 +289,8 @@ Personal goals made open source across computers I use.
 - [X] 13/08/2017 - [Antonio de la Torre - Comunidades de necesidad vs comunidades de soluciones en CAS Vitoria 2016](https://www.youtube.com/watch?v=jzV7pMshyic)
 - [X] 13/08/2017 - [Sandro Mancuso/Masook Badar - Curing Agile Hangover with Craftsmanship](https://vimeo.com/44243846)
 - [X] 14/08/2017 - [r | p 2012: The Scams That Derail Programming, Motherfucker - Zed Shaw, Creator of Mongrel](https://www.youtube.com/watch?v=c5Xh2Go-jkM)
+- [X] 14/08/2017 - [Palabras malditas](http://www.modestosanjuan.com/palabras-malditas/)
+- [X] 14/08/2017 - [In defence of software craftsmanship](https://medium.com/@d_ir/in-defence-of-software-craftsmanship-f484a0c646bb)
 
 ### Other resources
 
