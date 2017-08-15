@@ -115,6 +115,7 @@ Personal goals made open source across computers I use.
 - [X] 02/08/2017 - [Extending silent classes in Sass](https://csswizardry.com/2014/01/extending-silent-classes-in-sass/)
 - [X] 11/08/2017 - [Razvan Caliman (Adobe) - CSS for decoration / infoShare 2016](https://www.youtube.com/watch?v=WupAsZGHDcY)
 - [X] 12/08/2017 - [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
+- [X] 15/08/2017 - [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/)
 
 ### CSS Grid Layout
 
