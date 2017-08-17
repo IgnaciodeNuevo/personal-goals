@@ -202,6 +202,7 @@ Personal goals made open source across computers I use.
 - [X] 12/08/2017 - [Lazy loading images using intersection observer](https://deanhume.com/Home/BlogPost/lazy-loading-images-using-intersection-observer/10163)
 - [X] 14/08/2017 - [async / await in JavaScript - What, Why and How - Fun Fun Function](https://www.youtube.com/watch?v=568g8hxJJp4)
 - [X] 14/08/2017 - [Angelina Fabbro: JavaScript Masterclass | JSConfUS 2013](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
+- [X] 17/08/2017 - [Principios básicos de la programación funcional en JavaScript](https://medium.com/@FlavioCorpa/principios-b%C3%A1sicos-de-la-programaci%C3%B3n-funcional-en-javascript-34d3a31924c)
 
 ### Angular
 
@@ -246,6 +247,7 @@ Personal goals made open source across computers I use.
 - [X] 04/08/2017 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 - [X] 09/08/2017 - [Andy Hume — Building For Performance and Resilience (SmashingConf New York 2014](https://vimeo.com/102347448)
 - [X] 13/08/2017 - [The Critical Request](https://css-tricks.com/the-critical-request/)
+- [X] 17/08/2017 - [Optimising the front end for the browser](https://dev.to/sanjsanj/optimising-the-front-end-for-thebrowser)
 
 ### a11y
 
@@ -256,6 +258,7 @@ Personal goals made open source across computers I use.
 - [X] 11/08/2017 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 - [X] 12/08/2017 - [Removing that ugly :focus ring (and keeping it too)](https://hackernoon.com/removing-that-ugly-focus-ring-and-keeping-it-too-6c8727fefcd2)
 - [X] 12/08/2017 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
+- [X] 17/08/2017 - [Is online shopping more accessible than health care?](https://axesslab.com/accessibility-shopping-vs-healthcare/)
 
 ### Design
 
@@ -264,6 +267,7 @@ Personal goals made open source across computers I use.
 - [X] 01/08/2017 - [Eight rules about color palettes that everyone should know](https://medium.springboard.com/a-designers-guide-to-selecting-colors-for-your-product-9944756838d4?mc_cid=abd76f7ad4)
 - [X] 02/08/2017 - [Better grid systems in UI design tools](https://medium.com/subform/better-grid-systems-in-ui-design-tools-495dc35c5791)
 - [X] 02/08/2017 - [Why Are Wireframes Useful?](http://blog.teamtreehouse.com/how-to-design-a-useful-wireframe)
+- [X] 17/08/2017 - [Rethinking web design](https://www.chenhuijing.com/blog/rethinking-web-design)
 
 ### Typography
 
@@ -311,3 +315,5 @@ Personal goals made open source across computers I use.
 - [X] 14/08/2017 - [Top developers can have a life outside coding](https://belenalbeza.com/top-developers-can-have-a-life-outside-coding/)
 - [X] 14/08/2017 - [The ethics of unpaid labor and the oss community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 - [X] 14/08/2017 - [What should I learn to be a frontend developer](https://belenalbeza.com/what-should-i-learn-to-be-a-front-end-developer/)
+- [X] 17/08/2017 - [Beating Procrastination](https://zellwk.com/blog/procrastination/)
+- [X] 17/08/2017 - [Increase your web development skill-set: 150 animated tips on Chrome DevTools](https://medium.com/@umaar/increase-your-web-development-skill-set-150-animated-tips-on-chrome-devtools-4a30155e6b8e)
