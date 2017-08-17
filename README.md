@@ -248,6 +248,8 @@ Personal goals made open source across computers I use.
 - [X] 09/08/2017 - [Andy Hume — Building For Performance and Resilience (SmashingConf New York 2014](https://vimeo.com/102347448)
 - [X] 13/08/2017 - [The Critical Request](https://css-tricks.com/the-critical-request/)
 - [X] 17/08/2017 - [Optimising the front end for the browser](https://dev.to/sanjsanj/optimising-the-front-end-for-thebrowser)
+- [X] 17/08/2017 - [Measuring web performance; it’s really quite simple](https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f7f39e)
+- [X] 17/08/2017 - [Using the Paint Timing API](https://css-tricks.com/paint-timing-api/)
 
 ### a11y
 
@@ -275,6 +277,10 @@ Personal goals made open source across computers I use.
 - [X] 12/08/2017 - [If you really dislike FOUT, `font-display: optional` might be your jam](https://css-tricks.com/really-dislike-fout-font-display-optional-might-jam/)
 - [X] 14/08/2017 - [The web font loading glossary](https://www.zachleat.com/web/webfont-glossary/)
 - [X] 14/08/2017 - [CSS Poly Fluid Sizing using calc(), vw, breakpoints and linear equations](https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab)
+
+### SVG
+
+- [X] 17/08/2017 - [SVG can do THAT?!](http://slides.com/sdrasner/svg-can-do-that#/)
 
 ### Git
 
