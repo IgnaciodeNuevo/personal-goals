@@ -204,6 +204,7 @@ Personal goals made open source across computers I use.
 - [X] 14/08/2017 - [async / await in JavaScript - What, Why and How - Fun Fun Function](https://www.youtube.com/watch?v=568g8hxJJp4)
 - [X] 14/08/2017 - [Angelina Fabbro: JavaScript Masterclass | JSConfUS 2013](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
 - [X] 17/08/2017 - [Principios básicos de la programación funcional en JavaScript](https://medium.com/@FlavioCorpa/principios-b%C3%A1sicos-de-la-programaci%C3%B3n-funcional-en-javascript-34d3a31924c)
+- [X] 18/08/2017 - [Concerning CSS in JS](https://www.youtube.com/watch?v=R1_nGU0x3Wk)
 
 ### Angular
 
