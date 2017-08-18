@@ -252,6 +252,7 @@ Personal goals made open source across computers I use.
 - [X] 17/08/2017 - [Optimising the front end for the browser](https://dev.to/sanjsanj/optimising-the-front-end-for-thebrowser)
 - [X] 17/08/2017 - [Measuring web performance; it’s really quite simple](https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f7f39e)
 - [X] 17/08/2017 - [Using the Paint Timing API](https://css-tricks.com/paint-timing-api/)
+- [X] 18/08/2017 - [CSSconf EU 2017 | Patrick Hamann: CSS and the first meaningful paint](https://www.youtube.com/watch?v=4pQ2byAoIX0)
 
 ### a11y
 
