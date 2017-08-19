@@ -297,6 +297,10 @@ Personal goals made open source across computers I use.
 - [X] 01/01/2017 - [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 - [X] 01/01/2017 - [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
 
+### Testing
+
+- [X] 18/08/2017 - [TW Hangouts | Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo)
+
 ### Software Craftship
 
 - [X] 09/08/2017 - [Eduardo Ferro - El patadón pa'lante. Posponer decisiones en CAS Vitoria 2016](https://www.youtube.com/watch?v=vEr2xbNoUxM)
