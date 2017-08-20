@@ -116,6 +116,10 @@ Personal goals made open source across computers I use.
 - [X] 11/08/2017 - [Razvan Caliman (Adobe) - CSS for decoration / infoShare 2016](https://www.youtube.com/watch?v=WupAsZGHDcY)
 - [X] 12/08/2017 - [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
 - [X] 15/08/2017 - [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/)
+- [X] 20/08/2017 - [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
+- [X] 20/08/2017 - [The Nine Principles Of Design Implementation](https://www.smashingmagazine.com/2017/08/nine-principles-design-implementation/)
+- [X] 20/08/2017 - [Lea Verou - CSS Variables: var(--subtitle);](https://www.youtube.com/watch?v=2an6-WVPuJU)
+- [X] 20/08/2017 - [Ire Aderinokun — Progressive Enhancement and CSS](https://vimeo.com/194815985)
 
 ### CSS Grid Layout
 
@@ -139,6 +143,7 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - (*) [CSS Grid Layout](https://codepen.io/collection/XRRJGq/)
 - [X] 27/05/2017 - (*) [CSS Grid Layout | Frontend NE: Video](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) & [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
 - [X] 27/05/2017 - (*) [Grid Exercises](http://labs.jensimmons.com/2017/exercises.html)
+- [X] 18/08/2017 - (*) [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
 - [X] 19/06/2017 - [Building Production Ready CSS Grid Layout](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
 - [X] 27/05/2017 - [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/)
 - [X] 27/05/2017 - [Getting Started with CSS Grid](https://css-tricks.com/getting-started-css-grid/)
@@ -169,7 +174,6 @@ Personal goals made open source across computers I use.
 - [X] 09/08/2017 - [Changes to the Grid Spec and taking on Multi-Column layout](https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/)
 - [X] 12/08/2017 - [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 - [X] 12/08/2017 - [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
-- [X] 18/08/2017 - [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
 
 ### JavaScript
 
@@ -253,6 +257,9 @@ Personal goals made open source across computers I use.
 - [X] 17/08/2017 - [Measuring web performance; it’s really quite simple](https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f7f39e)
 - [X] 17/08/2017 - [Using the Paint Timing API](https://css-tricks.com/paint-timing-api/)
 - [X] 18/08/2017 - [CSSconf EU 2017 | Patrick Hamann: CSS and the first meaningful paint](https://www.youtube.com/watch?v=4pQ2byAoIX0)
+- [X] 20/08/2017 - [Why Perceived Performance Matters, Part 1: The Perception Of Time](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
+- [X] 20/08/2017 - [Why Perceived Performance Matters, Part 2: Perception Management](https://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/)
+- [X] 20/08/2017 - [Why Perceived Performance Matters, Part 3: Tolerance Management](https://www.smashingmagazine.com/2015/12/performance-matters-part-3-tolerance-management/)
 
 ### a11y
 
@@ -273,6 +280,8 @@ Personal goals made open source across computers I use.
 - [X] 02/08/2017 - [Better grid systems in UI design tools](https://medium.com/subform/better-grid-systems-in-ui-design-tools-495dc35c5791)
 - [X] 02/08/2017 - [Why Are Wireframes Useful?](http://blog.teamtreehouse.com/how-to-design-a-useful-wireframe)
 - [X] 17/08/2017 - [Rethinking web design](https://www.chenhuijing.com/blog/rethinking-web-design)
+- [X] 20/08/2017 - [A Look into Navigation in Web Design](https://cmd-t.webydo.com/from-simple-to-unusual-a-look-at-navigation-in-web-design-1057d0baef7b)
+- [X] 20/08/2017 - [A Brief Overview On Responsive Navigation Patterns](https://www.smashingmagazine.com/2017/04/overview-responsive-navigation-patterns/)
 
 ### Typography
 
