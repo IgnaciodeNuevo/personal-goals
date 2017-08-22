@@ -209,6 +209,8 @@ Personal goals made open source across computers I use.
 - [X] 14/08/2017 - [Angelina Fabbro: JavaScript Masterclass | JSConfUS 2013](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
 - [X] 17/08/2017 - [Principios básicos de la programación funcional en JavaScript](https://medium.com/@FlavioCorpa/principios-b%C3%A1sicos-de-la-programaci%C3%B3n-funcional-en-javascript-34d3a31924c)
 - [X] 18/08/2017 - [Concerning CSS in JS](https://www.youtube.com/watch?v=R1_nGU0x3Wk)
+- [X] 21/08/2017 - [Error handling Promises in JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=f8IgdnYIwOU)
+- [X] 22/08/2017 - [Be Slightly Careful with Sub Elements of Clickable Things](https://css-tricks.com/slightly-careful-sub-elements-clickable-things/)
 
 ### Angular
 
@@ -245,6 +247,10 @@ Personal goals made open source across computers I use.
 - [ ] [React Rally Day 1](https://www.youtube.com/watch?v=Fk--XUEorvc&feature=youtu.be&t=20666)
 - [ ] [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965)
 
+### Vue
+
+- [X] 22/08/2017 - [Cómo empezar con Vue.js | Primeros pasos con Vue](https://www.youtube.com/watch?v=L0F4OPPsm0c)
+
 ### Perf
 
 - [X] 01/01/2016 - [Totally Tooling Tips](https://www.youtube.com/watch?v=6LQJtH90-aA&index=1&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
@@ -271,6 +277,7 @@ Personal goals made open source across computers I use.
 - [X] 12/08/2017 - [Removing that ugly :focus ring (and keeping it too)](https://hackernoon.com/removing-that-ugly-focus-ring-and-keeping-it-too-6c8727fefcd2)
 - [X] 12/08/2017 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 - [X] 17/08/2017 - [Is online shopping more accessible than health care?](https://axesslab.com/accessibility-shopping-vs-healthcare/)
+- [X] 22/08/2017 - [How icons are ruinning interfaces](https://axesslab.com/icons-ruining-interfaces/)
 
 ### Design
 
