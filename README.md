@@ -120,6 +120,7 @@ Personal goals made open source across computers I use.
 - [X] 20/08/2017 - [The Nine Principles Of Design Implementation](https://www.smashingmagazine.com/2017/08/nine-principles-design-implementation/)
 - [X] 20/08/2017 - [Lea Verou - CSS Variables: var(--subtitle);](https://www.youtube.com/watch?v=2an6-WVPuJU)
 - [X] 20/08/2017 - [Ire Aderinokun — Progressive Enhancement and CSS](https://vimeo.com/194815985)
+- [X] 23/08/2017 - [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
 
 ### CSS Grid Layout
 
@@ -175,6 +176,16 @@ Personal goals made open source across computers I use.
 - [X] 12/08/2017 - [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 - [X] 12/08/2017 - [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
 
+### RWD
+
+- [X] 23/08/2017 - [Breakpoints: Don’t Box Me In](https://cloudfour.com/thinks/breakpoints-dont-box-me-in/)
+- [X] 23/08/2017 - [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/)
+
+### Front-end Architecture
+
+- [X] 23/08/2017 - [BEMIT: Taking the BEM Naming Convention a Step Further](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+- [X] 23/08/2017 - [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
+
 ### JavaScript
 
 - [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
@@ -211,6 +222,8 @@ Personal goals made open source across computers I use.
 - [X] 18/08/2017 - [Concerning CSS in JS](https://www.youtube.com/watch?v=R1_nGU0x3Wk)
 - [X] 21/08/2017 - [Error handling Promises in JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=f8IgdnYIwOU)
 - [X] 22/08/2017 - [Be Slightly Careful with Sub Elements of Clickable Things](https://css-tricks.com/slightly-careful-sub-elements-clickable-things/)
+- [X] 23/08/2017 - [Javascript ES7 / ES8 New Features](https://www.youtube.com/watch?v=lAYV1GbI3p4)
+- [X] 23/08/2017 - [¿Angular y React han muerto? ¿Larga vida a Vue?](https://elabismodenull.wordpress.com/2017/08/22/angular-y-react-han-muerto-larga-vida-a-vue/)
 
 ### Angular
 
@@ -278,6 +291,7 @@ Personal goals made open source across computers I use.
 - [X] 12/08/2017 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 - [X] 17/08/2017 - [Is online shopping more accessible than health care?](https://axesslab.com/accessibility-shopping-vs-healthcare/)
 - [X] 22/08/2017 - [How icons are ruinning interfaces](https://axesslab.com/icons-ruining-interfaces/)
+- [X] 23/08/2017 - [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
 
 ### Design
 
@@ -296,6 +310,23 @@ Personal goals made open source across computers I use.
 - [X] 12/08/2017 - [If you really dislike FOUT, `font-display: optional` might be your jam](https://css-tricks.com/really-dislike-fout-font-display-optional-might-jam/)
 - [X] 14/08/2017 - [The web font loading glossary](https://www.zachleat.com/web/webfont-glossary/)
 - [X] 14/08/2017 - [CSS Poly Fluid Sizing using calc(), vw, breakpoints and linear equations](https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab)
+- [X] 23/08/2017 - [Everything I know about Responsive Web Typography](https://zellwk.com/blog/responsive-typography/)
+- [X] 23/08/2017 - [Fluid font typ](https://inside.runroom.com/fluid-font-type/)
+- [X] 23/08/2017 - [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)
+- [X] 23/08/2017 - [Design a responsive site with em-based sizing](http://www.creativebloq.com/how-to/design-a-responsive-site-with-em-based-sizing)
+- [X] 23/08/2017 - [More Meaningful Typography](https://alistapart.com/article/more-meaningful-typography)
+- [X] 23/08/2017 - [Responsive typography: the basics](https://ia.net/topics/responsive-typography-the-basics/)
+- [X] 23/08/2017 - [Implementing baseline rhythm in CSS](https://pilot.co/blog/implementing-baseline-rhythm-in-css/)
+- [X] 23/08/2017 - [A comprehensive guide to font loading strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
+- [X] 23/08/2017 - [Loading web fonts asynchronously](https://calendar.perfplanet.com/2016/loading-web-fonts-asynchronously/)
+- [X] 23/08/2017 - [The New System Font Stack?](https://bitsofco.de/the-new-system-font-stack/)
+- [X] 23/08/2017 - [A Responsive Guide to Type Sizing](https://cloudfour.com/thinks/responsive-guide-to-type-sizing/)
+- [X] 23/08/2017 - [AtoZ CSS Quick Tip: Benefits of rem and em Values](https://www.sitepoint.com/atoz-css-quick-tip-rem-em-values/)
+- [X] 23/08/2017 - [Fluid Type on Blogs](https://blog.codepen.io/2016/10/31/fluid-type-blogs/)
+- [X] 23/08/2017 - [Optimización de fuentes web](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization#webfonts_and_the_critical_rendering_path)
+- [X] 23/08/2017 - [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html)
+- [X] 23/08/2017 - [Lazy loading web fonts is probably not what you want](https://www.zachleat.com/web/lazy-loading-webfonts/)
+
 
 ### SVG
 
