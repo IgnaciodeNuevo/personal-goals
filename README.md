@@ -303,6 +303,10 @@ Personal goals made open source across computers I use.
 - [X] 17/08/2017 - [Rethinking web design](https://www.chenhuijing.com/blog/rethinking-web-design)
 - [X] 20/08/2017 - [A Look into Navigation in Web Design](https://cmd-t.webydo.com/from-simple-to-unusual-a-look-at-navigation-in-web-design-1057d0baef7b)
 - [X] 20/08/2017 - [A Brief Overview On Responsive Navigation Patterns](https://www.smashingmagazine.com/2017/04/overview-responsive-navigation-patterns/)
+- [X] 25/08/2017 - [How To Create a Style Guide From Scratch. Tips and Tricks](https://medium.muz.li/how-to-create-a-style-guide-from-scratch-tips-and-tricks-e00f25b423bf)
+- [X] 25/08/2017 - [Creating a Living Style Guide - Tutorial Part 1: Planning Your Living Style Guide](https://www.bitovi.com/blog/planning-your-living-style-guide)
+- [X] 25/08/2017 - [Creating a Living Style Guide - Tutorial Part 2: Creating Pages in a Living Style Guide](https://www.bitovi.com/blog/creating-pages-in-a-living-style-guide)
+- [X] 25/08/2017 - [Creating a Living Style Guide - Tutorial Part 3: Documenting a Stylesheet in a Living Style Guide](https://www.bitovi.com/blog/documenting-a-stylesheet-in-a-living-style-guide)
 
 ### Typography
 
@@ -331,6 +335,7 @@ Personal goals made open source across computers I use.
 ### SVG
 
 - [X] 17/08/2017 - [SVG can do THAT?!](http://slides.com/sdrasner/svg-can-do-that#/)
+- [X] 25/08/2017 - [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
 
 ### Git
 
