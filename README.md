@@ -345,6 +345,7 @@ Personal goals made open source across computers I use.
 - [X] 23/08/2017 - [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html)
 - [X] 23/08/2017 - [Lazy loading web fonts is probably not what you want](https://www.zachleat.com/web/lazy-loading-webfonts/)
 - [X] 25/08/2017 - [Critial Web Fonts](https://www.zachleat.com/web/critical-webfonts/)
+- [X] 25/08/2017 - [The web fonts preloaded](https://www.zachleat.com/web/preload/)
 
 
 ### SVG
