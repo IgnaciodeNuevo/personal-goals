@@ -224,6 +224,7 @@ Personal goals made open source across computers I use.
 - [X] 22/08/2017 - [Be Slightly Careful with Sub Elements of Clickable Things](https://css-tricks.com/slightly-careful-sub-elements-clickable-things/)
 - [X] 23/08/2017 - [Javascript ES7 / ES8 New Features](https://www.youtube.com/watch?v=lAYV1GbI3p4)
 - [X] 23/08/2017 - [¿Angular y React han muerto? ¿Larga vida a Vue?](https://elabismodenull.wordpress.com/2017/08/22/angular-y-react-han-muerto-larga-vida-a-vue/)
+- [X] 25/08/2017 - [Truthy and Falsy: When All is Not Equal in JavaScript](https://www.sitepoint.com/javascript-truthy-falsy/)
 
 ### Angular
 
@@ -279,6 +280,7 @@ Personal goals made open source across computers I use.
 - [X] 20/08/2017 - [Why Perceived Performance Matters, Part 1: The Perception Of Time](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
 - [X] 20/08/2017 - [Why Perceived Performance Matters, Part 2: Perception Management](https://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/)
 - [X] 20/08/2017 - [Why Perceived Performance Matters, Part 3: Tolerance Management](https://www.smashingmagazine.com/2015/12/performance-matters-part-3-tolerance-management/)
+- [X] 25/08/2017 - [A Progressive Roadmap for your Progressive Web App](https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app/)
 
 ### a11y
 
@@ -292,6 +294,10 @@ Personal goals made open source across computers I use.
 - [X] 17/08/2017 - [Is online shopping more accessible than health care?](https://axesslab.com/accessibility-shopping-vs-healthcare/)
 - [X] 22/08/2017 - [How icons are ruinning interfaces](https://axesslab.com/icons-ruining-interfaces/)
 - [X] 23/08/2017 - [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
+
+### UX
+
+- [X] 24/08/2017 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 
 ### Design
 
@@ -307,6 +313,14 @@ Personal goals made open source across computers I use.
 - [X] 25/08/2017 - [Creating a Living Style Guide - Tutorial Part 1: Planning Your Living Style Guide](https://www.bitovi.com/blog/planning-your-living-style-guide)
 - [X] 25/08/2017 - [Creating a Living Style Guide - Tutorial Part 2: Creating Pages in a Living Style Guide](https://www.bitovi.com/blog/creating-pages-in-a-living-style-guide)
 - [X] 25/08/2017 - [Creating a Living Style Guide - Tutorial Part 3: Documenting a Stylesheet in a Living Style Guide](https://www.bitovi.com/blog/documenting-a-stylesheet-in-a-living-style-guide)
+- [X] 25/08/2017 - [How to Choose a Good Color Scheme For Your Website](http://www.websitebuilderexpert.com/how-to-choose-color-for-your-website/)
+- [X] 25/08/2017 - [Design Systems Sprint 0: The Silver Bullet of Product Development](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
+- [X] 25/08/2017 - [Design Systems Sprint 1: The Interface Inventory](https://medium.com/@marcintreder/design-systems-sprint-1-the-interface-inventory-1f78d376e49a)
+- [X] 25/08/2017 - [Design Systems Sprint 2: One Color Palette to Rule them All](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
+- [X] 25/08/2017 - [Design Systems Sprint 3: Managing the Basics](https://medium.com/@marcintreder/design-system-sprint-3-managing-the-basics-50ff588cbac8)
+- [X] 25/08/2017 - [Design Systems Sprint 4: Design Principles](https://medium.com/@marcintreder/design-system-sprint-4-design-principles-8efb22d8a208)
+- [X] 25/08/2017 - [Design Systems Sprint 5: Managing Typography](https://medium.com/@marcintreder/design-system-sprint-4-managing-typography-303e335894ee)
+- [X] 25/08/2017 - [Design Systems Sprint 6: The Fastest Icons on Earth](https://medium.com/@marcintreder/design-system-sprint-6-the-fastest-icons-on-earth-bf91c0a47ef9)
 
 ### Typography
 
@@ -330,6 +344,7 @@ Personal goals made open source across computers I use.
 - [X] 23/08/2017 - [Optimización de fuentes web](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization#webfonts_and_the_critical_rendering_path)
 - [X] 23/08/2017 - [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html)
 - [X] 23/08/2017 - [Lazy loading web fonts is probably not what you want](https://www.zachleat.com/web/lazy-loading-webfonts/)
+- [X] 25/08/2017 - [Critial Web Fonts](https://www.zachleat.com/web/critical-webfonts/)
 
 
 ### SVG
