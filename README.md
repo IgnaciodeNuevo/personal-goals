@@ -281,6 +281,7 @@ Personal goals made open source across computers I use.
 - [X] 20/08/2017 - [Why Perceived Performance Matters, Part 2: Perception Management](https://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/)
 - [X] 20/08/2017 - [Why Perceived Performance Matters, Part 3: Tolerance Management](https://www.smashingmagazine.com/2015/12/performance-matters-part-3-tolerance-management/)
 - [X] 25/08/2017 - [A Progressive Roadmap for your Progressive Web App](https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app/)
+- [X] 26/08/2017 - [Responsive Images Audits](https://cloudfour.com/thinks/responsive-images-audits/)
 
 ### a11y
 
