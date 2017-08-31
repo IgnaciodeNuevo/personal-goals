@@ -121,6 +121,7 @@ Personal goals made open source across computers I use.
 - [X] 20/08/2017 - [Lea Verou - CSS Variables: var(--subtitle);](https://www.youtube.com/watch?v=2an6-WVPuJU)
 - [X] 20/08/2017 - [Ire Aderinokun — Progressive Enhancement and CSS](https://vimeo.com/194815985)
 - [X] 23/08/2017 - [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
+- [X] 31/08/2017 - [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
 
 ### CSS Grid Layout
 
@@ -175,6 +176,7 @@ Personal goals made open source across computers I use.
 - [X] 09/08/2017 - [Changes to the Grid Spec and taking on Multi-Column layout](https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/)
 - [X] 12/08/2017 - [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 - [X] 12/08/2017 - [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
+- [X] 31/08/2017 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
 
 ### RWD
 
@@ -225,6 +227,9 @@ Personal goals made open source across computers I use.
 - [X] 23/08/2017 - [Javascript ES7 / ES8 New Features](https://www.youtube.com/watch?v=lAYV1GbI3p4)
 - [X] 23/08/2017 - [¿Angular y React han muerto? ¿Larga vida a Vue?](https://elabismodenull.wordpress.com/2017/08/22/angular-y-react-han-muerto-larga-vida-a-vue/)
 - [X] 25/08/2017 - [Truthy and Falsy: When All is Not Equal in JavaScript](https://www.sitepoint.com/javascript-truthy-falsy/)
+- [X] 31/08/2017 - [Why aren’t you using Prettier?](https://engineering.hexacta.com/why-arent-you-using-prettier-4fe0a77713e8)
+- [X] 31/08/2017 - [Is Vanilla JavaScript worth learning? Absolutely.](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
+- [X] 31/08/2017 - [Understanding Scope in JavaScript](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
 
 ### Angular
 
@@ -330,7 +335,7 @@ Personal goals made open source across computers I use.
 - [X] 14/08/2017 - [The web font loading glossary](https://www.zachleat.com/web/webfont-glossary/)
 - [X] 14/08/2017 - [CSS Poly Fluid Sizing using calc(), vw, breakpoints and linear equations](https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab)
 - [X] 23/08/2017 - [Everything I know about Responsive Web Typography](https://zellwk.com/blog/responsive-typography/)
-- [X] 23/08/2017 - [Fluid font typ](https://inside.runroom.com/fluid-font-type/)
+- [X] 23/08/2017 - [Fluid font type](https://inside.runroom.com/fluid-font-type/)
 - [X] 23/08/2017 - [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)
 - [X] 23/08/2017 - [Design a responsive site with em-based sizing](http://www.creativebloq.com/how-to/design-a-responsive-site-with-em-based-sizing)
 - [X] 23/08/2017 - [More Meaningful Typography](https://alistapart.com/article/more-meaningful-typography)
@@ -399,3 +404,4 @@ Personal goals made open source across computers I use.
 - [X] 14/08/2017 - [What should I learn to be a frontend developer](https://belenalbeza.com/what-should-i-learn-to-be-a-front-end-developer/)
 - [X] 17/08/2017 - [Beating Procrastination](https://zellwk.com/blog/procrastination/)
 - [X] 17/08/2017 - [Increase your web development skill-set: 150 animated tips on Chrome DevTools](https://medium.com/@umaar/increase-your-web-development-skill-set-150-animated-tips-on-chrome-devtools-4a30155e6b8e)
+- [X] 31/08/2017 - [Three Helpful Rules for Junior Devs](https://dev.to/maxwell_dev/three-helpful-rules-for-junior-devs)
