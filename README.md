@@ -294,6 +294,7 @@ Personal goals made open source across computers I use.
 - [X] 20/08/2017 - [Why Perceived Performance Matters, Part 3: Tolerance Management](https://www.smashingmagazine.com/2015/12/performance-matters-part-3-tolerance-management/)
 - [X] 25/08/2017 - [A Progressive Roadmap for your Progressive Web App](https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app/)
 - [X] 26/08/2017 - [Responsive Images Audits](https://cloudfour.com/thinks/responsive-images-audits/)
+- [X] 31/08/2017 - [Managing CSS & JS in an HTTP/2 World](https://www.viget.com/articles/managing-css-js-http-2)
 
 ### a11y
 
@@ -307,6 +308,7 @@ Personal goals made open source across computers I use.
 - [X] 17/08/2017 - [Is online shopping more accessible than health care?](https://axesslab.com/accessibility-shopping-vs-healthcare/)
 - [X] 22/08/2017 - [How icons are ruinning interfaces](https://axesslab.com/icons-ruining-interfaces/)
 - [X] 23/08/2017 - [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
+- [X] 31/08/2017 - [How not to misuse aria states, properties and roles](https://www.levelaccess.com/how-not-to-misuse-aria-states-properties-and-roles/)
 
 ### UX
 
