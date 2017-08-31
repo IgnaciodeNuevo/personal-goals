@@ -177,6 +177,7 @@ Personal goals made open source across computers I use.
 - [X] 12/08/2017 - [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 - [X] 12/08/2017 - [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
 - [X] 31/08/2017 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
+- [X] 31/08/2017 - [The CoffeeCup Guide to liberating layout through CSS Grid](https://cssgrid.cc/)
 
 ### RWD
 
@@ -232,6 +233,10 @@ Personal goals made open source across computers I use.
 - [X] 31/08/2017 - [Understanding Scope in JavaScript](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
 - [X] 31/08/2017 - [Let's code with function composition - Fun Fun Function](https://www.youtube.com/watch?v=VGB9HbL1GHk)
 - [X] 31/08/2017 - [Inversion of Control - Fun Fun Function](https://www.youtube.com/watch?v=-kpEP4JeEdc)
+- [X] 31/08/2017 - [JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)
+- [X] 31/08/2017 - [Understanding Hoisting in JavaScript](https://designingforscale.com/understanding-hoisting-in-javascript/)
+- [X] 31/08/2017 - [How to Create Custom Events in JavaScript](https://www.sitepoint.com/javascript-custom-events/)
+- [X] 31/08/2017 - [The Observer Pattern in JavaScript explained](https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/)
 
 ### Angular
 
