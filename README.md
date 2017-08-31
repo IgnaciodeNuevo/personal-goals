@@ -230,6 +230,8 @@ Personal goals made open source across computers I use.
 - [X] 31/08/2017 - [Why aren’t you using Prettier?](https://engineering.hexacta.com/why-arent-you-using-prettier-4fe0a77713e8)
 - [X] 31/08/2017 - [Is Vanilla JavaScript worth learning? Absolutely.](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
 - [X] 31/08/2017 - [Understanding Scope in JavaScript](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
+- [X] 31/08/2017 - [Let's code with function composition - Fun Fun Function](https://www.youtube.com/watch?v=VGB9HbL1GHk)
+- [X] 31/08/2017 - [Inversion of Control - Fun Fun Function](https://www.youtube.com/watch?v=-kpEP4JeEdc)
 
 ### Angular
 
