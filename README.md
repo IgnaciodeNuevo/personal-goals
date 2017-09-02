@@ -309,6 +309,7 @@ Personal goals made open source across computers I use.
 - [X] 22/08/2017 - [How icons are ruinning interfaces](https://axesslab.com/icons-ruining-interfaces/)
 - [X] 23/08/2017 - [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
 - [X] 31/08/2017 - [How not to misuse aria states, properties and roles](https://www.levelaccess.com/how-not-to-misuse-aria-states-properties-and-roles/)
+- [X] 02/09/2017 - [Fonts don't matter](https://axesslab.com/fonts-dont-matter/)
 
 ### UX
 
@@ -367,6 +368,7 @@ Personal goals made open source across computers I use.
 
 - [X] 17/08/2017 - [SVG can do THAT?!](http://slides.com/sdrasner/svg-can-do-that#/)
 - [X] 25/08/2017 - [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
+- [X] 01/09/2017 - [Front End Center — Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
 
 ### Git
 
