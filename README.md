@@ -122,6 +122,9 @@ Personal goals made open source across computers I use.
 - [X] 20/08/2017 - [Ire Aderinokun — Progressive Enhancement and CSS](https://vimeo.com/194815985)
 - [X] 23/08/2017 - [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
 - [X] 31/08/2017 - [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
+- [X] 06/09/2017 - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
+- [X] 06/09/2017 - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
+- [X] 06/09/2017 - [Designing grids](https://zellwk.com/blog/designing-grids/)
 
 ### CSS Grid Layout
 
@@ -176,13 +179,10 @@ Personal goals made open source across computers I use.
 - [X] 09/08/2017 - [Changes to the Grid Spec and taking on Multi-Column layout](https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/)
 - [X] 12/08/2017 - [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 - [X] 12/08/2017 - [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
-- [X] 31/08/2017 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
-- [X] 31/08/2017 - [The CoffeeCup Guide to liberating layout through CSS Grid](https://cssgrid.cc/)
-
-### RWD
-
 - [X] 23/08/2017 - [Breakpoints: Don’t Box Me In](https://cloudfour.com/thinks/breakpoints-dont-box-me-in/)
 - [X] 23/08/2017 - [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/)
+- [X] 31/08/2017 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
+- [X] 31/08/2017 - [The CoffeeCup Guide to liberating layout through CSS Grid](https://cssgrid.cc/)
 - [X] 06/09/2017 - [Element Queries: the Future of Responsive Web Design](https://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
 
 ### Front-end Architecture
@@ -317,6 +317,8 @@ Personal goals made open source across computers I use.
 - [X] 06/09/2017 - [Floating Labels Are Problematic](https://blog.marvelapp.com/floating-labels-problematic/)
 - [X] 06/09/2017 - [7 solutions for creating more accessible SVGs](http://simplyaccessible.com/article/7-solutions-svgs/)
 - [X] 06/09/2017 - [Best Way to Programmatically Zoom a Web Application](https://css-tricks.com/best-way-programmatically-zoom-web-application/)
+- [X] 06/09/2017 - [Color blind accessibility on the web - Fail and success cases](https://axesslab.com/colorblind-accessibility-web-fail-success-cases/)
+- [X] 06/09/2017 - [Accessible datepickers](https://axesslab.com/accessible-datepickers/))
 
 ### UX
 
