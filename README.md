@@ -426,3 +426,4 @@ Personal goals made open source across computers I use.
 - [X] 17/08/2017 - [Increase your web development skill-set: 150 animated tips on Chrome DevTools](https://medium.com/@umaar/increase-your-web-development-skill-set-150-animated-tips-on-chrome-devtools-4a30155e6b8e)
 - [X] 31/08/2017 - [Three Helpful Rules for Junior Devs](https://dev.to/maxwell_dev/three-helpful-rules-for-junior-devs)
 - [X] 06/09/2017 - [Configuring Jenkins with Github](https://medium.com/dev-blogs/configuring-jenkins-with-github-eef13a5cc9e9)
+- [X] 07/09/2017 - [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3)
