@@ -201,6 +201,7 @@ Personal goals made open source across computers I use.
 - [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 - [ ] [Learning Angular -- egghead.io](http://egghead.io)
 - [ ] [Superhero.js](http://superherojs.com/)
+- [ ] Wes Bos ES6 - (video: 10)
 - [X] 15/11/2016 - [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 - [X] 15/11/2016 - [Emanuel Kluge: Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
 - [X] 25/11/2016 - [Addy Osmani: Object.observe](https://www.youtube.com/watch?v=mfOh-J-9BY0)
@@ -237,6 +238,7 @@ Personal goals made open source across computers I use.
 - [X] 31/08/2017 - [Understanding Hoisting in JavaScript](https://designingforscale.com/understanding-hoisting-in-javascript/)
 - [X] 31/08/2017 - [How to Create Custom Events in JavaScript](https://www.sitepoint.com/javascript-custom-events/)
 - [X] 31/08/2017 - [The Observer Pattern in JavaScript explained](https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/)
+- [X] 05/09/2017 - [Dependency Injection without classes - Fun Fun Function](https://www.youtube.com/watch?v=sD94szvFqGw)
 
 ### Angular
 
