@@ -122,6 +122,9 @@ Personal goals made open source across computers I use.
 - [X] 20/08/2017 - [Ire Aderinokun — Progressive Enhancement and CSS](https://vimeo.com/194815985)
 - [X] 23/08/2017 - [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
 - [X] 31/08/2017 - [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
+- [X] 06/09/2017 - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
+- [X] 06/09/2017 - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
+- [X] 06/09/2017 - [Designing grids](https://zellwk.com/blog/designing-grids/)
 
 ### CSS Grid Layout
 
@@ -176,13 +179,11 @@ Personal goals made open source across computers I use.
 - [X] 09/08/2017 - [Changes to the Grid Spec and taking on Multi-Column layout](https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/)
 - [X] 12/08/2017 - [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 - [X] 12/08/2017 - [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
-- [X] 31/08/2017 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
-- [X] 31/08/2017 - [The CoffeeCup Guide to liberating layout through CSS Grid](https://cssgrid.cc/)
-
-### RWD
-
 - [X] 23/08/2017 - [Breakpoints: Don’t Box Me In](https://cloudfour.com/thinks/breakpoints-dont-box-me-in/)
 - [X] 23/08/2017 - [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/)
+- [X] 31/08/2017 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
+- [X] 31/08/2017 - [The CoffeeCup Guide to liberating layout through CSS Grid](https://cssgrid.cc/)
+- [X] 06/09/2017 - [Element Queries: the Future of Responsive Web Design](https://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
 
 ### Front-end Architecture
 
@@ -239,6 +240,8 @@ Personal goals made open source across computers I use.
 - [X] 31/08/2017 - [How to Create Custom Events in JavaScript](https://www.sitepoint.com/javascript-custom-events/)
 - [X] 31/08/2017 - [The Observer Pattern in JavaScript explained](https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/)
 - [X] 05/09/2017 - [Dependency Injection without classes - Fun Fun Function](https://www.youtube.com/watch?v=sD94szvFqGw)
+- [X] 06/09/2017 - [Awesome functional programming en JavaScript — Spanish version](https://medium.com/@PallasR/awesome-functional-programming-en-javascript-spanish-version-76886466501e)
+- [X] 06/09/2017 - [ES6 Tagged Template Literals](https://medium.freecodecamp.org/es6-tagged-template-literals-48a70ef3ed4d)
 
 ### Angular
 
@@ -312,6 +315,11 @@ Personal goals made open source across computers I use.
 - [X] 23/08/2017 - [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
 - [X] 31/08/2017 - [How not to misuse aria states, properties and roles](https://www.levelaccess.com/how-not-to-misuse-aria-states-properties-and-roles/)
 - [X] 02/09/2017 - [Fonts don't matter](https://axesslab.com/fonts-dont-matter/)
+- [X] 06/09/2017 - [Floating Labels Are Problematic](https://blog.marvelapp.com/floating-labels-problematic/)
+- [X] 06/09/2017 - [7 solutions for creating more accessible SVGs](http://simplyaccessible.com/article/7-solutions-svgs/)
+- [X] 06/09/2017 - [Best Way to Programmatically Zoom a Web Application](https://css-tricks.com/best-way-programmatically-zoom-web-application/)
+- [X] 06/09/2017 - [Color blind accessibility on the web - Fail and success cases](https://axesslab.com/colorblind-accessibility-web-fail-success-cases/)
+- [X] 06/09/2017 - [Accessible datepickers](https://axesslab.com/accessible-datepickers/))
 
 ### UX
 
@@ -418,3 +426,5 @@ Personal goals made open source across computers I use.
 - [X] 17/08/2017 - [Beating Procrastination](https://zellwk.com/blog/procrastination/)
 - [X] 17/08/2017 - [Increase your web development skill-set: 150 animated tips on Chrome DevTools](https://medium.com/@umaar/increase-your-web-development-skill-set-150-animated-tips-on-chrome-devtools-4a30155e6b8e)
 - [X] 31/08/2017 - [Three Helpful Rules for Junior Devs](https://dev.to/maxwell_dev/three-helpful-rules-for-junior-devs)
+- [X] 06/09/2017 - [Configuring Jenkins with Github](https://medium.com/dev-blogs/configuring-jenkins-with-github-eef13a5cc9e9)
+- [X] 07/09/2017 - [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3)
