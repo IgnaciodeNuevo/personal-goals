@@ -242,6 +242,7 @@ Personal goals made open source across computers I use.
 - [X] 05/09/2017 - [Dependency Injection without classes - Fun Fun Function](https://www.youtube.com/watch?v=sD94szvFqGw)
 - [X] 06/09/2017 - [Awesome functional programming en JavaScript — Spanish version](https://medium.com/@PallasR/awesome-functional-programming-en-javascript-spanish-version-76886466501e)
 - [X] 06/09/2017 - [ES6 Tagged Template Literals](https://medium.freecodecamp.org/es6-tagged-template-literals-48a70ef3ed4d)
+- [X] 14/09/2017 - […Si has aprendido JavaScript (ES6) “de oído”](https://www.youtube.com/watch?v=ytpqRmkiAkQ)
 
 ### Angular
 
