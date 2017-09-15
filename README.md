@@ -126,6 +126,10 @@ Personal goals made open source across computers I use.
 - [X] 06/09/2017 - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
 - [X] 06/09/2017 - [Designing grids](https://zellwk.com/blog/designing-grids/)
 
+### CSS Architecture
+
+- [X] 15/09/2017 - [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+
 ### CSS Grid Layout
 
 (*) Must be read
