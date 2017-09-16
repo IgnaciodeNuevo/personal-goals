@@ -247,6 +247,7 @@ Personal goals made open source across computers I use.
 - [X] 06/09/2017 - [Awesome functional programming en JavaScript — Spanish version](https://medium.com/@PallasR/awesome-functional-programming-en-javascript-spanish-version-76886466501e)
 - [X] 06/09/2017 - [ES6 Tagged Template Literals](https://medium.freecodecamp.org/es6-tagged-template-literals-48a70ef3ed4d)
 - [X] 14/09/2017 - […Si has aprendido JavaScript (ES6) “de oído”](https://www.youtube.com/watch?v=ytpqRmkiAkQ)
+- [X] 16/09/2017 - [Introducción a la programación funcional en JavaScript](http://lemoncode.net/lemoncode-blog/2017/9/5/introduccion-programacion-funcional-javascript)
 
 ### Angular
 
@@ -434,3 +435,4 @@ Personal goals made open source across computers I use.
 - [X] 06/09/2017 - [Configuring Jenkins with Github](https://medium.com/dev-blogs/configuring-jenkins-with-github-eef13a5cc9e9)
 - [X] 07/09/2017 - [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3)
 - [X] 11/09/2017 - [Los 7 pecados capitales del programador](http://raulavila.com/2017/09/pecados-capitales-programador/)
+- [X] 15/09/2017 - [En continua formación](http://charlascylon.com/2017-09-13-en-continua-formacion)
