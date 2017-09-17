@@ -115,6 +115,7 @@ Personal goals made open source across computers I use.
 - [X] 31/08/2017 - [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
 - [X] 06/09/2017 - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
 - [X] 06/09/2017 - [Designing grids](https://zellwk.com/blog/designing-grids/)
+- [X] 17/09/2017 - (*) [12 Little-Known CSS Facts](https://www.sitepoint.com/12-little-known-css-facts/?platform=hootsuite)
 
 ### CSS Architecture
 
