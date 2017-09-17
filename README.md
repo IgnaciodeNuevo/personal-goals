@@ -380,8 +380,8 @@ Personal goals made open source across computers I use.
 ### SVG
 
 - [X] 17/08/2017 - [SVG can do THAT?!](http://slides.com/sdrasner/svg-can-do-that#/)
-- [X] 25/08/2017 - [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
-- [X] 01/09/2017 - [Front End Center — Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
+- [X] 25/08/2017 - (*) [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
+- [X] 01/09/2017 - (*) [Front End Center — Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
 
 ### Git
 
@@ -407,6 +407,7 @@ Personal goals made open source across computers I use.
 - [X] 14/08/2017 - [r | p 2012: The Scams That Derail Programming, Motherfucker - Zed Shaw, Creator of Mongrel](https://www.youtube.com/watch?v=c5Xh2Go-jkM)
 - [X] 14/08/2017 - [Palabras malditas](http://www.modestosanjuan.com/palabras-malditas/)
 - [X] 14/08/2017 - [In defence of software craftsmanship](https://medium.com/@d_ir/in-defence-of-software-craftsmanship-f484a0c646bb)
+- [X] 11/09/2017 - (*) [Los 7 pecados capitales del programador](http://raulavila.com/2017/09/pecados-capitales-programador/)
 
 ### Other resources
 
@@ -418,12 +419,12 @@ Personal goals made open source across computers I use.
 - [X] 24/11/2016 - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 - [X] 25/11/2016 - [Susana Morcuende; Yamila Moreno; Jorge Arévalo Los androides no sueñan con ovejas eléctricas](https://www.youtube.com/watch?v=CqqSG83UvfQ)
 - [X] 27/11/2016 - [Luis González - Nadie quiere trabajar contigo en Codemotion 2016](https://www.youtube.com/watch?list=PLKxa4AIfm4pUvMn4lZ8zin500bsp3oL2A&v=T44bgTCxTPg)
-- [X] 25/12/2016 - [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
+- [X] 25/12/2016 - (*) [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
 - [X] 26/07/2017 - [CODE GENIUS - Cascading Shit Show by Jacob Thornton](https://www.youtube.com/watch?v=iniwPUEbPUM)
-- [X] 09/08/2017 - [Code: Debugging the gender gap](http://www.rtve.es/alacarta/videos/otros-documentales/otros-documentales-code-depurar-diferencia-genero/4155591/)
-- [X] 09/08/2017 - [Learning at work](https://jvns.ca/blog/2017/08/06/learning-at-work/)
+- [X] 09/08/2017 - (*) [Code: Debugging the gender gap](http://www.rtve.es/alacarta/videos/otros-documentales/otros-documentales-code-depurar-diferencia-genero/4155591/)
+- [X] 09/08/2017 - (*) [Learning at work](https://jvns.ca/blog/2017/08/06/learning-at-work/)
 - [X] 09/08/2017 - [The best career advice I’ve received](https://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/)
-- [X] 14/08/2017 - [Top developers can have a life outside coding](https://belenalbeza.com/top-developers-can-have-a-life-outside-coding/)
+- [X] 14/08/2017 - (*) [Top developers can have a life outside coding](https://belenalbeza.com/top-developers-can-have-a-life-outside-coding/)
 - [X] 14/08/2017 - [The ethics of unpaid labor and the oss community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 - [X] 14/08/2017 - [What should I learn to be a frontend developer](https://belenalbeza.com/what-should-i-learn-to-be-a-front-end-developer/)
 - [X] 17/08/2017 - [Beating Procrastination](https://zellwk.com/blog/procrastination/)
@@ -431,5 +432,4 @@ Personal goals made open source across computers I use.
 - [X] 31/08/2017 - [Three Helpful Rules for Junior Devs](https://dev.to/maxwell_dev/three-helpful-rules-for-junior-devs)
 - [X] 06/09/2017 - [Configuring Jenkins with Github](https://medium.com/dev-blogs/configuring-jenkins-with-github-eef13a5cc9e9)
 - [X] 07/09/2017 - [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3)
-- [X] 11/09/2017 - [Los 7 pecados capitales del programador](http://raulavila.com/2017/09/pecados-capitales-programador/)
 - [X] 15/09/2017 - [En continua formación](http://charlascylon.com/2017-09-13-en-continua-formacion)
