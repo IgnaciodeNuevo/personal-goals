@@ -248,6 +248,7 @@ Personal goals made open source across computers I use.
 - [X] 06/09/2017 - [ES6 Tagged Template Literals](https://medium.freecodecamp.org/es6-tagged-template-literals-48a70ef3ed4d)
 - [X] 14/09/2017 - […Si has aprendido JavaScript (ES6) “de oído”](https://www.youtube.com/watch?v=ytpqRmkiAkQ)
 - [X] 16/09/2017 - [Introducción a la programación funcional en JavaScript](http://lemoncode.net/lemoncode-blog/2017/9/5/introduccion-programacion-funcional-javascript)
+- [X] 17/09/2017 - [Is there any value in people who cannot write JavaScript?](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)
 
 ### Angular
 
@@ -325,7 +326,8 @@ Personal goals made open source across computers I use.
 - [X] 06/09/2017 - [7 solutions for creating more accessible SVGs](http://simplyaccessible.com/article/7-solutions-svgs/)
 - [X] 06/09/2017 - [Best Way to Programmatically Zoom a Web Application](https://css-tricks.com/best-way-programmatically-zoom-web-application/)
 - [X] 06/09/2017 - [Color blind accessibility on the web - Fail and success cases](https://axesslab.com/colorblind-accessibility-web-fail-success-cases/)
-- [X] 06/09/2017 - [Accessible datepickers](https://axesslab.com/accessible-datepickers/))
+- [X] 06/09/2017 - [Accessible datepickers](https://axesslab.com/accessible-datepickers/)
+- [X] 17/09/2017 - [Skip the WCAG! User test with people with disabilities instead](https://axesslab.com/skip-the-wcag/)
 
 ### UX
 
@@ -353,6 +355,7 @@ Personal goals made open source across computers I use.
 - [X] 25/08/2017 - [Design Systems Sprint 4: Design Principles](https://medium.com/@marcintreder/design-system-sprint-4-design-principles-8efb22d8a208)
 - [X] 25/08/2017 - [Design Systems Sprint 5: Managing Typography](https://medium.com/@marcintreder/design-system-sprint-4-managing-typography-303e335894ee)
 - [X] 25/08/2017 - [Design Systems Sprint 6: The Fastest Icons on Earth](https://medium.com/@marcintreder/design-system-sprint-6-the-fastest-icons-on-earth-bf91c0a47ef9)
+- [X] 17/09/2017 - [Removing the White Bars in Safari on iPhone X](http://stephenradford.me/removing-the-white-bars-in-safari-on-iphone-x/)
 
 ### Typography
 
