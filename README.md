@@ -5,6 +5,8 @@ Personal goals made open source across computers I use.
 # Overarching Goals for 2017:
 1. JavaScript!
 
+## (*) Must read
+
 ### Projects
 
 - [X] [WeCodeSign Podcast's Website](http://wecodesignpodcast.com/)
@@ -13,21 +15,21 @@ Personal goals made open source across computers I use.
 
 ### Books
 
+- [X] - (*) [Designing for Performance](http://designingforperformance.com)
+- [X] - (*) [Mobile First](https://abookapart.com/products/mobile-first)
+- [X] - (*) [SMACSS](https://smacss.com)
+- [X] - (*) [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
 - [X] [Best of 9 Smashing years](https://shop.smashingmagazine.com/products/best-of-nine-smashing-years)
 - [X] [Colour Accesibility](https://www.fivesimplesteps.com/products/colour-accessibility)
 - [X] [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
 - [X] [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
 - [X] [Design is a Job](https://abookapart.com/products/design-is-a-job)
-- [X] [Designing for Performance](http://designingforperformance.com)
 - [X] [Front-end Style Guides](http://maban.co.uk/projects/front-end-style-guides)
 - [X] [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers)
-- [X] [Mobile First](https://abookapart.com/products/mobile-first)
 - [X] [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
 - [X] [Responsive Web Design](https://abookapart.com/products/responsive-web-design)
 - [X] [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
-- [X] [SMACSS](https://smacss.com)
 - [X] [Smashing Book 5](https://shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design)
-- [X] [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
 - [X] [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
 - [X] [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
@@ -60,59 +62,48 @@ Personal goals made open source across computers I use.
 
 - [X] 01/01/2016 - [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 - [X] 01/11/2016 - [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
-- [X] 02/11/2016 - [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
+- [X] 02/11/2016 - (*) [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
 - [X] 03/11/2016 - [Lessons Learned From Building Your Own CSS FrameworkN](https://www.youtube.com/watch?v=QOVNb-DzZdA&feature=youtu.be)
-- [X] 23/11/2016 - [Manage large CSS projects with ITCSS](https://www.youtube.com/watch?v=hz76JIU_xB0)
-- [X] 24/11/2016 - [Managing CSS Projects with ITCSS](https://www.youtube.com/watch?v=1OKZOV-iLj4)
 - [X] 30/11/2016 - [Lourdes Montano - Methods to Organize Your Learning Process in CSS - CascadiaFest 2016](https://www.youtube.com/watch?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe&v=IwMDKB27_ko)
 - [X] 06/12/2016 - [CSS Tips and Tricks #1 - CSS-only Christmas Lights](https://www.youtube.com/watch?v=B9OZkATMbag)
-- [X] 02/12/2016 - ["Real Art Direction on the Web" - View Source Conference talk by Jen Simmons](https://www.youtube.com/watch?v=5Z7lSSMwRgo&index=12&list=PLo3w8EB99pqJBRZU8kUrtoznwE-yyT2Yh)
+- [X] 02/12/2016 - (*) ["Real Art Direction on the Web" - View Source Conference talk by Jen Simmons](https://www.youtube.com/watch?v=5Z7lSSMwRgo&index=12&list=PLo3w8EB99pqJBRZU8kUrtoznwE-yyT2Yh)
 - [X] 31/12/2016 - [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 - [X] 01/11/2016 - [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
 - [X] 27/05/2017 - [A Chinese typography experiment - Talk.CSS](https://www.youtube.com/watch?v=tTV60oAk6Cs)
 - [X] 27/05/2017 - [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
 - [X] 27/05/2017 - [Becoming Responsible for CSS](https://www.youtube.com/watch?v=uHDhtRyDR60)
-- [X] 27/05/2017 - [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
+- [X] 27/05/2017 - (*) Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 - [X] 19/06/2017 - [CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
-- [X] 19/06/2017 - [Responsive Typography Scales in CSS](https://blog.madewithenvy.com/responsive-typographic-scales-in-css-b9f60431d1c4)
 - [X] 27/06/2017 - [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=kbGYPm9uYfk)
 - [X] 08/07/2017 - [CSS vs. JavaScript: Trust vs. Control](https://christianheilmann.com/2017/06/21/css-vs-javascript-trust-vs-control/)
 - [X] 08/07/2017 - [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/#💁)
-- [X] 08/07/2017 - [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
 - [X] 08/07/2017 - [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css)
 - [X] 08/07/2017 - [Build a Style Guide Straight from Sass](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/)
 - [X] 08/07/2017 - [Handling Long and Unexpected Content in CSS](https://css-tricks.com/handling-long-unexpected-content-css/)
 - [X] 11/07/2017 - [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
 - [X] 11/07/2017 - [Did CSS get more complicated since the late nineties?](https://hiddedevries.nl/en/blog/2017-07-03-did-css-get-more-complicated-since-the-late-nineties)
 - [X] 11/07/2017 - [Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/)
-- [X] 11/07/2017 - [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
+- [X] 11/07/2017 - (*) [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
 - [X] 11/07/2017 - [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
 - [X] 18/07/2017 - [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
 - [X] 29/07/2017 - [Building a responsive timeline in CSS with Sass and BEM](https://assortment.io/posts/building-responsive-timelines-in-css-sass-bem)
-- [X] 26/07/2017 - [Refactoring Legacy CSS](https://www.youtube.com/watch?v=nCPAFcMf8qc)
-- [X] 26/07/2017 - [Organizing CSS with OOCSS, SMACSS, and BEM](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
+- [X] 26/07/2017 - (*) [Refactoring Legacy CSS](https://www.youtube.com/watch?v=nCPAFcMf8qc)
 - [X] 26/07/2017 - [ALAN MOOIMAN CSS is dead, long live CSS | CascadiaFest 2015](https://www.youtube.com/watch?v=jWDZP8twWDg)
 - [X] 26/07/2017 - [Stephanie Hobson - Flipping Tables Displaying Data on Small Screens - CascadiaFest 2016](https://www.youtube.com/watch?v=bGlULfoY6Ls)
 - [X] 28/07/2017 - [The Power of CSS – Una Kravets / Front-Trends 2017](https://www.youtube.com/watch?v=IRI1H5tyEAo)
 - [X] 30/07/2017 - [Writing the Correct CSS Once is Pretty Easy](https://micahgodbolt.com/blog/writing-the-correct-css-once-is-pretty-easy-all-situations/)
 - [X] 30/07/2017 - [What’s happening in CSS?](https://rachelandrew.co.uk/archives/2017/05/01/whats-happening-in-css/)
-- [X] 31/07/2017 - [Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8)
 - [X] 31/07/2017 - [5 CSS Properties That You Probably Don’t Know](http://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/)
 - [X] 31/07/2017 - [Susy 3](https://medium.com/oddbird-web/welcome-to-susy3-a0127e594b53)
 - [X] 31/07/2017 - [Advanced SCSS](https://gist.github.com/jareware/4738651)
 - [X] 31/07/2017 - [Using viewport units to scale fixed layouts](https://hackernoon.com/using-viewport-units-to-scale-fixed-layouts-869638bb91f9)
 - [X] 31/07/2017 - [Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
-- [X] 31/07/2017 - [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/https://css-tricks.com/the-sass-ampersand/)
+- [X] 31/07/2017 - [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/)
 - [X] 01/08/2017 - [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
 - [X] 01/08/2017 - [Eric Portis on Contain Your Excitement](https://vimeo.com/223432117)
-- [X] 01/08/2017 - [Breaking Good Habits - Harry Roberts](https://vimeo.com/44773888)
-- [X] 01/08/2017 - [SmashingConf Freiburg: CSS For Software Engineers For CSS Developers](https://vimeo.com/140641366)
 - [X] 02/08/2017 - [Automating CSS Regression Testing - Joan León #scbcn16](https://www.youtube.com/watch?v=4B0lUJn9XsY)
-- [X] 02/08/2017 - [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
-- [X] 02/08/2017 - [Code Smells in CSS Revisited](https://csswizardry.com/2017/02/code-smells-in-css-revisited/)
+- [X] 02/08/2017 - (*) [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
 - [X] 02/08/2017 - [Fix 90% of Your Problems With Susy by Getting This One Concept Right](https://zellwk.com/blog/context-with-susy/)
-- [X] 02/08/2017 - [When to use @extend; when to use a mixin](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
-- [X] 02/08/2017 - [Extending silent classes in Sass](https://csswizardry.com/2014/01/extending-silent-classes-in-sass/)
 - [X] 11/08/2017 - [Razvan Caliman (Adobe) - CSS for decoration / infoShare 2016](https://www.youtube.com/watch?v=WupAsZGHDcY)
 - [X] 12/08/2017 - [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/)
 - [X] 15/08/2017 - [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/)
@@ -123,16 +114,24 @@ Personal goals made open source across computers I use.
 - [X] 23/08/2017 - [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
 - [X] 31/08/2017 - [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
 - [X] 06/09/2017 - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
-- [X] 06/09/2017 - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
 - [X] 06/09/2017 - [Designing grids](https://zellwk.com/blog/designing-grids/)
 
 ### CSS Architecture
 
-- [X] 15/09/2017 - [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+- [X] 23/11/2016 - [Manage large CSS projects with ITCSS](https://www.youtube.com/watch?v=hz76JIU_xB0)
+- [X] 24/11/2016 - (*) [Managing CSS Projects with ITCSS](https://www.youtube.com/watch?v=1OKZOV-iLj4)
+- [X] 26/07/2017 - (*) [Organizing CSS with OOCSS, SMACSS, and BEM](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
+- [X] 01/08/2017 - [Breaking Good Habits - Harry Roberts](https://vimeo.com/44773888)
+- [X] 01/08/2017 - [SmashingConf Freiburg: CSS For Software Engineers For CSS Developers](https://vimeo.com/140641366)
+- [X] 02/08/2017 - (*) [Extending silent classes in Sass](https://csswizardry.com/2014/01/extending-silent-classes-in-sass/)
+- [X] 02/08/2017 - (*) [When to use @extend; when to use a mixin](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
+- [X] 02/08/2017 - (*) [Code Smells in CSS Revisited](https://csswizardry.com/2017/02/code-smells-in-css-revisited/)
+- [X] 23/08/2017 - (*) [BEMIT: Taking the BEM Naming Convention a Step Further](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+- [X] 23/08/2017 - (*) [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
+- [X] 15/09/2017 - (*) [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+- [X] 17/09/2017 - [CSS in JS is like replacing a broken screwdriver with your favorite hammer](https://zendev.com/2017/09/11/css-in-js.html)
 
 ### CSS Grid Layout
-
-(*) Must be read
 
 - [X] 27/05/2017 - (*) [CSS Grid Layout Module Level 1 Specification](https://www.w3.org/TR/css-grid-1/)
 - [X] 27/05/2017 - (*) [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
@@ -188,11 +187,6 @@ Personal goals made open source across computers I use.
 - [X] 31/08/2017 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
 - [X] 31/08/2017 - [The CoffeeCup Guide to liberating layout through CSS Grid](https://cssgrid.cc/)
 - [X] 06/09/2017 - [Element Queries: the Future of Responsive Web Design](https://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
-
-### Front-end Architecture
-
-- [X] 23/08/2017 - [BEMIT: Taking the BEM Naming Convention a Step Further](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
-- [X] 23/08/2017 - [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
 
 ### JavaScript
 
@@ -359,6 +353,8 @@ Personal goals made open source across computers I use.
 
 ### Typography
 
+- [X] 19/06/2017 - [Responsive Typography Scales in CSS](https://blog.madewithenvy.com/responsive-typographic-scales-in-css-b9f60431d1c4)
+- [X] 31/07/2017 - (*) [Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8)
 - [X] 01/08/2017 - [The Equilateral Triangle of a Perfect Paragraph](https://css-tricks.com/equilateral-triangle-perfect-paragraph/)
 - [X] 12/08/2017 - [If you really dislike FOUT, `font-display: optional` might be your jam](https://css-tricks.com/really-dislike-fout-font-display-optional-might-jam/)
 - [X] 14/08/2017 - [The web font loading glossary](https://www.zachleat.com/web/webfont-glossary/)
