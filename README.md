@@ -188,6 +188,7 @@ Personal goals made open source across computers I use.
 - [X] 31/08/2017 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
 - [X] 31/08/2017 - [The CoffeeCup Guide to liberating layout through CSS Grid](https://cssgrid.cc/)
 - [X] 06/09/2017 - [Element Queries: the Future of Responsive Web Design](https://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
+- [X] 19/09/2017 - [Web truths: CSS is not real programming](https://christianheilmann.com/2017/09/19/web-truths-css-is-not-real-programming/)
 
 ### JavaScript
 
