@@ -244,6 +244,7 @@ Personal goals made open source across computers I use.
 - [X] 14/09/2017 - […Si has aprendido JavaScript (ES6) “de oído”](https://www.youtube.com/watch?v=ytpqRmkiAkQ)
 - [X] 16/09/2017 - [Introducción a la programación funcional en JavaScript](http://lemoncode.net/lemoncode-blog/2017/9/5/introduccion-programacion-funcional-javascript)
 - [X] 17/09/2017 - [Is there any value in people who cannot write JavaScript?](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)
+- [X] 23/09/2017 - [JavaScript development is not fun for me anymore](https://medium.com/@paulvm/javascript-development-is-not-fun-for-me-anymore-ac4e9d7b89a3)
 
 ### Angular
 
