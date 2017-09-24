@@ -390,6 +390,7 @@ Personal goals made open source across computers I use.
 
 - [X] 30/07/2017 - [Comandos de Git: Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
 - [X] 08/08/2017 - [Squash your commits with git rebase](https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase)
+- [X] 24/09/2017 - [When to make a Git Commit](https://dev.to/gonedark/when-to-make-a-git-commit)
 
 ### Jekyll
 
