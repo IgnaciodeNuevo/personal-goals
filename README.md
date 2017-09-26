@@ -323,6 +323,7 @@ Personal goals made open source across computers I use.
 - [X] 06/09/2017 - [Color blind accessibility on the web - Fail and success cases](https://axesslab.com/colorblind-accessibility-web-fail-success-cases/)
 - [X] 06/09/2017 - [Accessible datepickers](https://axesslab.com/accessible-datepickers/)
 - [X] 17/09/2017 - [Skip the WCAG! User test with people with disabilities instead](https://axesslab.com/skip-the-wcag/)
+- [X] 26/09/2017 - [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
 
 ### UX
 
