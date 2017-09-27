@@ -324,6 +324,7 @@ Personal goals made open source across computers I use.
 - [X] 06/09/2017 - [Accessible datepickers](https://axesslab.com/accessible-datepickers/)
 - [X] 17/09/2017 - [Skip the WCAG! User test with people with disabilities instead](https://axesslab.com/skip-the-wcag/)
 - [X] 26/09/2017 - [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
+- [X] 27/09/2017 - [Building Inclusive Toggle Buttons](https://www.smashingmagazine.com/2017/09/building-inclusive-toggle-buttons/)
 
 ### UX
 
@@ -386,6 +387,7 @@ Personal goals made open source across computers I use.
 - [X] 17/08/2017 - [SVG can do THAT?!](http://slides.com/sdrasner/svg-can-do-that#/)
 - [X] 25/08/2017 - (*) [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
 - [X] 01/09/2017 - (*) [Front End Center — Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
+- [X] 27/09/2017 - [Using SVG clip-path to change a logo's colour on scroll](https://eduardoboucas.com/blog/2017/09/25/svg-clip-path-logo-colour.html)
 
 ### Git
 
