@@ -189,6 +189,8 @@ Personal goals made open source across computers I use.
 - [X] 31/08/2017 - [The CoffeeCup Guide to liberating layout through CSS Grid](https://cssgrid.cc/)
 - [X] 06/09/2017 - [Element Queries: the Future of Responsive Web Design](https://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
 - [X] 19/09/2017 - [Web truths: CSS is not real programming](https://christianheilmann.com/2017/09/19/web-truths-css-is-not-real-programming/)
+- [X] 27/09/2017 - (*) [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
+- [X] 27/09/2017 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 
 ### JavaScript
 
@@ -245,6 +247,7 @@ Personal goals made open source across computers I use.
 - [X] 16/09/2017 - [Introducción a la programación funcional en JavaScript](http://lemoncode.net/lemoncode-blog/2017/9/5/introduccion-programacion-funcional-javascript)
 - [X] 17/09/2017 - [Is there any value in people who cannot write JavaScript?](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)
 - [X] 23/09/2017 - [JavaScript development is not fun for me anymore](https://medium.com/@paulvm/javascript-development-is-not-fun-for-me-anymore-ac4e9d7b89a3)
+- [X] 27/09/2017 - [Steps to better code](https://dev.to/isaacandsuch/steps-to-better-code)
 
 ### Angular
 
