@@ -248,6 +248,8 @@ Personal goals made open source across computers I use.
 - [X] 17/09/2017 - [Is there any value in people who cannot write JavaScript?](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)
 - [X] 23/09/2017 - [JavaScript development is not fun for me anymore](https://medium.com/@paulvm/javascript-development-is-not-fun-for-me-anymore-ac4e9d7b89a3)
 - [X] 27/09/2017 - [Steps to better code](https://dev.to/isaacandsuch/steps-to-better-code)
+- [X] 27/09/2017 - [Object-Oriented Programming With JavaScript](https://code.tutsplus.com/articles/Object-Oriented-Programming-JavaScript--cms-29256)
+- [X] 27/09/2017 - [Top 10 ES6 features by example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
 
 ### Angular
 
@@ -328,6 +330,7 @@ Personal goals made open source across computers I use.
 - [X] 17/09/2017 - [Skip the WCAG! User test with people with disabilities instead](https://axesslab.com/skip-the-wcag/)
 - [X] 26/09/2017 - [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
 - [X] 27/09/2017 - [Building Inclusive Toggle Buttons](https://www.smashingmagazine.com/2017/09/building-inclusive-toggle-buttons/)
+- [X] 27/09/2017 - [Writing CSS with Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
 
 ### UX
 
