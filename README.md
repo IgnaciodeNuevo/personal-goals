@@ -191,6 +191,7 @@ Personal goals made open source across computers I use.
 - [X] 19/09/2017 - [Web truths: CSS is not real programming](https://christianheilmann.com/2017/09/19/web-truths-css-is-not-real-programming/)
 - [X] 27/09/2017 - (*) [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 - [X] 27/09/2017 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
+- [X] 29/09/2017 - [CSS Grid Layout](https://www.youtube.com/watch?v=AxVXpS6PyRE)
 
 ### JavaScript
 
