@@ -251,6 +251,7 @@ Personal goals made open source across computers I use.
 - [X] 27/09/2017 - [Steps to better code](https://dev.to/isaacandsuch/steps-to-better-code)
 - [X] 27/09/2017 - [Object-Oriented Programming With JavaScript](https://code.tutsplus.com/articles/Object-Oriented-Programming-JavaScript--cms-29256)
 - [X] 27/09/2017 - [Top 10 ES6 features by example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
+- [X] 30/09/2017 - [When 'not' to use arrow functions](https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript)
 
 ### Angular
 
