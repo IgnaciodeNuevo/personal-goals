@@ -58,6 +58,10 @@ Personal goals made open source across computers I use.
 - [ ] FreeCodeCamp
 - [ ] You don't know JavaScript
 
+### HTML
+
+- [X] 02/10/2017 - [I’ve seen the future, it’s full of HTML.](https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210)
+
 ### Advanced CSS and Sass
 
 - [X] 01/01/2016 - [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
@@ -115,7 +119,8 @@ Personal goals made open source across computers I use.
 - [X] 31/08/2017 - [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
 - [X] 06/09/2017 - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
 - [X] 06/09/2017 - [Designing grids](https://zellwk.com/blog/designing-grids/)
-- [X] 17/09/2017 - (*) [12 Little-Known CSS Facts](https://www.sitepoint.com/12-little-known-css-facts/?platform=hootsuite)
+- [X] 17/09/2017 - (*) [12 Little-Known CSS Facts](https://www.sitepoint.com/12-little-known-css-facts/)
+- [X] 02/10/2017 - [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/)
 
 ### CSS Architecture
 
@@ -333,10 +338,12 @@ Personal goals made open source across computers I use.
 - [X] 26/09/2017 - [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
 - [X] 27/09/2017 - [Building Inclusive Toggle Buttons](https://www.smashingmagazine.com/2017/09/building-inclusive-toggle-buttons/)
 - [X] 27/09/2017 - [Writing CSS with Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
+- [X] 02/10/2017 - [CSS al rescate: UX y Formularios](https://octuweb.com/css-al-rescate-ux-formularios/)
 
 ### UX
 
 - [X] 24/08/2017 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
+- [X] 02/10/2017 - [Charming interfaces – make your users smile](https://axesslab.com/humor/)
 
 ### Design
 
