@@ -257,6 +257,7 @@ Personal goals made open source across computers I use.
 - [X] 27/09/2017 - [Object-Oriented Programming With JavaScript](https://code.tutsplus.com/articles/Object-Oriented-Programming-JavaScript--cms-29256)
 - [X] 27/09/2017 - [Top 10 ES6 features by example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
 - [X] 30/09/2017 - [When 'not' to use arrow functions](https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript)
+- [X] 07/10/2017 - [ES8 was Released and here are its Main New Features ?](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66)
 
 ### Angular
 
