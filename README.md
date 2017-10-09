@@ -123,6 +123,7 @@ Personal goals made open source across computers I use.
 - [X] 02/10/2017 - [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/)
 - [X] 09/10/2017 - [En defensa del noble oficio de maquetador](https://octuweb.com/defensa-noble-oficio-maquetador/)
 - [X] 09/10/2017 - [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
+- [X] 09/10/2017 - [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
 
 ### CSS Architecture
 
@@ -401,6 +402,7 @@ Personal goals made open source across computers I use.
 - [X] 25/08/2017 - [Critial Web Fonts](https://www.zachleat.com/web/critical-webfonts/)
 - [X] 25/08/2017 - [The web fonts preloaded](https://www.zachleat.com/web/preload/)
 - [X] 09/10/2017 - [Typography that sacred cow](https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70)
+- [X] 09/10/2017 - [Keeping track of letter-spacing, some guidelines](https://css-tricks.com/keeping-track-letter-spacing-guidelines/)
 
 ### SVG
 
