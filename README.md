@@ -319,6 +319,7 @@ Personal goals made open source across computers I use.
 - [X] 25/08/2017 - [A Progressive Roadmap for your Progressive Web App](https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app/)
 - [X] 26/08/2017 - [Responsive Images Audits](https://cloudfour.com/thinks/responsive-images-audits/)
 - [X] 31/08/2017 - [Managing CSS & JS in an HTTP/2 World](https://www.viget.com/articles/managing-css-js-http-2)
+- [X] 09/10/2017 - [Front End Center — Caching & CDN](shttps://www.youtube.com/watch?v=_QeNLrkPvdI)
 
 ### a11y
 
