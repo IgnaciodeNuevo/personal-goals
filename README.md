@@ -121,6 +121,8 @@ Personal goals made open source across computers I use.
 - [X] 06/09/2017 - [Designing grids](https://zellwk.com/blog/designing-grids/)
 - [X] 17/09/2017 - (*) [12 Little-Known CSS Facts](https://www.sitepoint.com/12-little-known-css-facts/)
 - [X] 02/10/2017 - [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/)
+- [X] 09/10/2017 - [En defensa del noble oficio de maquetador](https://octuweb.com/defensa-noble-oficio-maquetador/)
+- [X] 09/10/2017 - [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
 
 ### CSS Architecture
 
@@ -397,7 +399,7 @@ Personal goals made open source across computers I use.
 - [X] 23/08/2017 - [Lazy loading web fonts is probably not what you want](https://www.zachleat.com/web/lazy-loading-webfonts/)
 - [X] 25/08/2017 - [Critial Web Fonts](https://www.zachleat.com/web/critical-webfonts/)
 - [X] 25/08/2017 - [The web fonts preloaded](https://www.zachleat.com/web/preload/)
-
+- [X] 09/10/2017 - [Typography that sacred cow](https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70)
 
 ### SVG
 
