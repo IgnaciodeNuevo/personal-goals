@@ -124,6 +124,7 @@ Personal goals made open source across computers I use.
 - [X] 09/10/2017 - [En defensa del noble oficio de maquetador](https://octuweb.com/defensa-noble-oficio-maquetador/)
 - [X] 09/10/2017 - [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
 - [X] 09/10/2017 - [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
+- [X] 11/10/2017 - [Aspect Ratio Hack: Micro Tip #17 - Supercharged](https://www.youtube.com/watch?v=ht5oFxpADt4)
 
 ### CSS Architecture
 
