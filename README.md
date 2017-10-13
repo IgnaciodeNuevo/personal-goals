@@ -426,6 +426,11 @@ Personal goals made open source across computers I use.
 
 - [X] 13/10/2017 - [La línea de comandos es el futuro](https://octuweb.com/la-linea-comandos-es-el-futuro/)
 
+### DevTools
+
+- [X] 13/10/2017 - [Modern DevTools: Running a performance profile on the YouTube search box
+](https://www.youtube.com/watch?v=E4KAWf_fKbM)
+
 ### Jekyll
 
 - [X] 31/12/2016 - [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
