@@ -142,6 +142,7 @@ Personal goals made open source across computers I use.
 - [X] 15/09/2017 - (*) [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 - [X] 17/09/2017 - [CSS in JS is like replacing a broken screwdriver with your favorite hammer](https://zendev.com/2017/09/11/css-in-js.html)
 - [X] 13/10/2017 - [Tomando decisiones para estructurar los componentes en CSS](http://blog.ckgrafico.com/tomando-decisiones-estructurar-los-componentes-css/)
+- [X] 13/10/2017 - [Refactorizar: Welcome to the CSS jungle](https://octuweb.com/refactorizar-welcome-the-css-jungle/)
 
 ### CSS Grid Layout
 
