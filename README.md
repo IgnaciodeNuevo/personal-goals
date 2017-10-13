@@ -125,6 +125,7 @@ Personal goals made open source across computers I use.
 - [X] 09/10/2017 - [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
 - [X] 09/10/2017 - [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
 - [X] 11/10/2017 - [Aspect Ratio Hack: Micro Tip #17 - Supercharged](https://www.youtube.com/watch?v=ht5oFxpADt4)
+- [X] 13/10/2017 - [Use a Sass Variable for a Selector](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
 
 ### CSS Architecture
 
@@ -140,6 +141,7 @@ Personal goals made open source across computers I use.
 - [X] 23/08/2017 - (*) [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
 - [X] 15/09/2017 - (*) [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 - [X] 17/09/2017 - [CSS in JS is like replacing a broken screwdriver with your favorite hammer](https://zendev.com/2017/09/11/css-in-js.html)
+- [X] 13/10/2017 - [Tomando decisiones para estructurar los componentes en CSS](http://blog.ckgrafico.com/tomando-decisiones-estructurar-los-componentes-css/)
 
 ### CSS Grid Layout
 
@@ -376,6 +378,7 @@ Personal goals made open source across computers I use.
 - [X] 25/08/2017 - [Design Systems Sprint 5: Managing Typography](https://medium.com/@marcintreder/design-system-sprint-4-managing-typography-303e335894ee)
 - [X] 25/08/2017 - [Design Systems Sprint 6: The Fastest Icons on Earth](https://medium.com/@marcintreder/design-system-sprint-6-the-fastest-icons-on-earth-bf91c0a47ef9)
 - [X] 17/09/2017 - [Removing the White Bars in Safari on iPhone X](http://stephenradford.me/removing-the-white-bars-in-safari-on-iphone-x/)
+- [X] 17/09/2017 - [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6)
 
 ### Typography
 
@@ -405,6 +408,7 @@ Personal goals made open source across computers I use.
 - [X] 25/08/2017 - [The web fonts preloaded](https://www.zachleat.com/web/preload/)
 - [X] 09/10/2017 - [Typography that sacred cow](https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70)
 - [X] 09/10/2017 - [Keeping track of letter-spacing, some guidelines](https://css-tricks.com/keeping-track-letter-spacing-guidelines/)
+- [X] 13/10/2017 - [8-Point Grid: Vertical Rhythm](https://builttoadapt.io/8-point-grid-vertical-rhythm-90d05ad95032)
 
 ### SVG
 
@@ -418,6 +422,10 @@ Personal goals made open source across computers I use.
 - [X] 30/07/2017 - [Comandos de Git: Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
 - [X] 08/08/2017 - [Squash your commits with git rebase](https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase)
 - [X] 24/09/2017 - [When to make a Git Commit](https://dev.to/gonedark/when-to-make-a-git-commit)
+
+### Command Line
+
+- [X] 13/10/2017 - [La línea de comandos es el futuro](https://octuweb.com/la-linea-comandos-es-el-futuro/)
 
 ### Jekyll
 
