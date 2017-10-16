@@ -388,7 +388,7 @@ Personal goals made open source across computers I use.
 - [X] 14/08/2017 - [The web font loading glossary](https://www.zachleat.com/web/webfont-glossary/)
 - [X] 14/08/2017 - [CSS Poly Fluid Sizing using calc(), vw, breakpoints and linear equations](https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab)
 - [X] 23/08/2017 - (*) [Everything I know about Responsive Web Typography](https://zellwk.com/blog/responsive-typography/)
-- [X] 23/08/2017 - (*) Fluid font type](https://inside.runroom.com/fluid-font-type/)
+- [X] 23/08/2017 - (*) [Fluid font type](https://inside.runroom.com/fluid-font-type/)
 - [X] 23/08/2017 - [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)
 - [X] 23/08/2017 - [Design a responsive site with em-based sizing](http://www.creativebloq.com/how-to/design-a-responsive-site-with-em-based-sizing)
 - [X] 23/08/2017 - (*) [More Meaningful Typography](https://alistapart.com/article/more-meaningful-typography)
