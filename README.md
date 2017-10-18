@@ -349,6 +349,7 @@ Personal goals made open source across computers I use.
 - [X] 02/10/2017 - [CSS al rescate: UX y Formularios](https://octuweb.com/css-al-rescate-ux-formularios/)
 - [X] 12/10/2017 - [How to Ensure Accessibility for Every Online Audience](http://mangomattermedia.com/web-design/ensure-accessibility-every-online-audience/)
 - [X] 18/10/2017 - [Usability and Accessibility](https://medium.com/@myplanet/usability-and-accessibility-213c3185314f)
+- [X] 18/10/2017 - (*) [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
 
 ### UX
 
