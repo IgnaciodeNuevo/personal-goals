@@ -348,6 +348,7 @@ Personal goals made open source across computers I use.
 - [X] 27/09/2017 - [Writing CSS with Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
 - [X] 02/10/2017 - [CSS al rescate: UX y Formularios](https://octuweb.com/css-al-rescate-ux-formularios/)
 - [X] 12/10/2017 - [How to Ensure Accessibility for Every Online Audience](http://mangomattermedia.com/web-design/ensure-accessibility-every-online-audience/)
+- [X] 18/10/2017 - [Usability and Accessibility](https://medium.com/@myplanet/usability-and-accessibility-213c3185314f)
 
 ### UX
 
