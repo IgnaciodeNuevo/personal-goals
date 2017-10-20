@@ -7,6 +7,36 @@ Personal goals made open source across computers I use.
 
 ## (*) Must read
 
+
+## Index
+
+1. [Projects](#projects)
+1. [Books](#books)
+1. [Things I'll do in the future:](#things-ill-do-in-the-future)
+1. [HTML](#html)
+1. [Advanced CSS and Sass](#advanced-css-and-sass)
+1. [CSS Grid Layout](#css-grid-layout)
+1. [Multi Column Layout](#multi-column-layout)
+1. [CSS Architecture](#css-architecture)
+1. [Refactoring CSS](#refactoring-css)
+1. [a11y](#a11y)
+1. [Perf](#perf)
+1. [Typography](#typography)
+1. [Design](#design)
+1. [SVG](#svg)
+1. [UX](#ux)
+1. [JavaScript](#javascript)
+1. [Angular](#angular)
+1. [React](#react)
+1. [Vue](#vue)
+1. [Git](#git)
+1. [Command Line](#command-line)
+1. [DevTools](#devtools)
+1. [Jekyll](#jekyll)
+1. [Testing](#testing)
+1. [Software Crafting](#software-crafting)
+1. [Other resources](#other-resources)
+
 ### Projects
 
 - [X] [WeCodeSign Podcast's Website](http://wecodesignpodcast.com/)
@@ -459,7 +489,7 @@ Personal goals made open source across computers I use.
 
 - [X] 18/08/2017 - [TW Hangouts | Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo)
 
-### Software Craftship
+### Software Crafting
 
 - [X] 09/08/2017 - [Eduardo Ferro - El patadón pa'lante. Posponer decisiones en CAS Vitoria 2016](https://www.youtube.com/watch?v=vEr2xbNoUxM)
 - [X] 13/08/2017 - [Antonio de la Torre - Comunidades de necesidad vs comunidades de soluciones en CAS Vitoria 2016](https://www.youtube.com/watch?v=jzV7pMshyic)
