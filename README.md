@@ -190,6 +190,10 @@ Personal goals made open source across computers I use.
 - [X] 27/09/2017 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [X] 29/09/2017 - [CSS Grid Layout](https://www.youtube.com/watch?v=AxVXpS6PyRE)
 
+### Multi Column Layout
+
+- [X] 20/10/2017 - (*) [Exploring Multi-Column Layouts in CSS](https://alligator.io/css/multi-column-layouts/)
+
 ### CSS Architecture
 
 - [X] 23/11/2016 - [Manage large CSS projects with ITCSS](https://www.youtube.com/watch?v=hz76JIU_xB0)
@@ -206,6 +210,11 @@ Personal goals made open source across computers I use.
 - [X] 17/09/2017 - [CSS in JS is like replacing a broken screwdriver with your favorite hammer](https://zendev.com/2017/09/11/css-in-js.html)
 - [X] 13/10/2017 - [Tomando decisiones para estructurar los componentes en CSS](http://blog.ckgrafico.com/tomando-decisiones-estructurar-los-componentes-css/)
 - [X] 13/10/2017 - [Refactorizar: Welcome to the CSS jungle](https://octuweb.com/refactorizar-welcome-the-css-jungle/)
+
+### Refactoring CSS
+
+- [X] 20/10/2017 - [Are you writing legacy CSS code?](https://tinnedfruit.com/articles/are-you-writing-legacy-css-code.html)
+- [X] 20/10/2017 - [5 Tips for Starting a Front-End Refactor]https://css-tricks.com/5-tips-starting-front-end-refactor/)
 
 ### a11y
 
@@ -311,6 +320,7 @@ Personal goals made open source across computers I use.
 - [X] 17/09/2017 - [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6)
 - [X] 18/09/2017 - [000 ¿Por qué debería tener conocimientos sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/000-por-qu%C3%A9-deber%C3%ADa-tener-una-base-sobre-dise%C3%B1o-cadbdeb6fed7)
 - [X] 18/09/2017 - [¿Y si WordPress está dañando el sector del diseño y desarrollo web](?https://octuweb.com/wordpress-sector-diseno-desarrollo-web/)
+- [X] 20/10/2017 - [Iconos en interfaces](https://octuweb.com/iconos-en-interfaces/)
 
 ### SVG
 
