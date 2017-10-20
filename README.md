@@ -15,6 +15,7 @@ Personal goals made open source across computers I use.
 1. [Things I'll do in the future:](#things-ill-do-in-the-future)
 1. [HTML](#html)
 1. [Advanced CSS and Sass](#advanced-css-and-sass)
+1. [Grid vs Flexbox](#grid-vs-flexbox)
 1. [CSS Grid Layout](#css-grid-layout)
 1. [Multi Column Layout](#multi-column-layout)
 1. [CSS Architecture](#css-architecture)
@@ -159,6 +160,10 @@ Personal goals made open source across computers I use.
 - [X] 20/10/2017 - (*) [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f)
 - [X] 20/10/2017 - [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
 
+### Grid vs Flexbox
+
+- [X] 20/10/2017 - [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
+
 ### CSS Grid Layout
 
 - [X] 27/05/2017 - (*) [CSS Grid Layout Module Level 1 Specification](https://www.w3.org/TR/css-grid-1/)
@@ -219,6 +224,7 @@ Personal goals made open source across computers I use.
 - [X] 27/09/2017 - (*) [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 - [X] 27/09/2017 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [X] 29/09/2017 - [CSS Grid Layout](https://www.youtube.com/watch?v=AxVXpS6PyRE)
+- [X] 20/10/2017 - [Grid is all about the container](https://rachelandrew.co.uk/archives/2017/03/31/grid-is-all-about-the-container/)
 
 ### Multi Column Layout
 
@@ -239,10 +245,10 @@ Personal goals made open source across computers I use.
 - [X] 15/09/2017 - (*) [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 - [X] 17/09/2017 - [CSS in JS is like replacing a broken screwdriver with your favorite hammer](https://zendev.com/2017/09/11/css-in-js.html)
 - [X] 13/10/2017 - [Tomando decisiones para estructurar los componentes en CSS](http://blog.ckgrafico.com/tomando-decisiones-estructurar-los-componentes-css/)
-- [X] 13/10/2017 - [Refactorizar: Welcome to the CSS jungle](https://octuweb.com/refactorizar-welcome-the-css-jungle/)
 
 ### Refactoring CSS
 
+- [X] 13/10/2017 - [Refactorizar: Welcome to the CSS jungle](https://octuweb.com/refactorizar-welcome-the-css-jungle/)
 - [X] 20/10/2017 - [Are you writing legacy CSS code?](https://tinnedfruit.com/articles/are-you-writing-legacy-css-code.html)
 - [X] 20/10/2017 - [5 Tips for Starting a Front-End Refactor]https://css-tricks.com/5-tips-starting-front-end-refactor/)
 
