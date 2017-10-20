@@ -126,6 +126,8 @@ Personal goals made open source across computers I use.
 - [X] 09/10/2017 - [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
 - [X] 11/10/2017 - [Aspect Ratio Hack: Micro Tip #17 - Supercharged](https://www.youtube.com/watch?v=ht5oFxpADt4)
 - [X] 13/10/2017 - [Use a Sass Variable for a Selector](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
+- [X] 20/10/2017 - (*) [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f)
+- [X] 20/10/2017 - [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
 
 ### CSS Architecture
 
@@ -350,6 +352,7 @@ Personal goals made open source across computers I use.
 - [X] 12/10/2017 - [How to Ensure Accessibility for Every Online Audience](http://mangomattermedia.com/web-design/ensure-accessibility-every-online-audience/)
 - [X] 18/10/2017 - [Usability and Accessibility](https://medium.com/@myplanet/usability-and-accessibility-213c3185314f)
 - [X] 18/10/2017 - (*) [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
+- [X] 20/10/2017 - [Trends that exclude](https://axesslab.com/trends/)
 
 ### UX
 
@@ -480,3 +483,4 @@ Personal goals made open source across computers I use.
 - [X] 06/09/2017 - [Configuring Jenkins with Github](https://medium.com/dev-blogs/configuring-jenkins-with-github-eef13a5cc9e9)
 - [X] 07/09/2017 - [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3)
 - [X] 15/09/2017 - [En continua formación](http://charlascylon.com/2017-09-13-en-continua-formacion)
+- [X] 20/10/2017 - [Web Babel](https://octuweb.com/web-babel/)
