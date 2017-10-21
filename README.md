@@ -494,6 +494,7 @@ Personal goals made open source across computers I use.
 ### Testing
 
 - [X] 18/08/2017 - [TW Hangouts | Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo)
+- [X] 21/10/2017 - [Anti-patrones de test: Infrastructure Mocking](https://www.youtube.com/watch?v=XbkjUz20pOk)
 
 ### Software Crafting
 
