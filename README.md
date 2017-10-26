@@ -252,7 +252,7 @@ Personal goals made open source across computers I use.
 - [X] 13/10/2017 - [Refactorizar: Welcome to the CSS jungle](https://octuweb.com/refactorizar-welcome-the-css-jungle/)
 - [X] 20/10/2017 - [Are you writing legacy CSS code?](https://tinnedfruit.com/articles/are-you-writing-legacy-css-code.html)
 - [X] 20/10/2017 - [5 Tips for Starting a Front-End Refactor](https://css-tricks.com/5-tips-starting-front-end-refactor/)
-- [X] 26/10/2017 - (*) - [Refactoring Tunnels](https://csswizardry.com/2017/06/refactoring-tunnels)
+- [X] 26/10/2017 - (*) [Refactoring Tunnels](https://csswizardry.com/2017/06/refactoring-tunnels)
 
 ### a11y
 
@@ -511,6 +511,10 @@ Personal goals made open source across computers I use.
 - [X] 14/08/2017 - [In defence of software craftsmanship](https://medium.com/@d_ir/in-defence-of-software-craftsmanship-f484a0c646bb)
 - [X] 11/09/2017 - (*) [Los 7 pecados capitales del programador](http://raulavila.com/2017/09/pecados-capitales-programador/)
 - [X] 26/10/2017 - [Advice for early-career developers](https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html)
+- [X] 26/10/2017 - [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/)
+- [X] 26/10/2017 - (*) [Mentorship in Software Craftsmanship 1/3](https://codurance.com/2011/10/05/mentoring-in-software-craftsmanship/)
+- [X] 26/10/2017 - (*) [Mentorship in Software Craftsmanship 2/3](https://codurance.com/2011/10/10/mentoring-in-software-craftsmanship_09/)
+- [X] 26/10/2017 - (*) [Mentorship in Software Craftsmanship 3/3](https://codurance.com/2011/10/28/mentorship-in-software-craftsmanship/)
 
 ### Octuweb
 
