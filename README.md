@@ -362,6 +362,7 @@ Personal goals made open source across computers I use.
 - [X] 18/09/2017 - [¿Y si WordPress está dañando el sector del diseño y desarrollo web?](https://octuweb.com/wordpress-sector-diseno-desarrollo-web/)
 - [X] 20/10/2017 - [Iconos en interfaces](https://octuweb.com/iconos-en-interfaces/)
 - [X] 26/10/2017 - [I want to believe… en los principios de diseño](https://octuweb.com/principios-diseno/)
+- [X] 26/10/2017 - [Design for Developers: Specific Steps to Improve Your Website Design](https://www.taniarascia.com/design-for-developers/)
 
 ### SVG
 
