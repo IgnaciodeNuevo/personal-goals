@@ -108,7 +108,7 @@ Personal goals made open source across computers I use.
 - [X] 27/05/2017 - [A Chinese typography experiment - Talk.CSS](https://www.youtube.com/watch?v=tTV60oAk6Cs)
 - [X] 27/05/2017 - [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
 - [X] 27/05/2017 - [Becoming Responsible for CSS](https://www.youtube.com/watch?v=uHDhtRyDR60)
-- [X] 27/05/2017 - (*) Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
+- [X] 27/05/2017 - (*) [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 - [X] 19/06/2017 - [CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
 - [X] 27/06/2017 - [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=kbGYPm9uYfk)
 - [X] 08/07/2017 - [CSS vs. JavaScript: Trust vs. Control](https://christianheilmann.com/2017/06/21/css-vs-javascript-trust-vs-control/)
@@ -358,7 +358,7 @@ Personal goals made open source across computers I use.
 - [X] 17/09/2017 - [Removing the White Bars in Safari on iPhone X](http://stephenradford.me/removing-the-white-bars-in-safari-on-iphone-x/)
 - [X] 17/09/2017 - [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6)
 - [X] 18/09/2017 - [000 ¿Por qué debería tener conocimientos sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/000-por-qu%C3%A9-deber%C3%ADa-tener-una-base-sobre-dise%C3%B1o-cadbdeb6fed7)
-- [X] 18/09/2017 - [¿Y si WordPress está dañando el sector del diseño y desarrollo web](?https://octuweb.com/wordpress-sector-diseno-desarrollo-web/)
+- [X] 18/09/2017 - [¿Y si WordPress está dañando el sector del diseño y desarrollo web?](https://octuweb.com/wordpress-sector-diseno-desarrollo-web/)
 - [X] 20/10/2017 - [Iconos en interfaces](https://octuweb.com/iconos-en-interfaces/)
 
 ### SVG
