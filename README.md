@@ -506,6 +506,8 @@ Personal goals made open source across computers I use.
 ### Linting
 
 - [X] 26/10/2017 - [Prettier + Stylelint: Writing Very Clean CSS](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)
+- [X] 26/10/2017 - [Lint your CSS with stylelint](https://css-tricks.com/stylelint/)
+- [X] 26/10/2017 - [Enforcing CSS Syntax Style (and more!)](https://css-tricks.com/enforcing-css-syntax-style/)
 
 ### Software Crafting
 
