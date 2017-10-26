@@ -38,6 +38,7 @@ Personal goals made open source across computers I use.
 1. [Linting](#linting)
 1. [Software Crafting](#software-crafting)
 1. [Octuweb](#octuweb)
+1. [Career](#career)
 1. [Other resources](#other-resources)
 
 ### Projects
@@ -528,6 +529,10 @@ Personal goals made open source across computers I use.
 ### Octuweb
 
 - [X] 26/10/2017 - [Tiempos de cambio (o por qué pasarse al desarrollo indie)](https://octuweb.com/tiempos-de-cambio-desarrollo-indie/)
+
+### Career
+
+- [X] 26/10/2017 - [Being A Developer After 40 (App Builders Switzerland 2016)](https://www.youtube.com/watch?v=GQx_beRMHVg)
 
 ### Other resources
 
