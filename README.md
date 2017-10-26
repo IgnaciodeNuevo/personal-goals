@@ -35,6 +35,7 @@ Personal goals made open source across computers I use.
 1. [DevTools](#devtools)
 1. [Jekyll](#jekyll)
 1. [Testing](#testing)
+1. [Linting](#linting)
 1. [Software Crafting](#software-crafting)
 1. [Octuweb](#octuweb)
 1. [Other resources](#other-resources)
@@ -360,6 +361,7 @@ Personal goals made open source across computers I use.
 - [X] 18/09/2017 - [000 ¿Por qué debería tener conocimientos sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/000-por-qu%C3%A9-deber%C3%ADa-tener-una-base-sobre-dise%C3%B1o-cadbdeb6fed7)
 - [X] 18/09/2017 - [¿Y si WordPress está dañando el sector del diseño y desarrollo web?](https://octuweb.com/wordpress-sector-diseno-desarrollo-web/)
 - [X] 20/10/2017 - [Iconos en interfaces](https://octuweb.com/iconos-en-interfaces/)
+- [X] 26/10/2017 - [I want to believe… en los principios de diseño](https://octuweb.com/principios-diseno/)
 
 ### SVG
 
@@ -500,6 +502,10 @@ Personal goals made open source across computers I use.
 - [X] 18/08/2017 - [TW Hangouts | Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo)
 - [X] 21/10/2017 - [Anti-patrones de test: Infrastructure Mocking](https://www.youtube.com/watch?v=XbkjUz20pOk)
 - [X] 21/10/2017 - [Anti-patrones de test: Swot testing (test empollón)](https://www.youtube.com/watch?v=Y-UOIxncAI0)
+
+### Linting
+
+- [X] 26/10/2017 - [Prettier + Stylelint: Writing Very Clean CSS](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)
 
 ### Software Crafting
 
