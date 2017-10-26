@@ -252,6 +252,7 @@ Personal goals made open source across computers I use.
 - [X] 13/10/2017 - [Refactorizar: Welcome to the CSS jungle](https://octuweb.com/refactorizar-welcome-the-css-jungle/)
 - [X] 20/10/2017 - [Are you writing legacy CSS code?](https://tinnedfruit.com/articles/are-you-writing-legacy-css-code.html)
 - [X] 20/10/2017 - [5 Tips for Starting a Front-End Refactor](https://css-tricks.com/5-tips-starting-front-end-refactor/)
+- [X] 26/10/2017 - (*) - [Refactoring Tunnels](https://csswizardry.com/2017/06/refactoring-tunnels)
 
 ### a11y
 
