@@ -36,6 +36,7 @@ Personal goals made open source across computers I use.
 1. [Jekyll](#jekyll)
 1. [Testing](#testing)
 1. [Software Crafting](#software-crafting)
+1. [Octuweb](#octuweb)
 1. [Other resources](#other-resources)
 
 ### Projects
@@ -507,6 +508,10 @@ Personal goals made open source across computers I use.
 - [X] 14/08/2017 - [Palabras malditas](http://www.modestosanjuan.com/palabras-malditas/)
 - [X] 14/08/2017 - [In defence of software craftsmanship](https://medium.com/@d_ir/in-defence-of-software-craftsmanship-f484a0c646bb)
 - [X] 11/09/2017 - (*) [Los 7 pecados capitales del programador](http://raulavila.com/2017/09/pecados-capitales-programador/)
+
+### Octuweb
+
+- [X] 26/10/2017 - [Tiempos de cambio (o por qué pasarse al desarrollo indie)](https://octuweb.com/tiempos-de-cambio-desarrollo-indie/)
 
 ### Other resources
 
