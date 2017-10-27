@@ -33,6 +33,7 @@ Personal goals made open source across computers I use.
 1. [Git](#git)
 1. [Command Line](#command-line)
 1. [DevTools](#devtools)
+1. [Task Runners](#task-runners)
 1. [Jekyll](#jekyll)
 1. [Testing](#testing)
 1. [Linting](#linting)
@@ -491,6 +492,11 @@ Personal goals made open source across computers I use.
 
 - [X] 13/10/2017 - [Modern DevTools: Running a performance profile on the YouTube search box
 ](https://www.youtube.com/watch?v=E4KAWf_fKbM)
+
+
+### Task Runners
+
+- [X] 27/10/2017 - [Asteroids: nuestro starter kit de proyectos web](https://octuweb.com/asteroids-starter-kit-proyectos-web/)
 
 ### Jekyll
 
