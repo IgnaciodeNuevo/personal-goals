@@ -492,6 +492,7 @@ Personal goals made open source across computers I use.
 
 - [X] 13/10/2017 - [Modern DevTools: Running a performance profile on the YouTube search box
 ](https://www.youtube.com/watch?v=E4KAWf_fKbM)
+- [X] 28/10/2017 - [Modern Tooling, Testing, and Automation (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=7-XnEMrQnn4)
 
 
 ### Task Runners
