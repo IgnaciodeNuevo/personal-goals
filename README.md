@@ -532,6 +532,7 @@ Personal goals made open source across computers I use.
 - [X] 26/10/2017 - (*) [Mentorship in Software Craftsmanship 1/3](https://codurance.com/2011/10/05/mentoring-in-software-craftsmanship/)
 - [X] 26/10/2017 - (*) [Mentorship in Software Craftsmanship 2/3](https://codurance.com/2011/10/10/mentoring-in-software-craftsmanship_09/)
 - [X] 26/10/2017 - (*) [Mentorship in Software Craftsmanship 3/3](https://codurance.com/2011/10/28/mentorship-in-software-craftsmanship/)
+- [X] 30/10/2017 - (*) [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg)
 
 ### Octuweb
 
