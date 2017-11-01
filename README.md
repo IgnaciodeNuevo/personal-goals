@@ -365,7 +365,7 @@ Personal goals made open source across computers I use.
 - [X] 20/10/2017 - [Iconos en interfaces](https://octuweb.com/iconos-en-interfaces/)
 - [X] 26/10/2017 - [I want to believe… en los principios de diseño](https://octuweb.com/principios-diseno/)
 - [X] 26/10/2017 - [Design for Developers: Specific Steps to Improve Your Website Design](https://www.taniarascia.com/design-for-developers/)
-- [X] 01/11/2017 - [Mark Boulton | Designing Grids | CSS Day 2017](https://vimeo.com/239782886)
+- [X] 01/11/2017 - (*) [Mark Boulton | Designing Grids | CSS Day 2017](https://vimeo.com/239782886)
 
 ### SVG
 
@@ -535,6 +535,7 @@ Personal goals made open source across computers I use.
 - [X] 26/10/2017 - (*) [Mentorship in Software Craftsmanship 2/3](https://codurance.com/2011/10/10/mentoring-in-software-craftsmanship_09/)
 - [X] 26/10/2017 - (*) [Mentorship in Software Craftsmanship 3/3](https://codurance.com/2011/10/28/mentorship-in-software-craftsmanship/)
 - [X] 30/10/2017 - (*) [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg)
+- [X] 01/11/2017 - [Applying S.O.L.I.D](https://www.youtube.com/watch?v=MrvwDLEBIjo)
 
 ### Octuweb
 
