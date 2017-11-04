@@ -441,6 +441,7 @@ Personal goals made open source across computers I use.
 - [X] 07/10/2017 - [ES8 was Released and here are its Main New Features ?](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66)
 - [X] 08/10/2017 - [Default Parameters in JavaScript | ES6 | ES2015](https://tylermcginnis.com/videos/default-parameters/)
 - [X] 24/10/2017 - [5 preguntas a tener en cuenta al utilizar una librería](https://octuweb.com/5-preguntas-utilizar-libreria/)
+- [X] 04/11/2017 - [Masterclass DOM y eventos](https://www.youtube.com/watch?v=FXZRaDCFqhc)
 
 ### Angular
 
