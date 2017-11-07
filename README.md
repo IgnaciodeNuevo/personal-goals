@@ -163,6 +163,7 @@ Personal goals made open source across computers I use.
 - [X] 13/10/2017 - [Use a Sass Variable for a Selector](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
 - [X] 20/10/2017 - (*) [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f)
 - [X] 20/10/2017 - [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
+- [X] 07/11/2017 - [Chris Lilley on The State of WebFonts at SmashingConf Barcelona 2017](https://vimeo.com/241102754)
 
 ### Grid vs Flexbox
 
@@ -538,6 +539,7 @@ Personal goals made open source across computers I use.
 - [X] 26/10/2017 - (*) [Mentorship in Software Craftsmanship 3/3](https://codurance.com/2011/10/28/mentorship-in-software-craftsmanship/)
 - [X] 30/10/2017 - (*) [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg)
 - [X] 01/11/2017 - [Applying S.O.L.I.D](https://www.youtube.com/watch?v=MrvwDLEBIjo)
+- [X] 07/11/2017 - Denys Mishunov on Debugger; for Developers at SmashingConf Barcelona 2017](https://vimeo.com/241098635)
 
 ### Octuweb
 
