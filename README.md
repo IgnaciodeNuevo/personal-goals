@@ -556,7 +556,7 @@ Personal goals made open source across computers I use.
 - [X] 26/10/2017 - 😍 [Mentorship in Software Craftsmanship 3/3](https://codurance.com/2011/10/28/mentorship-in-software-craftsmanship/)
 - [X] 30/10/2017 - 😍 [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg)
 - [X] 01/11/2017 - [Applying S.O.L.I.D](https://www.youtube.com/watch?v=MrvwDLEBIjo)
-- [X] 07/11/2017 - Denys Mishunov on Debugger; for Developers at SmashingConf Barcelona 2017](https://vimeo.com/241098635)
+- [X] 07/11/2017 - [Denys Mishunov on Debugger; for Developers at SmashingConf Barcelona 2017](https://vimeo.com/241098635)
 
 ### Octuweb
 
@@ -581,7 +581,7 @@ Personal goals made open source across computers I use.
 - [X] 09/08/2017 - 😍 [Code: Debugging the gender gap](http://www.rtve.es/alacarta/videos/otros-documentales/otros-documentales-code-depurar-diferencia-genero/4155591/)
 - [X] 09/08/2017 - 😍 [Learning at work](https://jvns.ca/blog/2017/08/06/learning-at-work/)
 - [X] 09/08/2017 - [The best career advice I’ve received](https://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/)
-- [X] 14/08/2017 - 😍op developers can have a life outside coding](https://belenalbeza.com/top-developers-can-have-a-life-outside-coding/)
+- [X] 14/08/2017 - 😍 [Top developers can have a life outside coding](https://belenalbeza.com/top-developers-can-have-a-life-outside-coding/)
 - [X] 14/08/2017 - [The ethics of unpaid labor and the oss community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 - [X] 14/08/2017 - [What should I learn to be a frontend developer](https://belenalbeza.com/what-should-i-learn-to-be-a-front-end-developer/)
 - [X] 17/08/2017 - [Beating Procrastination](https://zellwk.com/blog/procrastination/)
