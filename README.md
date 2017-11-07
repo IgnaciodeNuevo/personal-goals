@@ -305,6 +305,7 @@ Personal goals made open source across computers I use.
 - [X] 26/08/2017 - [Responsive Images Audits](https://cloudfour.com/thinks/responsive-images-audits/)
 - [X] 31/08/2017 - [Managing CSS & JS in an HTTP/2 World](https://www.viget.com/articles/managing-css-js-http-2)
 - [X] 09/10/2017 - [Front End Center — Caching & CDN](https://www.youtube.com/watch?v=_QeNLrkPvdI)
+- [X] 07/11/2017 - [Monica Dinculescu on Fontastic Web Performance at SmashingConf Barcelona 2017](https://vimeo.com/241111413)
 
 ### Typography
 
