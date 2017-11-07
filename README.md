@@ -3,7 +3,14 @@
 Personal goals made open source across computers I use.
 
 # Overarching Goals for 2017:
-1. JavaScript!
+1. 📚 JavaScript!
+
+# Legend
+1. 📚  Study!
+1. 📕  Book
+1. 💡  Project
+1. 🚀  Things to do
+1. 🎥  Video
 
 ## (*) Must read
 
@@ -15,6 +22,7 @@ Personal goals made open source across computers I use.
 1. [Things I'll do in the future:](#things-ill-do-in-the-future)
 1. [HTML](#html)
 1. [Advanced CSS and Sass](#advanced-css-and-sass)
+1. [Cascade CSS](#cascade-css)
 1. [Grid vs Flexbox](#grid-vs-flexbox)
 1. [CSS Grid Layout](#css-grid-layout)
 1. [Multi Column Layout](#multi-column-layout)
@@ -44,50 +52,50 @@ Personal goals made open source across computers I use.
 
 ### Projects
 
-- [X] [WeCodeSign Podcast's Website](http://wecodesignpodcast.com/)
-- [X] [Open Source Weekends Website](https://osweekends.github.io)
-- [X] 19/12/2016 - [Semillasocial](https://www.semillasocial.org)
+- [X] 💡 [WeCodeSign Podcast's Website](http://wecodesignpodcast.com/)
+- [X] 💡 [Open Source Weekends Website](https://osweekends.github.io)
+- [X] 💡 19/12/2016 - [Semillasocial](https://www.semillasocial.org)
 
 ### Books
 
-- [X] - (*) [Designing for Performance](http://designingforperformance.com)
-- [X] - (*) [Mobile First](https://abookapart.com/products/mobile-first)
-- [X] - (*) [SMACSS](https://smacss.com)
-- [X] - (*) [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
-- [X] [Best of 9 Smashing years](https://shop.smashingmagazine.com/products/best-of-nine-smashing-years)
-- [X] [Colour Accesibility](https://www.fivesimplesteps.com/products/colour-accessibility)
-- [X] [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
-- [X] [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
-- [X] [Design is a Job](https://abookapart.com/products/design-is-a-job)
-- [X] [Front-end Style Guides](http://maban.co.uk/projects/front-end-style-guides)
-- [X] [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers)
-- [X] [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
-- [X] [Responsive Web Design](https://abookapart.com/products/responsive-web-design)
-- [X] [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
-- [X] [Smashing Book 5](https://shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design)
-- [X] [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
-- [X] [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
-- [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
-- [ ] [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
+- [X] - (*) 📕 [Designing for Performance](http://designingforperformance.com)
+- [X] - (*) 📕 [Mobile First](https://abookapart.com/products/mobile-first)
+- [X] - (*) 📕 [SMACSS](https://smacss.com)
+- [X] - (*) 📕 [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
+- [X] 📕 [Best of 9 Smashing years](https://shop.smashingmagazine.com/products/best-of-nine-smashing-years)
+- [X] 📕 [Colour Accesibility](https://www.fivesimplesteps.com/products/colour-accessibility)
+- [X] 📕 [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
+- [X] 📕 [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
+- [X] 📕 [Design is a Job](https://abookapart.com/products/design-is-a-job)
+- [X] 📕 [Front-end Style Guides](http://maban.co.uk/projects/front-end-style-guides)
+- [X] 📕 [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers)
+- [X] 📕 [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
+- [X] 📕 [Responsive Web Design](https://abookapart.com/products/responsive-web-design)
+- [X] 📕 [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
+- [X] 📕 [Smashing Book 5](https://shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design)
+- [X] 📕 [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
+- [X] 📕 [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
+- [ ] 📕 [Eloquent JavaScript](http://eloquentjavascript.net)
+- [ ] 📕 [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
 
 ### Things I'll do in the future:
 
-- [X] Flexbox
-- [X] Curso Intensivo CSS3 Wakkos
-- [X] Review Trazos Master's theme
-- [X] Read HTML&CSS - John Duckett
-- [X] CSS GuideLines - Harry Roberts
-- [X] Sass-Lang Documentation
-- [X] Sass for Web Designers Resources
-- [X] Awesome Sass - Hugo Giraudel
-- [X] Jekyll
-- [X] Markdown
-- [X] YAML
-- [X] Liquid
-- [X] 21/10/2016 - [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
-- [X] 26/10/2016 - [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
-- [X] 03/11/2016 - [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
-- [X] 1/03/207 - JavaScript Jabber 
+- [X] 🚀 Flexbox
+- [X] 🚀 Curso Intensivo CSS3 Wakkos
+- [X] 🚀 Review Trazos Master's theme
+- [X] 🚀 Read HTML&CSS - John Duckett
+- [X] 🚀 CSS GuideLines - Harry Roberts
+- [X] 🚀 Sass-Lang Documentation
+- [X] 🚀 Sass for Web Designers Resources
+- [X] 🚀 Awesome Sass - Hugo Giraudel
+- [X] 🚀 Jekyll
+- [X] 🚀 Markdown
+- [X] 🚀 YAML
+- [X] 🚀 Liquid
+- [X] 🚀 21/10/2016 - [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
+- [X] 26/10/2016 - 🚀 [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
+- [X] 03/11/2016 - 🚀 [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
+- [X] 1/03/207 - 🚀 JavaScript Jabber 
 - [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
 - [ ] ES6.io
 - [ ] FreeCodeCamp
@@ -101,12 +109,12 @@ Personal goals made open source across computers I use.
 
 - [X] 01/01/2016 - [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 - [X] 01/11/2016 - [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
-- [X] 02/11/2016 - (*) [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
+- [X] 02/11/2016 - (*) 🎥 [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
 - [X] 03/11/2016 - [Lessons Learned From Building Your Own CSS FrameworkN](https://www.youtube.com/watch?v=QOVNb-DzZdA&feature=youtu.be)
 - [X] 30/11/2016 - [Lourdes Montano - Methods to Organize Your Learning Process in CSS - CascadiaFest 2016](https://www.youtube.com/watch?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe&v=IwMDKB27_ko)
 - [X] 06/12/2016 - [CSS Tips and Tricks #1 - CSS-only Christmas Lights](https://www.youtube.com/watch?v=B9OZkATMbag)
 - [X] 02/12/2016 - (*) ["Real Art Direction on the Web" - View Source Conference talk by Jen Simmons](https://www.youtube.com/watch?v=5Z7lSSMwRgo&index=12&list=PLo3w8EB99pqJBRZU8kUrtoznwE-yyT2Yh)
-- [X] 31/12/2016 - [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
+- [X] 31/12/2016 - 🎥 [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 - [X] 01/11/2016 - [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
 - [X] 27/05/2017 - [A Chinese typography experiment - Talk.CSS](https://www.youtube.com/watch?v=tTV60oAk6Cs)
 - [X] 27/05/2017 - [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
@@ -139,7 +147,7 @@ Personal goals made open source across computers I use.
 - [X] 31/07/2017 - [Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
 - [X] 31/07/2017 - [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/)
 - [X] 01/08/2017 - [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
-- [X] 01/08/2017 - [Eric Portis on Contain Your Excitement](https://vimeo.com/223432117)
+- [X] 01/08/2017 - 🎥 [Eric Portis on Contain Your Excitement](https://vimeo.com/223432117)
 - [X] 02/08/2017 - [Automating CSS Regression Testing - Joan León #scbcn16](https://www.youtube.com/watch?v=4B0lUJn9XsY)
 - [X] 02/08/2017 - (*) [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
 - [X] 02/08/2017 - [Fix 90% of Your Problems With Susy by Getting This One Concept Right](https://zellwk.com/blog/context-with-susy/)
@@ -164,6 +172,12 @@ Personal goals made open source across computers I use.
 - [X] 20/10/2017 - (*) [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f)
 - [X] 20/10/2017 - [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
 - [X] 07/11/2017 - [Chris Lilley on The State of WebFonts at SmashingConf Barcelona 2017](https://vimeo.com/241102754)
+
+### Cascade CSS
+
+- [X] 07/11/2017 - (*) 📄 [CSS Specificity: Things You Should Know](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
+- [X] 07/11/2017 - 📄 [CSS Specificity And Inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)
+- [X] 07/11/2017 - 📄 [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
 
 ### Grid vs Flexbox
 
