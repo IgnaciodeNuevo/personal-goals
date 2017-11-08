@@ -567,6 +567,8 @@ Personal goals made open source across computers I use.
 - [X] 30/10/2017 - 😍 📄 [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg)
 - [X] 01/11/2017 - 🎥 [Applying S.O.L.I.D](https://www.youtube.com/watch?v=MrvwDLEBIjo)
 - [X] 07/11/2017 - 🎥 [Denys Mishunov on Debugger; for Developers at SmashingConf Barcelona 2017](https://vimeo.com/241098635)
+- [X] 08/11/2017 - 📄 [Mentoring for the junior mentor](https://www.lottejackson.com/learning/for-the-junior-mentor)
+- [X] 08/11/2017 - 📄 [Initiation to Code](https://alistapart.com/article/initiation-to-code)
 
 ### Octuweb
 
