@@ -271,6 +271,9 @@ Personal goals made open source across computers I use.
 - [X] 08/11/2017 - 📄 [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - [X] 08/11/2017 - 📄 [Sass Variable Architecture](http://peteschuster.com/2014/02/sass-variable-architecture/)
 - [X] 08/11/2017 - 🎥 [Organizing CSS with OOCSS, SMACSS, and BEM - Matt Stauffer](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
+- [X] 08/11/2017 - 📄 [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
+- [X] 08/11/2017 - 📄 [Writing modular CSS (Part 1) — BEM](https://zellwk.com/blog/css-architecture-1/)
+- [X] 08/11/2017 - 📄 [Writing modular CSS (Part 2) — Namespaces](https://zellwk.com/blog/css-architecture-2/)
 
 ### Refactoring CSS
 
