@@ -28,7 +28,7 @@ Personal goals made open source across computers I use.
 1. [Grid vs Flexbox](#grid-vs-flexbox)
 1. [CSS Grid Layout](#css-grid-layout)
 1. [Multi Column Layout](#multi-column-layout)
-1. [CSS Architecture](#css-architecture)
+1. [CSS Architecture and Naming](#css-architecture-and-naming)
 1. [Refactoring CSS](#refactoring-css)
 1. [a11y](#a11y)
 1. [Perf](#perf)
@@ -253,7 +253,7 @@ Personal goals made open source across computers I use.
 
 - [X] 20/10/2017 - 😍 📄 [Exploring Multi-Column Layouts in CSS](https://alligator.io/css/multi-column-layouts/)
 
-### CSS Architecture
+### CSS Architecture and Naming
 
 - [X] 23/11/2016 - 🎥 [Manage large CSS projects with ITCSS](https://www.youtube.com/watch?v=hz76JIU_xB0)
 - [X] 24/11/2016 - 😍 🎥 [Managing CSS Projects with ITCSS](https://www.youtube.com/watch?v=1OKZOV-iLj4)
@@ -268,6 +268,9 @@ Personal goals made open source across computers I use.
 - [X] 15/09/2017 - 😍 📄 [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 - [X] 17/09/2017 - 📄 [CSS in JS is like replacing a broken screwdriver with your favorite hammer](https://zendev.com/2017/09/11/css-in-js.html)
 - [X] 13/10/2017 - 📄 [Tomando decisiones para estructurar los componentes en CSS](http://blog.ckgrafico.com/tomando-decisiones-estructurar-los-componentes-css/)
+- [X] 08/11/2017 - 📄 [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
+- [X] 08/11/2017 - 📄 [Sass Variable Architecture](http://peteschuster.com/2014/02/sass-variable-architecture/)
+- [X] 08/11/2017 - 🎥 [Organizing CSS with OOCSS, SMACSS, and BEM - Matt Stauffer](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
 
 ### Refactoring CSS
 
