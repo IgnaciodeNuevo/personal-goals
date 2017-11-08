@@ -174,6 +174,7 @@ Personal goals made open source across computers I use.
 - [X] 20/10/2017 - 😍 📄 [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f)
 - [X] 20/10/2017 - 📄 [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
 - [X] 07/11/2017 - 🎥 [Chris Lilley on The State of WebFonts at SmashingConf Barcelona 2017](https://vimeo.com/241102754)
+- [X] 08/11/2017 - 📄 [The CSS attr() function got nothin’ on custom properties](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
 
 ### Cascade CSS
 
