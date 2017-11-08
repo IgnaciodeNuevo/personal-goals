@@ -396,6 +396,7 @@ Personal goals made open source across computers I use.
 
 - [X] 24/08/2017 - 📄 [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 - [X] 02/10/2017 - 📄 [Charming interfaces – make your users smile](https://axesslab.com/humor/)
+- [X] 08/11/2017 - 💊 [Links vs Buttons](https://codepen.io/AmeliaBR/full/RjaqrN/)
 
 ### JavaScript
 
