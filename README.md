@@ -94,7 +94,7 @@ Personal goals made open source across computers I use.
 - [X] 🚀 Markdown
 - [X] 🚀 YAML
 - [X] 🚀 Liquid
-- [X] 🚀 21/10/2016 - [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
+- [X] 21/10/2016 - 🚀 [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
 - [X] 26/10/2016 - 🚀 [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
 - [X] 03/11/2016 - 🚀 [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 - [X] 1/03/207 - 🚀 JavaScript Jabber 
@@ -175,6 +175,7 @@ Personal goals made open source across computers I use.
 - [X] 20/10/2017 - 📄 [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
 - [X] 07/11/2017 - 🎥 [Chris Lilley on The State of WebFonts at SmashingConf Barcelona 2017](https://vimeo.com/241102754)
 - [X] 08/11/2017 - 📄 [The CSS attr() function got nothin’ on custom properties](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
+- [X] 08/11/2017 - 🎥 [Rachel Andrew — The New CSS Layout Technologies](https://www.youtube.com/watch?v=xHOYsOxcYLc)
 
 ### Cascade CSS
 
@@ -479,12 +480,12 @@ Personal goals made open source across computers I use.
 - [X] 18/05/2017 - 📄 [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
 - [X] 18/05/2017 - 📄 [5 things you need to know to understand React](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
 - [X] 18/05/2017 - 📄 [React 'aha' moments](https://tylermcginnis.com/react-aha-moments/)
-- [X] 18/05/2017 - [JSConfUS 2013 - Tom Occhino and Jordan Walke: JS Apps at Facebook](https://www.youtube.com/watch?v=GW0rj4sNH2w&index=10&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
+- [X] 18/05/2017 - 🎥 [JSConfUS 2013 - Tom Occhino and Jordan Walke: JS Apps at Facebook](https://www.youtube.com/watch?v=GW0rj4sNH2w&index=10&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
 - [X] 18/05/2017 - 📄 [Is React.js fast? Faster than {framework}?](https://medium.com/react-weekly/is-react-js-fast-faster-than-framework-or-are-there-more-relevant-questions-to-be-asking-bcf40211f89b)
 - [X] 18/05/2017 - 📄 [React Design Principles](https://facebook.github.io/react/contributing/design-principles.html)
 - [X] 18/05/2017 - 📄 [Tutorial: JSX](http://buildwithreact.com/tutorial/jsx)
 - [X] 19/05/2017 - 📄 [Which projects need react All of them](https://medium.freecodecamp.com/which-projects-need-react-all-of-them-e7ccb6629ba7)
-- [X] 22/05/2017 - [Create React App](https://www.youtube.com/watch?v=gbVhmaW04bc)
+- [X] 22/05/2017 - 🎥 [Create React App](https://www.youtube.com/watch?v=gbVhmaW04bc)
 - [X] 22/05/2017 - 📄 [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
 - [X] 22/05/2017 - 📄 [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/)
 - [X] 22/05/2017 - 😍 📄 [Leveling Up With React: React Router](https://css-tricks.com/learning-react-router/)
