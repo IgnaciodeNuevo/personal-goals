@@ -267,7 +267,6 @@ Personal goals made open source across computers I use.
 - [X] 02/08/2017 - 😍 📄 [When to use @extend; when to use a mixin](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 - [X] 02/08/2017 - 😍 📄 [Code Smells in CSS Revisited](https://csswizardry.com/2017/02/code-smells-in-css-revisited/)
 - [X] 23/08/2017 - 😍 📄 [BEMIT: Taking the BEM Naming Convention a Step Further](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
-- [X] 23/08/2017 - 😍 📄 [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
 - [X] 15/09/2017 - 😍 📄 [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 - [X] 17/09/2017 - 📄 [CSS in JS is like replacing a broken screwdriver with your favorite hammer](https://zendev.com/2017/09/11/css-in-js.html)
 - [X] 13/10/2017 - 📄 [Tomando decisiones para estructurar los componentes en CSS](http://blog.ckgrafico.com/tomando-decisiones-estructurar-los-componentes-css/)
@@ -277,6 +276,7 @@ Personal goals made open source across computers I use.
 - [X] 08/11/2017 - 📄 [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
 - [X] 08/11/2017 - 📄 [Writing modular CSS (Part 1) — BEM](https://zellwk.com/blog/css-architecture-1/)
 - [X] 08/11/2017 - 📄 [Writing modular CSS (Part 2) — Namespaces](https://zellwk.com/blog/css-architecture-2/)
+- [X] 09/11/2017 - 😍 📄 [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
 
 ### Refactoring CSS
 
