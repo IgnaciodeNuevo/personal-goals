@@ -176,6 +176,7 @@ Personal goals made open source across computers I use.
 - [X] 07/11/2017 - 🎥 [Chris Lilley on The State of WebFonts at SmashingConf Barcelona 2017](https://vimeo.com/241102754)
 - [X] 08/11/2017 - 📄 [The CSS attr() function got nothin’ on custom properties](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
 - [X] 08/11/2017 - 🎥 [Rachel Andrew — The New CSS Layout Technologies](https://www.youtube.com/watch?v=xHOYsOxcYLc)
+- [X] 09/11/2017 - 📄 [Inherit, Initial and Unset Values for CSS Properties](https://alligator.io/css/inherit-initial-unset/)
 
 ### Cascade CSS
 
