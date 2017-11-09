@@ -577,6 +577,7 @@ Personal goals made open source across computers I use.
 - [X] 08/11/2017 - 📄 [Initiation to Code](https://alistapart.com/article/initiation-to-code)
 - [X] 09/11/2017 - 📄 [Pairing with Junior Developers](https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/)
 - [X] 09/11/2017 - 📄 [Mentoring — is it for you?](https://medium.com/makingtuenti/mentoring-is-it-for-you-9800113da5de)
+- [X] 09/11/2017 - 🎥 [Rocío Gómez y Fina Pérez - Cómo me he reinventado como programadora web front end en 3 meses WTM](https://www.youtube.com/watch?v=gYp9w5GgEp4)
 
 ### Octuweb
 
