@@ -48,6 +48,7 @@ Personal goals made open source across computers I use.
 1. [Testing](#testing)
 1. [Linting](#linting)
 1. [Software Crafting](#software-crafting)
+1. [Mentoring](#mentoring)
 1. [Octuweb](#octuweb)
 1. [Career](#career)
 1. [Other resources](#other-resources)
@@ -563,14 +564,19 @@ Personal goals made open source across computers I use.
 - [X] 11/09/2017 - 😍 📄 [Los 7 pecados capitales del programador](http://raulavila.com/2017/09/pecados-capitales-programador/)
 - [X] 26/10/2017 - 📄 [Advice for early-career developers](https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html)
 - [X] 26/10/2017 - 📄 [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/)
+- [X] 01/11/2017 - 🎥 [Applying S.O.L.I.D](https://www.youtube.com/watch?v=MrvwDLEBIjo)
+- [X] 07/11/2017 - 🎥 [Denys Mishunov on Debugger; for Developers at SmashingConf Barcelona 2017](https://vimeo.com/241098635)
+
+### Mentoring
+
 - [X] 26/10/2017 - 😍 📄 [Mentorship in Software Craftsmanship 1/3](https://codurance.com/2011/10/05/mentoring-in-software-craftsmanship/)
 - [X] 26/10/2017 - 😍 📄 [Mentorship in Software Craftsmanship 2/3](https://codurance.com/2011/10/10/mentoring-in-software-craftsmanship_09/)
 - [X] 26/10/2017 - 😍 📄 [Mentorship in Software Craftsmanship 3/3](https://codurance.com/2011/10/28/mentorship-in-software-craftsmanship/)
 - [X] 30/10/2017 - 😍 📄 [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg)
-- [X] 01/11/2017 - 🎥 [Applying S.O.L.I.D](https://www.youtube.com/watch?v=MrvwDLEBIjo)
-- [X] 07/11/2017 - 🎥 [Denys Mishunov on Debugger; for Developers at SmashingConf Barcelona 2017](https://vimeo.com/241098635)
 - [X] 08/11/2017 - 📄 [Mentoring for the junior mentor](https://www.lottejackson.com/learning/for-the-junior-mentor)
 - [X] 08/11/2017 - 📄 [Initiation to Code](https://alistapart.com/article/initiation-to-code)
+- [X] 09/11/2017 - 📄 [Pairing with Junior Developers](https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/)
+- [X] 09/11/2017 - 📄 [Mentoring — is it for you?](https://medium.com/makingtuenti/mentoring-is-it-for-you-9800113da5de)
 
 ### Octuweb
 
