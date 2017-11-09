@@ -177,6 +177,7 @@ Personal goals made open source across computers I use.
 - [X] 08/11/2017 - 📄 [The CSS attr() function got nothin’ on custom properties](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
 - [X] 08/11/2017 - 🎥 [Rachel Andrew — The New CSS Layout Technologies](https://www.youtube.com/watch?v=xHOYsOxcYLc)
 - [X] 09/11/2017 - 📄 [Inherit, Initial and Unset Values for CSS Properties](https://alligator.io/css/inherit-initial-unset/)
+- [X] 09/11/2017 - 📄 [How we adapted the Booking.com mobile site for the iPhone X notch.]https://booking.design/how-we-adapted-the-booking-com-mobile-site-for-the-iphone-x-notch-e880fa00e989)
 
 ### Cascade CSS
 
