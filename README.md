@@ -276,7 +276,6 @@ Personal goals made open source across computers I use.
 - [X] 08/11/2017 - 😍 📄 [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
 - [X] 08/11/2017 - 📄 [Writing modular CSS (Part 1) — BEM](https://zellwk.com/blog/css-architecture-1/)
 - [X] 08/11/2017 - 📄 [Writing modular CSS (Part 2) — Namespaces](https://zellwk.com/blog/css-architecture-2/)
-- [X] 09/11/2017 - 😍 📄 [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
 - [X] 09/11/2017 - 📄 [Modular CSS naming conventions](http://thesassway.com/advanced/modular-css-naming-conventions)
 - [X] 13/11/2017 - 💊 [Specificity Image by Andy Clarke](https://stuffandnonsense.co.uk/archives/images/specificitywars-05v2.jpg)
 - [X] 13/11/2017 - 😍 💊 [Specificity Calculator](https://specificity.keegan.st/)
