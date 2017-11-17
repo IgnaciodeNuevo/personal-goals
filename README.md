@@ -347,6 +347,7 @@ Personal goals made open source across computers I use.
 - [X] 18/10/2017 - 😍 📄 [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
 - [X] 20/10/2017 - 📄 [Trends that exclude](https://axesslab.com/trends/)
 - [X] 08/11/2016 - 🎥 [Totally Tooling Tips: Accessibility Testing](https://www.youtube.com/watch?v=56zCnwj58e4)
+- [X] 17/11/2017 - 📄 [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 
 ### Perf
 
