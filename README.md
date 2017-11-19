@@ -311,7 +311,9 @@ Personal goals made open source across computers I use.
 - [X] 13/11/2017 - 😍 📄 [An Introduction To Object Oriented CSS - OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 - [X] 13/11/2017 - 😍 📄 [Thoughtful CSS Architecture](https://seesparkbox.com/foundry/thoughtful_css_architecture)
 - [X] 13/11/2017 - 😍 📄 [Hacks for dealing with specificity](https://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/)
-- [X] 18/11/2017 - [Arquitectura CSS - Sé eficiente con tus estilos](https://www.youtube.com/watch?v=FkhSdKAxEbM)
+- [X] 18/11/2017 - 🎥 [Arquitectura CSS - Sé eficiente con tus estilos](https://www.youtube.com/watch?v=FkhSdKAxEbM)
+- [X] 19/11/2017 - 😍 🎥 [Dressing ITCSS: Video](https://www.youtube.com/watch?v=2IdI5VUfE48)
+- [X] 19/11/2017 - 😍 💊 [Dressing ITCSS: Slides](https://danifornells.github.io/dressing-itcss/#/)
 
 ### Refactoring CSS
 
