@@ -314,6 +314,7 @@ Personal goals made open source across computers I use.
 - [X] 18/11/2017 - 🎥 [Arquitectura CSS - Sé eficiente con tus estilos](https://www.youtube.com/watch?v=FkhSdKAxEbM)
 - [X] 19/11/2017 - 😍 🎥 [Dressing ITCSS: Video](https://www.youtube.com/watch?v=2IdI5VUfE48)
 - [X] 19/11/2017 - 😍 💊 [Dressing ITCSS: Slides](https://danifornells.github.io/dressing-itcss/#/)
+- [X] 19/11/2017 - 🎥 [CSS en tiempos modernos](https://www.youtube.com/watch?v=MqkdrwPRqRc)
 
 ### Refactoring CSS
 
