@@ -180,6 +180,7 @@ Personal goals made open source across computers I use.
 - [X] 09/11/2017 - 📄 [Inherit, Initial and Unset Values for CSS Properties](https://alligator.io/css/inherit-initial-unset/)
 - [X] 09/11/2017 - 📄 [How we adapted the Booking.com mobile site for the iPhone X notch.]https://booking.design/how-we-adapted-the-booking-com-mobile-site-for-the-iphone-x-notch-e880fa00e989)
 - [X] 15/11/2017 - 📄 [CSS Environment variables; how to deal with the software bezel of iPhone X](https://benfrain.com/css-environment-variables-iphonex/)
+- [X] 19/11/2017 - 🎥 [CSS en tiempos modernos](https://www.youtube.com/watch?v=MqkdrwPRqRc)
 
 ### Cascade CSS
 
@@ -314,7 +315,6 @@ Personal goals made open source across computers I use.
 - [X] 18/11/2017 - 🎥 [Arquitectura CSS - Sé eficiente con tus estilos](https://www.youtube.com/watch?v=FkhSdKAxEbM)
 - [X] 19/11/2017 - 😍 🎥 [Dressing ITCSS: Video](https://www.youtube.com/watch?v=2IdI5VUfE48)
 - [X] 19/11/2017 - 😍 💊 [Dressing ITCSS: Slides](https://danifornells.github.io/dressing-itcss/#/)
-- [X] 19/11/2017 - 🎥 [CSS en tiempos modernos](https://www.youtube.com/watch?v=MqkdrwPRqRc)
 
 ### Refactoring CSS
 
