@@ -514,6 +514,7 @@ Personal goals made open source across computers I use.
 - [X] 24/10/2017 - 📄 [5 preguntas a tener en cuenta al utilizar una librería](https://octuweb.com/5-preguntas-utilizar-libreria/)
 - [X] 04/11/2017 - 🎥 [Masterclass DOM y eventos](https://www.youtube.com/watch?v=FXZRaDCFqhc)
 - [X] 06/11/2017 - 🎥 [Unit testing in JavaScript Part 1 - Why unit testing?](https://www.youtube.com/watch?v=Eu35xM76kKY)
+- [X] 26/11/2017 - 🎥 [Think about performance:RAFAEL GRANADOS, RUBÉN MARÍN RAGA](https://www.youtube.com/watch?v=H14grgqN87A)
 
 ### Angular
 
