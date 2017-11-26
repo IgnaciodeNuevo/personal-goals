@@ -652,3 +652,4 @@ Personal goals made open source across computers I use.
 - [X] 06/09/2017 - 📄 [Configuring Jenkins with Github](https://medium.com/dev-blogs/configuring-jenkins-with-github-eef13a5cc9e9)
 - [X] 07/09/2017 - 📄 [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3)
 - [X] 15/09/2017 - 📄 [En continua formación](http://charlascylon.com/2017-09-13-en-continua-formacion)
+- [X] 26/11/2017 - 🎥 [¿Qué es un Senior Developer?: LUIS G. VALLE](https://www.youtube.com/watch?v=Vp0mR0XUrGo)
