@@ -253,6 +253,7 @@ Personal goals made open source across computers I use.
 - [X] 27/09/2017 - 📄 [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [X] 29/09/2017 - 🎥 [CSS Grid Layout](https://www.youtube.com/watch?v=AxVXpS6PyRE)
 - [X] 20/10/2017 - 📄 [Grid is all about the container](https://rachelandrew.co.uk/archives/2017/03/31/grid-is-all-about-the-container/)
+- [X] 28/10/2017 - 😍 📄 CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
 
 ### Multi Column Layout
 
