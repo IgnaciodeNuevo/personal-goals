@@ -656,3 +656,4 @@ Personal goals made open source across computers I use.
 - [X] 15/09/2017 - 📄 [En continua formación](http://charlascylon.com/2017-09-13-en-continua-formacion)
 - [X] 26/11/2017 - 🎥 [¿Qué es un Senior Developer?: LUIS G. VALLE](https://www.youtube.com/watch?v=Vp0mR0XUrGo)
 - [X] 26/11/2017 - 🎥 [Las reglas que hay que romper para que tu equipo de desarrollo sea el más RÁPIDO:JAVIER ABADÍA](https://www.youtube.com/watch?v=VnrynReafSg)
+- [X] 29/11/2017 - 🎥 [Creating a culture of learning at Tuenti:JOAQUIN ENGELMO MORICHE, FINA PEREZ](https://www.youtube.com/watch?v=-x127e6T2Zg)
