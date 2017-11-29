@@ -658,3 +658,4 @@ Personal goals made open source across computers I use.
 - [X] 26/11/2017 - 🎥 [Las reglas que hay que romper para que tu equipo de desarrollo sea el más RÁPIDO:JAVIER ABADÍA](https://www.youtube.com/watch?v=VnrynReafSg)
 - [X] 29/11/2017 - 🎥 [Creating a culture of learning at Tuenti:JOAQUIN ENGELMO MORICHE, FINA PEREZ](https://www.youtube.com/watch?v=-x127e6T2Zg)
 - [X] 29/11/2017 - 🎥 [Cultura de equipo (Mesa redonda)JORGE MAROTO, KATIA ARESTI, ANGÉLICA LOZANO, FÉLIX LÓPEZ](https://www.youtube.com/watch?v=cJomSa92huM)
+- [X] 29/11/2017 - 🎥 [Joan León - CSS Craftsmanship | BCN Software Craftsmanship](https://www.youtube.com/watch?v=VBmu14P-gsE)
