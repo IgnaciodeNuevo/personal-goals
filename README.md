@@ -661,3 +661,4 @@ Personal goals made open source across computers I use.
 - [X] 29/11/2017 - 🎥 [Cultura de equipo (Mesa redonda)JORGE MAROTO, KATIA ARESTI, ANGÉLICA LOZANO, FÉLIX LÓPEZ](https://www.youtube.com/watch?v=cJomSa92huM)
 - [X] 29/11/2017 - 🎥 [Joan León - CSS Craftsmanship | BCN Software Craftsmanship](https://www.youtube.com/watch?v=VBmu14P-gsE)
 - [X] 30/11/2017 - 🎥 [dotCSS 2014 - Harry Roberts - 10 Principles for effective Front-end Development](https://www.youtube.com/watch?v=CiMGKZpnHQE)
+- [X] 30/11/2017 - 🎥 [EnhanceConf - Aaron Gustafson - Learn from the Past, Enhance for the Future](https://www.youtube.com/watch?v=0XCjjMsT3MM)
