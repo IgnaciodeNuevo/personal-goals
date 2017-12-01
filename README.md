@@ -129,7 +129,7 @@ Personal goals made open source across computers I use.
 - [X] 08/07/2017 - 📄 [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/#💁)
 - [X] 08/07/2017 - 📄 [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css)
 - [X] 08/07/2017 - 📄 [Build a Style Guide Straight from Sass](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/)
-- [X] 08/07/2017 - 📄 [Handling Long and Unexpected Content in CSS](https://css-tricks.com/handling-long-unexpected-content-css/)
+- [X] 08/07/2017 - 📄 [Handling Long and Unexpected Content in CSS](https://csçs-tricks.com/handling-long-unexpected-content-css/)
 - [X] 11/07/2017 - 📄 [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
 - [X] 11/07/2017 - 📄 [Did CSS get more complicated since the late nineties?](https://hiddedevries.nl/en/blog/2017-07-03-did-css-get-more-complicated-since-the-late-nineties)
 - [X] 11/07/2017 - 📄 [Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/)
@@ -451,6 +451,7 @@ Personal goals made open source across computers I use.
 - [X] 24/08/2017 - 📄 [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 - [X] 02/10/2017 - 📄 [Charming interfaces – make your users smile](https://axesslab.com/humor/)
 - [X] 08/11/2017 - 💊 [Links vs Buttons](https://codepen.io/AmeliaBR/full/RjaqrN/)
+- [X] 01/12/2017 - 🎥 [Joe Leech - Forms are boring - NUX2](https://www.youtube.com/watch?v=K6jiCkZwLgg)
 
 ### JavaScript
 
