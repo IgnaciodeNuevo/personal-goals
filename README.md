@@ -36,6 +36,7 @@ Personal goals made open source across computers I use.
 1. [Design](#design)
 1. [SVG](#svg)
 1. [UX](#ux)
+1. [General Frontend](#general-frontend)
 1. [JavaScript](#javascript)
 1. [Angular](#angular)
 1. [React](#react)
@@ -452,6 +453,10 @@ Personal goals made open source across computers I use.
 - [X] 02/10/2017 - 📄 [Charming interfaces – make your users smile](https://axesslab.com/humor/)
 - [X] 08/11/2017 - 💊 [Links vs Buttons](https://codepen.io/AmeliaBR/full/RjaqrN/)
 - [X] 01/12/2017 - 🎥 [Joe Leech - Forms are boring - NUX2](https://www.youtube.com/watch?v=K6jiCkZwLgg)
+
+### General Frontend
+
+ [X] 01/12/2017 - 🎥 [Google I/O 2015 - The next generation mobile web](https://www.youtube.com/watch?v=iZZdhTUP5qg)
 
 ### JavaScript
 
