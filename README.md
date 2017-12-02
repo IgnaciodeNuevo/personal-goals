@@ -255,6 +255,7 @@ Personal goals made open source across computers I use.
 - [X] 29/09/2017 - 🎥 [CSS Grid Layout](https://www.youtube.com/watch?v=AxVXpS6PyRE)
 - [X] 20/10/2017 - 📄 [Grid is all about the container](https://rachelandrew.co.uk/archives/2017/03/31/grid-is-all-about-the-container/)
 - [X] 28/10/2017 - 😍 📄 CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
+- [X] 02/12/2017 - 🎥 [Rachel Andrew | What I discovered about layout via CSS Grid](https://vimeo.com/238463263)
 
 ### Multi Column Layout
 
