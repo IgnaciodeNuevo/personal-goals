@@ -46,6 +46,7 @@ Personal goals made open source across computers I use.
 1. [DevTools](#devtools)
 1. [Task Runners](#task-runners)
 1. [Jekyll](#jekyll)
+1. [Hugo](#hugo)
 1. [Testing](#testing)
 1. [Linting](#linting)
 1. [Software Crafting](#software-crafting)
@@ -255,7 +256,7 @@ Personal goals made open source across computers I use.
 - [X] 29/09/2017 - 🎥 [CSS Grid Layout](https://www.youtube.com/watch?v=AxVXpS6PyRE)
 - [X] 20/10/2017 - 📄 [Grid is all about the container](https://rachelandrew.co.uk/archives/2017/03/31/grid-is-all-about-the-container/)
 - [X] 28/10/2017 - 😍 📄 CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
-- [X] 02/12/2017 - 🎥 [Rachel Andrew | What I discovered about layout via CSS Grid](https://vimeo.com/238463263)
+- [X] 02/12/2017 - 😍 🎥 [Rachel Andrew | What I discovered about layout via CSS Grid](https://vimeo.com/238463263)
 
 ### Multi Column Layout
 
@@ -591,6 +592,10 @@ Personal goals made open source across computers I use.
 - [X] 31/12/2016 - 🎥 [Jekyll - CloudCannon](https://www.youtube.com/watch?v=dExYSVImSJc&list=PLUybESC8Y06q_aV6D-ow9mmOQzc3-UnXq)
 - [X] 01/01/2017 - 🎥 [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 - [X] 01/01/2017 - 🎥 [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
+
+### Hugo
+
+- [X] 02/12/2017 - 🎥 [Section Templates | Hugo - Static Site Generator](https://www.youtube.com/watch?v=jrMClsB3VsY&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&index=15) [Video: 14 (finished)]
 
 ### Testing
 
