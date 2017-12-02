@@ -523,6 +523,7 @@ Personal goals made open source across computers I use.
 - [X] 04/11/2017 - 🎥 [Masterclass DOM y eventos](https://www.youtube.com/watch?v=FXZRaDCFqhc)
 - [X] 06/11/2017 - 🎥 [Unit testing in JavaScript Part 1 - Why unit testing?](https://www.youtube.com/watch?v=Eu35xM76kKY)
 - [X] 26/11/2017 - 🎥 [Think about performance:RAFAEL GRANADOS, RUBÉN MARÍN RAGA](https://www.youtube.com/watch?v=H14grgqN87A)
+- [X] 02/12/2017 - 🎥 [Dani Latorre y Nestor Salceda - Me da igual tu framework JavaScript | BCN Software Craftmanship 2017]](https://www.youtube.com/watch?v=9gT8q2WEGU8)
 
 ### Angular
 
