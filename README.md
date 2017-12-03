@@ -441,6 +441,8 @@ Personal goals made open source across computers I use.
 - [X] 26/10/2017 - 📄 [I want to believe… en los principios de diseño](https://octuweb.com/principios-diseno/)
 - [X] 26/10/2017 - 📄 [Design for Developers: Specific Steps to Improve Your Website Design](https://www.taniarascia.com/design-for-developers/)
 - [X] 01/11/2017 - 😍 🎥 [Mark Boulton | Designing Grids | CSS Day 2017](https://vimeo.com/239782886)
+- [X] 03/12/2017 - 📄 [000 | ¿Por qué debería tener conocimientos sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/000-por-qu%C3%A9-deber%C3%ADa-tener-una-base-sobre-dise%C3%B1o-cadbdeb6fed7)
+- [X] 03/12/2017 - 📄 [001 | Tengo prisa ¿Cómo puedo saber más sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/002-tengo-prisa-c%C3%B3mo-puedo-saber-m%C3%A1s-sobre-dise%C3%B1o-c21dcca7c6dc)
 
 ### SVG
 
