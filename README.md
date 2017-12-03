@@ -445,6 +445,8 @@ Personal goals made open source across computers I use.
 - [X] 03/12/2017 - 📄 [001 | Tengo prisa ¿Cómo puedo saber más sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/002-tengo-prisa-c%C3%B3mo-puedo-saber-m%C3%A1s-sobre-dise%C3%B1o-c21dcca7c6dc)
 - [X] 03/12/2017 - 📄 [002 | ¿Qué es el Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/002-qu%C3%A9-es-el-dise%C3%B1o-77d8737d9cfa)
 - [X] 03/12/2017 - 📄 [003 | ¿Puede algo feo ser un buen Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/003-puede-algo-feo-ser-un-buen-dise%C3%B1o-b1ec20153df3)
+- [X] 03/12/2017 - 📄 [004 | ¿Cómo puedo mantener el foco y ser productivo en Diseño…](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/004-c%C3%B3mo-puedo-mantener-el-foco-y-ser-productivo-en-dise%C3%B1o-e06cc41c298)
+- [X] 03/12/2017 - 📄 [005 | 100 cosas sobre Diseño que TODO el mundo debería saber](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/005-100-cosas-sobre-dise%C3%B1o-que-todo-el-mundo-deber%C3%ADa-saber-353c91b744d4)
 
 ### SVG
 
