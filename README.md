@@ -595,7 +595,7 @@ Personal goals made open source across computers I use.
 
 ### Hugo
 
-- [X] 03/12/2017 - 🎥 [Section Templates | Hugo - Static Site Generator](https://www.youtube.com/watch?v=jrMClsB3VsY&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&index=15)
+- [X] 03/12/2017 - 🎥 [Section Templates | Hugo - Static Site Generator](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
 - [X] 03/12/2017 - 📄 [Migrating from Jekyll+Github Pages to Hugo+Netlify](http://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/)
 
 ### Testing
