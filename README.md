@@ -595,7 +595,7 @@ Personal goals made open source across computers I use.
 
 ### Hugo
 
-- [X] 02/12/2017 - 🎥 [Section Templates | Hugo - Static Site Generator](https://www.youtube.com/watch?v=jrMClsB3VsY&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&index=15) [Video: 14 (finished)]
+- [X] 03/12/2017 - 🎥 [Section Templates | Hugo - Static Site Generator](https://www.youtube.com/watch?v=jrMClsB3VsY&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&index=15)
 
 ### Testing
 
