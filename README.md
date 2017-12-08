@@ -448,6 +448,7 @@ Personal goals made open source across computers I use.
 - [X] 03/12/2017 - 📄 [004 | ¿Cómo puedo mantener el foco y ser productivo en Diseño…](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/004-c%C3%B3mo-puedo-mantener-el-foco-y-ser-productivo-en-dise%C3%B1o-e06cc41c298)
 - [X] 03/12/2017 - 📄 [005 | 100 cosas sobre Diseño que TODO el mundo debería saber](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/005-100-cosas-sobre-dise%C3%B1o-que-todo-el-mundo-deber%C3%ADa-saber-353c91b744d4)
 - [X] 06/12/2017 - 😍 🎥 [Quick Easy Tips to Improve Your Design Layout](https://www.youtube.com/watch?v=atS36kzr8zg)
+- [X] 08/12/2017 - 😍 🎥 [Design Systems, when and how much? — Diana Mounter](https://www.youtube.com/watch?v=Hx02SaL_IH0)
 
 ### SVG
 
