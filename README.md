@@ -450,6 +450,7 @@ Personal goals made open source across computers I use.
 - [X] 06/12/2017 - 😍 🎥 [Quick Easy Tips to Improve Your Design Layout](https://www.youtube.com/watch?v=atS36kzr8zg)
 - [X] 08/12/2017 - 🎥 [Design Systems, when and how much? — Diana Mounter](https://www.youtube.com/watch?v=Hx02SaL_IH0)
 - [X] 08/12/2017 - 🎥 [Design Systems' Role in the Evolution of Enterprise User Experience](https://www.youtube.com/watch?v=Q04UnwLFhH8)
+- [X] 11/12/2017 - 📄 [006 | ¿Cómo evaluar un buen Diseño? gracias a Dieter Rams](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/006-c%C3%B3mo-evaluar-un-buen-dise%C3%B1o-gracias-a-dieter-rams-92a0f3a4b636)
 
 ### SVG
 
