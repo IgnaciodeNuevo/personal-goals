@@ -183,6 +183,7 @@ Personal goals made open source across computers I use.
 - [X] 09/11/2017 - 📄 [How we adapted the Booking.com mobile site for the iPhone X notch.]https://booking.design/how-we-adapted-the-booking-com-mobile-site-for-the-iphone-x-notch-e880fa00e989)
 - [X] 15/11/2017 - 📄 [CSS Environment variables; how to deal with the software bezel of iPhone X](https://benfrain.com/css-environment-variables-iphonex/)
 - [X] 19/11/2017 - 🎥 [CSS en tiempos modernos](https://www.youtube.com/watch?v=MqkdrwPRqRc)
+- [X] 12/12/2017 - 🎥 [Don't Use My Grid System (or any others) by Miriam Suzanne](https://www.youtube.com/watch?v=mDRfFEcj3-Q)
 
 ### Cascade CSS
 
