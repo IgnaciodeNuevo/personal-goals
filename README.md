@@ -184,6 +184,7 @@ Personal goals made open source across computers I use.
 - [X] 15/11/2017 - 📄 [CSS Environment variables; how to deal with the software bezel of iPhone X](https://benfrain.com/css-environment-variables-iphonex/)
 - [X] 19/11/2017 - 🎥 [CSS en tiempos modernos](https://www.youtube.com/watch?v=MqkdrwPRqRc)
 - [X] 12/12/2017 - 😍 🎥 [Don't Use My Grid System (or any others) by Miriam Suzanne](https://www.youtube.com/watch?v=mDRfFEcj3-Q)
+- [X] 15/12/2017 - 📄 [Getting Hardboiled with CSS Custom Properties](https://24ways.org/2017/getting-hardboiled-with-css-custom-properties/)
 
 ### Cascade CSS
 
