@@ -260,6 +260,7 @@ Personal goals made open source across computers I use.
 - [X] 28/10/2017 - 😍 📄 CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
 - [X] 02/12/2017 - 😍 🎥 [Rachel Andrew | What I discovered about layout via CSS Grid](https://vimeo.com/238463263)
 - [X] 18/12/2017 - 🎥 [dotCSS 2017 - Florian Rivoal - Media Queries 4](https://www.youtube.com/watch?v=G9UZnpOw-OE)
+- [X] 18/12/2017 - 🎥 [dotCSS 2017 - Benjamin De Cock - CSS Grid in Production](https://www.youtube.com/watch?v=_BCiiE31D5M)
 
 ### Multi Column Layout
 
