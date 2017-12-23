@@ -22,6 +22,7 @@ Personal goals made open source across computers I use.
 
 1. [Projects](#projects)
 1. [Books](#books)
+1. [Podcasts](#podcasts)
 1. [Things I'll do in the future:](#things-ill-do-in-the-future)
 1. [HTML](#html)
 1. [Advanced CSS and Sass](#advanced-css-and-sass)
@@ -64,10 +65,10 @@ Personal goals made open source across computers I use.
 
 ### Books
 
-* [x] * 😍 📕 [Designing for Performance](http://designingforperformance.com)
-* [x] * 😍 📕 [Mobile First](https://abookapart.com/products/mobile-first)
-* [x] * 😍 📕 [SMACSS](https://smacss.com)
-* [x] * 😍 📕 [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
+* [x] 😍 📕 [Designing for Performance](http://designingforperformance.com)
+* [x] 😍 📕 [Mobile First](https://abookapart.com/products/mobile-first)
+* [x] 😍 📕 [SMACSS](https://smacss.com)
+* [x] 😍 📕 [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
 * [x] 📕 [Best of 9 Smashing years](https://shop.smashingmagazine.com/products/best-of-nine-smashing-years)
 * [x] 📕 [Colour Accesibility](https://www.fivesimplesteps.com/products/colour-accessibility)
 * [x] 📕 [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
@@ -83,6 +84,42 @@ Personal goals made open source across computers I use.
 * [x] 📕 [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
 * [ ] 📕 [Eloquent JavaScript](http://eloquentjavascript.net)
 * [ ] 📕 [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
+
+### Podcasts
+
+* [x] 🎼 [base.cs](https://www.codenewbie.org/basecs)
+* [x] 🎼 [Basta ya de picar](http://www.bastayadepicar.com/)
+* [x] 🎼 [betabeers](http://www.ivoox.com/podcast-betabeers-podcast_sq_f1334967_1.html)
+* [x] 🎼 [Code on the Rocks](https://www.spreaker.com/show/1917879)
+* [x] 🎼 [Codenewbie](https://www.codenewbie.org/podcast)
+* [x] 🎼 [Design Better.co](https://www.designbetter.co/podcast)
+* [x] 🎼 [Design Matters](http://www.debbiemillman.com/designmatters/)
+* [x] 🎼 [Diseño Cha Cha Chá](https://www.disenochachacha.com/)
+* [x] 🎼 [Diseño Humano](https://soundcloud.com/disenohumano)
+* [x] 🎼 [Frontend Happy Hour](http://frontendhappyhour.com/)
+* [x] 🎼 [Hablemos de Web](https://hablemosdeweb.com/podcast/)
+* [x] 🎼 [Hanselminutes](https://hanselminutes.com/)
+* [x] 🎼 [Javascript Air](https://javascriptair.com/)
+* [x] 🎼 [Make Better Software](https://itunes.apple.com/in/podcast/make-better-software/id1042282738?mt=2)
+* [x] 🎼 [Mr. Frontend](https://soundcloud.com/mr-frontend-community)
+* [x] 🎼 [Nación Lumpen](http://www.nacionlumpen.com/)
+* [x] 🎼 [Preceptos Digitales](http://www.preceptosdigitales.com/)
+* [x] 🎼 [Programar es una Mierda](https://www.ivoox.com/podcast-programar-es-mierda_sq_f1432444_1.html)
+* [x] 🎼 [Prototipo](https://podtail.com/podcast/prototipo/)
+* [x] 🎼 [Rant Pod](http://rantpod.com/)
+* [x] 🎼 [Shop Talk Show](http://shoptalkshow.com/)
+* [x] 🎼 [Style Guides](http://styleguides.io/podcast/)
+* [x] 🎼 [Syntax FM](https://syntax.fm/)
+* [x] 🎼 [The Big Web Show](http://5by5.tv/bigwebshow)
+* [x] 🎼 [The Design Jones](http://thedesignjones.co.uk/)
+* [x] 🎼 [The Path to Perf](https://pathtoperf.com/)
+* [x] 🎼 [The Web Ahead](http://www.thewebahead.net/)
+* [x] 🎼 [The Web Platform Podcast](https://thewebplatformpodcast.com/)
+* [x] 🎼 [ToolsDay](http://www.toolsday.io/)
+* [x] 🎼 [We.Developers](http://wedevelopers.com/)
+* [x] 🎼 [Web Reactiva](https://www.danielprimo.io/podcast)
+* [x] 🎼 [WeCodeSign Podcast](http://wecodesignpodcast.com/)
+* [x] 🎼 [Young Guns Show](http://younggunsshow.com/)
 
 ### Things I'll do in the future:
 
