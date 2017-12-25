@@ -409,7 +409,8 @@ Personal goals made open source across computers I use.
 * [x] 08/11/2016 - 🎥 [Totally Tooling Tips: Accessibility Testing](https://www.youtube.com/watch?v=56zCnwj58e4)
 * [x] 17/11/2017 - 📄 [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 * [x] 19/11/2017 - 📄 [iPhone X – Welcome Screen Inaccessible to Blind Users](https://axesslab.com/iphone-x-onboarding-bug/)
-* [x] 14/12/2017 - 📄 [SVG, Icon Fonts, and Accessibility: A Case Study]](https://www.24a11y.com/2017/svg-icon-fonts-accessibility-case-study/)
+* [x] 14/12/2017 - 📄 [SVG, Icon Fonts, and Accessibility: A Case Study](https://www.24a11y.com/2017/svg-icon-fonts-accessibility-case-study/)
+* [x] 25/12/2017 - 📄 [So You Want to Become an Accessibility Specialist](https://www.24a11y.com/2017/want-become-accessibility-specialist/)
 
 ### Perf
 
