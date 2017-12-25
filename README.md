@@ -415,6 +415,7 @@ Personal goals made open source across computers I use.
 * [x] 25/12/2017 - 📄 [So You Want to Become an Accessibility Specialist](https://www.24a11y.com/2017/want-become-accessibility-specialist/)
 * [x] 25/12/2017 - 😍 📄 [Accessibility Testing Tools for Desktop and Mobile Websites](https://www.24a11y.com/2017/accessibility-testing-tools-desktop-mobile-websites/)
 * [x] 25/12/2017 - 📄 [How “invert brightness” can improve accessibility and help us use our devices](https://developer.paciellogroup.com/blog/2017/12/how-invert-brightness-can-improve-accessibility-and-help-us-use-our-devices/)
+* [x] 25/12/2017 - 📄 [Our Users Have no Disabilities](http://axesslab.com/users-no-disabilities/)
 
 ### Perf
 
@@ -473,6 +474,7 @@ Personal goals made open source across computers I use.
 * [x] 13/10/2017 - 📄 [8-Point Grid: Vertical Rhythm](https://builttoadapt.io/8-point-grid-vertical-rhythm-90d05ad95032)
 * [x] 26/10/2017 - 📄 [Guía incompleta de diseño visual de textos para productos digitales](https://octuweb.com/guia-incompleta-diseno-visual-textos/)
 * [x] 21/12/2017 - 🎥 [Variable fonts: a million times the possibilities](https://www.youtube.com/watch?v=63Uv_VC7nbY)
+* [x] 25/12/2017 - 🎥 [[Performance and Web Typography](https://www.youtube.com/watch?v=emLfXChvVPQ)
 
 ### Design
 
