@@ -308,6 +308,7 @@ Personal goals made open source across computers I use.
 * [x] 02/12/2017 - 😍 🎥 [Rachel Andrew | What I discovered about layout via CSS Grid](https://vimeo.com/238463263)
 * [x] 18/12/2017 - 🎥 [dotCSS 2017 - Florian Rivoal - Media Queries 4](https://www.youtube.com/watch?v=G9UZnpOw-OE)
 * [x] 18/12/2017 - 🎥 [dotCSS 2017 - Benjamin De Cock - CSS Grid in Production](https://www.youtube.com/watch?v=_BCiiE31D5M)
+* [x] 25/12/2017 - 📄 [Building Better UI Designs With Layout Grids](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)
 
 ### Multi Column Layout
 
