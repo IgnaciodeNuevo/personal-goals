@@ -414,6 +414,7 @@ Personal goals made open source across computers I use.
 * [x] 14/12/2017 - 📄 [SVG, Icon Fonts, and Accessibility: A Case Study](https://www.24a11y.com/2017/svg-icon-fonts-accessibility-case-study/)
 * [x] 25/12/2017 - 📄 [So You Want to Become an Accessibility Specialist](https://www.24a11y.com/2017/want-become-accessibility-specialist/)
 * [x] 25/12/2017 - 😍 📄 [Accessibility Testing Tools for Desktop and Mobile Websites](https://www.24a11y.com/2017/accessibility-testing-tools-desktop-mobile-websites/)
+* [x] 25/12/2017 - 📄 [How “invert brightness” can improve accessibility and help us use our devices](https://developer.paciellogroup.com/blog/2017/12/how-invert-brightness-can-improve-accessibility-and-help-us-use-our-devices/)
 
 ### Perf
 
