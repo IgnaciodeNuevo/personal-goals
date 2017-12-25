@@ -242,7 +242,7 @@ Personal goals made open source across computers I use.
 ### Grid vs Flexbox
 
 * [x] 20/10/2017 - 📄 [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
-* [x] 25/12/2017 - 📄 [[How should we resolve percentage margins and padding on grid and flex items?](https://www.w3.org/blog/CSS/2017/12/20/how-should-we-resolve-percentage-margins-and-padding-on-grid-and-flex-items/)
+* [x] 25/12/2017 - 📄 [How should we resolve percentage margins and padding on grid and flex items?](https://www.w3.org/blog/CSS/2017/12/20/how-should-we-resolve-percentage-margins-and-padding-on-grid-and-flex-items/)
 
 ### CSS Grid Layout
 
@@ -438,6 +438,7 @@ Personal goals made open source across computers I use.
 * [x] 23/12/2017 - 😍 🎥 [Fast By Default: Modern Loading Best Practices (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=_srJ7eHS3IM)
 * [x] 25/12/2017 - 😍 📄 [Modern Asynchronous CSS Loading](https://www.filamentgroup.com/lab/async-css.html)
 * [x] 25/12/2017 - 📄 [Modernizing our Progressive Enhancement Delivery](https://www.filamentgroup.com/lab/modernizing-delivery.html)
+* [x] 25/12/2017 - 📄 [Speed Patterns](https://calendar.perfplanet.com/2017/speed-patterns/)
 
 ### Typography
 
