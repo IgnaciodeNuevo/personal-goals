@@ -474,7 +474,8 @@ Personal goals made open source across computers I use.
 * [x] 13/10/2017 - 📄 [8-Point Grid: Vertical Rhythm](https://builttoadapt.io/8-point-grid-vertical-rhythm-90d05ad95032)
 * [x] 26/10/2017 - 📄 [Guía incompleta de diseño visual de textos para productos digitales](https://octuweb.com/guia-incompleta-diseno-visual-textos/)
 * [x] 21/12/2017 - 🎥 [Variable fonts: a million times the possibilities](https://www.youtube.com/watch?v=63Uv_VC7nbY)
-* [x] 25/12/2017 - 🎥 [[Performance and Web Typography](https://www.youtube.com/watch?v=emLfXChvVPQ)
+* [x] 25/12/2017 - 🎥 [Performance and Web Typography](https://www.youtube.com/watch?v=emLfXChvVPQ)
+* [x] 25/12/2017 - 📄 [Web fonts, boy, I don't know](https://meowni.ca/posts/web-fonts/)
 
 ### Design
 
