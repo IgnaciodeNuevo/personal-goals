@@ -439,6 +439,7 @@ Personal goals made open source across computers I use.
 * [x] 25/12/2017 - 😍 📄 [Modern Asynchronous CSS Loading](https://www.filamentgroup.com/lab/async-css.html)
 * [x] 25/12/2017 - 📄 [Modernizing our Progressive Enhancement Delivery](https://www.filamentgroup.com/lab/modernizing-delivery.html)
 * [x] 25/12/2017 - 📄 [Speed Patterns](https://calendar.perfplanet.com/2017/speed-patterns/)
+* [x] 25/12/2017 - 📄 [3 Tips for Faster Font Loading](https://calendar.perfplanet.com/2017/3-tips-for-faster-font-loading/)
 
 ### Typography
 
