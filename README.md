@@ -242,6 +242,7 @@ Personal goals made open source across computers I use.
 ### Grid vs Flexbox
 
 * [x] 20/10/2017 - 📄 [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
+* [x] 25/12/2017 - 📄 [[How should we resolve percentage margins and padding on grid and flex items?](https://www.w3.org/blog/CSS/2017/12/20/how-should-we-resolve-percentage-margins-and-padding-on-grid-and-flex-items/)
 
 ### CSS Grid Layout
 
