@@ -435,6 +435,7 @@ Personal goals made open source across computers I use.
 * [x] 07/11/2017 - 🎥 [Monica Dinculescu on Fontastic Web Performance at SmashingConf Barcelona 2017](https://vimeo.com/241111413)
 * [x] 23/12/2017 - 😍 🎥 [Fast By Default: Modern Loading Best Practices (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=_srJ7eHS3IM)
 * [x] 25/12/2017 - 😍 📄 [Modern Asynchronous CSS Loading](https://www.filamentgroup.com/lab/async-css.html)
+* [x] 25/12/2017 - 📄 [Modernizing our Progressive Enhancement Delivery](https://www.filamentgroup.com/lab/modernizing-delivery.html)
 
 ### Typography
 
