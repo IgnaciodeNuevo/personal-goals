@@ -25,11 +25,12 @@ Personal goals made open source across computers I use.
 1. [Podcasts](#podcasts)
 1. [Things I'll do in the future:](#things-ill-do-in-the-future)
 1. [HTML](#html)
-1. [Advanced CSS and Sass](#advanced-css-and-sass)
 1. [Cascade CSS](#cascade-css)
+1. [Advanced CSS and Sass](#advanced-css-and-sass)
 1. [Grid vs Flexbox](#grid-vs-flexbox)
 1. [CSS Grid Layout](#css-grid-layout)
 1. [Multi Column Layout](#multi-column-layout)
+1. [Custom Properties](#custom-properties)
 1. [CSS Architecture and Naming](#css-architecture-and-naming)
 1. [Refactoring CSS](#refactoring-css)
 1. [a11y](#a11y)
@@ -157,7 +158,13 @@ Personal goals made open source across computers I use.
 * [x] 02/10/2017 - 📄 [I’ve seen the future, it’s full of HTML.](https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210)
 * [x] 27/12/2017 - 😍 📄 [An Overview of HTML5 Semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
 
-### Advanced CSS and Sass
+### Cascade CSS
+
+* [x] 07/11/2017 - 😍 📄 [CSS Specificity: Things You Should Know](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
+* [x] 07/11/2017 - 📄 [CSS Specificity And Inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)
+* [x] 07/11/2017 - 📄 [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
+
+  ### Advanced CSS and Sass
 
 * [x] 01/01/2016 - 🎥 [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 * [x] 01/11/2016 - 🎥 [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
@@ -175,15 +182,10 @@ Personal goals made open source across computers I use.
 * [x] 19/06/2017 - 📄 [CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
 * [x] 27/06/2017 - 🎥 [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=kbGYPm9uYfk)
 * [x] 08/07/2017 - 📄 [CSS vs. JavaScript: Trust vs. Control](https://christianheilmann.com/2017/06/21/css-vs-javascript-trust-vs-control/)
-* [x] 08/07/2017 - 📄 [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/#💁)
 * [x] 08/07/2017 - 📄 [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css)
 * [x] 08/07/2017 - 📄 [Build a Style Guide Straight from Sass](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/)
 * [x] 08/07/2017 - 📄 [Handling Long and Unexpected Content in CSS](https://csçs-tricks.com/handling-long-unexpected-content-css/)
-* [x] 11/07/2017 - 📄 [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
 * [x] 11/07/2017 - 📄 [Did CSS get more complicated since the late nineties?](https://hiddedevries.nl/en/blog/2017-07-03-did-css-get-more-complicated-since-the-late-nineties)
-* [x] 11/07/2017 - 📄 [Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/)
-* [x] 11/07/2017 - 😍 📄 [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
-* [x] 11/07/2017 - 📄 [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
 * [x] 18/07/2017 - 📄 [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
 * [x] 29/07/2017 - 📄 [Building a responsive timeline in CSS with Sass and BEM](https://assortment.io/posts/building-responsive-timelines-in-css-sass-bem)
 * [x] 26/07/2017 - 😍 [Refactoring Legacy CSS](https://www.youtube.com/watch?v=nCPAFcMf8qc)
@@ -208,10 +210,8 @@ Personal goals made open source across computers I use.
 * [x] 15/08/2017 - 📄 [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/)
 * [x] 20/08/2017 - 📄 [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
 * [x] 20/08/2017 - 📄 [The Nine Principles Of Design Implementation](https://www.smashingmagazine.com/2017/08/nine-principles-design-implementation/)
-* [x] 20/08/2017 - 🎥 [Lea Verou - CSS Variables: var(--subtitle);](https://www.youtube.com/watch?v=2an6-WVPuJU)
 * [x] 20/08/2017 - 🎥 [Ire Aderinokun — Progressive Enhancement and CSS](https://vimeo.com/194815985)
 * [x] 23/08/2017 - 📄 [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
-* [x] 31/08/2017 - 📄 [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
 * [x] 06/09/2017 - 📄 [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
 * [x] 06/09/2017 - 📄 [Designing grids](https://zellwk.com/blog/designing-grids/)
 * [x] 17/09/2017 - 😍 📄 [12 Little-Known CSS Facts](https://www.sitepoint.com/12-little-known-css-facts/)
@@ -224,22 +224,13 @@ Personal goals made open source across computers I use.
 * [x] 20/10/2017 - 😍 📄 [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f)
 * [x] 20/10/2017 - 📄 [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
 * [x] 07/11/2017 - 🎥 [Chris Lilley on The State of WebFonts at SmashingConf Barcelona 2017](https://vimeo.com/241102754)
-* [x] 08/11/2017 - 📄 [The CSS attr() function got nothin’ on custom properties](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
 * [x] 08/11/2017 - 🎥 [Rachel Andrew — The New CSS Layout Technologies](https://www.youtube.com/watch?v=xHOYsOxcYLc)
 * [x] 09/11/2017 - 📄 [Inherit, Initial and Unset Values for CSS Properties](https://alligator.io/css/inherit-initial-unset/)
 * [x] 09/11/2017 - 📄 [How we adapted the Booking.com mobile site for the iPhone X notch.]https://booking.design/how-we-adapted-the-booking-com-mobile-site-for-the-iphone-x-notch-e880fa00e989)
-* [x] 15/11/2017 - 📄 [CSS Environment variables; how to deal with the software bezel of iPhone X](https://benfrain.com/css-environment-variables-iphonex/)
 * [x] 19/11/2017 - 🎥 [CSS en tiempos modernos](https://www.youtube.com/watch?v=MqkdrwPRqRc)
 * [x] 12/12/2017 - 😍 🎥 [Don't Use My Grid System (or any others) by Miriam Suzanne](https://www.youtube.com/watch?v=mDRfFEcj3-Q)
-* [x] 15/12/2017 - 📄 [Getting Hardboiled with CSS Custom Properties](https://24ways.org/2017/getting-hardboiled-with-css-custom-properties/)
 * [x] 21/12/2017 - 😍 📄 [Vertical Percentages in CSS](https://www.impressivewebs.com/vertical-percentages-css/)
 * [x] 27/12/2017 - 📄 [Stunning examples of CSS pseudo-classes in action](https://www.catswhocode.com/blog/stunning-examples-of-css-pseudo-classes-in-action)
-
-### Cascade CSS
-
-* [x] 07/11/2017 - 😍 📄 [CSS Specificity: Things You Should Know](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
-* [x] 07/11/2017 - 📄 [CSS Specificity And Inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)
-* [x] 07/11/2017 - 📄 [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
 
 ### Grid vs Flexbox
 
@@ -317,6 +308,19 @@ Personal goals made open source across computers I use.
 ### Multi Column Layout
 
 * [x] 20/10/2017 - 😍 📄 [Exploring Multi-Column Layouts in CSS](https://alligator.io/css/multi-column-layouts/)
+
+### Custom Properties
+
+* [x] 08/07/2017 - 📄 [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/#💁)
+* [x] 11/07/2017 - 📄 [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
+* [x] 11/07/2017 - 📄 [Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/)
+* [x] 11/07/2017 - 😍 📄 [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
+* [x] 11/07/2017 - 📄 [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
+* [x] 20/08/2017 - 🎥 [Lea Verou - CSS Variables: var(--subtitle);](https://www.youtube.com/watch?v=2an6-WVPuJU)
+* [x] 31/08/2017 - 📄 [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
+* [x] 08/11/2017 - 📄 [The CSS attr() function got nothin’ on custom properties](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
+* [x] 15/11/2017 - 📄 [CSS Environment variables; how to deal with the software bezel of iPhone X](https://benfrain.com/css-environment-variables-iphonex/)
+* [x] 27/12/2017 - 📄 [Getting Hardboiled with CSS Custom Properties](https://24ways.org/2017/getting-hardboiled-with-css-custom-properties/)
 
 ### CSS Architecture and Naming
 
