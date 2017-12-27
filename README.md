@@ -233,7 +233,6 @@ Personal goals made open source across computers I use.
 * [x] 15/12/2017 - 📄 [Getting Hardboiled with CSS Custom Properties](https://24ways.org/2017/getting-hardboiled-with-css-custom-properties/)
 * [x] 21/12/2017 - 😍 📄 [Vertical Percentages in CSS](https://www.impressivewebs.com/vertical-percentages-css/)
 * [x] 27/12/2017 - 📄 [Stunning examples of CSS pseudo-classes in action](https://www.catswhocode.com/blog/stunning-examples-of-css-pseudo-classes-in-action)
-* [x] 27/12/2017 - 📄 [Using Sass to Build a Custom Type Scale with Vertical Rhythm](https://www.sitepoint.com/using-sass-build-custom-type-scale-vertical-rhythm/)
 
 ### Cascade CSS
 
@@ -481,6 +480,8 @@ Personal goals made open source across computers I use.
 * [x] 21/12/2017 - 🎥 [Variable fonts: a million times the possibilities](https://www.youtube.com/watch?v=63Uv_VC7nbY)
 * [x] 25/12/2017 - 😍 🎥 [Performance and Web Typography](https://www.youtube.com/watch?v=emLfXChvVPQ)
 * [x] 25/12/2017 - 📄 [Web fonts, boy, I don't know](https://meowni.ca/posts/web-fonts/)
+* [x] 27/12/2017 - 📄 [Using Sass to Build a Custom Type Scale with Vertical Rhythm](https://www.sitepoint.com/using-sass-build-custom-type-scale-vertical-rhythm/)
+* [x] 27/12/2017 - 📄 [Typography and Vertical Rhythm](https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm)
 
 ### Design
 
