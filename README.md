@@ -402,7 +402,7 @@ Personal goals made open source across computers I use.
 * [x] 06/09/2017 - 📄 [Color blind accessibility on the web - Fail and success cases](https://axesslab.com/colorblind-accessibility-web-fail-success-cases/)
 * [x] 06/09/2017 - 📄 [Accessible datepickers](https://axesslab.com/accessible-datepickers/)
 * [x] 17/09/2017 - 📄 [Skip the WCAG! User test with people with disabilities instead](https://axesslab.com/skip-the-wcag/)
-* [x] 26/09/2017 - 📄 [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
+* [x] 26/09/2017 - 😍 📄 [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
 * [x] 27/09/2017 - 📄 [Building Inclusive Toggle Buttons](https://www.smashingmagazine.com/2017/09/building-inclusive-toggle-buttons/)
 * [x] 27/09/2017 - 📄 [Writing CSS with Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
 * [x] 02/10/2017 - 📄 [CSS al rescate: UX y Formularios](https://octuweb.com/css-al-rescate-ux-formularios/)
@@ -422,6 +422,7 @@ Personal goals made open source across computers I use.
 * [x] 27/12/2017 - 📄 [Color Contrast, Beyond the Basics](https://www.24a11y.com/2017/color-contrast-beyond-basics/)
 * [x] 27/09/2017 - 📄 [SVG, Icon Fonts, and Accessibility: A Case Study](https://www.24a11y.com/2017/svg-icon-fonts-accessibility-case-study/)
 * [x] 27/12/2017 - 📄 [Accessibility Through Semantic HTML](https://24ways.org/2017/accessibility-through-semantic-html/)
+* [x] 27/12/2017 - 😍 📄 [Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/)
 
 ### Perf
 
