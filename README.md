@@ -232,6 +232,7 @@ Personal goals made open source across computers I use.
 * [x] 12/12/2017 - 😍 🎥 [Don't Use My Grid System (or any others) by Miriam Suzanne](https://www.youtube.com/watch?v=mDRfFEcj3-Q)
 * [x] 15/12/2017 - 📄 [Getting Hardboiled with CSS Custom Properties](https://24ways.org/2017/getting-hardboiled-with-css-custom-properties/)
 * [x] 21/12/2017 - 😍 📄 [Vertical Percentages in CSS](https://www.impressivewebs.com/vertical-percentages-css/)
+* [x] 27/12/2017 - 📄 [Stunning examples of CSS pseudo-classes in action](https://www.catswhocode.com/blog/stunning-examples-of-css-pseudo-classes-in-action)
 
 ### Cascade CSS
 
