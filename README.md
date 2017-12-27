@@ -369,8 +369,6 @@ Personal goals made open source across computers I use.
 * [x] 13/11/2017 - 😍 📄 [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
 * [x] 13/11/2017 - 😍 📄 [Methods to Organize CSS](https://css-tricks.com/methods-organize-css/)
 * [x] 13/11/2017 - 😍 📄 [Organize your CSS properties however you dang like](https://michael.blog/2017/03/30/organize-your-css-properties-however-you-dang-like/)
-* [x] 13/11/2017 - 📄 [BUILD A STRONG SASS ARCHITECTURE: PART 1](https://jonoherrington.com/build-a-strong-sass-architecture-part-1)
-* [x] 13/11/2017 - 📄 [BUILD A STRONG SASS ARCHITECTURE: PART 2](https://jonoherrington.com/build-a-strong-sass-architecture-part-2)
 * [x] 13/11/2017 - 😍 📄 [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 * [x] 13/11/2017 - 💊 [Buenas prácticas en CSS](http://www.nahuelsotelo.com/edu.css-architecture/#/)
 * [x] 13/11/2017 - 😍 📄 [An Introduction To Object Oriented CSS - OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
