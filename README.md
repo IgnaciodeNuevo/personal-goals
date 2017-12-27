@@ -419,6 +419,7 @@ Personal goals made open source across computers I use.
 * [x] 25/12/2017 - 😍 📄 [Accessibility Testing Tools](https://css-tricks.com/accessibility-testing-tools/)
 * [x] 25/12/2017 - 📄 [How “invert brightness” can improve accessibility and help us use our devices](https://developer.paciellogroup.com/blog/2017/12/how-invert-brightness-can-improve-accessibility-and-help-us-use-our-devices/)
 * [x] 25/12/2017 - 📄 [Our Users Have no Disabilities](http://axesslab.com/users-no-disabilities/)
+* [x] 27/12/2017 - 📄 [Color Contrast, Beyond the Basics](https://www.24a11y.com/2017/color-contrast-beyond-basics/)
 
 ### Perf
 
