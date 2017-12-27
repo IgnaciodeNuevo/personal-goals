@@ -154,7 +154,8 @@ Personal goals made open source across computers I use.
 
 ### HTML
 
-* [x] 02/10/2017 - [I’ve seen the future, it’s full of HTML.](https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210)
+* [x] 02/10/2017 - 📄 [I’ve seen the future, it’s full of HTML.](https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210)
+* [x] 27/12/2017 - 😍 📄 [An Overview of HTML5 Semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
 
 ### Advanced CSS and Sass
 
