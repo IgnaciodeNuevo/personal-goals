@@ -447,6 +447,7 @@ Personal goals made open source across computers I use.
 * [x] 25/12/2017 - 📄 [Speed Patterns](https://calendar.perfplanet.com/2017/speed-patterns/)
 * [x] 25/12/2017 - 📄 [3 Tips for Faster Font Loading](https://calendar.perfplanet.com/2017/3-tips-for-faster-font-loading/)
 * [x] 27/12/2017 - 📄 [Why Web Developers Need to Care about Interactivity](https://philipwalton.com/articles/why-web-developers-need-to-care-about-interactivity/)
+* [x] 27/12/2017 - 📄 [Designing for Mobile Performance](https://24ways.org/2017/designing-for-mobile-performance/)
 
 ### Typography
 
