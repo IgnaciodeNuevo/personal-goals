@@ -587,6 +587,7 @@ Personal goals made open source across computers I use.
 * [x] 11/12/2017 - 📄 [006 | ¿Cómo evaluar un buen Diseño? gracias a Dieter Rams](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/006-c%C3%B3mo-evaluar-un-buen-dise%C3%B1o-gracias-a-dieter-rams-92a0f3a4b636)
 * [x] 25/12/2017 - 📄 [A comprehensive guide to design systems](https://www.invisionapp.com/blog/guide-to-design-systems/)
 * [x] 25/12/2017 - 📄 [Design for Programmers](https://blog.prototypr.io/design-for-programmers-d38c56982cd0)
+* [x] 28/12/2017 - 📄 [Optical Effects in User Interfaces (for True Nerds)](https://medium.muz.li/optical-effects-9fca82b4cd9a)
 
 ### SVG
 
