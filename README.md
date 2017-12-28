@@ -305,7 +305,8 @@ Personal goals made open source across computers I use.
 * [x] 25/12/2017 - 📄 [Building Better UI Designs With Layout Grids](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)
 * [x] 26/12/2017 - 📄 [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)
 * [x] 28/12/2017 - 📄 [Design Systems and CSS Grid](https://24ways.org/2017/design-systems-and-css-grid/)
-* [x] 28/12/2017 - 🎥 [Jen Simmons Designing with grid](https://www.youtube.com/watch?time_continue=8&v=Gn3JOE6qMuE)
+* [x] 28/12/2017 - 😍 🎥 [Jen Simmons Designing with grid](https://www.youtube.com/watch?time_continue=8&v=Gn3JOE6qMuE)
+* [x] 28/12/2017 - 📄 [Notes on vertical writing and CSS grid](https://www.chenhuijing.com/blog/notes-on-vertical-writing-and-grid/#%F0%9F%8E%AE)
 
 ### Multi Column Layout
 
