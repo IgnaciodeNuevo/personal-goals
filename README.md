@@ -502,6 +502,7 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 📄 [The Fallacies of Distributed Computing (Applied to Front-End Performance)](https://csswizardry.com/2017/11/the-fallacies-of-distributed-computing-applied-to-front-end-performance/)
 * [x] 28/12/2017 - 📄 [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
 * [x] 28/12/2017 - 📄 [More examples of Progressive Image Loading](https://medium.com/@jmperezperez/more-examples-of-progressive-image-loading-f258be9f440b)
+* [x] 28/12/2017 - 📄 [How Medium does progressive image loading](https://medium.com/@jmperezperez/how-medium-does-progressive-image-loading-fd1e4dc1ee3d)
 
 ### Typography
 
