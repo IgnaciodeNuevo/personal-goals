@@ -402,7 +402,7 @@ Personal goals made open source across computers I use.
 * [x] 20/10/2017 - 📄 [5 Tips for Starting a Front-End Refactor](https://css-tricks.com/5-tips-starting-front-end-refactor/)
 * [x] 26/10/2017 - 😍 📄 [Refactoring Tunnels](https://csswizardry.com/2017/06/refactoring-tunnels)
 
-### Sass
+### Sass
 
 * [x] 31/07/2017 - 📄 [Susy 3](https://medium.com/oddbird-web/welcome-to-susy3-a0127e594b53)
 * [x] 31/07/2017 - 📄 [Advanced SCSS](https://gist.github.com/jareware/4738651)
