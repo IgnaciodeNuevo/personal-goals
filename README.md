@@ -321,6 +321,7 @@ Personal goals made open source across computers I use.
 
 * [x] 09/10/2017 - 📄 [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
 * [x] 28/12/2017 - 📄 [Stop Leaving Animation to the Last Minute](https://24ways.org/2017/stop-leaving-animation-to-the-last-minute/)
+* [x] 28/12/2017 - 📄 [Animating Border](https://css-tricks.com/animating-border/)
 
 ### Custom Properties
 
