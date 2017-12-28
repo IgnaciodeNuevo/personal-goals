@@ -454,7 +454,8 @@ Personal goals made open source across computers I use.
 * [x] 27/12/2017 - 📄 [Color Contrast, Beyond the Basics](https://www.24a11y.com/2017/color-contrast-beyond-basics/)
 * [x] 27/09/2017 - 📄 [SVG, Icon Fonts, and Accessibility: A Case Study](https://www.24a11y.com/2017/svg-icon-fonts-accessibility-case-study/)
 * [x] 27/12/2017 - 📄 [Accessibility Through Semantic HTML](https://24ways.org/2017/accessibility-through-semantic-html/)
-* [x] 27/12/2017 - 😍 📄 [Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/)
+* [x] 28/12/2017 - 😍 📄 [Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/)
+* [x] 28/12/2017 - 📄 [Accessibility in Resizing Text](https://www.24a11y.com/2017/accessibility-resizing-text/)
 
 ### Perf
 
