@@ -817,3 +817,4 @@ Personal goals made open source across computers I use.
 * [x] 29/11/2017 - 🎥 [Joan León - CSS Craftsmanship | BCN Software Craftsmanship](https://www.youtube.com/watch?v=VBmu14P-gsE)
 * [x] 30/11/2017 - 🎥 [dotCSS 2014 - Harry Roberts - 10 Principles for effective Front-end Development](https://www.youtube.com/watch?v=CiMGKZpnHQE)
 * [x] 30/11/2017 - 🎥 [EnhanceConf - Aaron Gustafson - Learn from the Past, Enhance for the Future](https://www.youtube.com/watch?v=0XCjjMsT3MM)
+* [x] 28/12/2017 - 📄 [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
