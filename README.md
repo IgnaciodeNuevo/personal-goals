@@ -503,6 +503,7 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 📄 [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
 * [x] 28/12/2017 - 📄 [More examples of Progressive Image Loading](https://medium.com/@jmperezperez/more-examples-of-progressive-image-loading-f258be9f440b)
 * [x] 28/12/2017 - 📄 [How Medium does progressive image loading](https://medium.com/@jmperezperez/how-medium-does-progressive-image-loading-fd1e4dc1ee3d)
+* [x] 28/12/2017 - 📄 [How to lazy-load images to improve loading time and save bandwidth](https://medium.com/@jmperezperez/lazy-loading-images-on-the-web-to-improve-loading-time-and-saving-bandwidth-ec988b710290)
 
 ### Typography
 
