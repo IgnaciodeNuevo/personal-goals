@@ -224,6 +224,7 @@ Personal goals made open source across computers I use.
 ### Feature Queries
 
 * [x] 27/05/2017 - 😍 📄 [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
+* [x] 28/05/2017 - 📄 [Cascading Web Design with Feature Queries](https://24ways.org/2017/cascading-web-design/)
 
 ### Responsive Images
 
