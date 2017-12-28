@@ -603,6 +603,7 @@ Personal goals made open source across computers I use.
 * [x] 02/10/2017 - 📄 [Charming interfaces – make your users smile](https://axesslab.com/humor/)
 * [x] 08/11/2017 - 💊 [Links vs Buttons](https://codepen.io/AmeliaBR/full/RjaqrN/)
 * [x] 01/12/2017 - 🎥 [Joe Leech - Forms are boring - NUX2](https://www.youtube.com/watch?v=K6jiCkZwLgg)
+* [x] 28/12/2017 - 📄 [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 
 ### General Frontend
 
