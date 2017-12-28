@@ -407,6 +407,7 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 📄 [Refactoring >14,000 lines of CSS into Sass](https://wildbit.com/blog/2012/04/16/refactoring-14000-lines-of-css-into-sass)
 * [x] 28/12/2017 - 😍 📄 [Refactoring CSS: The Three I’s](https://csswizardry.com/2016/08/refactoring-css-the-three-i-s/)
 * [x] 28/12/2017 - 📄 [Starting a Refactor with CSS Dig](https://css-tricks.com/starting-a-refactor-with-css-dig/)
+* [x] 28/12/2017 - 📄 [How to Refactor CSS – A Guide](https://www.hongkiat.com/blog/code-optimization-series-refactoring-css/)
 
 ### Sass
 
