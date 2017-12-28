@@ -499,6 +499,7 @@ Personal goals made open source across computers I use.
 * [x] 27/12/2017 - 📄 [Why Web Developers Need to Care about Interactivity](https://philipwalton.com/articles/why-web-developers-need-to-care-about-interactivity/)
 * [x] 27/12/2017 - 📄 [Designing for Mobile Performance](https://24ways.org/2017/designing-for-mobile-performance/)
 * [x] 28/12/2017 - 📄 [Progressive Image Loading using Intersection Observer and SQIP](https://calendar.perfplanet.com/2017/progressive-image-loading-using-intersection-observer-and-sqip/)
+* [x] 28/12/2017 - 📄 [The Fallacies of Distributed Computing (Applied to Front-End Performance)](https://csswizardry.com/2017/11/the-fallacies-of-distributed-computing-applied-to-front-end-performance/)
 
 ### Typography
 
