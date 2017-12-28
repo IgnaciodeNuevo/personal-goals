@@ -315,6 +315,7 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 😍 🎥 [Jen Simmons Designing with grid](https://www.youtube.com/watch?time_continue=8&v=Gn3JOE6qMuE)
 * [x] 12/12/2017 - 😍 🎥 [Don't Use My Grid System (or any others) by Miriam Suzanne](https://www.youtube.com/watch?v=mDRfFEcj3-Q)
 * [x] 28/12/2017 - 📄 [Notes on vertical writing and CSS grid](https://www.chenhuijing.com/blog/notes-on-vertical-writing-and-grid/#%F0%9F%8E%AE)
+* [x] 29/12/2017 - 📄 [Aspect Ratios for Grid Items](https://css-tricks.com/aspect-ratios-grid-items/)
 
 ### Multi Column Layout
 
