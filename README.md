@@ -182,7 +182,6 @@ Personal goals made open source across computers I use.
 * [x] 27/05/2017 - 🎥 [Becoming Responsible for CSS](https://www.youtube.com/watch?v=uHDhtRyDR60)
 * [x] 08/07/2017 - 📄 [CSS vs. JavaScript: Trust vs. Control](https://christianheilmann.com/2017/06/21/css-vs-javascript-trust-vs-control/)
 * [x] 08/07/2017 - 📄 [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css)
-* [x] 08/07/2017 - 📄 [Build a Style Guide Straight from Sass](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/)
 * [x] 08/07/2017 - 📄 [Handling Long and Unexpected Content in CSS](https://css-tricks.com/handling-long-unexpected-content-css/)
 * [x] 11/07/2017 - 📄 [Did CSS get more complicated since the late nineties?](https://hiddedevries.nl/en/blog/2017-07-03-did-css-get-more-complicated-since-the-late-nineties)
 * [x] 18/07/2017 - 📄 [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
@@ -320,6 +319,7 @@ Personal goals made open source across computers I use.
 ### Animation
 
 * [x] 09/10/2017 - 📄 [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
+* [x] 28/12/2017 - 📄 [Stop Leaving Animation to the Last Minute](https://24ways.org/2017/stop-leaving-animation-to-the-last-minute/)
 
 ### Custom Properties
 
@@ -409,6 +409,7 @@ Personal goals made open source across computers I use.
 * [x] 31/07/2017 - 📄 [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/)
 * [x] 02/08/2017 - 📄 [Fix 90% of Your Problems With Susy by Getting This One Concept Right](https://zellwk.com/blog/context-with-susy/)
 * [x] 13/10/2017 - 📄 [Use a Sass Variable for a Selector](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
+* [x] 28/12/2017 - 📄 [V6: Typography and Proportions](http://v6.robweychert.com/blog/2017/11/v6-typography-proportions/)
 
 ### Stylable
 
@@ -528,6 +529,7 @@ Personal goals made open source across computers I use.
 
 * [x] 01/11/2016 - 🎥 [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
 * [x] 30/12/2016 - 😍 🎥 [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
+* [x] 08/07/2017 - 📄 [Build a Style Guide Straight from Sass](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/)
 * [x] 01/08/2017 - 📄 [Eight rules about color palettes that everyone should know](https://medium.springboard.com/a-designers-guide-to-selecting-colors-for-your-product-9944756838d4?mc_cid=abd76f7ad4)
 * [x] 02/08/2017 - 📄 [Better grid systems in UI design tools](https://medium.com/subform/better-grid-systems-in-ui-design-tools-495dc35c5791)
 * [x] 02/08/2017 - 📄 [Why Are Wireframes Useful?](http://blog.teamtreehouse.com/how-to-design-a-useful-wireframe)
