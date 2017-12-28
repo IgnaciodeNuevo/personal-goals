@@ -508,6 +508,7 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 📄 [How Medium does progressive image loading](https://medium.com/@jmperezperez/how-medium-does-progressive-image-loading-fd1e4dc1ee3d)
 * [x] 28/12/2017 - 📄 [How to lazy-load images to improve loading time and save bandwidth](https://medium.com/@jmperezperez/lazy-loading-images-on-the-web-to-improve-loading-time-and-saving-bandwidth-ec988b710290)
 * [x] 28/12/2017 - 📄 [Using WebP to create tiny preview images](https://medium.com/@jmperezperez/using-webp-to-create-tiny-preview-images-3e9b924f28d6)
+* [x] 29/12/2017 - 📄 [The Contrast Swap Technique: Improved Image Performance with CSS Filters](https://css-tricks.com/contrast-swap-technique-improved-image-performance-css-filters/)
 
 ### Typography
 
