@@ -458,6 +458,7 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 😍 📄 [Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/)
 * [x] 28/12/2017 - 📄 [Accessibility in Resizing Text](https://www.24a11y.com/2017/accessibility-resizing-text/)
 * [x] 28/12/2017 - 📄 [A Developer’s Guide to Better Accessibility](https://www.24a11y.com/2017/a-developers-guide-to-better-accessibility/)
+* [x] 28/12/2017 - 📄 [Accessible Links Re:visited](https://www.filamentgroup.com/lab/a11y-links.html)
 
 ### Perf
 
