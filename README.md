@@ -220,6 +220,7 @@ Personal goals made open source across computers I use.
 * [x] 02/08/2017 - 😍 📄 [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
 * [x] 15/08/2017 - 📄 [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/)
 * [x] 20/10/2017 - 📄 [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
+* [x] 28/12/2017 - 😍 📄 [Comprehensive Guide: When to Use Em vs. Rem](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 
 ### Feature Queries
 
