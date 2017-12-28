@@ -405,6 +405,7 @@ Personal goals made open source across computers I use.
 * [x] 20/10/2017 - 📄 [5 Tips for Starting a Front-End Refactor](https://css-tricks.com/5-tips-starting-front-end-refactor/)
 * [x] 26/10/2017 - 😍 📄 [Refactoring Tunnels](https://csswizardry.com/2017/06/refactoring-tunnels)
 * [x] 28/12/2017 - 📄 [Refactoring >14,000 lines of CSS into Sass](https://wildbit.com/blog/2012/04/16/refactoring-14000-lines-of-css-into-sass)
+* [x] 28/12/2017 - 😍 📄 [Refactoring CSS: The Three I’s](https://csswizardry.com/2016/08/refactoring-css-the-three-i-s/)
 
 ### Sass
 
