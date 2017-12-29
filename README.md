@@ -212,6 +212,7 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 📄 [Calc() function with Use Cases](https://pineco.de/calc-function-with-use-cases/)
 * [x] 28/12/2017 - 📄 [Breaking Out With Viewport Units and Calc ](https://cloudfour.com/thinks/breaking-out-with-viewport-units-and-calc/)
 * [x] 29/12/2017 - 📄 [CSS element() function](http://iamvdo.me/en/blog/css-element-function)
+* [x] 29/12/2017 - 😍 📄 [Link Specificity](https://meyerweb.com/eric/css/link-specificity.html)
 
 ### Relative Units
 
