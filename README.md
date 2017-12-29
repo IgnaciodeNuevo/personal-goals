@@ -39,13 +39,13 @@ Personal goals made open source across computers I use.
 1. [CSS Architecture and Naming](#css-architecture-and-naming)
 1. [Refactoring CSS](#refactoring-css)
 1. [Stylable](#stylable)
+1. [General Frontend](#general-frontend)
 1. [a11y](#a11y)
 1. [Perf](#perf)
 1. [Typography](#typography)
 1. [Design](#design)
 1. [SVG](#svg)
 1. [UX](#ux)
-1. [General Frontend](#general-frontend)
 1. [JavaScript](#javascript)
 1. [Angular](#angular)
 1. [React](#react)
@@ -307,6 +307,7 @@ Personal goals made open source across computers I use.
 * [x] 29/09/2017 - 🎥 [CSS Grid Layout](https://www.youtube.com/watch?v=AxVXpS6PyRE)
 * [x] 20/10/2017 - 📄 [Grid is all about the container](https://rachelandrew.co.uk/archives/2017/03/31/grid-is-all-about-the-container/)
 * [x] 28/10/2017 - 😍 📄 CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
+* [x] 29/11/2017 - 🎥 [Joan León - CSS Craftsmanship | BCN Software Craftsmanship](https://www.youtube.com/watch?v=VBmu14P-gsE)
 * [x] 02/12/2017 - 😍 🎥 [Rachel Andrew | What I discovered about layout via CSS Grid](https://vimeo.com/238463263)
 * [x] 18/12/2017 - 🎥 [dotCSS 2017 - Florian Rivoal - Media Queries 4](https://www.youtube.com/watch?v=G9UZnpOw-OE)
 * [x] 18/12/2017 - 🎥 [dotCSS 2017 - Benjamin De Cock - CSS Grid in Production](https://www.youtube.com/watch?v=_BCiiE31D5M)
@@ -319,7 +320,7 @@ Personal goals made open source across computers I use.
 * [x] 29/12/2017 - 📄 [Aspect Ratios for Grid Items](https://css-tricks.com/aspect-ratios-grid-items/)
 * [x] 29/12/2017 - 📄 [Practical uses for the aspect-ratio media query](https://www.chenhuijing.com/blog/aspect-ratio-media-queries/#%F0%9F%92%BB)
 
-### Multi Column Layout
+  ### Multi Column Layout
 
 * [x] 20/10/2017 - 😍 📄 [Exploring Multi-Column Layouts in CSS](https://alligator.io/css/multi-column-layouts/)
 
@@ -426,6 +427,15 @@ Personal goals made open source across computers I use.
 ### Stylable
 
 * [x] 28/12/2017 - 📄 [Styling Components - Typed CSS With Stylable](https://24ways.org/2017/styling-components-typed-css-with-stylable/)
+
+### General Frontend
+
+* [x] 25/12/2016 - 😍 🎥 [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
+* [x] 26/11/2017 - 🎥 [¿Qué es un Senior Developer?: LUIS G. VALLE](https://www.youtube.com/watch?v=Vp0mR0XUrGo)
+* [x] 30/11/2017 - 🎥 [dotCSS 2014 - Harry Roberts - 10 Principles for effective Front-end Development](https://www.youtube.com/watch?v=CiMGKZpnHQE)
+* [x] 30/11/2017 - 🎥 [EnhanceConf - Aaron Gustafson - Learn from the Past, Enhance for the Future](https://www.youtube.com/watch?v=0XCjjMsT3MM)
+* [x] 01/12/2017 - 🎥 [Google I/O 2015 - The next generation mobile web](https://www.youtube.com/watch?v=iZZdhTUP5qg)
+* [x] 28/12/2017 - 📄 [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
 
 ### a11y
 
@@ -608,10 +618,6 @@ Personal goals made open source across computers I use.
 * [x] 08/11/2017 - 💊 [Links vs Buttons](https://codepen.io/AmeliaBR/full/RjaqrN/)
 * [x] 01/12/2017 - 🎥 [Joe Leech - Forms are boring - NUX2](https://www.youtube.com/watch?v=K6jiCkZwLgg)
 * [x] 28/12/2017 - 📄 [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
-
-### General Frontend
-
-[X] 01/12/2017 - 🎥 [Google I/O 2015 - The next generation mobile web](https://www.youtube.com/watch?v=iZZdhTUP5qg)
 
 ### JavaScript
 
@@ -808,7 +814,6 @@ Personal goals made open source across computers I use.
 * [x] 24/11/2016 - 🎥 [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 * [x] 25/11/2016 - 🎥 [Susana Morcuende; Yamila Moreno; Jorge Arévalo Los androides no sueñan con ovejas eléctricas](https://www.youtube.com/watch?v=CqqSG83UvfQ)
 * [x] 27/11/2016 - 🎥 [Luis González - Nadie quiere trabajar contigo en Codemotion 2016](https://www.youtube.com/watch?list=PLKxa4AIfm4pUvMn4lZ8zin500bsp3oL2A&v=T44bgTCxTPg)
-* [x] 25/12/2016 - 😍 🎥 [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
 * [x] 26/07/2017 - 🎥 [CODE GENIUS - Cascading Shit Show by Jacob Thornton](https://www.youtube.com/watch?v=iniwPUEbPUM)
 * [x] 09/08/2017 - 😍 🎥 [Code: Debugging the gender gap](http://www.rtve.es/alacarta/videos/otros-documentales/otros-documentales-code-depurar-diferencia-genero/4155591/)
 * [x] 09/08/2017 - 😍 📄 [Learning at work](https://jvns.ca/blog/2017/08/06/learning-at-work/)
@@ -822,11 +827,6 @@ Personal goals made open source across computers I use.
 * [x] 06/09/2017 - 📄 [Configuring Jenkins with Github](https://medium.com/dev-blogs/configuring-jenkins-with-github-eef13a5cc9e9)
 * [x] 07/09/2017 - 📄 [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3)
 * [x] 15/09/2017 - 📄 [En continua formación](http://charlascylon.com/2017-09-13-en-continua-formacion)
-* [x] 26/11/2017 - 🎥 [¿Qué es un Senior Developer?: LUIS G. VALLE](https://www.youtube.com/watch?v=Vp0mR0XUrGo)
 * [x] 26/11/2017 - 🎥 [Las reglas que hay que romper para que tu equipo de desarrollo sea el más RÁPIDO:JAVIER ABADÍA](https://www.youtube.com/watch?v=VnrynReafSg)
 * [x] 29/11/2017 - 🎥 [Creating a culture of learning at Tuenti:JOAQUIN ENGELMO MORICHE, FINA PEREZ](https://www.youtube.com/watch?v=-x127e6T2Zg)
 * [x] 29/11/2017 - 🎥 [Cultura de equipo (Mesa redonda)JORGE MAROTO, KATIA ARESTI, ANGÉLICA LOZANO, FÉLIX LÓPEZ](https://www.youtube.com/watch?v=cJomSa92huM)
-* [x] 29/11/2017 - 🎥 [Joan León - CSS Craftsmanship | BCN Software Craftsmanship](https://www.youtube.com/watch?v=VBmu14P-gsE)
-* [x] 30/11/2017 - 🎥 [dotCSS 2014 - Harry Roberts - 10 Principles for effective Front-end Development](https://www.youtube.com/watch?v=CiMGKZpnHQE)
-* [x] 30/11/2017 - 🎥 [EnhanceConf - Aaron Gustafson - Learn from the Past, Enhance for the Future](https://www.youtube.com/watch?v=0XCjjMsT3MM)
-* [x] 28/12/2017 - 📄 [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
