@@ -171,7 +171,7 @@ Personal goals made open source across computers I use.
 * [x] 07/11/2017 - 📄 [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
 * [x] 09/11/2017 - 📄 [Inherit, Initial and Unset Values for CSS Properties](https://alligator.io/css/inherit-initial-unset/)
 
-  ### CSS
+### CSS
 
 * [x] 01/11/2016 - 🎥 [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
 * [x] 03/11/2016 - 🎥 [Lessons Learned From Building Your Own CSS FrameworkN](https://www.youtube.com/watch?v=QOVNb-DzZdA&feature=youtu.be)
