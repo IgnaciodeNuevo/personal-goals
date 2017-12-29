@@ -317,8 +317,9 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 📄 [Notes on vertical writing and CSS grid](https://www.chenhuijing.com/blog/notes-on-vertical-writing-and-grid/#%F0%9F%8E%AE)
 * [x] 29/12/2017 - 📄 [Aspect Ratios for Grid Items](https://css-tricks.com/aspect-ratios-grid-items/)
 * [x] 29/12/2017 - 📄 [Practical uses for the aspect-ratio media query](https://www.chenhuijing.com/blog/aspect-ratio-media-queries/#%F0%9F%92%BB)
+* [x] 29/12/2017 - 😍 📄 [Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit`](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
 
-  ### Multi Column Layout
+### Multi Column Layout
 
 * [x] 20/10/2017 - 😍 📄 [Exploring Multi-Column Layouts in CSS](https://alligator.io/css/multi-column-layouts/)
 
