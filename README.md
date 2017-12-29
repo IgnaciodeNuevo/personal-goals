@@ -557,6 +557,7 @@ Personal goals made open source across computers I use.
 * [x] 27/12/2017 - 📄 [Using Sass to Build a Custom Type Scale with Vertical Rhythm](https://www.sitepoint.com/using-sass-build-custom-type-scale-vertical-rhythm/)
 * [x] 27/12/2017 - 📄 [Typography and Vertical Rhythm](https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm)
 * [x] 29/12/2017 - 📄 [Variable Fonts for Responsive Design](https://alistapart.com/blog/post/variable-fonts-for-responsive-design)
+* [x] 29/12/2017 - 📄 [[Variable fonts, a new kind of font for flexible design](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
 
 ### Design
 
