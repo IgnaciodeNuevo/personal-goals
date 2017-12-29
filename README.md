@@ -482,6 +482,7 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 😍 📄 [Accessible Links Re:visited](https://www.filamentgroup.com/lab/a11y-links.html)
 * [x] 28/12/2017 - 😍 📄 [Maintaining Accessibility in a Responsive World](https://www.filamentgroup.com/lab/accessible-responsive.html)
 * [x] 28/12/2017 - 📄 [Advocating for Accessible UI Design](https://css-tricks.com/advocating-for-accessible-ui-design/)
+* [x] 29/12/2017 - 📄 [Practical Examples of Accessibility Improvements](https://axesslab.com/practical-accessibility-improvements/)
 
 ### Perf
 
