@@ -2,7 +2,7 @@
 
 Personal goals made open source across computers I use.
 
-# Overarching Goals for 2017:
+# Overarching Goals for 2018:
 
 1. 📚 JavaScript!
 
@@ -70,7 +70,26 @@ Personal goals made open source across computers I use.
 * [x] 💡 [Open Source Weekends Website](https://osweekends.github.io)
 * [x] 💡 19/12/2016 - [Semillasocial](https://www.semillasocial.org)
 
-### Books
+### Big Improvements
+
+* [x] 🚀 Flexbox
+* [x] 🚀 Curso Intensivo CSS3 Wakkos
+* [x] 🚀 Review Trazos Master's theme
+* [x] 🚀 Read HTML&CSS - John Duckett
+* [x] 🚀 CSS GuideLines - Harry Roberts
+* [x] 🚀 Sass-Lang Documentation
+* [x] 🚀 Sass for Web Designers Resources
+* [x] 🚀 Awesome Sass - Hugo Giraudel
+* [x] 🚀 Jekyll
+* [x] 🚀 Markdown
+* [x] 🚀 YAML
+* [x] 🚀 Liquid
+* [x] 21/10/2016 - 🚀 [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
+* [x] 26/10/2016 - 🚀 [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
+* [x] 03/11/2016 - 🚀 [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
+* [x] 1/03/207 - 🚀 JavaScript Jabber
+
+  ### Books
 
 * [x] 😍 📕 [Designing for Performance](http://designingforperformance.com)
 * [x] 😍 📕 [Mobile First](https://abookapart.com/products/mobile-first)
@@ -136,29 +155,6 @@ Personal goals made open source across computers I use.
 * [x] 🎼 [WeCodeSign Podcast](http://wecodesignpodcast.com/)
 * [x] 🎼 [Young Guns Show](http://younggunsshow.com/)
 
-### Things I'll do in the future:
-
-* [x] 🚀 Flexbox
-* [x] 🚀 Curso Intensivo CSS3 Wakkos
-* [x] 🚀 Review Trazos Master's theme
-* [x] 🚀 Read HTML&CSS - John Duckett
-* [x] 🚀 CSS GuideLines - Harry Roberts
-* [x] 🚀 Sass-Lang Documentation
-* [x] 🚀 Sass for Web Designers Resources
-* [x] 🚀 Awesome Sass - Hugo Giraudel
-* [x] 🚀 Jekyll
-* [x] 🚀 Markdown
-* [x] 🚀 YAML
-* [x] 🚀 Liquid
-* [x] 21/10/2016 - 🚀 [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
-* [x] 26/10/2016 - 🚀 [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
-* [x] 03/11/2016 - 🚀 [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
-* [x] 1/03/207 - 🚀 JavaScript Jabber
-* [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
-* [ ] ES6.io
-* [ ] FreeCodeCamp
-* [ ] You don't know JavaScript
-
 ### HTML
 
 * [x] 02/10/2017 - 📄 [I’ve seen the future, it’s full of HTML.](https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210)
@@ -215,6 +211,7 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 😍 📄 [Understanding CSS Layout And The Block Formatting Context](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/)
 * [x] 28/12/2017 - 📄 [Calc() function with Use Cases](https://pineco.de/calc-function-with-use-cases/)
 * [x] 28/12/2017 - 📄 [Breaking Out With Viewport Units and Calc ](https://cloudfour.com/thinks/breaking-out-with-viewport-units-and-calc/)
+* [x] 29/12/2017 - 📄 [CSS element() function](http://iamvdo.me/en/blog/css-element-function)
 
 ### Relative Units
 
@@ -632,6 +629,10 @@ Personal goals made open source across computers I use.
 * [ ] [Learning Angular -- egghead.io](http://egghead.io)
 * [ ] [Superhero.js](http://superherojs.com/)
 * [ ] Wes Bos ES6 - 🎥 (video: 10)
+* [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
+* [ ] ES6.io
+* [ ] FreeCodeCamp
+* [ ] You don't know JavaScript
 * [x] 15/11/2016 - 😍 🎥 [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 * [x] 15/11/2016 - 🎥 [Emanuel Kluge: Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
 * [x] 25/11/2016 - 🎥 [Addy Osmani: Object.observe](https://www.youtube.com/watch?v=mfOh-J-9BY0)
