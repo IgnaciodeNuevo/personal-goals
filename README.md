@@ -89,7 +89,7 @@ Personal goals made open source across computers I use.
 * [x] 03/11/2016 - 🚀 [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 * [x] 1/03/207 - 🚀 JavaScript Jabber
 
-  ### Books
+### Books
 
 * [x] 😍 📕 [Designing for Performance](http://designingforperformance.com)
 * [x] 😍 📕 [Mobile First](https://abookapart.com/products/mobile-first)
