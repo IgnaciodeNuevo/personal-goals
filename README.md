@@ -304,7 +304,7 @@ Personal goals made open source across computers I use.
 * [x] 27/09/2017 - 📄 [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 * [x] 29/09/2017 - 🎥 [CSS Grid Layout](https://www.youtube.com/watch?v=AxVXpS6PyRE)
 * [x] 20/10/2017 - 📄 [Grid is all about the container](https://rachelandrew.co.uk/archives/2017/03/31/grid-is-all-about-the-container/)
-* [x] 28/10/2017 - 😍 📄 CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
+* [x] 28/10/2017 - 😍 📄 [CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
 * [x] 29/11/2017 - 🎥 [Joan León - CSS Craftsmanship | BCN Software Craftsmanship](https://www.youtube.com/watch?v=VBmu14P-gsE)
 * [x] 02/12/2017 - 😍 🎥 [Rachel Andrew | What I discovered about layout via CSS Grid](https://vimeo.com/238463263)
 * [x] 18/12/2017 - 🎥 [dotCSS 2017 - Florian Rivoal - Media Queries 4](https://www.youtube.com/watch?v=G9UZnpOw-OE)
@@ -691,7 +691,7 @@ Personal goals made open source across computers I use.
 * [x] 04/11/2017 - 🎥 [Masterclass DOM y eventos](https://www.youtube.com/watch?v=FXZRaDCFqhc)
 * [x] 06/11/2017 - 🎥 [Unit testing in JavaScript Part 1 - Why unit testing?](https://www.youtube.com/watch?v=Eu35xM76kKY)
 * [x] 26/11/2017 - 🎥 [Think about performance:RAFAEL GRANADOS, RUBÉN MARÍN RAGA](https://www.youtube.com/watch?v=H14grgqN87A)
-* [x] 02/12/2017 - 🎥 [Dani Latorre y Nestor Salceda - Me da igual tu framework JavaScript | BCN Software Craftmanship 2017]](https://www.youtube.com/watch?v=9gT8q2WEGU8)
+* [x] 02/12/2017 - 🎥 [Dani Latorre y Nestor Salceda - Me da igual tu framework JavaScript | BCN Software Craftmanship 2017](https://www.youtube.com/watch?v=9gT8q2WEGU8)
 * [x] 13/12/2017 - 🎥 [Anarchy.JS: DANI LATORRE, ALBERTO GUALIS](https://www.youtube.com/watch?v=GKWCFz0EK5k)
 
 ### Angular
