@@ -160,6 +160,7 @@ Personal goals made open source across computers I use.
 
 * [x] 02/10/2017 - 📄 [I’ve seen the future, it’s full of HTML.](https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210)
 * [x] 27/12/2017 - 😍 📄 [An Overview of HTML5 Semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
+* [x] 12/01/2018 - 📄 [What’s New in HTML 5.2?](https://bitsofco.de/whats-new-in-html-5-2/)
 
 ### Cascade and Specificity
 
@@ -172,7 +173,7 @@ Personal goals made open source across computers I use.
 * [x] 13/11/2017 - 💊 [Specificity Graph Generator](https://jonassebastianohlsson.com/specificity-graph/)
 * [x] 13/11/2017 - 😍 📄 [Hacks for dealing with specificity](https://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/)
 * [x] 29/12/2017 - 😍 📄 [Link Specificity](https://meyerweb.com/eric/css/link-specificity.html)
-* [x] 01/12/2018 - 📄 [The latest ways to deal with the cascade, inheritance and specificity ](https://css-tricks.com/latest-ways-deal-cascade-inheritance-specificity/)
+* [x] 12/01/2018 - 📄 [The latest ways to deal with the cascade, inheritance and specificity ](https://css-tricks.com/latest-ways-deal-cascade-inheritance-specificity/)
 
 ### CSS
 
