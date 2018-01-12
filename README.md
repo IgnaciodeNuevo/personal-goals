@@ -619,7 +619,7 @@ Personal goals made open source across computers I use.
 * [x] 01/09/2017 - 😍 🎥 [Front End Center — Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
 * [x] 27/09/2017 - 📄 [Using SVG clip-path to change a logo's colour on scroll](https://eduardoboucas.com/blog/2017/09/25/svg-clip-path-logo-colour.html)
 * [x] 27/12/2017 - 😍 📄 [Inline SVG vs Icon Fonts [CAGEMATCH] ](https://css-tricks.com/icon-fonts-vs-svg/)
-* [x] 12/01/2017 - 📄 [Optimizing SVG Text & Image Delivery with Inline SVG]() https://www.sarasoueidan.com/blog/optimizing-svg-delivery-with-svg/]
+* [x] 12/01/2017 - 📄 [Optimizing SVG Text & Image Delivery with Inline SVG](https://www.sarasoueidan.com/blog/optimizing-svg-delivery-with-svg/)
 
 ### UX
 
@@ -632,21 +632,6 @@ Personal goals made open source across computers I use.
 
 ### JavaScript
 
-* [ ] [Adv. Js by John Resig](http://ejohn.org/apps/learn/)
-* [ ] [AngularJS Learning Resources](https://github.com/jmcunningham/AngularJS-Learning)
-* [ ] [Awesome JavaScript learning resources](https://github.com/micromata/awesome-javascript-learning-resources)
-* [ ] [Design Patterns](https://sourcemaking.com/design_patterns)
-* [ ] [Free JS Books](http://jsbooks.revolunet.com/)
-* [ ] [JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed2)
-* [ ] [JavaScript30](https://javascript30.com/)
-* [ ] [JS Patterns](http://shichuan.github.io/javascript-patterns/)
-* [ ] [Learning Angular -- egghead.io](http://egghead.io)
-* [ ] [Superhero.js](http://superherojs.com/)
-* [ ] Wes Bos ES6 - 🎥 (video: 10)
-* [ ] Be Familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals)
-* [ ] ES6.io
-* [ ] FreeCodeCamp
-* [ ] You don't know JavaScript
 * [x] 15/11/2016 - 😍 🎥 [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 * [x] 15/11/2016 - 🎥 [Emanuel Kluge: Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
 * [x] 25/11/2016 - 🎥 [Addy Osmani: Object.observe](https://www.youtube.com/watch?v=mfOh-J-9BY0)
@@ -728,13 +713,6 @@ Personal goals made open source across computers I use.
 * [x] 22/05/2017 - 😍 📄 [Leveling Up With React: React Router](https://css-tricks.com/learning-react-router/)
 * [x] 22/05/2017 - 😍 📄 [Leveling Up With React: Container Components](https://css-tricks.com/learning-react-container-components/)
 * [x] 23/05/2017 - 😍 📄 [Leveling Up with React: ReduX](https://css-tricks.com/learning-react-redux/)
-* [ ] [Awesome React](https://github.com/enaqx/awesome-react)
-* [ ] [React/Redux Links](https://github.com/markerikson/react-redux-links)
-* [ ] [React Docs](https://facebook.github.io/react/docs/hello-world.html)
-* [ ] [Pete Hunt: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-* [ ] [A complete intro to React](https://btholt.github.io/complete-intro-to-react/)
-* [ ] [React Rally Day 1](https://www.youtube.com/watch?v=Fk--XUEorvc&feature=youtu.be&t=20666)
-* [ ] [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965)
 
 ### Vue
 
