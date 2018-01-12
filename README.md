@@ -237,7 +237,9 @@ Personal goals made open source across computers I use.
 
 ### Container Queries
 
+* [x] 06/09/2017 - 📄 [Element Queries: the Future of Responsive Web Design](https://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
 * [x] 12/01/2018 - 🎥 [dotCSS 2017 - Jonathan Snook - Container Queries](https://www.youtube.com/watch?v=s1J4T1NW3qo)
+* [x] 12/01/2018 - 📄 [Thoughts on a Syntax for Element Queries](https://codepen.io/tomhodgins/post/thoughts-on-a-syntax-for-element-queries)
 
 ### Responsive Images
 
@@ -311,7 +313,6 @@ Personal goals made open source across computers I use.
 * [x] 23/08/2017 - 📄 [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/)
 * [x] 31/08/2017 - 📄 [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
 * [x] 31/08/2017 - 💊 [The CoffeeCup Guide to liberating layout through CSS Grid](https://cssgrid.cc/)
-* [x] 06/09/2017 - 📄 [Element Queries: the Future of Responsive Web Design](https://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
 * [x] 19/09/2017 - 📄 [Web truths: CSS is not real programming](https://christianheilmann.com/2017/09/19/web-truths-css-is-not-real-programming/)
 * [x] 27/09/2017 - 😍 📄 [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 * [x] 27/09/2017 - 📄 [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
