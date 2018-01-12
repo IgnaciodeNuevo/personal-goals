@@ -25,7 +25,7 @@ Personal goals made open source across computers I use.
 1. [Podcasts](#podcasts)
 1. [Things I'll do in the future:](#things-ill-do-in-the-future)
 1. [HTML](#html)
-1. [Cascade CSS](#cascade-css)
+1. [Cascade and Specificity](#cascade-and-specificity)
 1. [CSS](#css)
 1. [Relative Units](#relative-units)
 1. [Feature Queries](#feature-queries)
@@ -161,12 +161,18 @@ Personal goals made open source across computers I use.
 * [x] 02/10/2017 - 📄 [I’ve seen the future, it’s full of HTML.](https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210)
 * [x] 27/12/2017 - 😍 📄 [An Overview of HTML5 Semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
 
-### Cascade CSS
+### Cascade and Specificity
 
 * [x] 07/11/2017 - 😍 📄 [CSS Specificity: Things You Should Know](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
 * [x] 07/11/2017 - 📄 [CSS Specificity And Inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)
-* [x] 07/11/2017 - 📄 [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
 * [x] 09/11/2017 - 📄 [Inherit, Initial and Unset Values for CSS Properties](https://alligator.io/css/inherit-initial-unset/)
+* [x] 07/11/2017 - 📄 [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)
+* [x] 13/11/2017 - 💊 [Specificity Image by Andy Clarke](https://stuffandnonsense.co.uk/archives/images/specificitywars-05v2.jpg)
+* [x] 13/11/2017 - 😍 💊 [Specificity Calculator](https://specificity.keegan.st/)
+* [x] 13/11/2017 - 💊 [Specificity Graph Generator](https://jonassebastianohlsson.com/specificity-graph/)
+* [x] 13/11/2017 - 😍 📄 [Hacks for dealing with specificity](https://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/)
+* [x] 29/12/2017 - 😍 📄 [Link Specificity](https://meyerweb.com/eric/css/link-specificity.html)
+* [x] 01/12/2018 - 📄 [The latest ways to deal with the cascade, inheritance and specificity ](https://css-tricks.com/latest-ways-deal-cascade-inheritance-specificity/)
 
 ### CSS
 
@@ -213,7 +219,6 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 📄 [Calc() function with Use Cases](https://pineco.de/calc-function-with-use-cases/)
 * [x] 28/12/2017 - 📄 [Breaking Out With Viewport Units and Calc ](https://cloudfour.com/thinks/breaking-out-with-viewport-units-and-calc/)
 * [x] 29/12/2017 - 📄 [CSS element() function](http://iamvdo.me/en/blog/css-element-function)
-* [x] 29/12/2017 - 😍 📄 [Link Specificity](https://meyerweb.com/eric/css/link-specificity.html)
 
 ### Relative Units
 
@@ -369,9 +374,6 @@ Personal goals made open source across computers I use.
 * [x] 08/11/2017 - 📄 [Writing modular CSS (Part 1) — BEM](https://zellwk.com/blog/css-architecture-1/)
 * [x] 08/11/2017 - 📄 [Writing modular CSS (Part 2) — Namespaces](https://zellwk.com/blog/css-architecture-2/)
 * [x] 09/11/2017 - 📄 [Modular CSS naming conventions](http://thesassway.com/advanced/modular-css-naming-conventions)
-* [x] 13/11/2017 - 💊 [Specificity Image by Andy Clarke](https://stuffandnonsense.co.uk/archives/images/specificitywars-05v2.jpg)
-* [x] 13/11/2017 - 😍 💊 [Specificity Calculator](https://specificity.keegan.st/)
-* [x] 13/11/2017 - 💊 [Specificity Graph Generator](https://jonassebastianohlsson.com/specificity-graph/)
 * [x] 13/11/2017 - 📄 [Sass Variable Architecture](http://peteschuster.com/2014/02/sass-variable-architecture/)
 * [x] 13/11/2017 - 🎥 [Organizing CSS with OOCSS, SMACSS, and BEM - Matt Stauffer](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
 * [x] 13/11/2017 - 😍 📄 [Object Oriented CSS](https://github.com/stubbornella/oocss/wiki)
@@ -399,7 +401,6 @@ Personal goals made open source across computers I use.
 * [x] 13/11/2017 - 💊 [Buenas prácticas en CSS](http://www.nahuelsotelo.com/edu.css-architecture/#/)
 * [x] 13/11/2017 - 😍 📄 [An Introduction To Object Oriented CSS - OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 * [x] 13/11/2017 - 😍 📄 [Thoughtful CSS Architecture](https://seesparkbox.com/foundry/thoughtful_css_architecture)
-* [x] 13/11/2017 - 😍 📄 [Hacks for dealing with specificity](https://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/)
 * [x] 18/11/2017 - 🎥 [Arquitectura CSS - Sé eficiente con tus estilos](https://www.youtube.com/watch?v=FkhSdKAxEbM)
 * [x] 19/11/2017 - 😍 🎥 [Dressing ITCSS: Video](https://www.youtube.com/watch?v=2IdI5VUfE48)
 * [x] 19/11/2017 - 😍 💊 [Dressing ITCSS: Slides](https://danifornells.github.io/dressing-itcss/#/)
