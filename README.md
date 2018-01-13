@@ -837,3 +837,4 @@ Personal goals made open source across computers I use.
 * [x] 26/11/2017 - 🎥 [Las reglas que hay que romper para que tu equipo de desarrollo sea el más RÁPIDO:JAVIER ABADÍA](https://www.youtube.com/watch?v=VnrynReafSg)
 * [x] 29/11/2017 - 🎥 [Creating a culture of learning at Tuenti:JOAQUIN ENGELMO MORICHE, FINA PEREZ](https://www.youtube.com/watch?v=-x127e6T2Zg)
 * [x] 29/11/2017 - 🎥 [Cultura de equipo (Mesa redonda)JORGE MAROTO, KATIA ARESTI, ANGÉLICA LOZANO, FÉLIX LÓPEZ](https://www.youtube.com/watch?v=cJomSa92huM)
+* [x] 13/01/2018 - 🎥 [Xavier Gost - ¿Que es un programador y cual es su papel en la sociedad](https://www.youtube.com/watch?v=n-l4vSVJkNY)
