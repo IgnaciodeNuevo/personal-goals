@@ -628,7 +628,8 @@ Personal goals made open source across computers I use.
 * [x] 01/09/2017 - 😍 🎥 [Front End Center — Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
 * [x] 27/09/2017 - 📄 [Using SVG clip-path to change a logo's colour on scroll](https://eduardoboucas.com/blog/2017/09/25/svg-clip-path-logo-colour.html)
 * [x] 27/12/2017 - 😍 📄 [Inline SVG vs Icon Fonts [CAGEMATCH] ](https://css-tricks.com/icon-fonts-vs-svg/)
-* [x] 12/01/2017 - 📄 [Optimizing SVG Text & Image Delivery with Inline SVG](https://www.sarasoueidan.com/blog/optimizing-svg-delivery-with-svg/)
+* [x] 12/01/2018 - 📄 [Optimizing SVG Text & Image Delivery with Inline SVG](https://www.sarasoueidan.com/blog/optimizing-svg-delivery-with-svg/)
+* [x] 14/01/2018 - 📄 [Cropping & Scaling Images Using SVG Documents](http://www.sarasoueidan.com/blog/svg-object-fit/)
 
 ### UX
 
