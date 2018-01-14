@@ -109,9 +109,6 @@ Personal goals made open source across computers I use.
 * 📕 [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
 * 📕 [Smashing Book 5](https://shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design)
 * 📕 [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
-* 📕 [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
-* [ ] 📕 [Eloquent JavaScript](http://eloquentjavascript.net)
-* [ ] 📕 [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
 
 ### Podcasts
 
