@@ -235,13 +235,13 @@ Personal goals made open source across computers I use.
 * [x] 27/05/2017 - 😍 📄 [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 * [x] 28/05/2017 - 📄 [Cascading Web Design with Feature Queries](https://24ways.org/2017/cascading-web-design/)
 
-### Container Queries
+### Container Queries
 
 * [x] 06/09/2017 - 📄 [Element Queries: the Future of Responsive Web Design](https://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
 * [x] 12/01/2018 - 🎥 [dotCSS 2017 - Jonathan Snook - Container Queries](https://www.youtube.com/watch?v=s1J4T1NW3qo)
 * [x] 12/01/2018 - 📄 [Thoughts on a Syntax for Element Queries](https://codepen.io/tomhodgins/post/thoughts-on-a-syntax-for-element-queries)
 
-### Responsive Images
+### Responsive Images
 
 * [x] 02/11/2016 - 😍 🎥 [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
 * [x] 09/10/2017 - 📄 [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
