@@ -695,9 +695,10 @@ Personal goals made open source across computers I use.
 * [x] 02/12/2017 - 🎥 [Dani Latorre y Nestor Salceda - Me da igual tu framework JavaScript | BCN Software Craftmanship 2017](https://www.youtube.com/watch?v=9gT8q2WEGU8)
 * [x] 13/12/2017 - 🎥 [Anarchy.JS: DANI LATORRE, ALBERTO GUALIS](https://www.youtube.com/watch?v=GKWCFz0EK5k)
 * [x] 11/01/2018 - 🎥 [Basics of Programming with JavaScript - (1 - JavaScript Introduction)](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
-* [x] 14/01/2018 - 📄 [Introduction to the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
-* [x] 14/01/2018 - 📄 [Understanding the DOM Tree and Nodes](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes)
-* [x] 14/01/2018 - 📄 [How To Access Elements in the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
+* [x] 14/01/2018 - 📄 [Understanding the DOM 1/5: Introduction to the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
+* [x] 14/01/2018 - 📄 [Understanding the DOM 2/5: Understanding the DOM Tree and Nodes](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes)
+* [x] 14/01/2018 - 📄 [Understanding the DOM 3/5: How To Access Elements in the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
+* [x] 14/01/2018 - 📄 [Understanding the DOM 4/5: How To Traverse the DOM](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
 
 ### JavaScript Security
 
