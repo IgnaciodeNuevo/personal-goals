@@ -699,6 +699,7 @@ Personal goals made open source across computers I use.
 * [x] 14/01/2018 - 📄 [Understanding the DOM 2/5: Understanding the DOM Tree and Nodes](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes)
 * [x] 14/01/2018 - 📄 [Understanding the DOM 3/5: How To Access Elements in the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
 * [x] 14/01/2018 - 📄 [Understanding the DOM 4/5: How To Traverse the DOM](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
+* [x] 14/01/2018 - 📄 [Understanding the DOM 5/5: How To Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
 
 ### JavaScript Security
 
