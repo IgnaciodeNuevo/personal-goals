@@ -495,6 +495,7 @@ Personal goals made open source across computers I use.
 * 12/01/2018 - 📄 [Little steps for accessibility at N26](https://hugogiraudel.com/2018/01/08/little-steps-for-accessibility-at-n26/)
 * 14/01/2018 - 📄 [Using ARIA to enhance SVG accessibility](https://developer.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
 * 14/01/2018 - 📄 [Accessible Footnotes with CSS](https://www.sitepoint.com/accessible-footnotes-css/)
+* 14/01/2018 - 📄 [Writing with accessibility in min 1/3: HTML](https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412)
 
 ### Perf
 
