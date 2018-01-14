@@ -64,6 +64,7 @@ Personal goals made open source across computers I use.
 1. [Mentoring](#mentoring)
 1. [Octuweb](#octuweb)
 1. [Career](#career)
+1. [Documentation](#documentation)
 1. [Other resources](#other-resources)
 
 ### Projects
@@ -443,7 +444,6 @@ Personal goals made open source across computers I use.
 * 30/11/2017 - 🎥 [EnhanceConf - Aaron Gustafson - Learn from the Past, Enhance for the Future](https://www.youtube.com/watch?v=0XCjjMsT3MM)
 * 01/12/2017 - 🎥 [Google I/O 2015 - The next generation mobile web](https://www.youtube.com/watch?v=iZZdhTUP5qg)
 * 28/12/2017 - 📄 [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
-* 12/01/2018 - 📄 [8 Best Practices for Perfect CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139)
 
 ### a11y
 
@@ -816,6 +816,12 @@ Personal goals made open source across computers I use.
 
 * 26/10/2017 - 🎥 [Being A Developer After 40 (App Builders Switzerland 2016)](https://www.youtube.com/watch?v=GQx_beRMHVg)
 
+### Documentation
+
+* 12/01/2018 - 📄 [8 Best Practices for Perfect CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139)
+* 14/01/2018 - 📄 [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/)
+* 14/01/2018 - 📄 [Designing Better Design Documentation](https://medium.muz.li/design-docs-6bb34589f7a9)
+
 ### Other resources
 
 * 01/01/2016 - 🎥 [Mastering Markdown](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
@@ -843,4 +849,3 @@ Personal goals made open source across computers I use.
 * 29/11/2017 - 🎥 [Creating a culture of learning at Tuenti:JOAQUIN ENGELMO MORICHE, FINA PEREZ](https://www.youtube.com/watch?v=-x127e6T2Zg)
 * 29/11/2017 - 🎥 [Cultura de equipo (Mesa redonda)JORGE MAROTO, KATIA ARESTI, ANGÉLICA LOZANO, FÉLIX LÓPEZ](https://www.youtube.com/watch?v=cJomSa92huM)
 * 13/01/2018 - 🎥 [Xavier Gost - ¿Que es un programador y cual es su papel en la sociedad](https://www.youtube.com/watch?v=n-l4vSVJkNY)
-* 14/01/2018 - 📄 [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/)
