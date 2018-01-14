@@ -697,6 +697,7 @@ Personal goals made open source across computers I use.
 * [x] 11/01/2018 - 🎥 [Basics of Programming with JavaScript - (1 - JavaScript Introduction)](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
 * [x] 14/01/2018 - 📄 [Introduction to the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
 * [x] 14/01/2018 - 📄 [Understanding the DOM Tree and Nodes](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes)
+* [x] 14/01/2018 - 📄 [How To Access Elements in the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
 
 ### JavaScript Security
 
