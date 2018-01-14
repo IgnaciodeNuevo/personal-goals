@@ -694,7 +694,8 @@ Personal goals made open source across computers I use.
 * [x] 26/11/2017 - 🎥 [Think about performance:RAFAEL GRANADOS, RUBÉN MARÍN RAGA](https://www.youtube.com/watch?v=H14grgqN87A)
 * [x] 02/12/2017 - 🎥 [Dani Latorre y Nestor Salceda - Me da igual tu framework JavaScript | BCN Software Craftmanship 2017](https://www.youtube.com/watch?v=9gT8q2WEGU8)
 * [x] 13/12/2017 - 🎥 [Anarchy.JS: DANI LATORRE, ALBERTO GUALIS](https://www.youtube.com/watch?v=GKWCFz0EK5k)
-* [x] 11/01/2017 - 🎥 [Basics of Programming with JavaScript - (1 - JavaScript Introduction)](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
+* [x] 11/01/2018 - 🎥 [Basics of Programming with JavaScript - (1 - JavaScript Introduction)](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
+* [x] 14/01/2018 - 📄 [Introduction to the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
 
 ### JavaScript Security
 
@@ -795,7 +796,7 @@ Personal goals made open source across computers I use.
 * [x] 26/10/2017 - 😍 📄 [Mentorship in Software Craftsmanship 1/3](https://codurance.com/2011/10/05/mentoring-in-software-craftsmanship/)
 * [x] 26/10/2017 - 😍 📄 [Mentorship in Software Craftsmanship 2/3](https://codurance.com/2011/10/10/mentoring-in-software-craftsmanship_09/)
 * [x] 26/10/2017 - 😍 📄 [Mentorship in Software Craftsmanship 3/3](https://codurance.com/2011/10/28/mentorship-in-software-craftsmanship/)
-* [x] 30/10/2017 - 😍 📄 [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg)
+* [x] 30/10/2017 - 😍 📄 [Xavier Gost - Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg)
 * [x] 08/11/2017 - 📄 [Mentoring for the junior mentor](https://www.lottejackson.com/learning/for-the-junior-mentor)
 * [x] 08/11/2017 - 📄 [Initiation to Code](https://alistapart.com/article/initiation-to-code)
 * [x] 09/11/2017 - 📄 [Pairing with Junior Developers](https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/)
