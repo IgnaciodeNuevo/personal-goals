@@ -496,6 +496,7 @@ Personal goals made open source across computers I use.
 * [x] 28/12/2017 - 📄 [Advocating for Accessible UI Design](https://css-tricks.com/advocating-for-accessible-ui-design/)
 * [x] 29/12/2017 - 📄 [Practical Examples of Accessibility Improvements](https://axesslab.com/practical-accessibility-improvements/)
 * [x] 12/01/2018 - 📄 [Little steps for accessibility at N26](https://hugogiraudel.com/2018/01/08/little-steps-for-accessibility-at-n26/)
+* [x] 14/01/2018 - 📄 [Using ARIA to enhance SVG accessibility](https://developer.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
 
 ### Perf
 
