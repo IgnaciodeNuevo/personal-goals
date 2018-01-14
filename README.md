@@ -843,3 +843,4 @@ Personal goals made open source across computers I use.
 * 29/11/2017 - 🎥 [Creating a culture of learning at Tuenti:JOAQUIN ENGELMO MORICHE, FINA PEREZ](https://www.youtube.com/watch?v=-x127e6T2Zg)
 * 29/11/2017 - 🎥 [Cultura de equipo (Mesa redonda)JORGE MAROTO, KATIA ARESTI, ANGÉLICA LOZANO, FÉLIX LÓPEZ](https://www.youtube.com/watch?v=cJomSa92huM)
 * 13/01/2018 - 🎥 [Xavier Gost - ¿Que es un programador y cual es su papel en la sociedad](https://www.youtube.com/watch?v=n-l4vSVJkNY)
+* 14/01/2018 - 📄 [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/)
