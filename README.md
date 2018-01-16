@@ -733,6 +733,7 @@ Personal goals made open source across computers I use.
 * 22/05/2017 - 😍 📄 [Leveling Up With React: React Router](https://css-tricks.com/learning-react-router/)
 * 22/05/2017 - 😍 📄 [Leveling Up With React: Container Components](https://css-tricks.com/learning-react-container-components/)
 * 23/05/2017 - 😍 📄 [Leveling Up with React: ReduX](https://css-tricks.com/learning-react-redux/)
+* 15/01/2018 - 📄 [Fixing the callback hell of over-parenting with React](https://medium.com/@tornoe/fixing-the-callback-hell-of-over-parenting-with-react-1aa7801a6856)
 
 ### Vue
 
