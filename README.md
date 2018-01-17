@@ -219,6 +219,7 @@ Personal goals made open source across computers I use.
 * 28/12/2017 - 📄 [Calc() function with Use Cases](https://pineco.de/calc-function-with-use-cases/)
 * 28/12/2017 - 📄 [Breaking Out With Viewport Units and Calc ](https://cloudfour.com/thinks/breaking-out-with-viewport-units-and-calc/)
 * 29/12/2017 - 📄 [CSS element() function](http://iamvdo.me/en/blog/css-element-function)
+* 17/01/2018 - 🎥 [dotCSS 2017 - Adam Detrick - Write Less CSS](https://www.youtube.com/watch?v=5tvHSwFR4-Y)
 
 ### Relative Units
 
