@@ -779,6 +779,7 @@ Personal goals made open source across computers I use.
 * 18/08/2017 - 🎥 [TW Hangouts | Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo)
 * 21/10/2017 - 🎥 [Anti-patrones de test: Infrastructure Mocking](https://www.youtube.com/watch?v=XbkjUz20pOk)
 * 21/10/2017 - 🎥 [Anti-patrones de test: Swot testing (test empollón)](https://www.youtube.com/watch?v=Y-UOIxncAI0)
+* 17/01/2018 - 🎥 [TDD with Wallaby.js Part 1/2](https://www.youtube.com/watch?v=P4UQ-jTTJJ4)
 
 ### Linting
 
