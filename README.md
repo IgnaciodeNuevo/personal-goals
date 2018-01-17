@@ -783,6 +783,7 @@ Personal goals made open source across computers I use.
 * 21/10/2017 - 🎥 [Anti-patrones de test: Swot testing (test empollón)](https://www.youtube.com/watch?v=Y-UOIxncAI0)
 * 17/01/2018 - 🎥 [TDD with Wallaby.js Part 1/2](https://www.youtube.com/watch?v=P4UQ-jTTJJ4)
 * 17/01/2018 - 🎥 [TDD with Wallaby.js Part 2/2](https://www.youtube.com/watch?v=TubVp9nn32Q)
+* 17/01/2018 - 🎥 [TDD Mi cuaderno de recetas - Modesto San Juan](https://www.youtube.com/watch?v=D1fWBImC2r8)
 
 ### Linting
 
