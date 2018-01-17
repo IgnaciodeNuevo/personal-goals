@@ -331,6 +331,7 @@ Personal goals made open source across computers I use.
 * 29/12/2017 - 📄 [Aspect Ratios for Grid Items](https://css-tricks.com/aspect-ratios-grid-items/)
 * 29/12/2017 - 📄 [Practical uses for the aspect-ratio media query](https://www.chenhuijing.com/blog/aspect-ratio-media-queries/#%F0%9F%92%BB)
 * 29/12/2017 - 😍 📄 [Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit`](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
+* 17/01/2018 - 😍 🎥 [Incredibly Easy Layouts with CSS Grid Playlist](https://www.youtube.com/watch?v=tFKrK4eAiUQ&list=PLbSquHt1VCf2Y4UEiaGjAOxuTXzo5iyZA))
 
 ### Multi Column Layout
 
