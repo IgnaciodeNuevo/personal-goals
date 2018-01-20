@@ -582,6 +582,7 @@ Personal goals made open source across computers I use.
 * 29/12/2017 - 📄 [Variable fonts, a new kind of font for flexible design](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
 * 29/12/2017 - 📄 [Live Font Interpolation on the Web](http://alistapart.com/article/live-font-interpolation-on-the-web)
 * 13/01/2018 - 📄 [4 techniques for responsive font sizing with SCSS](https://hackernoon.com/4-techniques-for-responsive-font-sizing-with-scss-f663791c62f0)
+* 20/01/2018 - 😍 📄 [Better Typography with Font Variants](https://jonathan-harrell.com/better-typography-font-variants/)
 
 ### Design
 
