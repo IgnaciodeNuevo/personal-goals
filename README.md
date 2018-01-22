@@ -629,6 +629,7 @@ Personal goals made open source across computers I use.
 * 25/12/2017 - 📄 [Design for Programmers](https://blog.prototypr.io/design-for-programmers-d38c56982cd0)
 * 28/12/2017 - 📄 [Optical Effects in User Interfaces (for True Nerds)](https://medium.muz.li/optical-effects-9fca82b4cd9a)
 * 22/01/2018 - 😍 📄 [Intro to The 8-Point Grid System](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632)
+* 22/01/2018 - 😍 📄 [8-Point Grid: Borders And Layouts](https://builttoadapt.io/8-point-grid-borders-and-layouts-e91eb97f5091)
 
 ### SVG
 
