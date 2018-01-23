@@ -334,6 +334,7 @@ Personal goals made open source across computers I use.
 * 29/12/2017 - 😍 📄 [Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit`](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
 * 17/01/2018 - 😍 🎥 [Incredibly Easy Layouts with CSS Grid Playlist](https://www.youtube.com/watch?v=tFKrK4eAiUQ&list=PLbSquHt1VCf2Y4UEiaGjAOxuTXzo5iyZA))
 * 18/01/2018 - 🎥 [Designing for 4-sided viewports with CSS Grid](https://www.youtube.com/watch?v=EEOJZy_Gge4)
+* 23/01/2018 - 🎥 [Responsive Mondrian – a demo of CSS Grid](https://www.youtube.com/watch?v=qNtJ5p3h2A4)
 
 ### Multi Column Layout
 
