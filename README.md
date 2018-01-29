@@ -428,6 +428,7 @@ Personal goals made open source across computers I use.
 * 28/12/2017 - 😍 📄 [Refactoring CSS: The Three I’s](https://csswizardry.com/2016/08/refactoring-css-the-three-i-s/)
 * 28/12/2017 - 📄 [Starting a Refactor with CSS Dig](https://css-tricks.com/starting-a-refactor-with-css-dig/)
 * 28/12/2017 - 📄 [How to Refactor CSS – A Guide](https://www.hongkiat.com/blog/code-optimization-series-refactoring-css/)
+* 29/01/2017 - 📄 [Finding Dead CSS](https://csswizardry.com/2018/01/finding-dead-css/)
 
 ### Sass
 
