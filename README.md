@@ -589,6 +589,7 @@ Personal goals made open source across computers I use.
 * 20/01/2018 - 😍 📄 [Better Typography with Font Variants](https://jonathan-harrell.com/better-typography-font-variants/)
 * 31/01/2018 - 📄 [One File, Many Options: Using Variable Fonts on the Web](https://css-tricks.com/one-file-many-options-using-variable-fonts-web)
 * 31/01/2018 - 📄 [How to use variable fonts in the real world](https://medium.com/clear-left-thinking/how-to-use-variable-fonts-in-the-real-world-e6d73065a604)
+* 31/01/2018 - 😍 📄 [Better Typography with Font Variants](https://jonathan-harrell.com/better-typography-font-variants/)
 
 ### Design
 
