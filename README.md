@@ -658,6 +658,7 @@ Personal goals made open source across computers I use.
 * 01/12/2017 - 🎥 [Joe Leech - Forms are boring - NUX2](https://www.youtube.com/watch?v=K6jiCkZwLgg)
 * 28/12/2017 - 📄 [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 * 12/01/2017 - 📄 [Little UI details](https://codepen.io/tyrellrummage/full/ZJPXgy/)
+* 02/02/2018 - 📄 [Best Practices for Modals / Overlays / Dialog Windows](https://heydesigner.com/blog/best-practices-modals-overlays-dialog-windows/)
 
 ### JavaScript
 
