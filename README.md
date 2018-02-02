@@ -766,6 +766,7 @@ Personal goals made open source across computers I use.
 ### Command Line
 
 * 13/10/2017 - 📄 [La línea de comandos es el futuro](https://octuweb.com/la-linea-comandos-es-el-futuro/)
+* 03/02/2018 - 📄 [To CLI or not to CLI, that is the question](https://www.youtube.com/watch?v=33uJPrrYRLI&feature=youtu.be)
 
 ### DevTools
 
