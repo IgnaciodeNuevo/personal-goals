@@ -653,6 +653,7 @@ Personal goals made open source across computers I use.
 * 05/02/2018 - 📄 [Seriously, Don’t Use Icon Fonts](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/)
 * 05/02/2018 - 😍 📄 [Inline SVG vs Icon Fonts [CAGEMATCH]](https://css-tricks.com/icon-fonts-vs-svg/)
 * 05/02/2018 - 📄 [Solución para el problema del height en SVG](http://jorgeatgu.com/blog/solucion-para-el-problema-del-height-en-svg/)
+* 05/02/2018 - 😍 🎥 [#137: SVG is for Everybody](https://css-tricks.com/video-screencasts/137-svg-is-for-everybody/)
 
 ### UX
 
