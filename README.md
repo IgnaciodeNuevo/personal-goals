@@ -652,6 +652,7 @@ Personal goals made open source across computers I use.
 * 14/01/2018 - 📄 [Cropping & Scaling Images Using SVG Documents](http://www.sarasoueidan.com/blog/svg-object-fit/)
 * 05/02/2018 - 📄 [Seriously, Don’t Use Icon Fonts](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/)
 * 05/02/2018 - 😍 📄 [Inline SVG vs Icon Fonts [CAGEMATCH]](https://css-tricks.com/icon-fonts-vs-svg/)
+* 05/02/2018 - 📄 [Solución para el problema del height en SVG](http://jorgeatgu.com/blog/solucion-para-el-problema-del-height-en-svg/)
 
 ### UX
 
