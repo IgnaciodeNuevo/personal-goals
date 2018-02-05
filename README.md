@@ -60,6 +60,7 @@ Personal goals made open source across computers I use.
 1. [Hugo](#hugo)
 1. [Testing](#testing)
 1. [Linting](#linting)
+1. [OOP](#object-oriented-programming)
 1. [Software Crafting](#software-crafting)
 1. [Mentoring](#mentoring)
 1. [Octuweb](#octuweb)
@@ -806,6 +807,10 @@ Personal goals made open source across computers I use.
 * 26/10/2017 - 📄 [Prettier + Stylelint: Writing Very Clean CSS](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)
 * 26/10/2017 - 📄 [Lint your CSS with stylelint](https://css-tricks.com/stylelint/)
 * 26/10/2017 - 📄 [Enforcing CSS Syntax Style (and more!)](https://css-tricks.com/enforcing-css-syntax-style/)
+
+### Object Oriented Programming
+
+* 05/02/2018 - 🎥 [Desorientados a Objetos: MODESTO SAN JUAN](https://www.youtube.com/watch?v=qesB3BvcWjA)
 
 ### Software Crafting
 
