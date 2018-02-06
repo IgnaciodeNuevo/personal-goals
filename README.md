@@ -835,7 +835,7 @@ Personal goals made open source across computers I use.
 * 26/10/2017 - 😍 📄 [Mentorship in Software Craftsmanship 1/3](https://codurance.com/2011/10/05/mentoring-in-software-craftsmanship/)
 * 26/10/2017 - 😍 📄 [Mentorship in Software Craftsmanship 2/3](https://codurance.com/2011/10/10/mentoring-in-software-craftsmanship_09/)
 * 26/10/2017 - 😍 📄 [Mentorship in Software Craftsmanship 3/3](https://codurance.com/2011/10/28/mentorship-in-software-craftsmanship/)
-* 30/10/2017 - 😍 📄 [Xavier Gost - Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg)
+* 30/10/2017 - 😍 🎥 [Xavier Gost - Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg)
 * 08/11/2017 - 📄 [Mentoring for the junior mentor](https://www.lottejackson.com/learning/for-the-junior-mentor)
 * 08/11/2017 - 📄 [Initiation to Code](https://alistapart.com/article/initiation-to-code)
 * 09/11/2017 - 📄 [Pairing with Junior Developers](https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/)
