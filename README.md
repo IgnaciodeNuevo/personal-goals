@@ -23,7 +23,7 @@ Personal goals made open source across computers I use.
 1. [Projects](#projects)
 1. [Books](#books)
 1. [Podcasts](#podcasts)
-1. [Things I'll do in the future:](#things-ill-do-in-the-future)
+1. [Things I'll do in the future](#things-ill-do-in-the-future)
 1. [HTML](#html)
 1. [Cascade and Specificity](#cascade-and-specificity)
 1. [CSS](#css)
@@ -732,6 +732,7 @@ Personal goals made open source across computers I use.
 * 14/01/2018 - 📄 [Understanding the DOM 3/5: How To Access Elements in the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
 * 14/01/2018 - 📄 [Understanding the DOM 4/5: How To Traverse the DOM](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
 * 14/01/2018 - 📄 [Understanding the DOM 5/5: How To Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
+* 07/02/2018 - 😍 📄 [ Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
 
 ### JavaScript Security
 
