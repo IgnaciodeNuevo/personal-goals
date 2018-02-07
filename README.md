@@ -340,6 +340,7 @@ Personal goals made open source across computers I use.
 * 23/01/2018 - 🎥 [Responsive Mondrian – a demo of CSS Grid](https://www.youtube.com/watch?v=qNtJ5p3h2A4)
 * 25/01/2018 - 🎥 [Internet Explorer exists. Use CSS Grid?](https://www.youtube.com/watch?v=7msERxu7ivg)
 * 31/01/2018 - 📄 [Contextual Callouts with CSS Grid](https://jonathan-harrell.com/contextual-asides-with-css-grid/)
+* 07/02/2018 - 🎥 [Internet Explorer exists. Use CSS Grid?](https://www.youtube.com/watch?v=7msERxu7ivg)
 
 ### Multi Column Layout
 
