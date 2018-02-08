@@ -341,7 +341,8 @@ Personal goals made open source across computers I use.
 * 25/01/2018 - 🎥 [Internet Explorer exists. Use CSS Grid?](https://www.youtube.com/watch?v=7msERxu7ivg)
 * 31/01/2018 - 📄 [Contextual Callouts with CSS Grid](https://jonathan-harrell.com/contextual-asides-with-css-grid/)
 * 07/02/2018 - 🎥 [Internet Explorer exists. Use CSS Grid?](https://www.youtube.com/watch?v=7msERxu7ivg)
-* 08/02/2018 - 📄 [How I design with CSS grid](https://www.chenhuijing.com/blog/how-i-design-with-css-grid/#%F0%9F%8F%80)
+* 07/02/2018 - 📄 [How I design with CSS grid](https://www.chenhuijing.com/blog/how-i-design-with-css-grid/#%F0%9F%8F%80)
+* 08/02/2018 - 📄 [Obliterate Boxiness with CSS Shapes](https://www.youtube.com/watch?v=pOB75oTNhw0)
 
 ### Multi Column Layout
 
