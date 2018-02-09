@@ -803,6 +803,7 @@ Personal goals made open source across computers I use.
 
 * 03/12/2017 - 🎥 [Section Templates | Hugo - Static Site Generator](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
 * 03/12/2017 - 📄 [Migrating from Jekyll+Github Pages to Hugo+Netlify](http://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/)
+* 09/02/2017 - 📄 [Hugo, the scope, the context and the dot](https://regisphilibert.com/blog/2018/02/hugo-the-scope-the-context-and-the-dot/)
 
 ### Testing
 
