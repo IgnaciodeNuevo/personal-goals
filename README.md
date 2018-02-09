@@ -736,7 +736,7 @@ Personal goals made open source across computers I use.
 * 14/01/2018 - 📄 [Understanding the DOM 4/5: How To Traverse the DOM](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
 * 14/01/2018 - 📄 [Understanding the DOM 5/5: How To Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
 * 07/02/2018 - 😍 📄 [ Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
-
+* 09/02/2018 - 🎥 ECMAScript 2018 - Descubre el nuevo Rest Operator](https://www.youtube.com/watch?v=viOGjE4yf0I)
 ### JavaScript Security
 
 * 12/01/2018 - 📄 [The Spectre Attack and Critical CSS](https://www.filamentgroup.com/lab/spectre-js-cookie.html)
