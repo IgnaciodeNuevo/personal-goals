@@ -354,6 +354,7 @@ Personal goals made open source across computers I use.
 * 28/12/2017 - 📄 [Stop Leaving Animation to the Last Minute](https://24ways.org/2017/stop-leaving-animation-to-the-last-minute/)
 * 28/12/2017 - 📄 [Animating Border](https://css-tricks.com/animating-border/)
 * 14/01/2018 - 📄 [Can CSS Custom Properties update animation durations on the fly?](https://benfrain.com/can-css-custom-properties-update-animation-durations-on-the-fly/)
+* 09/02/2018 - 📄 [Animation principles in UI](https://www.invisionapp.com/blog/animation-principles-in-ui/)
 
 ### Custom Properties
 
