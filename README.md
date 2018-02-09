@@ -309,7 +309,6 @@ Personal goals made open source across computers I use.
 * 27/05/2017 - 💊 [Grid 12 Column experiments](https://codepen.io/rachelandrew/pen/mPvboy)
 * 07/06/2017 - 📄 [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
 * 20/06/2017 - 📄 [CSS Grid Layout: A cornucopia of options](https://medium.com/gymnasium/css-grid-layout-a-cornucopia-of-options-90a5ee10ad9f)
-* 09/08/2017 - 📄 [Changes to the Grid Spec and taking on Multi-Column layout](https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/)
 * 12/08/2017 - 📄 [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 * 12/08/2017 - 📄 [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
 * 23/08/2017 - 📄 [Breakpoints: Don’t Box Me In](https://cloudfour.com/thinks/breakpoints-dont-box-me-in/)
@@ -346,7 +345,9 @@ Personal goals made open source across computers I use.
 
 ### Multi Column Layout
 
+* 09/08/2017 - 📄 [Changes to the Grid Spec and taking on Multi-Column layout](https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/)
 * 20/10/2017 - 😍 📄 [Exploring Multi-Column Layouts in CSS](https://alligator.io/css/multi-column-layouts/)
+* 09/02/2018 - 📄 [CSS Grid + CSS Multi-Columns = ♥](https://medium.com/@patrickbrosset/css-grid-css-multi-columns-7664f59bb60c)
 
 ### Animation
 
