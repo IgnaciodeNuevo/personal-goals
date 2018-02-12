@@ -730,7 +730,6 @@ Personal goals made open source across computers I use.
 * 26/11/2017 - 🎥 [Think about performance:RAFAEL GRANADOS, RUBÉN MARÍN RAGA](https://www.youtube.com/watch?v=H14grgqN87A)
 * 02/12/2017 - 🎥 [Dani Latorre y Nestor Salceda - Me da igual tu framework JavaScript | BCN Software Craftmanship 2017](https://www.youtube.com/watch?v=9gT8q2WEGU8)
 * 13/12/2017 - 🎥 [Anarchy.JS: DANI LATORRE, ALBERTO GUALIS](https://www.youtube.com/watch?v=GKWCFz0EK5k)
-* 11/01/2018 - 🎥 [Basics of Programming with JavaScript - (1 - JavaScript Introduction)](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
 * 14/01/2018 - 📄 [Understanding the DOM 1/5: Introduction to the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
 * 14/01/2018 - 📄 [Understanding the DOM 2/5: Understanding the DOM Tree and Nodes](https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes)
 * 14/01/2018 - 📄 [Understanding the DOM 3/5: How To Access Elements in the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
@@ -738,6 +737,8 @@ Personal goals made open source across computers I use.
 * 14/01/2018 - 📄 [Understanding the DOM 5/5: How To Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
 * 07/02/2018 - 😍 📄 [ Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
 * 09/02/2018 - 🎥 ECMAScript 2018 - Descubre el nuevo Rest Operator](https://www.youtube.com/watch?v=viOGjE4yf0I)
+* 12/02/2018 - 🎥 [Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
+
 ### JavaScript Security
 
 * 12/01/2018 - 📄 [The Spectre Attack and Critical CSS](https://www.filamentgroup.com/lab/spectre-js-cookie.html)
