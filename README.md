@@ -839,6 +839,7 @@ Personal goals made open source across computers I use.
 * 26/10/2017 - 📄 [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/)
 * 01/11/2017 - 🎥 [Applying S.O.L.I.D](https://www.youtube.com/watch?v=MrvwDLEBIjo)
 * 07/11/2017 - 🎥 [Denys Mishunov on Debugger; for Developers at SmashingConf Barcelona 2017](https://vimeo.com/241098635)
+* 12/02/2018 - 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04)
 
 ### Mentoring
 
