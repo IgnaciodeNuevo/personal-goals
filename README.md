@@ -52,6 +52,7 @@ Personal goals made open source across computers I use.
 1. [Angular](#angular)
 1. [React](#react)
 1. [Vue](#vue)
+1. [Razor Pages](#razor-pages)
 1. [Git](#git)
 1. [Command Line](#command-line)
 1. [DevTools](#devtools)
@@ -770,6 +771,10 @@ Personal goals made open source across computers I use.
 ### Vue
 
 * 22/08/2017 - 🎥 [Cómo empezar con Vue.js | Primeros pasos con Vue](https://www.youtube.com/watch?v=L0F4OPPsm0c)
+
+### Razor Pages
+
+* 12/02/2018 - 📄 [Using Razor Pages to simplify basic actions in ASP.NET Core 2.0 preview 1](https://andrewlock.net/using-razorpages-to-simplify-basic-actions-in-asp-net-core-2-0-preview-1/)
 
 ### Git
 
