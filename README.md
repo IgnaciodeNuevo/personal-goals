@@ -603,6 +603,7 @@ Personal goals made open source across computers I use.
 * 31/01/2018 - 😍 📄 [Better Typography with Font Variants](https://jonathan-harrell.com/better-typography-font-variants/)
 * 07/02/2018 - 😍 📄 [font-variant-numeric](https://css-tricks.com/almanac/properties/f/font-variant-numeric/)
 * 13/02/2018 - 🎥 [Chen Hui Jing: When East Meets West: Web Typography And How It Can Inspire](https://www.youtube.com/watch?v=Tqxo269aORM)
+* 13/02/2018 - 😍 🎥 [SmashingConf London — Zach Leatherman on ‘Web Fonts are ▢▢▢ Rocket Science’](https://vimeo.com/254727749)
 
 ### Design
 
