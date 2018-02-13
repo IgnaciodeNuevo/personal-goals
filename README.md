@@ -343,6 +343,7 @@ Personal goals made open source across computers I use.
 * 07/02/2018 - 🎥 [Internet Explorer exists. Use CSS Grid?](https://www.youtube.com/watch?v=7msERxu7ivg)
 * 07/02/2018 - 📄 [How I design with CSS grid](https://www.chenhuijing.com/blog/how-i-design-with-css-grid/#%F0%9F%8F%80)
 * 08/02/2018 - 📄 [Obliterate Boxiness with CSS Shapes](https://www.youtube.com/watch?v=pOB75oTNhw0)
+* 13/02/2018 - 📄 [Basics of CSS Grid: The Big Picture](https://www.youtube.com/watch?v=FEnRpy9Xfes)
 
 ### Multi Column Layout
 
