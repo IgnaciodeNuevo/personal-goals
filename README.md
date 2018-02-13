@@ -602,6 +602,7 @@ Personal goals made open source across computers I use.
 * 31/01/2018 - 📄 [How to use variable fonts in the real world](https://medium.com/clear-left-thinking/how-to-use-variable-fonts-in-the-real-world-e6d73065a604)
 * 31/01/2018 - 😍 📄 [Better Typography with Font Variants](https://jonathan-harrell.com/better-typography-font-variants/)
 * 07/02/2018 - 😍 📄 [font-variant-numeric](https://css-tricks.com/almanac/properties/f/font-variant-numeric/)
+* 13/02/2018 - 🎥 [Chen Hui Jing: When East Meets West: Web Typography And How It Can Inspire](https://www.youtube.com/watch?v=Tqxo269aORM)
 
 ### Design
 
