@@ -225,6 +225,7 @@ Personal goals made open source across computers I use.
 * 17/01/2018 - 🎥 [dotCSS 2017 - Adam Detrick - Write Less CSS](https://www.youtube.com/watch?v=5tvHSwFR4-Y)
 * 18/01/2018 - 🎥 [dotCSS 2017 - Jackie Balzer - Schrödinger's Website](https://www.youtube.com/watch?v=_noRkLSQ4nY)
 * 31/01/2018 - 😍 📄 [Advanced CSS-Only Form Styling](https://jonathan-harrell.com/advanced-css-form-styling/)
+* 14/02/2018 - 📄 [CSS Basics: The Syntax That Matters & The Syntax That Doesn’t](https://css-tricks.com/css-basics-syntax-matters-syntax-doesnt/)
 
 ### Relative Units
 
