@@ -742,6 +742,7 @@ Personal goals made open source across computers I use.
 * 07/02/2018 - 😍 📄 [ Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
 * 09/02/2018 - 🎥 [ECMAScript 2018 - Descubre el nuevo Rest Operator](https://www.youtube.com/watch?v=viOGjE4yf0I)
 * 12/02/2018 - 🎥 [Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
+* 14/02/2018 - 🎥 [Quick Start to JavaScript: Volume 1](https://app.pluralsight.com/library/courses/quick-start-javascript-1-1870/table-of-contents) - Using Variables
 
 ### JavaScript Security
 
