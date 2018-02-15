@@ -345,6 +345,7 @@ Personal goals made open source across computers I use.
 * 07/02/2018 - 📄 [How I design with CSS grid](https://www.chenhuijing.com/blog/how-i-design-with-css-grid/#%F0%9F%8F%80)
 * 08/02/2018 - 📄 [Obliterate Boxiness with CSS Shapes](https://www.youtube.com/watch?v=pOB75oTNhw0)
 * 13/02/2018 - 📄 [Basics of CSS Grid: The Big Picture](https://www.youtube.com/watch?v=FEnRpy9Xfes)
+* 15/02/2018 - 📄 [Combine Flexbox & Grid in a common layout made easy](https://www.youtube.com/watch?v=dQHtT47eH0M)
 
 ### Multi Column Layout
 
