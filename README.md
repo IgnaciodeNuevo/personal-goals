@@ -910,3 +910,4 @@ Personal goals made open source across computers I use.
 * 13/01/2018 - 🎥 [Xavier Gost - ¿Que es un programador y cual es su papel en la sociedad](https://www.youtube.com/watch?v=n-l4vSVJkNY)
 * 16/01/2018 - 🎥 [Habitual negative thoughts](https://www.youtube.com/watch?v=Kcie9rbbb4s)
 * 06/02/2018 - 🎥 [Workshop Práctico en diversidad y tecnología](https://www.youtube.com/watch?v=0nWLXf7k_kU)
+* 16/02/2018 - 📄 [Remembering what you learned](https://zellwk.com/blog/remember/)
