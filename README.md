@@ -226,6 +226,7 @@ Personal goals made open source across computers I use.
 * 18/01/2018 - 🎥 [dotCSS 2017 - Jackie Balzer - Schrödinger's Website](https://www.youtube.com/watch?v=_noRkLSQ4nY)
 * 31/01/2018 - 😍 📄 [Advanced CSS-Only Form Styling](https://jonathan-harrell.com/advanced-css-form-styling/)
 * 14/02/2018 - 📄 [CSS Basics: The Syntax That Matters & The Syntax That Doesn’t](https://css-tricks.com/css-basics-syntax-matters-syntax-doesnt/)
+* 16/02/2018 - 📄 [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 
 ### Relative Units
 
@@ -818,7 +819,7 @@ Personal goals made open source across computers I use.
 * 03/12/2017 - 🎥 [Section Templates | Hugo - Static Site Generator](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
 * 03/12/2017 - 📄 [Migrating from Jekyll+Github Pages to Hugo+Netlify](http://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/)
 * 09/02/2017 - 📄 [Hugo, the scope, the context and the dot](https://regisphilibert.com/blog/2018/02/hugo-the-scope-the-context-and-the-dot/)
-* 16/02/2017 - 📄 [Building a production website with Hugo and GulpJS](http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/)
+* 16/02/2017 - 😍 📄 [Building a production website with Hugo and GulpJS](http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/)
 * 16/02/2017 - 📄 [The CMS is dead. Long live Hugo, Wercker, Prose.io and CloudFront](https://atchai.com/blog/the-cms-is-dead-long-live-hugo-wercker-proseio-and-cloudfront/)
 * 16/02/2017 - 📄 [Building a theme with Hugo](http://www.humboldtux.net/sbcb-demo/post/post-01/)
 
