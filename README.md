@@ -467,6 +467,7 @@ Personal goals made open source across computers I use.
 * 28/12/2017 - 📄 [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
 * 16/01/2018 - 🎥 [[¿Quién es quién? ¿Maquetadores? ¿Front-end? ¿Full-stacks?... (Noemi Medina y Vanessa skywalker](https://www.youtube.com/watch?v=801wxgQyYtc)
 * 16/02/2017 - 📄 [Learning to code quickly](https://zellwk.com/blog/learn-fast/)
+* 16/02/2017 - 📄 [Understanding And Using REST APIs]https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
 ### a11y
 
