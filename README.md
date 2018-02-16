@@ -819,6 +819,7 @@ Personal goals made open source across computers I use.
 * 03/12/2017 - 📄 [Migrating from Jekyll+Github Pages to Hugo+Netlify](http://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/)
 * 09/02/2017 - 📄 [Hugo, the scope, the context and the dot](https://regisphilibert.com/blog/2018/02/hugo-the-scope-the-context-and-the-dot/)
 * 16/02/2017 - 📄 [Building a production website with Hugo and GulpJS](http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/)
+* 16/02/2017 - 📄 [The CMS is dead. Long live Hugo, Wercker, Prose.io and CloudFront](https://atchai.com/blog/the-cms-is-dead-long-live-hugo-wercker-proseio-and-cloudfront/)
 
 ### Testing
 
