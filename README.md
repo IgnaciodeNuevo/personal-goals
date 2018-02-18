@@ -609,6 +609,7 @@ Personal goals made open source across computers I use.
 * 07/02/2018 - 😍 📄 [font-variant-numeric](https://css-tricks.com/almanac/properties/f/font-variant-numeric/)
 * 13/02/2018 - 🎥 [Chen Hui Jing: When East Meets West: Web Typography And How It Can Inspire](https://www.youtube.com/watch?v=Tqxo269aORM)
 * 13/02/2018 - 😍 🎥 [SmashingConf London — Zach Leatherman on ‘Web Fonts are ▢▢▢ Rocket Science’](https://vimeo.com/254727749)
+* 18/02/2018 - 📄 [Shipping system fonts to GitHub.com](http://markdotto.com/2018/02/07/github-system-fonts/)
 
 ### Design
 
