@@ -526,9 +526,9 @@ Personal goals made open source across computers I use.
 
 ### Hilos Sego
 
-* 18/02/2018 - 📄 [#1 - Hilo de Twitter](https://twitter.com/SeGo/status/957176037359661056)
-* 18/02/2018 - 📄 [#2 - Hilo de Twitter](https://twitter.com/sego/status/959722511746457601)
-* 18/02/2018 - 📄 [#3 - Hilo de Twitter](https://twitter.com/SeGo/status/962255893663502336)
+* 18/02/2018 - 📄 [Springfield](https://twitter.com/SeGo/status/957176037359661056)
+* 18/02/2018 - 📄 [Seguridad Social](https://twitter.com/sego/status/959722511746457601)
+* 18/02/2018 - 📄 [Zara](https://twitter.com/SeGo/status/962255893663502336)
 
 ### Perf
 
