@@ -41,6 +41,7 @@ Personal goals made open source across computers I use.
 1. [Refactoring CSS](#refactoring-css)
 1. [Stylable](#stylable)
 1. [General Frontend](#general-frontend)
+1. [Hilos Sego](#hilos-sego)
 1. [a11y](#a11y)
 1. [Perf](#perf)
 1. [Typography](#typography)
@@ -522,6 +523,10 @@ Personal goals made open source across computers I use.
 * 14/01/2018 - 📄 [Writing with accessibility in min 2/3: JavaScript](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
 * 14/01/2018 - 📄 [Writing with accessibility in min 3/3: CSS](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
 * 06/02/2018 - 📄 [Accessible UI Components For The Web](https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67)
+
+### Hilos Sego
+
+* 18/02/2018 - 📄 [#1](https://twitter.com/SeGo/status/957176037359661056)
 
 ### Perf
 
