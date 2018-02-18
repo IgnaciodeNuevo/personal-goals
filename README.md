@@ -559,7 +559,7 @@ Personal goals made open source across computers I use.
 * 28/12/2017 - 📄 [Using WebP to create tiny preview images](https://medium.com/@jmperezperez/using-webp-to-create-tiny-preview-images-3e9b924f28d6)
 * 29/12/2017 - 📄 [The Contrast Swap Technique: Improved Image Performance with CSS Filters](https://css-tricks.com/contrast-swap-technique-improved-image-performance-css-filters/)
 * 12/01/2018 - 📄 [Can Preload Cut the Mustard?](https://www.filamentgroup.com/lab/preload-ctm.html)
-* 16/02/2018 - 📄 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
+* 16/02/2018 - 😍 📄 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 
 ### Typography
 
@@ -791,6 +791,7 @@ Personal goals made open source across computers I use.
 * 30/07/2017 - 📄 [Comandos de Git: Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
 * 08/08/2017 - 📄 [Squash your commits with git rebase](https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase)
 * 24/09/2017 - 📄 [When to make a Git Commit](https://dev.to/gonedark/when-to-make-a-git-commit)
+* 18/02/2018 - 📄 [How I Use Git](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
 
 ### Command Line
 
