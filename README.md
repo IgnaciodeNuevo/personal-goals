@@ -691,6 +691,7 @@ Personal goals made open source across computers I use.
 * 12/01/2017 - 📄 [Little UI details](https://codepen.io/tyrellrummage/full/ZJPXgy/)
 * 02/02/2018 - 📄 [Best Practices for Modals / Overlays / Dialog Windows](https://heydesigner.com/blog/best-practices-modals-overlays-dialog-windows/)
 * 07/02/2018 - 📄 [Use these top 10 tips when you design for forms](https://medium.com/@ChaymaeLougmani/use-these-top-10-tips-when-you-design-forms-d095d6e3ab8a)
+* 19/02/2018 - 📄 [Dropdown alternatives for better (mobile) forms](https://medium.com/@kollinz/dropdown-alternatives-for-better-mobile-forms-53e40d641b53)
 
 ### JavaScript
 
