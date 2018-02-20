@@ -229,6 +229,7 @@ Personal goals made open source across computers I use.
 * 14/02/2018 - 📄 [CSS Basics: The Syntax That Matters & The Syntax That Doesn’t](https://css-tricks.com/css-basics-syntax-matters-syntax-doesnt/)
 * 16/02/2018 - 📄 [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 * 18/02/2018 - 📄 [How Big Is That Box? Understanding Sizing In CSS Layout](https://www.smashingmagazine.com/2018/01/understanding-sizing-css-layout/)
+* 20/02/2018 - 🎥 [Into the Weeds of CSS Layout](https://vimeo.com/254679499)
 
 ### Relative Units
 
