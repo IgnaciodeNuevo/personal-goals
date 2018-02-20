@@ -759,6 +759,7 @@ Personal goals made open source across computers I use.
 * 09/02/2018 - 🎥 [ECMAScript 2018 - Descubre el nuevo Rest Operator](https://www.youtube.com/watch?v=viOGjE4yf0I)
 * 12/02/2018 - 🎥 [Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
 * 14/02/2018 - 🎥 [Quick Start to JavaScript: Volume 1](https://app.pluralsight.com/library/courses/quick-start-javascript-1-1870/table-of-contents) - Using Variables
+* 20/02/2018 - 🎥 [cookies vs localStorage vs sessionStorage - Beau teaches JavaScript](https://www.youtube.com/watch?v=AwicscsvGLg)
 
 ### JavaScript Security
 
