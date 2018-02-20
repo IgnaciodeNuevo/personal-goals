@@ -526,7 +526,7 @@ Personal goals made open source across computers I use.
 * 14/01/2018 - 📄 [Writing with accessibility in min 3/3: CSS](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
 * 06/02/2018 - 📄 [Accessible UI Components For The Web](https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67)
 
-### Hilos Sego
+### Hilos Sego
 
 * 18/02/2018 - 📄 [Springfield](https://twitter.com/SeGo/status/957176037359661056)
 * 18/02/2018 - 📄 [Seguridad Social](https://twitter.com/sego/status/959722511746457601)
