@@ -571,6 +571,7 @@ Personal goals made open source across computers I use.
 * 29/12/2017 - 📄 [The Contrast Swap Technique: Improved Image Performance with CSS Filters](https://css-tricks.com/contrast-swap-technique-improved-image-performance-css-filters/)
 * 12/01/2018 - 📄 [Can Preload Cut the Mustard?](https://www.filamentgroup.com/lab/preload-ctm.html)
 * 16/02/2018 - 😍 📄 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
+* 22/02/2018 - 🎥 [Making Platforms and Proccesses promote Perf](https://vimeo.com/254678463)
 
 ### Typography
 
@@ -873,7 +874,7 @@ Personal goals made open source across computers I use.
 * 26/10/2017 - 📄 [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/)
 * 01/11/2017 - 🎥 [Applying S.O.L.I.D](https://www.youtube.com/watch?v=MrvwDLEBIjo)
 * 07/11/2017 - 🎥 [Denys Mishunov on Debugger; for Developers at SmashingConf Barcelona 2017](https://vimeo.com/241098635)
-* 22/02/2018 - 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04)
+* 22/02/2018 - 😍 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04)
 
 ### Mentoring
 
