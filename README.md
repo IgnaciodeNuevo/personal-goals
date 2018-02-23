@@ -457,6 +457,7 @@ Personal goals made open source across computers I use.
 * 02/08/2017 - 📄 [Fix 90% of Your Problems With Susy by Getting This One Concept Right](https://zellwk.com/blog/context-with-susy/)
 * 13/10/2017 - 📄 [Use a Sass Variable for a Selector](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
 * 28/12/2017 - 📄 [V6: Typography and Proportions](http://v6.robweychert.com/blog/2017/11/v6-typography-proportions/)
+* 23/02/2018 - 📄 [Esparta utilizaría Stylelint](https://octuweb.com/esparta-utilizaria-stylelint/)
 
 ### Stylable
 
