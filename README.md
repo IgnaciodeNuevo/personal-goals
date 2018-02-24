@@ -366,6 +366,7 @@ Personal goals made open source across computers I use.
 * 28/12/2017 - 📄 [Animating Border](https://css-tricks.com/animating-border/)
 * 14/01/2018 - 📄 [Can CSS Custom Properties update animation durations on the fly?](https://benfrain.com/can-css-custom-properties-update-animation-durations-on-the-fly/)
 * 09/02/2018 - 📄 [Animation principles in UI](https://www.invisionapp.com/blog/animation-principles-in-ui/)
+* 24/02/2018 - 😍 📄 [How to animate "box-shadow" with silky smooth performance](http://tobiasahlin.com/blog/how-to-animate-box-shadow/)
 
 ### Custom Properties
 
@@ -571,7 +572,6 @@ Personal goals made open source across computers I use.
 * 29/12/2017 - 📄 [The Contrast Swap Technique: Improved Image Performance with CSS Filters](https://css-tricks.com/contrast-swap-technique-improved-image-performance-css-filters/)
 * 12/01/2018 - 📄 [Can Preload Cut the Mustard?](https://www.filamentgroup.com/lab/preload-ctm.html)
 * 16/02/2018 - 😍 📄 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
-* 22/02/2018 - 🎥 [Making Platforms and Proccesses promote Perf](https://vimeo.com/254678463)
 
 ### Typography
 
