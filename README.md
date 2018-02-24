@@ -458,6 +458,7 @@ Personal goals made open source across computers I use.
 * 02/08/2017 - 📄 [Fix 90% of Your Problems With Susy by Getting This One Concept Right](https://zellwk.com/blog/context-with-susy/)
 * 13/10/2017 - 📄 [Use a Sass Variable for a Selector](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
 * 28/12/2017 - 📄 [V6: Typography and Proportions](http://v6.robweychert.com/blog/2017/11/v6-typography-proportions/)
+* 23/02/2018 - 📄 [Esparta utilizaría Stylelint](https://octuweb.com/esparta-utilizaria-stylelint/)
 
 ### Stylable
 
@@ -808,6 +809,7 @@ Personal goals made open source across computers I use.
 * 08/08/2017 - 📄 [Squash your commits with git rebase](https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase)
 * 24/09/2017 - 📄 [When to make a Git Commit](https://dev.to/gonedark/when-to-make-a-git-commit)
 * 18/02/2018 - 📄 [How I Use Git](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
+* 23/02/2018 - 📄 [Comprobando tu CSS antes de subirlo a Git](http://jorgeatgu.com/blog/lint-staged-css-stylelint/)
 
 ### Command Line
 
