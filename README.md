@@ -231,6 +231,7 @@ Personal goals made open source across computers I use.
 * 18/02/2018 - 📄 [How Big Is That Box? Understanding Sizing In CSS Layout](https://www.smashingmagazine.com/2018/01/understanding-sizing-css-layout/)
 * 20/02/2018 - 🎥 [Into the Weeds of CSS Layout](https://vimeo.com/254679499)
 * 22/02/2018 - 🎥 [HTML Source Order and When There’s No CSS](https://www.youtube.com/watch?v=C82zB_yaGF8)
+* 24/02/2018 - 📄 [Handling long titles with truncation](https://assortment.io/posts/handling-long-titles-with-truncation)
 
 ### Relative Units
 
