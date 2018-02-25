@@ -770,6 +770,7 @@ Personal goals made open source across computers I use.
 * 12/02/2018 - 🎥 [Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
 * 20/02/2018 - 🎥 [cookies vs localStorage vs sessionStorage - Beau teaches JavaScript](https://www.youtube.com/watch?v=AwicscsvGLg)
 * 20/02/2018 - 🎥 [Quick Start to JavaScript: Volume 1](https://app.pluralsight.com/library/courses/quick-start-javascript-1-1870/table-of-contents)
+* 25/02/2018 - 😍 🎥 [An Introduction to Local Storage with JavaScript](https://www.youtube.com/watch?v=T9GWHFDcELQ)
 
 ### JavaScript Security
 
