@@ -369,6 +369,7 @@ Personal goals made open source across computers I use.
 * 14/01/2018 - 📄 [Can CSS Custom Properties update animation durations on the fly?](https://benfrain.com/can-css-custom-properties-update-animation-durations-on-the-fly/)
 * 09/02/2018 - 📄 [Animation principles in UI](https://www.invisionapp.com/blog/animation-principles-in-ui/)
 * 24/02/2018 - 😍 📄 [How to animate "box-shadow" with silky smooth performance](http://tobiasahlin.com/blog/how-to-animate-box-shadow/)
+* 25/02/2018 - 📄 [Get started with motion design in 9 steps](https://uxdesign.cc/motion-in-ux-design-9-points-to-get-started-e891974dc7ee)
 
 ### Custom Properties
 
