@@ -890,6 +890,7 @@ Personal goals made open source across computers I use.
 * 01/11/2017 - 🎥 [Applying S.O.L.I.D](https://www.youtube.com/watch?v=MrvwDLEBIjo)
 * 07/11/2017 - 🎥 [Denys Mishunov on Debugger; for Developers at SmashingConf Barcelona 2017](https://vimeo.com/241098635)
 * 22/02/2018 - 😍 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04)
+* 26/02/2018 - 😍 📄 [Pairing Guidelines](https://docs.google.com/document/d/1dGyhrW-2ivwi0iVdmwJoi0-mhRtKOMQp5eBSYkUR0Ek/mobilebasic)
 
 ### Mentoring
 
