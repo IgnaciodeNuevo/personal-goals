@@ -234,6 +234,7 @@ Personal goals made open source across computers I use.
 * 22/02/2018 - 🎥 [HTML Source Order and When There’s No CSS](https://www.youtube.com/watch?v=C82zB_yaGF8)
 * 24/02/2018 - 📄 [Handling long titles with truncation](https://assortment.io/posts/handling-long-titles-with-truncation)
 * 26/02/2018 - 🎥 [Introduction to Resilient CSS – 1/7](https://www.youtube.com/watch?v=u00FY9vADfQ)
+* 26/02/2018 - 🎥 [Introduction to Resilient CSS – 2/7](https://www.youtube.com/watch?v=WM_cKHH7bZ0)
 
 ### Relative Units
 
