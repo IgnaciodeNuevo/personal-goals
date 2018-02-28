@@ -236,6 +236,7 @@ Personal goals made open source across computers I use.
 * 26/02/2018 - 🎥 [Introduction to Resilient CSS – 1/7](https://www.youtube.com/watch?v=u00FY9vADfQ)
 * 26/02/2018 - 🎥 [Introduction to Resilient CSS – 2/7](https://www.youtube.com/watch?v=WM_cKHH7bZ0)
 * 27/02/2018 - 🎥 [Introduction to Resilient CSS – 3/7](https://www.youtube.com/watch?v=NJjlzxud4_M)
+* 28/02/2018 - 🎥 [Introduction to Resilient CSS – 4/7](https://www.youtube.com/watch?v=0X6zrW2QW8Q)
 
 ### Relative Units
 
