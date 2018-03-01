@@ -237,6 +237,8 @@ Personal goals made open source across computers I use.
 * 26/02/2018 - 🎥 [Introduction to Resilient CSS – 2/7](https://www.youtube.com/watch?v=WM_cKHH7bZ0)
 * 27/02/2018 - 🎥 [Introduction to Resilient CSS – 3/7](https://www.youtube.com/watch?v=NJjlzxud4_M)
 * 28/02/2018 - 🎥 [Introduction to Resilient CSS – 4/7](https://www.youtube.com/watch?v=0X6zrW2QW8Q)
+* 01/03/2018 - 🎥 [Introduction to Resilient CSS – 5/7](https://www.youtube.com/watch?v=T8uxmUQZsck)
+* 01/03/2018 - 🎥 [Introduction to Resilient CSS – 6/7](https://www.youtube.com/watch?v=7y-xfxC2jGA)
 
 ### Relative Units
 
@@ -359,7 +361,6 @@ Personal goals made open source across computers I use.
 * 15/02/2018 - 📄 [Combine Flexbox & Grid in a common layout made easy](https://www.youtube.com/watch?v=dQHtT47eH0M)
 * 20/02/2018 - 🎥 [Whitespace on The Web! — with CSS Grid](https://www.youtube.com/watch?v=YfIjFeBLhyA)
 * 28/02/2018 - 🎥 [Why CSS Grid is a game changer for web design](https://www.youtube.com/watch?v=24vLH3MC4bc)
-* 01/03/2018 - 🎥 [The Magic of Feature Queries, Part 1 – 5/7 Resilient CSS](https://www.youtube.com/watch?v=T8uxmUQZsck)
 
 ### Multi Column Layout
 
