@@ -447,6 +447,7 @@ Personal goals made open source across computers I use.
 * 19/11/2017 - 😍 🎥 [Dressing ITCSS: Video](https://www.youtube.com/watch?v=2IdI5VUfE48)
 * 19/11/2017 - 😍 💊 [Dressing ITCSS: Slides](https://danifornells.github.io/dressing-itcss/#/)
 * 30/11/2017 - 🎥 [dotCSS 2014 - Nicolas Gallagher - Thinking beyond “Scalable CSS”](https://www.youtube.com/watch?v=L8w3v9m6G04)
+* 03/03/2018 - 📄 [Patterns for writing manageable CSS without a framework](https://medium.com/kpcc-labs/patterns-for-writing-manageable-css-without-a-framework-109779743c41)
 
 ### Refactoring CSS
 
