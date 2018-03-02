@@ -639,6 +639,7 @@ Personal goals made open source across computers I use.
 * 19/02/2018 - 📄 [Tipografía responsive, tipografía responsable](https://vimeo.com/153796810)
 * 24/02/2018 - 📄 [Understanding Web Fonts](https://css-tricks.com/understanding-web-fonts-getting/)
 * 28/02/2018 - 😍 📄 [Responsive Vertical Rhythm with CSS Custom Properties and CSS Calc](https://zellwk.com/blog/responsive-vertical-rhythm/)
+* 02/03/2018 - 📄 [Laissez-faire Font Smoothing and Anti-aliasing](https://www.zachleat.com/web/font-smooth/)
 
 ### Design
 
