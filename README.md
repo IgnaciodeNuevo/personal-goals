@@ -392,6 +392,7 @@ Personal goals made open source across computers I use.
 * 08/11/2017 - 📄 [The CSS attr() function got nothin’ on custom properties](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
 * 15/11/2017 - 📄 [CSS Environment variables; how to deal with the software bezel of iPhone X](https://benfrain.com/css-environment-variables-iphonex/)
 * 27/12/2017 - 📄 [Getting Hardboiled with CSS Custom Properties](https://24ways.org/2017/getting-hardboiled-with-css-custom-properties/)
+* 03/03/2018 - 📄 [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)
 
 ### CSS Architecture and Naming
 
