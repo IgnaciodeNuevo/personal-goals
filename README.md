@@ -4,72 +4,72 @@ Personal goals made open source across computers I use.
 
 # Overarching Goals for 2018:
 
-1. 📚 JavaScript!
+1.  📚 JavaScript!
 
 # Legend
 
-1. 😍 _MUST_ Read (📄) / Watch (🎥) / Listen (🎼)
-1. 📚 Study!
-1. 📕 Book
-1. 💡 Project
-1. 🚀 Things to do
-1. 🎥 Video
-1. 📄 Article
-1. 🎼 Audio
-1. 💊 Resource or CodePen
+1.  😍 _MUST_ Read (📄) / Watch (🎥) / Listen (🎼)
+1.  📚 Study!
+1.  📕 Book
+1.  💡 Project
+1.  🚀 Things to do
+1.  🎥 Video
+1.  📄 Article
+1.  🎼 Audio
+1.  💊 Resource or CodePen
 
 ## Index
 
-1. [Projects](#projects)
-1. [Books](#books)
-1. [Podcasts](#podcasts)
-1. [Things I'll do in the future](#things-ill-do-in-the-future)
-1. [HTML](#html)
-1. [Cascade and Specificity](#cascade-and-specificity)
-1. [CSS](#css)
-1. [Relative Units](#relative-units)
-1. [Feature Queries](#feature-queries)
-1. [Container Queries](#container-queries)
-1. [Responsive Images](#responsive-images)
-1. [Flexbox](#flexbox)
-1. [Grid vs Flexbox](#grid-vs-flexbox)
-1. [CSS Grid Layout](#css-grid-layout)
-1. [Multi Column Layout](#multi-column-layout)
-1. [Animation](#animation)
-1. [Custom Properties](#custom-properties)
-1. [CSS Architecture and Naming](#css-architecture-and-naming)
-1. [Refactoring CSS](#refactoring-css)
-1. [Stylable](#stylable)
-1. [General Frontend](#general-frontend)
-1. [Hilos Sego](#hilos-sego)
-1. [a11y](#a11y)
-1. [Perf](#perf)
-1. [Typography](#typography)
-1. [Design](#design)
-1. [SVG](#svg)
-1. [UX](#ux)
-1. [JavaScript](#javascript)
-1. [JavaScript Security](#javascript-security)
-1. [Angular](#angular)
-1. [React](#react)
-1. [Vue](#vue)
-1. [Razor Pages](#razor-pages)
-1. [Git](#git)
-1. [Command Line](#command-line)
-1. [DevTools](#devtools)
-1. [Engine Internals](#engine-internals)
-1. [Task Runners](#task-runners)
-1. [Jekyll](#jekyll)
-1. [Hugo](#hugo)
-1. [Testing](#testing)
-1. [Linting](#linting)
-1. [OOP](#object-oriented-programming)
-1. [Software Crafting](#software-crafting)
-1. [Mentoring](#mentoring)
-1. [Octuweb](#octuweb)
-1. [Career](#career)
-1. [Documentation](#documentation)
-1. [Other resources](#other-resources)
+1.  [Projects](#projects)
+1.  [Books](#books)
+1.  [Podcasts](#podcasts)
+1.  [Things I'll do in the future](#things-ill-do-in-the-future)
+1.  [HTML](#html)
+1.  [Cascade and Specificity](#cascade-and-specificity)
+1.  [CSS](#css)
+1.  [Relative Units](#relative-units)
+1.  [Feature Queries](#feature-queries)
+1.  [Container Queries](#container-queries)
+1.  [Responsive Images](#responsive-images)
+1.  [Flexbox](#flexbox)
+1.  [Grid vs Flexbox](#grid-vs-flexbox)
+1.  [CSS Grid Layout](#css-grid-layout)
+1.  [Multi Column Layout](#multi-column-layout)
+1.  [Animation](#animation)
+1.  [Custom Properties](#custom-properties)
+1.  [CSS Architecture and Naming](#css-architecture-and-naming)
+1.  [Refactoring CSS](#refactoring-css)
+1.  [Stylable](#stylable)
+1.  [General Frontend](#general-frontend)
+1.  [Hilos Sego](#hilos-sego)
+1.  [a11y](#a11y)
+1.  [Perf](#perf)
+1.  [Typography](#typography)
+1.  [Design](#design)
+1.  [SVG](#svg)
+1.  [UX](#ux)
+1.  [JavaScript](#javascript)
+1.  [JavaScript Security](#javascript-security)
+1.  [Angular](#angular)
+1.  [React](#react)
+1.  [Vue](#vue)
+1.  [Razor Pages](#razor-pages)
+1.  [Git](#git)
+1.  [Command Line](#command-line)
+1.  [DevTools](#devtools)
+1.  [Engine Internals](#engine-internals)
+1.  [Task Runners](#task-runners)
+1.  [Jekyll](#jekyll)
+1.  [Hugo](#hugo)
+1.  [Testing](#testing)
+1.  [Linting](#linting)
+1.  [OOP](#object-oriented-programming)
+1.  [Software Crafting](#software-crafting)
+1.  [Mentoring](#mentoring)
+1.  [Octuweb](#octuweb)
+1.  [Career](#career)
+1.  [Documentation](#documentation)
+1.  [Other resources](#other-resources)
 
 ### Projects
 
@@ -239,6 +239,7 @@ Personal goals made open source across computers I use.
 * 28/02/2018 - 🎥 [Introduction to Resilient CSS – 4/7](https://www.youtube.com/watch?v=0X6zrW2QW8Q)
 * 01/03/2018 - 🎥 [Introduction to Resilient CSS – 5/7](https://www.youtube.com/watch?v=T8uxmUQZsck)
 * 01/03/2018 - 🎥 [Introduction to Resilient CSS – 6/7](https://www.youtube.com/watch?v=7y-xfxC2jGA)
+* 02/03/2018 - 🎥 [Introduction to Resilient CSS – 7/7](https://www.youtube.com/watch?v=X3xvMKgtB-c)
 
 ### Relative Units
 
