@@ -365,6 +365,7 @@ Personal goals made open source across computers I use.
 * 28/02/2018 - 🎥 [Why CSS Grid is a game changer for web design](https://www.youtube.com/watch?v=24vLH3MC4bc)
 * 03/03/2018 - 📄 [Usando Grid Layout y Flexbox como fallback en Fotocasa](https://medium.com/@miduga/usa-un-grid-layout-y-usa-flexbox-como-fallback-b16fbd145ff7)
 * 03/03/2018 - 😍 📄 [Basic grid layout with fallbacks using feature queries](https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/#%F0%9F%8F%80)
+* 03/03/2018 - 📄 [How to combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/)
 
 ### Multi Column Layout
 
