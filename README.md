@@ -363,6 +363,7 @@ Personal goals made open source across computers I use.
 * 15/02/2018 - 📄 [Combine Flexbox & Grid in a common layout made easy](https://www.youtube.com/watch?v=dQHtT47eH0M)
 * 20/02/2018 - 🎥 [Whitespace on The Web! — with CSS Grid](https://www.youtube.com/watch?v=YfIjFeBLhyA)
 * 28/02/2018 - 🎥 [Why CSS Grid is a game changer for web design](https://www.youtube.com/watch?v=24vLH3MC4bc)
+* 03/03/2018 - 📄 [Usando Grid Layout y Flexbox como fallback en Fotocasa](https://medium.com/@miduga/usa-un-grid-layout-y-usa-flexbox-como-fallback-b16fbd145ff7)
 
 ### Multi Column Layout
 
