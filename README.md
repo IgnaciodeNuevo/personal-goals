@@ -367,6 +367,7 @@ Personal goals made open source across computers I use.
 * 03/03/2018 - 😍 📄 [Basic grid layout with fallbacks using feature queries](https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/#%F0%9F%8F%80)
 * 03/03/2018 - 📄 [How to combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/)
 * 03/03/2018 - 📄 [Styling Empty Cells With Generated Content And CSS Grid Layout](https://www.smashingmagazine.com/2018/02/generated-content-grid-layout/)
+* 03/03/2018 - 📄 [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)
 
 ### Multi Column Layout
 
