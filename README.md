@@ -643,6 +643,7 @@ Personal goals made open source across computers I use.
 * 24/02/2018 - 📄 [Understanding Web Fonts](https://css-tricks.com/understanding-web-fonts-getting/)
 * 28/02/2018 - 😍 📄 [Responsive Vertical Rhythm with CSS Custom Properties and CSS Calc](https://zellwk.com/blog/responsive-vertical-rhythm/)
 * 02/03/2018 - 📄 [Laissez-faire Font Smoothing and Anti-aliasing](https://www.zachleat.com/web/font-smooth/)
+* 03/03/2018 - 📄 [Deep dive CSS: font metrics, line-height and vertical-align](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 
 ### Design
 
@@ -690,7 +691,7 @@ Personal goals made open source across computers I use.
 * 28/12/2017 - 📄 [Optical Effects in User Interfaces (for True Nerds)](https://medium.muz.li/optical-effects-9fca82b4cd9a)
 * 22/01/2018 - 😍 📄 [Intro to The 8-Point Grid System](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632)
 * 22/01/2018 - 😍 📄 [8-Point Grid: Borders And Layouts](https://builttoadapt.io/8-point-grid-borders-and-layouts-e91eb97f5091)Mirror Conf \* 24/02/2018 - 📄 [2017 | Vitaly Friedman - A Little Story About A Big Bang Redesign](https://www.youtube.com/watch?v=Bxf6mHVLbPM)
-03/03/2018 - 📄 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+  03/03/2018 - 📄 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
 ### SVG
 
