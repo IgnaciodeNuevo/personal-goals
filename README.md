@@ -598,6 +598,7 @@ Personal goals made open source across computers I use.
 * 16/02/2018 - 😍 📄 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 * 25/02/2018 - 🎥 [Beyond the Basics of Image Optimization](https://vimeo.com/254736788)
 * 05/03/2018 - 😍 📄 [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+* 05/03/2018 - 📄 [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
 
 ### Typography
 
