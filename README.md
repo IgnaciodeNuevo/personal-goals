@@ -798,6 +798,7 @@ Personal goals made open source across computers I use.
 * 25/02/2018 - 😍 🎥 [The Event Loop](https://vimeo.com/254947206)
 * 26/02/2018 - 🎥 [Optional Chaining Operator in JavaScript](https://www.youtube.com/watch?v=FKRVqtP8o48)
 * 02/03/2018 - 📄 [addEventListener vs onclick](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick)
+* 05/03/2018 - 🎥 [Observable JavaScript playbook, asynchronous generators and hacking the Fun Fun Forum](https://www.youtube.com/watch?v=MmRmxzrr4lk)
 
 ### JavaScript Security
 
