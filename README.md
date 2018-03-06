@@ -980,3 +980,4 @@ Personal goals made open source across computers I use.
 * 19/02/2018 - 📄 [Bad jobs, Family and Depression](https://www.youtube.com/watch?v=BZAVtDR-SQs)
 * 06/03/2018 - 🎥 [Dan Pink - La sorprendente verdad acerca de lo que realmente nos motiva](https://www.youtube.com/watch?v=Razk7UiUhI8)
 * 06/03/2018 - 🎥 [La realidad sobre motivación y creatividad 1/2: Daniel Pink en TEDGlobal 2009](https://www.youtube.com/watch?v=UCB8teHnqXY)
+* 06/03/2018 - 🎥 [La realidad sobre motivación y creatividad 2/2: Daniel Pink en TEDGlobal 2009](https://www.youtube.com/watch?v=Us4t673BNyw)
