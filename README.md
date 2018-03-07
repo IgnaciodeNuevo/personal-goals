@@ -240,8 +240,9 @@ Personal goals made open source across computers I use.
 * 01/03/2018 - 🎥 [Introduction to Resilient CSS – 5/7](https://www.youtube.com/watch?v=T8uxmUQZsck)
 * 01/03/2018 - 🎥 [Introduction to Resilient CSS – 6/7](https://www.youtube.com/watch?v=7y-xfxC2jGA)
 * 02/03/2018 - 🎥 [Introduction to Resilient CSS – 7/7](https://www.youtube.com/watch?v=X3xvMKgtB-c)
-* 02/03/2018 - 😍 📄 [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
+* 02/03/2018 - 📄 [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
 * 07/03/2018 - 📄 [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
+* 07/03/2018 - 😍 📄 [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 
 ### Relative Units
 
