@@ -701,7 +701,8 @@ Personal goals made open source across computers I use.
 * 28/12/2017 - 📄 [Optical Effects in User Interfaces (for True Nerds)](https://medium.muz.li/optical-effects-9fca82b4cd9a)
 * 22/01/2018 - 😍 📄 [Intro to The 8-Point Grid System](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632)
 * 22/01/2018 - 😍 📄 [8-Point Grid - Borders And Layouts](https://builttoadapt.io/8-point-grid-borders-and-layouts-e91eb97f5091)Mirror Conf \* 24/02/2018 - 📄 [2017 | Vitaly Friedman - A Little Story About A Big Bang Redesign](https://www.youtube.com/watch?v=Bxf6mHVLbPM)
-  03/03/2018 - 📄 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+03/03/2018 - 📄 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+* 07/03/2018 - 🎥 [Design matters! | T3chFest 2018](https://www.youtube.com/watch?v=Y42v2_MrGfM)
 
 ### SVG
 
