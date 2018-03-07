@@ -386,6 +386,7 @@ Personal goals made open source across computers I use.
 * 09/02/2018 - 📄 [Animation principles in UI](https://www.invisionapp.com/blog/animation-principles-in-ui/)
 * 24/02/2018 - 😍 📄 [How to animate "box-shadow" with silky smooth performance](http://tobiasahlin.com/blog/how-to-animate-box-shadow/)
 * 25/02/2018 - 📄 [Get started with motion design in 9 steps](https://uxdesign.cc/motion-in-ux-design-9-points-to-get-started-e891974dc7ee)
+* 07/03/2018 - 📄 [Good to great UI animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)
 
 ### Custom Properties
 
