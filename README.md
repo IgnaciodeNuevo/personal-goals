@@ -243,6 +243,7 @@ Personal goals made open source across computers I use.
 * 02/03/2018 - 📄 [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
 * 07/03/2018 - 📄 [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
 * 07/03/2018 - 😍 📄 [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+* 07/03/2018 - 😍 📄 [My approach to using z-index](https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c)
 
 ### Relative Units
 
