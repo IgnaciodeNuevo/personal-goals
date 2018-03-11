@@ -660,6 +660,7 @@ Personal goals made open source across computers I use.
 * 02/03/2018 - 📄 [Laissez-faire Font Smoothing and Anti-aliasing](https://www.zachleat.com/web/font-smooth/)
 * 03/03/2018 - 📄 [Deep dive CSS: font metrics, line-height and vertical-align](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 * 08/03/2018 - 📄 [CSS Baseline: The Good, The Bad And The Ugly](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
+* 11/03/2018 - 🎥 [Tim Brown - More Perfect Typography](https://vimeo.com/17079380)
 
 ### Design
 
