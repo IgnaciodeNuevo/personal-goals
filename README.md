@@ -708,6 +708,7 @@ Personal goals made open source across computers I use.
 * 24/02/2018 - 📄 [2017 | Vitaly Friedman - A Little Story About A Big Bang Redesign](https://www.youtube.com/watch?v=Bxf6mHVLbPM)
 * 03/03/2018 - 📄 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 * 07/03/2018 - 🎥 [Design matters! | T3chFest 2018](https://www.youtube.com/watch?v=Y42v2_MrGfM)
+* 11/03/2018 - 😍 🎥 [Dibujo artístico aplicado al maquetador web - Carlos Mañas](https://www.youtube.com/watch?v=p-XhLT8-nQc)
 
 ### SVG
 
