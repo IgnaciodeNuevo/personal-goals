@@ -816,6 +816,7 @@ Personal goals made open source across computers I use.
 * 06/03/2018 - 📄 [How to Use Local Storage with JavaScript](https://www.taniarascia.com/how-to-use-local-storage-with-javascript/)
 * 07/03/2018 - 📄 [La programación asíncrona es la reina de la selva](https://octuweb.com/programacion-asincrona/)
 * 07/03/2018 - 📄 [When 'not' to use arrow functions](https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/)
+* 12/03/2018 - 📄 [Structuring JavaScript projects for testability](https://www.youtube.com/watch?v=aL6SouuO0_k)
 
 ### JavaScript Security
 
