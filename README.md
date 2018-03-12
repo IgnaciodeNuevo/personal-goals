@@ -714,6 +714,7 @@ Personal goals made open source across computers I use.
 * 03/03/2018 - 📄 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 * 07/03/2018 - 🎥 [Design matters! | T3chFest 2018](https://www.youtube.com/watch?v=Y42v2_MrGfM)
 * 11/03/2018 - 😍 🎥 [Dibujo artístico aplicado al maquetador web - Carlos Mañas](https://www.youtube.com/watch?v=p-XhLT8-nQc)
+* 12/03/2018 - 📄 [Design Trend, Offset + Overlapping Content Blocks](https://medium.com/ux-power-tools/design-trend-offset-overlapping-content-blocks-53e20157d2a8)
 
 ### SVG
 
@@ -816,7 +817,7 @@ Personal goals made open source across computers I use.
 * 06/03/2018 - 📄 [How to Use Local Storage with JavaScript](https://www.taniarascia.com/how-to-use-local-storage-with-javascript/)
 * 07/03/2018 - 📄 [La programación asíncrona es la reina de la selva](https://octuweb.com/programacion-asincrona/)
 * 07/03/2018 - 📄 [When 'not' to use arrow functions](https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/)
-* 12/03/2018 - 📄 [Structuring JavaScript projects for testability](https://www.youtube.com/watch?v=aL6SouuO0_k)
+* 12/03/2018 - 🎥 [Structuring JavaScript projects for testability](https://www.youtube.com/watch?v=aL6SouuO0_k)
 
 ### JavaScript Security
 
