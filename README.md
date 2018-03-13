@@ -878,7 +878,7 @@ Personal goals made open source across computers I use.
 * 28/10/2017 - 🎥 [Modern Tooling, Testing, and Automation (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=7-XnEMrQnn4)
 * 01/11/2017 - 🎥 [DevTools (Chrome/Firefox)](https://www.youtube.com/watch?v=hQ3zvTyPjNg)
 
-### Engine Internals
+### Engine Internals
 
 * 25/02/2018 - 🎥 [JavaScript Engine Internals for JavaScript Developers](https://vimeo.com/254852822)
 
