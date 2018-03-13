@@ -880,7 +880,7 @@ Personal goals made open source across computers I use.
 * 01/11/2017 - 🎥 [DevTools (Chrome/Firefox)](https://www.youtube.com/watch?v=hQ3zvTyPjNg)
 * 13/03/2018 - 😍 📄 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
 
-### Engine Internals
+### Engine Internals
 
 * 25/02/2018 - 🎥 [JavaScript Engine Internals for JavaScript Developers](https://vimeo.com/254852822)
 
