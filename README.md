@@ -244,6 +244,7 @@ Personal goals made open source across computers I use.
 * 07/03/2018 - 📄 [Responsive Design’s Dirty Little Secret](https://www.palantir.net/blog/responsive-design-s-dirty-little-secret)
 * 07/03/2018 - 😍 📄 [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 * 07/03/2018 - 😍 📄 [My approach to using z-index](https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c)
+* 14/03/2018 - 😍 📄 [What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
 
 ### Relative Units
 
