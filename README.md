@@ -822,6 +822,7 @@ Personal goals made open source across computers I use.
 * 07/03/2018 - 📄 [La programación asíncrona es la reina de la selva](https://octuweb.com/programacion-asincrona/)
 * 07/03/2018 - 📄 [When 'not' to use arrow functions](https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/)
 * 12/03/2018 - 🎥 [Structuring JavaScript projects for testability](https://www.youtube.com/watch?v=aL6SouuO0_k)
+* 16/03/2018 - 📄 [Taming huge collections of DOM nodes](https://codeburst.io/taming-huge-collections-of-dom-nodes-bebafdba332)
 
 ### JavaScript Security
 
