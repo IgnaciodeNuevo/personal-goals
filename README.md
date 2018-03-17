@@ -165,6 +165,7 @@ Personal goals made open source across computers I use.
 * 27/12/2017 - 😍 📄 [An Overview of HTML5 Semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
 * 12/01/2018 - 📄 [What’s New in HTML 5.2?](https://bitsofco.de/whats-new-in-html-5-2/)
 * 31/01/2018 - 😍 📄 [Autofill - What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/)
+* 17/03/2018 - 📄 [Labels Required](https://www.filamentgroup.com/lab/a11y-form-labels.html)
 
 ### Cascade and Specificity
 
