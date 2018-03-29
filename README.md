@@ -50,6 +50,7 @@ Personal goals made open source across computers I use.
 1.  [UX](#ux)
 1.  [JavaScript](#javascript)
 1.  [JavaScript Security](#javascript-security)
+1.  [TypeScript](#typescript)
 1.  [Angular](#angular)
 1.  [React](#react)
 1.  [Vue](#vue)
@@ -830,6 +831,10 @@ Personal goals made open source across computers I use.
 ### JavaScript Security
 
 * 12/01/2018 - 📄 [The Spectre Attack and Critical CSS](https://www.filamentgroup.com/lab/spectre-js-cookie.html)
+
+### TypeScript
+
+* 29/03/2018 - 📄 [Typescript: cast an object to other type. How? And instanceof or typeof?](https://acdcjunior.github.io/typescript-cast-object-to-other-type-or-instanceof.html)
 
 ### Angular
 
