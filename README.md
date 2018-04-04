@@ -564,6 +564,7 @@ Personal goals made open source across computers I use.
 * 03/03/2018 - 📄 [Accessible Landmarks](http://www.scottohara.me/blog/2018/03/03/landmarks.html)
 * 05/03/2018 - 📄 [Improving the Accessibility of 24 ways](https://css-tricks.com/improving-accessibility-24-ways/)
 * 12/03/2018 - 📄 [Building a fully-accessible help tooltip](https://www.sarasoueidan.com/blog/accessible-tooltips/)
+* 04/04/2018 - 📄 [:focus-visible and backwards compatibility](https://developer.paciellogroup.com/blog/2018/03/focus-visible-and-backwards-compatibility/)
 
 ### Hilos Sego
 
