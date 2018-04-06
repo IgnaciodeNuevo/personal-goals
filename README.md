@@ -725,6 +725,7 @@ Personal goals made open source across computers I use.
 * 12/03/2018 - 📄 [Design Trend, Offset + Overlapping Content Blocks](https://medium.com/ux-power-tools/design-trend-offset-overlapping-content-blocks-53e20157d2a8)
 * 14/03/2018 - 📄 [Designing Button State](https://cloudfour.com/thinks/designing-button-states/)
 * 05/04/2018 - 📄 [Wireframing 101: Sorting the wheat from the chaff](https://shakuro.com/blog/wireframing-101-sorting-the-wheat-from-the-chaff/)
+* 06/04/2018 - 📄 [Pitfalls of Card UIs](https://daverupert.com/2018/04/pitfalls-of-card-uis/)
 
 ### SVG
 
