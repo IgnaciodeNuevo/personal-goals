@@ -376,6 +376,7 @@ Personal goals made open source across computers I use.
 * 03/03/2018 - 📄 [How to combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/)
 * 03/03/2018 - 📄 [Styling Empty Cells With Generated Content And CSS Grid Layout](https://www.smashingmagazine.com/2018/02/generated-content-grid-layout/)
 * 03/03/2018 - 📄 [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)
+* 08/04/2018 - 📄 [Rock' n' Grid - Diana Aceves WeCodeFest 2018](https://www.youtube.com/watch?v=p7oXrr9yjXY)
 
 ### Multi Column Layout
 
