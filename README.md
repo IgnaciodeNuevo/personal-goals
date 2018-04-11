@@ -103,7 +103,7 @@ Personal goals made open source across computers I use.
 * 😍 📕 [Mobile First](https://abookapart.com/products/mobile-first)
 * 😍 📕 [SMACSS](https://smacss.com)
 * 😍 📕 [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
-* 📕 [Best of 9 Smashing years](https://shop.smashingmagazine.com/products/best-of-nine-smashing-years)
+* 📕 [Best of 9 Smashing years](http://provide.smashingmagazine.com/eBooks/best-of-nine-smashing-years.pdf)
 * 📕 [Colour Accesibility](https://www.fivesimplesteps.com/products/colour-accessibility)
 * 📕 [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
 * 📕 [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
