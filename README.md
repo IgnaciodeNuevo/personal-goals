@@ -674,6 +674,7 @@ Personal goals made open source across computers I use.
 * 11/03/2018 - 🎥 [Tim Brown - More Perfect Typography](https://vimeo.com/17079380)
 * 11/03/2018 - 🎥 [Tipografía del futuro para problemas del presente | T3chFest 2018](https://www.youtube.com/watch?v=WwN_WiRS9hE)
 * 13/03/2018 - 📄 [Technical Web Typography: Guidelines and Techniques](https://www.smashingmagazine.com/2011/03/technical-web-typography-guidelines-and-techniques/)
+* 11/04/2018 - 📄 [“The Compromise”—a Modern but Compatible Font Loading Strategy](https://www.zachleat.com/web/the-compromise/)
 
 ### Design
 
