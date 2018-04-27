@@ -399,6 +399,7 @@ Personal goals made open source across computers I use.
 * 27/04/2018 - 📄 [How JavaScript works: Under the hood of CSS and JS animations + how to optimize their performance](https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-css-and-js-animations-how-to-optimize-their-performance-db0e79586216)
 * 27/04/2018 - 😍 📄 [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
 * 27/04/2018 - 😍 📄 [FLIP Your 60 FPS Animations, FLIP ’Em Good](https://medium.com/outsystems-experts/flip-your-60-fps-animations-flip-em-good-372281598865)
+* 27/04/2018 - 📄 [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web/)
 
 ### Custom Properties
 
