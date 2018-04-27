@@ -396,6 +396,10 @@ Personal goals made open source across computers I use.
 * 25/02/2018 - 📄 [Get started with motion design in 9 steps](https://uxdesign.cc/motion-in-ux-design-9-points-to-get-started-e891974dc7ee)
 * 07/03/2018 - 📄 [Good to great UI animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)
 * 11/03/2018 - 🎥 [Animaciones SVG](https://www.youtube.com/watch?v=Xq_x6uQ-jtw)
+* 27/04/2018 - 📄 [How JavaScript works: Under the hood of CSS and JS animations + how to optimize their performance](https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-css-and-js-animations-how-to-optimize-their-performance-db0e79586216)
+* 27/04/2018 - 😍 📄 [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
+* 27/04/2018 - 😍 📄 [FLIP Your 60 FPS Animations, FLIP ’Em Good](https://medium.com/outsystems-experts/flip-your-60-fps-animations-flip-em-good-372281598865)
+* 27/04/2018 - 📄 [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web/)
 
 ### Custom Properties
 
