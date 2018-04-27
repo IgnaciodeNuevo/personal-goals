@@ -839,6 +839,7 @@ Personal goals made open source across computers I use.
 * 16/03/2018 - 📄 [Taming huge collections of DOM nodes](https://codeburst.io/taming-huge-collections-of-dom-nodes-bebafdba332)
 * 19/03/2018 - 📄 [JavaScript’s “this” Explained By Starting A High School Band](https://blog.codeanalogies.com/2018/03/12/javascripts-this-explained-by-starting-a-high-school-band/)
 * 10/04/2018 - 🎥 [Tom Dale - Secrets of the DOM Virtual Machine](https://www.youtube.com/watch?v=tmCLRj6o9XU)
+* 27/04/2018 - 🎥 [Composicion de funciones, visibilidad y combinadores](https://www.youtube.com/watch?v=0WqAA6DOpJw)
 
 ### JavaScript Security
 
