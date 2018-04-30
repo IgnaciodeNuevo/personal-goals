@@ -845,6 +845,7 @@ Personal goals made open source across computers I use.
 * 10/04/2018 - 🎥 [Tom Dale - Secrets of the DOM Virtual Machine](https://www.youtube.com/watch?v=tmCLRj6o9XU)
 * 27/04/2018 - 🎥 [Principios de diseño, codigo limpio y testing](https://www.youtube.com/watch?v=j8jRdhpgmro)
 * 27/04/2018 - 🎥 [Composicion de funciones, visibilidad y combinadores](https://www.youtube.com/watch?v=0WqAA6DOpJw)
+* 30/04/2018 - 🎥 [Introduccion a combinadores](https://www.youtube.com/watch?v=h3z6f5-BdG4)
 
 ### JavaScript Security
 
