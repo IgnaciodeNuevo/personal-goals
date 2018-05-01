@@ -847,6 +847,7 @@ Personal goals made open source across computers I use.
 * 27/04/2018 - 🎥 [Composicion de funciones, visibilidad y combinadores](https://www.youtube.com/watch?v=0WqAA6DOpJw)
 * 30/04/2018 - 🎥 [Introduccion a combinadores](https://www.youtube.com/watch?v=h3z6f5-BdG4)
 * 01/05/2018 - 🎥 [Gestión de eventos con JavaScript](https://www.youtube.com/watch?v=lRT-efSjtDU)
+* 01/05/2018 - 🎥 ['this', el contexto de los objetos en JavaScript](https://www.youtube.com/watch?v=3K8vwozkpc4)
 
 ### JavaScript Security
 
