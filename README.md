@@ -850,6 +850,7 @@ Personal goals made open source across computers I use.
 * 01/05/2018 - 🎥 ['this', el contexto de los objetos en JavaScript](https://www.youtube.com/watch?v=3K8vwozkpc4)
 * 01/05/2018 - 🎥 [Clonado de objetos en JavaScript](https://www.youtube.com/watch?v=kzUOcMG_0T8)
 * 07/05/2018 - 🎥 [Introduccion a TDD con el calculo del marcador](https://www.youtube.com/watch?v=MreVADf3loM)
+* 07/05/2018 - 🎥 [Cómo funciona un framework de tests](https://www.youtube.com/watch?v=JplQuz0tkGk)
 
 ### JavaScript Security
 
