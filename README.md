@@ -851,6 +851,7 @@ Personal goals made open source across computers I use.
 * 01/05/2018 - 🎥 [Clonado de objetos en JavaScript](https://www.youtube.com/watch?v=kzUOcMG_0T8)
 * 07/05/2018 - 🎥 [Introduccion a TDD con el calculo del marcador](https://www.youtube.com/watch?v=MreVADf3loM)
 * 07/05/2018 - 🎥 [Cómo funciona un framework de tests](https://www.youtube.com/watch?v=JplQuz0tkGk)
+* 09/05/2018 - 🎥 [Rediseño: evitando argumentos boolean y separando flujo de lógica](https://www.youtube.com/watch?v=XkCGaKn3aeM)
 
 ### JavaScript Security
 
