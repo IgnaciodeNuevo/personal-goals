@@ -42,6 +42,7 @@ Personal goals made open source across computers I use.
 1.  [Stylable](#stylable)
 1.  [General Frontend](#general-frontend)
 1.  [Hilos Sego](#hilos-sego)
+1.  [Refactoring UI](#refactoring-ui)
 1.  [a11y](#a11y)
 1.  [Perf](#perf)
 1.  [Typography](#typography)
@@ -580,6 +581,10 @@ Personal goals made open source across computers I use.
 * 18/02/2018 - 📄 [Zara](https://twitter.com/SeGo/status/962255893663502336)
 * 24/02/2018 - 📄 [El Corte Inglés](https://twitter.com/sego/status/967313957399744513)
 * 08/04/2018 - 📄 [Sevilla FC vs Bayern Munich](https://twitter.com/SeGo/status/977487709198536704)
+
+### Refactoring UI
+
+* 11/05/2018 - 🎥 [Refactoring UI: WP Pusher Checkout Page](https://www.youtube.com/watch?v=5gdYHlYAKDY)
 
 ### Perf
 
