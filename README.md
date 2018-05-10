@@ -917,6 +917,7 @@ Personal goals made open source across computers I use.
 * 28/10/2017 - 🎥 [Modern Tooling, Testing, and Automation (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=7-XnEMrQnn4)
 * 01/11/2017 - 🎥 [DevTools (Chrome/Firefox)](https://www.youtube.com/watch?v=hQ3zvTyPjNg)
 * 13/03/2018 - 😍 📄 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
+* 11/05/2018 - 🎥 [Depurando código JavaScript con developer tools de Chrome](https://www.youtube.com/watch?v=_DMJu0teAMc)
 
 ### Engine Internals
 
