@@ -586,6 +586,7 @@ Personal goals made open source across computers I use.
 
 * 11/05/2018 - 🎥 [Refactoring UI: WP Pusher Checkout Page](https://www.youtube.com/watch?v=5gdYHlYAKDY)
 * 11/05/2018 - 🎥 [Refactoring UI: Bad About](https://www.youtube.com/watch?v=S6-q5BheEYU)
+* 11/05/2018 - 🎥 [Refactoring UI: Resolute](https://www.youtube.com/watch?v=BMHUKij1yUE)
 
 ### Perf
 
