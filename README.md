@@ -853,6 +853,7 @@ Personal goals made open source across computers I use.
 * 07/05/2018 - 🎥 [Cómo funciona un framework de tests](https://www.youtube.com/watch?v=JplQuz0tkGk)
 * 09/05/2018 - 🎥 [Rediseño: evitando argumentos boolean y separando flujo de lógica](https://www.youtube.com/watch?v=XkCGaKn3aeM)
 * 11/05/2018 - 🎥 [Introduccion a TDD con el juego de la pregunta](https://www.youtube.com/watch?v=sjX2KFV9HH0)
+* 11/05/2018 - 🎥 [Introducción a Refactoring con JavaScript](https://www.youtube.com/watch?v=MeNjmeMtYC8)
 
 ### JavaScript Security
 
