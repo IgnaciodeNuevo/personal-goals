@@ -854,6 +854,7 @@ Personal goals made open source across computers I use.
 * 09/05/2018 - 🎥 [Rediseño: evitando argumentos boolean y separando flujo de lógica](https://www.youtube.com/watch?v=XkCGaKn3aeM)
 * 11/05/2018 - 🎥 [Introduccion a TDD con el juego de la pregunta](https://www.youtube.com/watch?v=sjX2KFV9HH0)
 * 11/05/2018 - 🎥 [Introducción a Refactoring con JavaScript](https://www.youtube.com/watch?v=MeNjmeMtYC8)
+* 11/05/2018 - 🎥 [Dependency inversion principle en JavaScript](https://www.youtube.com/watch?v=Ova_jAqiaGA)
 
 ### JavaScript Security
 
