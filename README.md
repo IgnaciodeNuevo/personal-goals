@@ -862,6 +862,7 @@ Personal goals made open source across computers I use.
 * 11/05/2018 - 🎥 [Introduccion a TDD con el juego de la pregunta](https://www.youtube.com/watch?v=sjX2KFV9HH0)
 * 11/05/2018 - 🎥 [Introducción a Refactoring con JavaScript](https://www.youtube.com/watch?v=MeNjmeMtYC8)
 * 11/05/2018 - 🎥 [Dependency inversion principle en JavaScript](https://www.youtube.com/watch?v=Ova_jAqiaGA)
+* 11/05/2018 - 🎥 [Refactoring a lo bestia](https://www.youtube.com/watch?v=izpUdMQXdb8)
 
 ### JavaScript Security
 
