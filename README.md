@@ -402,7 +402,7 @@ Personal goals made open source across computers I use.
 * 27/04/2018 - 😍 📄 [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
 * 27/04/2018 - 😍 📄 [FLIP Your 60 FPS Animations, FLIP ’Em Good](https://medium.com/outsystems-experts/flip-your-60-fps-animations-flip-em-good-372281598865)
 * 27/04/2018 - 📄 [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web/)
-* 11/05/2018 - 📄 [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
+* 11/05/2018 - 😍 📄 [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 
 ### Custom Properties
 
@@ -750,6 +750,7 @@ Personal goals made open source across computers I use.
 * 05/04/2018 - 📄 [Wireframing 101: Sorting the wheat from the chaff](https://shakuro.com/blog/wireframing-101-sorting-the-wheat-from-the-chaff/)
 * 06/04/2018 - 📄 [Pitfalls of Card UIs](https://daverupert.com/2018/04/pitfalls-of-card-uis/)
 * 11/04/2018 - 📄 [Optical adjustments in components](https://blog.prototypr.io/optical-adjustments-in-components-a7f1f8655e0)
+* 11/05/2018 - 📄 [How paper wireframing will make you a better designer](https://blog.prototypr.io/how-paper-wireframing-will-make-you-a-better-designer-5a57db8dca13)
 
 ### SVG
 
