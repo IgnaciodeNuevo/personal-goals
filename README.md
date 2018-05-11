@@ -250,7 +250,7 @@ Personal goals made open source across computers I use.
 * 14/03/2018 - 😍 📄 [What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
 * 03/04/2018 - 🎥 [Cropping images with Object Fit](https://www.youtube.com/watch?v=5CZyxnCdXuk)
 * 10/04/2018 - 🎥 [Designing for A Viewport](https://www.youtube.com/watch?v=QY3lTBZnJmE)
-* 11/05/2018 - 📄 [How display: contents; Workshttps://bitsofco.de/how-display-contents-works/)
+* 11/05/2018 - 📄 [How display: contents; Works](https://bitsofco.de/how-display-contents-works/) & [How display: contents affect some HTML Elements](https://www.w3.org/TR/css-display-3/#unbox-html)
 
 ### Relative Units
 
