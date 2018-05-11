@@ -864,6 +864,7 @@ Personal goals made open source across computers I use.
 * 11/05/2018 - 🎥 [Introducción a Refactoring con JavaScript](https://www.youtube.com/watch?v=MeNjmeMtYC8)
 * 11/05/2018 - 🎥 [Dependency inversion principle en JavaScript](https://www.youtube.com/watch?v=Ova_jAqiaGA)
 * 11/05/2018 - 🎥 [Refactoring a lo bestia](https://www.youtube.com/watch?v=izpUdMQXdb8)
+* 11/05/2018 - 🎥 [Composition vs Inheritance - Dan Abramov](https://twitter.com/dan_abramov/status/990989827981094912)
 
 ### JavaScript Security
 
