@@ -515,6 +515,7 @@ Personal goals made open source across computers I use.
 * 11/03/2018 - 🎥 [PostCSS](https://www.youtube.com/watch?v=iUUB5sUk_ZA)
 * 11/03/2018 - 🎥 [All you need is front | T3chFest 2018](https://www.youtube.com/watch?v=4bAqviacFgg)
 * 15/05/2018 - 🎥 [Análisis Forense de una web](https://www.youtube.com/watch?v=MtHQ56L1eNM)
+* 11/05/2017 - 📄 [What’s wrong with CSS-in-JS?](http://bradfrost.com/blog/link/whats-wrong-with-css-in-js/)
 
 ### a11y
 
