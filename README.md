@@ -578,6 +578,7 @@ Personal goals made open source across computers I use.
 * 04/04/2018 - 📄 [:focus-visible and backwards compatibility](https://developer.paciellogroup.com/blog/2018/03/focus-visible-and-backwards-compatibility/)
 * 11/05/2018 - 📄 [Display: Contents Is Not a CSS Reset](http://adrianroselli.com/2018/05/display-contents-is-not-a-css-reset.html)
 * 11/05/2018 - 📄 [Improve The Accessibility of Your Designs With ARIA](https://uxplanet.org/improve-the-accessibility-of-your-designs-with-aria-4595d8ea060f)
+* 11/05/2018 - 🎥 [Meeting Web Accessibility Guidelines](https://app.pluralsight.com/player?course=web-accessibility-meeting-guidelines&author=gerard-cohen&name=web-accessibility-meeting-guidelines-m2&clip=2&mode=live)
 
 
 ### Hilos Sego
