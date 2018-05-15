@@ -638,6 +638,7 @@ Personal goals made open source across computers I use.
 * 11/04/2018 - 🎥 [Optimización de imágenes para la web](https://www.youtube.com/watch?v=-Qn68izRs_A) - [Slides](https://slides.com/joanleon/image-optimization/#/)
 * 15/05/2018 - 📄 [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
 * 15/05/2018 - 📄 [Optimizing Content Efficiency](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/)
+* 15/05/2018 - 📄 [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
 
 ### Typography
 
