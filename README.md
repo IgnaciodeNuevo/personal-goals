@@ -639,6 +639,7 @@ Personal goals made open source across computers I use.
 * 15/05/2018 - 📄 [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
 * 15/05/2018 - 📄 [Optimizing Content Efficiency](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/)
 * 15/05/2018 - 📄 [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+* 15/05/2018 - 📄 [Render-Blocking Resources](https://developers.google.com/web/tools/lighthouse/audits/blocking-resources)
 
 ### Typography
 
