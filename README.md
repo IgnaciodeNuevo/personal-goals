@@ -640,6 +640,7 @@ Personal goals made open source across computers I use.
 * 15/05/2018 - 📄 [Optimizing Content Efficiency](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/)
 * 15/05/2018 - 📄 [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
 * 15/05/2018 - 📄 [Render-Blocking Resources](https://developers.google.com/web/tools/lighthouse/audits/blocking-resources)
+* 15/05/2018 - 📄 [Render Blocking CSS](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css)
 
 ### Typography
 
