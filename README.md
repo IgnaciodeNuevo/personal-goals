@@ -636,6 +636,7 @@ Personal goals made open source across computers I use.
 * 05/03/2018 - 😍 📄 [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 * 05/03/2018 - 📄 [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
 * 11/04/2018 - 🎥 [Optimización de imágenes para la web](https://www.youtube.com/watch?v=-Qn68izRs_A) - [Slides](https://slides.com/joanleon/image-optimization/#/)
+* 15/05/2018 - 📄 [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
 
 ### Typography
 
