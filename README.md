@@ -642,6 +642,7 @@ Personal goals made open source across computers I use.
 * 15/05/2018 - 📄 [Render-Blocking Resources](https://developers.google.com/web/tools/lighthouse/audits/blocking-resources)
 * 15/05/2018 - 📄 [Render Blocking CSS](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css)
 * 15/05/2018 - 📄 [Taking A Look At The State Of Progressive Images And User Perception](https://www.smashingmagazine.com/2018/02/progressive-image-loading-user-perceived-performance/)
+* 15/05/2018 - 📄 [Progressive jpegs: a new best practice](https://calendar.perfplanet.com/2012/progressive-jpegs-a-new-best-practice/)
 
 ### Typography
 
