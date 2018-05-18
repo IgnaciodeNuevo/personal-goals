@@ -578,6 +578,7 @@ Personal goals made open source across computers I use.
 * 04/04/2018 - 📄 [:focus-visible and backwards compatibility](https://developer.paciellogroup.com/blog/2018/03/focus-visible-and-backwards-compatibility/)
 * 11/05/2018 - 📄 [Display: Contents Is Not a CSS Reset](http://adrianroselli.com/2018/05/display-contents-is-not-a-css-reset.html)
 * 11/05/2018 - 📄 [Improve The Accessibility of Your Designs With ARIA](https://uxplanet.org/improve-the-accessibility-of-your-designs-with-aria-4595d8ea060f)
+* 14/05/2018 - 🎥 [Meeting Web Accessibility Guidelines](https://app.pluralsight.com/player?course=web-accessibility-meeting-guidelines&author=gerard-cohen&name=web-accessibility-meeting-guidelines-m2&clip=2&mode=live)
 
 
 ### Hilos Sego
@@ -635,6 +636,13 @@ Personal goals made open source across computers I use.
 * 05/03/2018 - 😍 📄 [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 * 05/03/2018 - 📄 [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
 * 11/04/2018 - 🎥 [Optimización de imágenes para la web](https://www.youtube.com/watch?v=-Qn68izRs_A) - [Slides](https://slides.com/joanleon/image-optimization/#/)
+* 15/05/2018 - 📄 [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
+* 15/05/2018 - 📄 [Optimizing Content Efficiency](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/)
+* 15/05/2018 - 📄 [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+* 15/05/2018 - 📄 [Render-Blocking Resources](https://developers.google.com/web/tools/lighthouse/audits/blocking-resources)
+* 15/05/2018 - 📄 [Render Blocking CSS](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css)
+* 15/05/2018 - 📄 [Taking A Look At The State Of Progressive Images And User Perception](https://www.smashingmagazine.com/2018/02/progressive-image-loading-user-perceived-performance/)
+* 15/05/2018 - 📄 [Progressive jpegs: a new best practice](https://calendar.perfplanet.com/2012/progressive-jpegs-a-new-best-practice/)
 * 18/05/2018 - 🎥 [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
 
 ### Typography
@@ -912,6 +920,8 @@ Personal goals made open source across computers I use.
 ### Vue
 
 * 22/08/2017 - 🎥 [Cómo empezar con Vue.js | Primeros pasos con Vue](https://www.youtube.com/watch?v=L0F4OPPsm0c)
+* 15/05/2018 - 📄 [Progressive Image Rendering in Vue.js with v-lazy-image](https://alligator.io/vuejs/progressive-image-rendering/)
+* 16/05/2018 - 📄 [Building a Modal Component with Vue.js](https://alligator.io/vuejs/vue-modal-component/)
 
 ### Razor Pages
 
