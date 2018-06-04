@@ -986,6 +986,7 @@ Personal goals made open source across computers I use.
 * 17/01/2018 - 🎥 [TDD with Wallaby.js Part 2/2](https://www.youtube.com/watch?v=TubVp9nn32Q)
 * 17/01/2018 - 🎥 [TDD Mi cuaderno de recetas - Modesto San Juan](https://www.youtube.com/watch?v=D1fWBImC2r8)
 * 11/03/2018 - 🎥 [Testing práctico con JavaScript - Ramón Guijarro](https://www.youtube.com/watch?v=DCPpDw_HfgI)
+* 04/06/2018 - 🎥 [Robert C. Martin - Advanced TDD: The Transformation Priority Premise](https://vimeo.com/97516288)
 
 ### Linting
 
