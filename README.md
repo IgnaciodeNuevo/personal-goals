@@ -260,6 +260,7 @@ Personal goals made open source across computers I use.
 * 20/10/2017 - 📄 [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
 * 28/12/2017 - 😍 📄 [Comprehensive Guide: When to Use Em vs. Rem](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 * 29/12/2017 - 📄 [Is text sizing dead?](https://alastairc.ac/2017/11/is-text-sizing-dead/)
+* 15/06/2018 - 😍 💊 [EMs vs REMs](https://codepen.io/seyedi/pen/oxWOVX)
 
 ### Feature Queries
 
