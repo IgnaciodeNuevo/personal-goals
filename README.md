@@ -891,6 +891,7 @@ Personal goals made open source across computers I use.
 * 15/06/2018 - 🎥 [Generators in JavaScript](https://www.youtube.com/watch?v=QOnUcU8U_XE)
 * 15/06/2018 - 🎥 [Async iterators (for await ... of) in JavaScript](https://www.youtube.com/watch?v=I5oDbp_U-fQ)
 * 15/06/2018 - 🎥 [Using async generators to stream data in JavaScript](https://www.youtube.com/watch?v=wrI-Jb0oFyk)
+* 15/06/2018 - 🎥 [Higher-order iterators in JavaScript](https://www.youtube.com/watch?v=GYRMNp1SKXA)
 
 ### JavaScript Security
 
