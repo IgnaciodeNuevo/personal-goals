@@ -888,6 +888,7 @@ Personal goals made open source across computers I use.
 * 29/05/2018 - 😍 📄 [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
 * 29/05/2018 - 😍 📄 [What Is Event Bubbling in JavaScript? Event Propagation Explained](https://www.sitepoint.com/event-bubbling-javascript/)
 * 15/06/2018 - 🎥 [Iterators in JavaScript using Quokka](https://www.youtube.com/watch?v=W4brAobC2Hc)
+* 15/06/2018 - 🎥 [Generators in JavaScript](https://www.youtube.com/watch?v=QOnUcU8U_XE)
 
 ### JavaScript Security
 
