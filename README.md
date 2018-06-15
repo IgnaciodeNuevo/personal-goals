@@ -27,7 +27,7 @@ Personal goals made open source across computers I use.
 1.  [HTML](#html)
 1.  [Cascade and Specificity](#cascade-and-specificity)
 1.  [CSS](#css)
-1.  [Relative Units](#relative-units)
+1.  [CSS Units](#css-units)
 1.  [Feature Queries](#feature-queries)
 1.  [Container Queries](#container-queries)
 1.  [Responsive Images](#responsive-images)
@@ -253,7 +253,7 @@ Personal goals made open source across computers I use.
 * 11/05/2018 - 📄 [How display: contents; Works](https://bitsofco.de/how-display-contents-works/) & [How display: contents affect some HTML Elements](https://www.w3.org/TR/css-display-3/#unbox-html)
 * 15/06/2018 - 📄 [CSS3’s ‘space’ and ‘round’ Values for background-repeat](https://www.impressivewebs.com/space-round-css3-background/)
 
-### Relative Units
+### CSS Units
 
 * 02/08/2017 - 😍 📄 [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
 * 15/08/2017 - 📄 [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/)
@@ -261,6 +261,7 @@ Personal goals made open source across computers I use.
 * 28/12/2017 - 😍 📄 [Comprehensive Guide: When to Use Em vs. Rem](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 * 29/12/2017 - 📄 [Is text sizing dead?](https://alastairc.ac/2017/11/is-text-sizing-dead/)
 * 15/06/2018 - 😍 💊 [EMs vs REMs](https://codepen.io/seyedi/pen/oxWOVX)
+* 15/05/2018 - 📄 [The new (and old) CSS units you've never heard about](https://dev.to/maxart2501/the-new-and-old-css-units-youve-never-heard-about-1mn1)
 
 ### Feature Queries
 
