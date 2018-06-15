@@ -251,6 +251,7 @@ Personal goals made open source across computers I use.
 * 03/04/2018 - 🎥 [Cropping images with Object Fit](https://www.youtube.com/watch?v=5CZyxnCdXuk)
 * 10/04/2018 - 🎥 [Designing for A Viewport](https://www.youtube.com/watch?v=QY3lTBZnJmE)
 * 11/05/2018 - 📄 [How display: contents; Works](https://bitsofco.de/how-display-contents-works/) & [How display: contents affect some HTML Elements](https://www.w3.org/TR/css-display-3/#unbox-html)
+* 15/06/2018 - 📄 [CSS3’s ‘space’ and ‘round’ Values for background-repeat](https://www.impressivewebs.com/space-round-css3-background/)
 
 ### Relative Units
 
