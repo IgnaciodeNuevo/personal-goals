@@ -887,6 +887,7 @@ Personal goals made open source across computers I use.
 * 12/05/2018 - 🎥 [Heres how JavaScript "Named Params" Destructuring Works](https://www.youtube.com/watch?v=c2PGgkCIjEA)
 * 29/05/2018 - 😍 📄 [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
 * 29/05/2018 - 😍 📄 [What Is Event Bubbling in JavaScript? Event Propagation Explained](https://www.sitepoint.com/event-bubbling-javascript/)
+* 15/06/2018 - 🎥 [Iterators in JavaScript using Quokka](https://www.youtube.com/watch?v=W4brAobC2Hc)
 
 ### JavaScript Security
 
