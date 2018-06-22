@@ -649,6 +649,7 @@ Personal goals made open source across computers I use.
 * 15/05/2018 - 📄 [Taking A Look At The State Of Progressive Images And User Perception](https://www.smashingmagazine.com/2018/02/progressive-image-loading-user-perceived-performance/)
 * 15/05/2018 - 📄 [Progressive jpegs: a new best practice](https://calendar.perfplanet.com/2012/progressive-jpegs-a-new-best-practice/)
 * 18/05/2018 - 🎥 [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
+* 22/06/2018 - 😍 🎥 [Harry Roberts: FaCSSt—CSS and Performance](https://www.youtube.com/watch?v=2Rn8an74khk)
 
 ### Typography
 
