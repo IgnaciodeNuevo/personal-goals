@@ -523,6 +523,7 @@ Personal goals made open source across computers I use.
 * 15/05/2018 - 🎥 [Análisis Forense de una web](https://www.youtube.com/watch?v=MtHQ56L1eNM)
 * 11/05/2017 - 📄 [What’s wrong with CSS-in-JS?](http://bradfrost.com/blog/link/whats-wrong-with-css-in-js/)
 * 23/05/2018 - 🎥 [Herramientas Frontend](https://www.youtube.com/watch?v=81d7rPOlekM)
+* 22/06/2018 - 🎥 [The All-Powerful Front-End Developer](https://www.youtube.com/watch?v=Dd-yJIt1z5w)
 
 ### a11y
 
