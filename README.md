@@ -653,6 +653,7 @@ Personal goals made open source across computers I use.
 * 18/05/2018 - 🎥 [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
 * 22/06/2018 - 😍 🎥 [Harry Roberts: FaCSSt—CSS and Performance](https://www.youtube.com/watch?v=2Rn8an74khk)
 * 02/07/2018 - 📄 [Scrolling Performance](https://www.html5rocks.com/en/tutorials/speed/scrolling/)
+* 02/07/2018 - 😍 🎥 [Using Chrome DevTools to profile the jsconf.eu site](https://www.youtube.com/watch?v=QU1JAW5LRKU)
 
 ### Typography
 
