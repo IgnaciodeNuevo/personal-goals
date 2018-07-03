@@ -1030,6 +1030,7 @@ Personal goals made open source across computers I use.
 * 22/02/2018 - 😍 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04)
 * 26/02/2018 - 😍 📄 [Pairing Guidelines](https://docs.google.com/document/d/1dGyhrW-2ivwi0iVdmwJoi0-mhRtKOMQp5eBSYkUR0Ek/mobilebasic)
 * 15/05/2018 - 😍 🎥 [Pretendiendo ser rockstar developers](https://www.youtube.com/watch?v=QsHS7FdskCQ)
+* 03/07/2018 - 🎥 [Javascript Kata: aplicando clean code y buenas prácticas en vivo](https://www.youtube.com/watch?v=C5IrXwu6nSQ)
 
 ### Mentoring
 
