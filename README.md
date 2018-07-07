@@ -525,7 +525,7 @@ Personal goals made open source across computers I use.
 - 11/05/2017 - 📄 [What’s wrong with CSS-in-JS?](http://bradfrost.com/blog/link/whats-wrong-with-css-in-js/)
 - 23/05/2018 - 🎥 [Herramientas Frontend](https://www.youtube.com/watch?v=81d7rPOlekM)
 - 22/06/2018 - 🎥 [The All-Powerful Front-End Developer](https://www.youtube.com/watch?v=Dd-yJIt1z5w)
-- 06/07/2018 - 😍 🎥 [CSS-in-JS: FTW || WTF?](https://vimeo.com/278439003)
+- 06/07/2018 - 🎥 [CSS-in-JS: FTW || WTF?](https://vimeo.com/278439003)
 
 ### a11y
 
