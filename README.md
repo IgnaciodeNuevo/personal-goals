@@ -253,6 +253,7 @@ Personal goals made open source across computers I use.
 - 11/05/2018 - 📄 [How display: contents; Works](https://bitsofco.de/how-display-contents-works/) & [How display: contents affect some HTML Elements](https://www.w3.org/TR/css-display-3/#unbox-html)
 - 15/06/2018 - 📄 [CSS3’s ‘space’ and ‘round’ Values for background-repeat](https://www.impressivewebs.com/space-round-css3-background/)
 - 26/06/2018 - 🎥 [Where is CSS4? When is it coming out?](https://www.youtube.com/watch?v=Jtmkk6odggs)
+- 11/07/2018 - 📄 [What You May Not Know About the Z-Index Property](https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
 
 ### CSS Units
 
