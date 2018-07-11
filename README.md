@@ -254,6 +254,7 @@ Personal goals made open source across computers I use.
 - 15/06/2018 - 📄 [CSS3’s ‘space’ and ‘round’ Values for background-repeat](https://www.impressivewebs.com/space-round-css3-background/)
 - 26/06/2018 - 🎥 [Where is CSS4? When is it coming out?](https://www.youtube.com/watch?v=Jtmkk6odggs)
 - 11/07/2018 - 📄 [What You May Not Know About the Z-Index Property](https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
+- 11/07/2018 - 📄 [Handling z-index](https://css-tricks.com/handling-z-index/)
 
 ### CSS Units
 
