@@ -589,6 +589,7 @@ Personal goals made open source across computers I use.
 - 11/05/2018 - 📄 [Display: Contents Is Not a CSS Reset](http://adrianroselli.com/2018/05/display-contents-is-not-a-css-reset.html)
 - 11/05/2018 - 📄 [Improve The Accessibility of Your Designs With ARIA](https://uxplanet.org/improve-the-accessibility-of-your-designs-with-aria-4595d8ea060f)
 - 14/05/2018 - 🎥 [Meeting Web Accessibility Guidelines](https://app.pluralsight.com/player?course=web-accessibility-meeting-guidelines&author=gerard-cohen&name=web-accessibility-meeting-guidelines-m2&clip=2&mode=live)
+- 18/07/2018 - 📄 [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
 
 ### Hilos Sego
 
