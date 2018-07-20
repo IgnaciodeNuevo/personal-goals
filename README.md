@@ -528,6 +528,7 @@ Personal goals made open source across computers I use.
 - 23/05/2018 - 🎥 [Herramientas Frontend](https://www.youtube.com/watch?v=81d7rPOlekM)
 - 22/06/2018 - 🎥 [The All-Powerful Front-End Developer](https://www.youtube.com/watch?v=Dd-yJIt1z5w)
 - 06/07/2018 - 🎥 [CSS-in-JS: FTW || WTF?](https://vimeo.com/278439003)
+- 20/07/2018 - 🎥 [Using Netlify, Part 1: Setting Up, Deploying, and Poking Around](https://www.youtube.com/watch?v=jW9cPKFSUrw)
 
 ### a11y
 
