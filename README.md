@@ -255,6 +255,7 @@ Personal goals made open source across computers I use.
 - 26/06/2018 - 🎥 [Where is CSS4? When is it coming out?](https://www.youtube.com/watch?v=Jtmkk6odggs)
 - 11/07/2018 - 📄 [What You May Not Know About the Z-Index Property](https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
 - 11/07/2018 - 📄 [Handling z-index](https://css-tricks.com/handling-z-index/)
+- 21/07/2018 - 😍 🎥 [Even More CSS Secrets](https://www.youtube.com/watch?v=vs34f9FiHps)
 
 ### CSS Units
 
