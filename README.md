@@ -907,6 +907,8 @@ Personal goals made open source across computers I use.
 - 15/06/2018 - 🎥 [Higher-order iterators in JavaScript](https://www.youtube.com/watch?v=GYRMNp1SKXA)
 - 15/06/2018 - 🎥 [map for async iterators in JavaScript](https://www.youtube.com/watch?v=lGg43tcQ5x4)
 - 15/06/2018 - 🎥 [JS Callback Heaven](https://www.youtube.com/watch?v=HssczgaY9BM)
+- 01/08/2018 - 📄 [Proper Error Handling in JavaScript](https://scotch.io/tutorials/proper-error-handling-in-javascript)
+
 
 ### JavaScript Security
 
