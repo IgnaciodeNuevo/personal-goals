@@ -14,7 +14,7 @@ Personal goals made open source across computers I use.
 1.  💡 Project
 1.  🚀 Things to do
 1.  🎥 Video
-1.  📄 Article
+1.  📄 Article#
 1.  🎼 Audio
 1.  💊 Resource or CodePen
 
@@ -256,6 +256,7 @@ Personal goals made open source across computers I use.
 - 11/07/2018 - 📄 [What You May Not Know About the Z-Index Property](https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
 - 11/07/2018 - 📄 [Handling z-index](https://css-tricks.com/handling-z-index/)
 - 21/07/2018 - 😍 🎥 [Even More CSS Secrets](https://www.youtube.com/watch?v=vs34f9FiHps)
+- 03/08/2018 - 🎥 [The web is ready for great graphic design | CSS Day 2018](https://vimeo.com/281395569)
 
 ### CSS Units
 
