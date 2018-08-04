@@ -722,6 +722,7 @@ Personal goals made open source across computers I use.
 - 13/03/2018 - 📄 [Technical Web Typography: Guidelines and Techniques](https://www.smashingmagazine.com/2011/03/technical-web-typography-guidelines-and-techniques/)
 - 11/04/2018 - 📄 [“The Compromise”—a Modern but Compatible Font Loading Strategy](https://www.zachleat.com/web/the-compromise/)
 - 15/05/2018 - 🎥 [Typesetting Body Text](https://vimeo.com/156203722)
+- 04/08/2018 - 📄 [Caring about OpenType features](https://practice.typekit.com/lesson/caring-about-opentype-features/)
 
 ### Design
 
