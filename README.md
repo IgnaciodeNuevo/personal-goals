@@ -116,6 +116,7 @@ Personal goals made open source across computers I use.
 - 📕 [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
 - 📕 [Smashing Book 5](https://shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design)
 - 📕 [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
+- 04/08/2018 - 📕 [Webfont Handbook](https://abookapart.com/products/webfont-handbook)
 
 ### Podcasts
 
