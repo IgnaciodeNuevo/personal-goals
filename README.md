@@ -258,6 +258,7 @@ Personal goals made open source across computers I use.
 - 11/07/2018 - 📄 [Handling z-index](https://css-tricks.com/handling-z-index/)
 - 21/07/2018 - 😍 🎥 [Even More CSS Secrets](https://www.youtube.com/watch?v=vs34f9FiHps)
 - 03/08/2018 - 🎥 [The web is ready for great graphic design | CSS Day 2018](https://vimeo.com/281395569)
+- 12/08/2018 - 📄 [On Switching from HEX & RGB to HSL](https://www.sarasoueidan.com/blog/hex-rgb-to-hsl/)
 
 ### CSS Units
 
