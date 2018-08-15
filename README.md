@@ -725,6 +725,7 @@ Personal goals made open source across computers I use.
 - 11/04/2018 - 📄 [“The Compromise”—a Modern but Compatible Font Loading Strategy](https://www.zachleat.com/web/the-compromise/)
 - 15/05/2018 - 🎥 [Typesetting Body Text](https://vimeo.com/156203722)
 - 04/08/2018 - 📄 [Caring about OpenType features](https://practice.typekit.com/lesson/caring-about-opentype-features/)
+- 15/08/2018 - 🎥 [Web Typography | CSS Day 2018](https://vimeo.com/285086929)
 
 ### Design
 
