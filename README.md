@@ -727,6 +727,7 @@ Personal goals made open source across computers I use.
 - 04/08/2018 - 📄 [Caring about OpenType features](https://practice.typekit.com/lesson/caring-about-opentype-features/)
 - 15/08/2018 - 🎥 [Web Typography | CSS Day 2018](https://vimeo.com/285086929)
 - 15/08/2018 - 📄 [How to use variable fonts in the real world](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
+- 15/08/2018 - 😍 📄 [Upcoming changes to the CSS you need for variable fonts](https://medium.com/@clagnut/upcoming-changes-to-the-css-for-variable-fonts-4494b3b7ecdc)
 
 ### Design
 
