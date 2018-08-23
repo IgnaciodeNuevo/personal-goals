@@ -787,6 +787,7 @@ Personal goals made open source across computers I use.
 - 11/05/2018 - 📄 [How paper wireframing will make you a better designer](https://blog.prototypr.io/how-paper-wireframing-will-make-you-a-better-designer-5a57db8dca13)
 - 14/08/2018 - 📄 [Designing as a developer in 2018](https://blog.logrocket.com/designing-as-a-developer-in-2018-eca1ab5bff2)
 - 21/08/2018 - 📄 [Nathan Curtis - System of Systems](https://vimeo.com/262959101)
+- 23/08/2018 - 📄 [Evolving the Design Language at Big Blue](https://vimeo.com/262964347)
 
 ### SVG
 
