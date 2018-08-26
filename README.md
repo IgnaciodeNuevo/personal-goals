@@ -536,6 +536,7 @@ Personal goals made open source across computers I use.
 - 21/07/2018 - 🎥 [Using Netlify, Part 2: Forms & API, Notifications, and Configuration](https://www.youtube.com/watch?v=6E_odMmKP6g)
 - 08/08/2018 - 😍 📄 [Cookies](https://www.quirksmode.org/js/cookies.html)
 - 26/08/2018 - 🎥 [Designer + Developer Workflow](https://www.youtube.com/watch?v=tnkrUt7PpnQ)
+- 26/08/2018 - 🎥 [Design+Developer Workflow - Pattern Lab Development](https://www.youtube.com/watch?v=ge09Pmi4L20)
 
 ### a11y
 
