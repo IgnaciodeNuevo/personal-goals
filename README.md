@@ -118,6 +118,7 @@ Personal goals made open source across computers I use.
 - 📕 [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
 - 04/08/2018 - 📕 [Webfont Handbook](https://abookapart.com/products/webfont-handbook)
 - 29/08/2018 - 📕 [On Web Typography](https://abookapart.com/products/on-web-typography)
+- 04/09/2018 - 📕 [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
 
 ### Podcasts
 
