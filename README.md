@@ -540,6 +540,7 @@ Personal goals made open source across computers I use.
 - 08/08/2018 - 😍 📄 [Cookies](https://www.quirksmode.org/js/cookies.html)
 - 26/08/2018 - 🎥 [Designer + Developer Workflow](https://www.youtube.com/watch?v=tnkrUt7PpnQ)
 - 26/08/2018 - 🎥 [Design+Developer Workflow - Pattern Lab Development](https://www.youtube.com/watch?v=ge09Pmi4L20)
+- 05/09/2018 - 🎥 [James Hughes - The Twelve Factor App Methodology](https://www.youtube.com/watch?v=bLc3eKbyFNg)
 
 ### a11y
 
