@@ -119,6 +119,7 @@ Personal goals made open source across computers I use.
 - 04/08/2018 - 📕 [Webfont Handbook](https://abookapart.com/products/webfont-handbook)
 - 29/08/2018 - 📕 [On Web Typography](https://abookapart.com/products/on-web-typography)
 - 04/09/2018 - 📕 [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
+- 12/09/2018 - 📕 [Practical SVG](https://abookapart.com/products/practical-svg)
 
 ### Podcasts
 
