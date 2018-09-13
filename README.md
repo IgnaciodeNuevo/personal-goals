@@ -394,6 +394,7 @@ Personal goals made open source across computers I use.
 - 03/03/2018 - 📄 [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)
 - 08/04/2018 - 📄 [Rock' n' Grid - Diana Aceves WeCodeFest 2018](https://www.youtube.com/watch?v=p7oXrr9yjXY)
 - 29/05/2018 - 😍 🎥 [CSS Grid Eliminates Margin Collapsing?!?](https://www.youtube.com/watch?v=jfHNzL5h1Aw)
+- 13/09/2018 - 🎥 [“Designing with Grid” by Jen Simmons – An Event Apart Denver 2017](https://www.youtube.com/watch?v=t0b3uBoDkBs)
 
 ### Multi Column Layout
 
