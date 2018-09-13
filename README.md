@@ -466,7 +466,6 @@ Personal goals made open source across computers I use.
 - 13/11/2017 - 📄 [A Scalable CSS Reading List](https://github.com/davidtheclark/scalable-css-reading-list)
 - 13/11/2017 - 📄 [20 Tips For Writing Modern CSS](https://tutorialzine.com/2016/08/20-protips-for-writing-modern-css)
 - 13/11/2017 - 📄 [CSS Architecture and the Three Pillars of Maintainable CSS](https://www.sitepoint.com/css-architecture-and-the-three-pillars-of-maintainable-css/)
-- 13/11/2017 - 📄 [A pattern for writing CSS to scale](http://www.intelligiblebabble.com/a-pattern-for-writing-css-to-scale)
 - 13/11/2017 - 😍 📄 [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
 - 13/11/2017 - 😍 📄 [CSS Architecture for design systems](http://bradfrost.com/blog/post/css-architecture-for-design-systems/)
 - 13/11/2017 - 📄 [CSS Architecture Guidelines](https://medium.com/@_perlik/css-architecture-guidelines-9f78fdb142e4)
