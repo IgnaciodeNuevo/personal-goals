@@ -262,6 +262,7 @@ Personal goals made open source across computers I use.
 - 21/07/2018 - 😍 🎥 [Even More CSS Secrets](https://www.youtube.com/watch?v=vs34f9FiHps)
 - 03/08/2018 - 🎥 [The web is ready for great graphic design | CSS Day 2018](https://vimeo.com/281395569)
 - 12/08/2018 - 📄 [On Switching from HEX & RGB to HSL](https://www.sarasoueidan.com/blog/hex-rgb-to-hsl/)
+- 14/09/2018 - 📄 [Drop Caps in CSS Using first-letter & initial-letter](https://alligator.io/css/drop-caps/)
 
 ### CSS Units
 
