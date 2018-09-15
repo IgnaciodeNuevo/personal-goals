@@ -1016,6 +1016,7 @@ Personal goals made open source across computers I use.
 - 01/01/2017 - 🎥 [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
 - 13/01/2018 - 📄 [Managing data with Jekyll](https://www.chenhuijing.com/blog/managing-data-with-jekyll/)
 - 15/09/2018 - 🎥 [Jekyll Playlist by CloudCannon](https://www.youtube.com/watch?v=_f4aly6xblQ&list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
+- 15/09/2018 - 🎥 [Jekyll - Static Site Generator Playlist](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 ### Hugo
 
