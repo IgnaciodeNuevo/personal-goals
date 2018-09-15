@@ -1011,10 +1011,11 @@ Personal goals made open source across computers I use.
 ### Jekyll
 
 - 31/12/2016 - 📄 [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
-- 31/12/2016 - 🎥 [Jekyll - CloudCannon](https://www.youtube.com/watch?v=dExYSVImSJc&list=PLUybESC8Y06q_aV6D-ow9mmOQzc3-UnXq)
+- 31/12/2016 - 🎥 [SEO in Jekyll](https://www.youtube.com/watch?v=dExYSVImSJc&list=PLUybESC8Y06q_aV6D-ow9mmOQzc3-UnXq)
 - 01/01/2017 - 🎥 [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 - 01/01/2017 - 🎥 [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
-- 13/01/2018 - 📄 [Managing data with Jekyll](https://www.chenhuijing.com/blog/managing-data-with-jekyll/#%F0%9F%8F%80)
+- 13/01/2018 - 📄 [Managing data with Jekyll](https://www.chenhuijing.com/blog/managing-data-with-jekyll/)
+- 15/09/2018 - 🎥 [Jekyll Playlist by CloudCannon](https://www.youtube.com/watch?v=_f4aly6xblQ&list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 
 ### Hugo
 
