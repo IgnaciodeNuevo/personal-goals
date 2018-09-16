@@ -14,7 +14,7 @@ Personal goals made open source across computers I use.
 1.  💡 Project
 1.  🚀 Things to do
 1.  🎥 Video
-1.  📄 Article#
+1.  📄 Article
 1.  🎼 Audio
 1.  💊 Resource or CodePen
 
