@@ -1020,6 +1020,7 @@ Personal goals made open source across computers I use.
 - 15/09/2018 - 🎥 [Jekyll - Static Site Generator Playlist](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 - 16/09/2018 - 😍 📄 [Alternative Tags And Categories On GitHub Pages Without Plugins](http://www.minddust.com/post/alternative-tags-and-categories-on-github-pages/)
 - 16/09/2018 - 📄 [Adding category and tag archive pages to Jekyll](https://www.mikeapted.com/jekyll/2015/12/30/category-and-tag-archives-in-jekyll-no-plugins/)
+- 17/09/2018 - 📄 [How To Use Tags And Categories On GitHub Pages Without Plugins](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
 
 ### Hugo
 
