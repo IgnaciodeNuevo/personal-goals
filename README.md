@@ -1023,6 +1023,7 @@ Personal goals made open source across computers I use.
 - 17/09/2018 - 📄 [How To Use Tags And Categories On GitHub Pages Without Plugins](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
 - 17/09/2018 - 😍 📄 [How to implement Tags at Jekyll website](http://pavdmyt.com/how-to-implement-tags-at-jekyll-website/)
 - 17/09/2018 - 📄 [Defining Twitter Cards in your Jekyll Template](https://alligator.io/jekyll/twitter-cards/)
+- 17/09/2018 - 📄 [Introduction to Collections in Jekyll](https://alligator.io/jekyll/collections/)
 
 ### Hugo
 
