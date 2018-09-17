@@ -1026,6 +1026,7 @@ Personal goals made open source across computers I use.
 - 17/09/2018 - 📄 [Introduction to Collections in Jekyll](https://alligator.io/jekyll/collections/)
 - 17/09/2018 - 📄 [Canonical Link Tag in Jekyll](https://alligator.io/jekyll/canonical-link-tag-in-jekyll/)
 - 17/09/2018 - 📄 [Migrating your Jekyll site to Netlify](https://www.netlify.com/blog/2017/05/11/migrating-your-jekyll-site-to-netlify/)
+- 17/09/2018 - 📄 [A Step-by-Step Guide: Jekyll 3.0 on Netlify](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/)
 
 ### Hugo
 
