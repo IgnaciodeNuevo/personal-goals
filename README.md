@@ -934,6 +934,7 @@ Personal goals made open source across computers I use.
 - 15/06/2018 - 🎥 [JS Callback Heaven](https://www.youtube.com/watch?v=HssczgaY9BM)
 - 01/08/2018 - 📄 [Proper Error Handling in JavaScript](https://scotch.io/tutorials/proper-error-handling-in-javascript)
 - 13/09/2018 - 🎥 [Code Review 🦊 SO MUCH LEARNING #6 Building an Online Business](https://www.youtube.com/watch?v=mqqIKGz6pXI)
+- 18/09/2018 - 🎥 [Introduccion a Service Workers y Push API](https://www.youtube.com/watch?v=JjryBKrZih4)
 
 
 ### JavaScript Security
