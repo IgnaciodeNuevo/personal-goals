@@ -39,7 +39,6 @@ Personal goals made open source across computers I use.
 1.  [Custom Properties](#custom-properties)
 1.  [CSS Architecture and Naming](#css-architecture-and-naming)
 1.  [Refactoring CSS](#refactoring-css)
-1.  [Design Systems](#design-systems)
 1.  [Sass](#sass)
 1.  [Stylable](#stylable)
 1.  [General Frontend](#general-frontend)
@@ -48,6 +47,7 @@ Personal goals made open source across computers I use.
 1.  [a11y](#a11y)
 1.  [Perf](#perf)
 1.  [Typography](#typography)
+1.  [Design Systems](#design-systems)
 1.  [Design](#design)
 1.  [SVG](#svg)
 1.  [UX](#ux)
@@ -373,7 +373,6 @@ Personal goals made open source across computers I use.
 - 18/12/2017 - 🎥 [dotCSS 2017 - Benjamin De Cock - CSS Grid in Production](https://www.youtube.com/watch?v=_BCiiE31D5M)
 - 25/12/2017 - 📄 [Building Better UI Designs With Layout Grids](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)
 - 26/12/2017 - 📄 [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)
-- 28/12/2017 - 📄 [Design Systems and CSS Grid](https://24ways.org/2017/design-systems-and-css-grid/)
 - 28/12/2017 - 😍 🎥 [Jen Simmons Designing with grid](https://www.youtube.com/watch?time_continue=8&v=Gn3JOE6qMuE)
 - 12/12/2017 - 😍 🎥 [Don't Use My Grid System (or any others) by Miriam Suzanne](https://www.youtube.com/watch?v=mDRfFEcj3-Q)
 - 28/12/2017 - 📄 [Notes on vertical writing and CSS grid](https://www.chenhuijing.com/blog/notes-on-vertical-writing-and-grid/#%F0%9F%8E%AE)
@@ -508,10 +507,6 @@ Personal goals made open source across computers I use.
 - 28/12/2017 - 📄 [Starting a Refactor with CSS Dig](https://css-tricks.com/starting-a-refactor-with-css-dig/)
 - 28/12/2017 - 📄 [How to Refactor CSS – A Guide](https://www.hongkiat.com/blog/code-optimization-series-refactoring-css/)
 - 29/01/2017 - 📄 [Finding Dead CSS](https://csswizardry.com/2018/01/finding-dead-css/)
-
-### Design Systems
-
-- 30/09/2018 - 😍 📄 [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 
 ### Sass
 
@@ -750,6 +745,23 @@ Personal goals made open source across computers I use.
 - 04/09/2018 - 😍 📄 [The Font Loading Checklist](https://www.zachleat.com/web/font-checklist/)
 - 04/09/2018 - 📄 [The Problem with font-display and Reflow](https://www.zachleat.com/web/font-display-reflow/)
 
+
+### Design Systems
+
+- 25/08/2017 - 📄 [Design Systems Sprint 0: The Silver Bullet of Product Development](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
+- 25/08/2017 - 📄 [Design Systems Sprint 1: The Interface Inventory](https://medium.com/@marcintreder/design-systems-sprint-1-the-interface-inventory-1f78d376e49a)
+- 25/08/2017 - 📄 [Design Systems Sprint 2: One Color Palette to Rule them All](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
+- 25/08/2017 - 📄 [Design Systems Sprint 3: Managing the Basics](https://medium.com/@marcintreder/design-system-sprint-3-managing-the-basics-50ff588cbac8)
+- 25/08/2017 - 📄 [Design Systems Sprint 4: Design Principles](https://medium.com/@marcintreder/design-system-sprint-4-design-principles-8efb22d8a208)
+- 25/08/2017 - 📄 [Design Systems Sprint 5: Managing Typography](https://medium.com/@marcintreder/design-system-sprint-4-managing-typography-303e335894ee)
+- 25/08/2017 - 📄 [Design Systems Sprint 6: The Fastest Icons on Earth](https://medium.com/@marcintreder/design-system-sprint-6-the-fastest-icons-on-earth-bf91c0a47ef9)
+- 08/12/2017 - 🎥 [Design Systems, when and how much? — Diana Mounter](https://www.youtube.com/watch?v=Hx02SaL_IH0)
+- 08/12/2017 - 🎥 [Design Systems' Role in the Evolution of Enterprise User Experience](https://www.youtube.com/watch?v=Q04UnwLFhH8)
+- 17/09/2017 - 📄 [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6)
+- 25/12/2017 - 📄 [A comprehensive guide to design systems](https://www.invisionapp.com/blog/guide-to-design-systems/)
+- 28/12/2017 - 📄 [Design Systems and CSS Grid](https://24ways.org/2017/design-systems-and-css-grid/)
+- 30/09/2018 - 😍 📄 [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
+
 ### Design
 
 - 01/11/2016 - 🎥 [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
@@ -766,15 +778,7 @@ Personal goals made open source across computers I use.
 - 25/08/2017 - 📄 [Creating a Living Style Guide - Tutorial Part 2: Creating Pages in a Living Style Guide](https://www.bitovi.com/blog/creating-pages-in-a-living-style-guide)
 - 25/08/2017 - 📄 [Creating a Living Style Guide - Tutorial Part 3: Documenting a Stylesheet in a Living Style Guide](https://www.bitovi.com/blog/documenting-a-stylesheet-in-a-living-style-guide)
 - 25/08/2017 - 📄 [How to Choose a Good Color Scheme For Your Website](http://www.websitebuilderexpert.com/how-to-choose-color-for-your-website/)
-- 25/08/2017 - 📄 [Design Systems Sprint 0: The Silver Bullet of Product Development](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
-- 25/08/2017 - 📄 [Design Systems Sprint 1: The Interface Inventory](https://medium.com/@marcintreder/design-systems-sprint-1-the-interface-inventory-1f78d376e49a)
-- 25/08/2017 - 📄 [Design Systems Sprint 2: One Color Palette to Rule them All](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
-- 25/08/2017 - 📄 [Design Systems Sprint 3: Managing the Basics](https://medium.com/@marcintreder/design-system-sprint-3-managing-the-basics-50ff588cbac8)
-- 25/08/2017 - 📄 [Design Systems Sprint 4: Design Principles](https://medium.com/@marcintreder/design-system-sprint-4-design-principles-8efb22d8a208)
-- 25/08/2017 - 📄 [Design Systems Sprint 5: Managing Typography](https://medium.com/@marcintreder/design-system-sprint-4-managing-typography-303e335894ee)
-- 25/08/2017 - 📄 [Design Systems Sprint 6: The Fastest Icons on Earth](https://medium.com/@marcintreder/design-system-sprint-6-the-fastest-icons-on-earth-bf91c0a47ef9)
 - 17/09/2017 - 📄 [Removing the White Bars in Safari on iPhone X](http://stephenradford.me/removing-the-white-bars-in-safari-on-iphone-x/)
-- 17/09/2017 - 📄 [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6)
 - 18/09/2017 - 📄 [000 ¿Por qué debería tener conocimientos sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/000-por-qu%C3%A9-deber%C3%ADa-tener-una-base-sobre-dise%C3%B1o-cadbdeb6fed7)
 - 18/09/2017 - 📄 [¿Y si WordPress está dañando el sector del diseño y desarrollo web?](https://octuweb.com/wordpress-sector-diseno-desarrollo-web/)
 - 20/10/2017 - 📄 [Iconos en interfaces](https://octuweb.com/iconos-en-interfaces/)
@@ -788,10 +792,7 @@ Personal goals made open source across computers I use.
 - 03/12/2017 - 📄 [004 | ¿Cómo puedo mantener el foco y ser productivo en Diseño…](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/004-c%C3%B3mo-puedo-mantener-el-foco-y-ser-productivo-en-dise%C3%B1o-e06cc41c298)
 - 03/12/2017 - 📄 [005 | 100 cosas sobre Diseño que TODO el mundo debería saber](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/005-100-cosas-sobre-dise%C3%B1o-que-todo-el-mundo-deber%C3%ADa-saber-353c91b744d4)
 - 06/12/2017 - 😍 🎥 [Quick Easy Tips to Improve Your Design Layout](https://www.youtube.com/watch?v=atS36kzr8zg)
-- 08/12/2017 - 🎥 [Design Systems, when and how much? — Diana Mounter](https://www.youtube.com/watch?v=Hx02SaL_IH0)
-- 08/12/2017 - 🎥 [Design Systems' Role in the Evolution of Enterprise User Experience](https://www.youtube.com/watch?v=Q04UnwLFhH8)
 - 11/12/2017 - 📄 [006 | ¿Cómo evaluar un buen Diseño? gracias a Dieter Rams](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/006-c%C3%B3mo-evaluar-un-buen-dise%C3%B1o-gracias-a-dieter-rams-92a0f3a4b636)
-- 25/12/2017 - 📄 [A comprehensive guide to design systems](https://www.invisionapp.com/blog/guide-to-design-systems/)
 - 25/12/2017 - 📄 [Design for Programmers](https://blog.prototypr.io/design-for-programmers-d38c56982cd0)
 - 28/12/2017 - 📄 [Optical Effects in User Interfaces (for True Nerds)](https://medium.muz.li/optical-effects-9fca82b4cd9a)
 - 22/01/2018 - 😍 📄 [Intro to The 8-Point Grid System](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632)
