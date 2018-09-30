@@ -709,7 +709,7 @@ Personal goals made open source across computers I use.
 - 25/08/2017 - 📄 [The web fonts preloaded](https://www.zachleat.com/web/preload/)
 - 09/10/2017 - 📄 [Typography that sacred cow](https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70)
 - 09/10/2017 - 📄 [Keeping track of letter-spacing, some guidelines](https://css-tricks.com/keeping-track-letter-spacing-guidelines/)
-- 13/10/2017 - 📄 [8-Point Grid - Vertical Rhythm](https://builttoadapt.io/8-point-grid-vertical-rhythm-90d05ad95032)
+- 13/10/2017 - 😍 📄 [8-Point Grid - Vertical Rhythm](https://builttoadapt.io/8-point-grid-vertical-rhythm-90d05ad95032)
 - 26/10/2017 - 📄 [Guía incompleta de diseño visual de textos para productos digitales](https://octuweb.com/guia-incompleta-diseno-visual-textos/)
 - 07/11/2017 - 🎥 [Chris Lilley on The State of WebFonts at SmashingConf Barcelona 2017](https://vimeo.com/241102754)
 - 21/12/2017 - 🎥 [Variable fonts - a million times the possibilities](https://www.youtube.com/watch?v=63Uv_VC7nbY)
