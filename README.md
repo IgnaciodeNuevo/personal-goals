@@ -39,6 +39,8 @@ Personal goals made open source across computers I use.
 1.  [Custom Properties](#custom-properties)
 1.  [CSS Architecture and Naming](#css-architecture-and-naming)
 1.  [Refactoring CSS](#refactoring-css)
+1.  [Design Systems](#design-systems)
+1.  [Sass](#sass)
 1.  [Stylable](#stylable)
 1.  [General Frontend](#general-frontend)
 1.  [Hilos Sego](#hilos-sego)
@@ -506,6 +508,10 @@ Personal goals made open source across computers I use.
 - 28/12/2017 - 📄 [Starting a Refactor with CSS Dig](https://css-tricks.com/starting-a-refactor-with-css-dig/)
 - 28/12/2017 - 📄 [How to Refactor CSS – A Guide](https://www.hongkiat.com/blog/code-optimization-series-refactoring-css/)
 - 29/01/2017 - 📄 [Finding Dead CSS](https://csswizardry.com/2018/01/finding-dead-css/)
+
+### Design Systems
+
+- 30/09/2018 - 😍 📄 [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 
 ### Sass
 
