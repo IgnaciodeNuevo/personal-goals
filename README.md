@@ -813,6 +813,7 @@ Personal goals made open source across computers I use.
 - 16/09/2018 - 🎥 [Karri Saarinen - When We Use Systems](https://vimeo.com/262959714)
 - 30/08/2018 - 📄 [Cropping Away Negative Impacts of Line Height](https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height-84d744e016ce)
 - 30/08/2018 - 📄 [7 Basic Rules for Button Design](http://babich.biz/7-rules-of-buttons/)
+- 30/08/2018 - 📄 [How paper wireframing will make you a better designer](https://blog.prototypr.io/how-paper-wireframing-will-make-you-a-better-designer-5a57db8dca13)
 
 ### SVG
 
