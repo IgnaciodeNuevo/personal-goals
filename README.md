@@ -745,6 +745,7 @@ Personal goals made open source across computers I use.
 - 15/08/2018 - 📄 [Upcoming changes to the CSS you need for variable fonts](https://medium.com/@clagnut/upcoming-changes-to-the-css-for-variable-fonts-4494b3b7ecdc)
 - 04/09/2018 - 😍 📄 [The Font Loading Checklist](https://www.zachleat.com/web/font-checklist/)
 - 04/09/2018 - 📄 [The Problem with font-display and Reflow](https://www.zachleat.com/web/font-display-reflow/)
+- 30/09/2018 - 📄 [8-Point Grid: Typography On The Web](https://medium.freecodecamp.org/8-point-grid-typography-on-the-web-be5dc97db6bc)
 
 
 ### Design Systems
