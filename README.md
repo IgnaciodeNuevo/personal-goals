@@ -172,6 +172,7 @@ Personal goals made open source across computers I use.
 - 12/01/2018 - 📄 [What’s New in HTML 5.2?](https://bitsofco.de/whats-new-in-html-5-2/)
 - 31/01/2018 - 😍 📄 [Autofill - What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/)
 - 17/03/2018 - 📄 [Labels Required](https://www.filamentgroup.com/lab/a11y-form-labels.html)
+- 30/09/2018 - 📄 [Conversational Semantics](https://alistapart.com/article/conversational-semantics)
 
 ### Cascade and Specificity
 
