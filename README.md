@@ -437,6 +437,7 @@ Personal goals made open source across computers I use.
 - 27/12/2017 - 📄 [Getting Hardboiled with CSS Custom Properties](https://24ways.org/2017/getting-hardboiled-with-css-custom-properties/)
 - 03/03/2018 - 📄 [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)
 - 27/08/2018 - 📄 [Create your design system, part 1/6: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd)
+- 30/08/2018 - 📄 [Create your design system, part 2/6: Grid & Layout](https://medium.com/codyhouse/create-your-design-system-part-2-grid-layout-aa961d59b8d6)
 
 ### CSS Architecture and Naming
 
