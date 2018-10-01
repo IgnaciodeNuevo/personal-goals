@@ -277,6 +277,7 @@ Personal goals made open source across computers I use.
 - 29/12/2017 - 📄 [Is text sizing dead?](https://alastairc.ac/2017/11/is-text-sizing-dead/)
 - 15/06/2018 - 😍 💊 [EMs vs REMs](https://codepen.io/seyedi/pen/oxWOVX)
 - 15/05/2018 - 📄 [The new (and old) CSS units you've never heard about](https://dev.to/maxart2501/the-new-and-old-css-units-youve-never-heard-about-1mn1)
+- 01/10/2018 - 📄 [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
 
 ### Feature Queries
 
