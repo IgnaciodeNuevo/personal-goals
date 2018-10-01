@@ -441,6 +441,7 @@ Personal goals made open source across computers I use.
 - 30/09/2018 - 📄 [Create your design system, part 3/6: Colors](https://medium.com/codyhouse/create-your-design-system-part-3-colors-798e4729921f)
 - 01/10/2018 - 📄 [Create your design system, part 4/6: Spacing](https://medium.com/codyhouse/create-your-design-system-part-4-spacing-895c9213e2b9)
 - 01/10/2018 - 📄 [Create your design system, part 5/6: Icons](https://medium.com/codyhouse/create-your-design-system-part-5-icons-594f39cfb1b)
+- 01/10/2018 - 📄 [Create your design system, part 6/6: Buttons](https://medium.com/codyhouse/create-your-design-system-part-6-buttons-58e2eda2173e)
 
 ### CSS Architecture and Naming
 
