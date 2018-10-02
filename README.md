@@ -52,6 +52,7 @@ Personal goals made open source across computers I use.
 1.  [SVG](#svg)
 1.  [UX](#ux)
 1.  [JavaScript](#javascript)
+1.  [JavaScript Patterns](#javascript-patterns)
 1.  [JavaScript Security](#javascript-security)
 1.  [TypeScript](#typescript)
 1.  [Angular](#angular)
@@ -959,6 +960,9 @@ Personal goals made open source across computers I use.
 - 01/08/2018 - 📄 [Proper Error Handling in JavaScript](https://scotch.io/tutorials/proper-error-handling-in-javascript)
 - 13/09/2018 - 🎥 [Code Review 🦊 SO MUCH LEARNING #6 Building an Online Business](https://www.youtube.com/watch?v=mqqIKGz6pXI)
 - 18/09/2018 - 🎥 [Introduccion a Service Workers y Push API](https://www.youtube.com/watch?v=JjryBKrZih4)
+
+### JavaScript Patterns
+
 - 02/10/2018 - 📄 [JavaScript Design Patterns: The Observer Pattern](https://www.sitepoint.com/javascript-design-patterns-observer-pattern/)
 
 
