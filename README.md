@@ -1006,6 +1006,7 @@ Personal goals made open source across computers I use.
 - 22/08/2017 - 🎥 [Cómo empezar con Vue.js | Primeros pasos con Vue](https://www.youtube.com/watch?v=L0F4OPPsm0c)
 - 15/05/2018 - 📄 [Progressive Image Rendering in Vue.js with v-lazy-image](https://alligator.io/vuejs/progressive-image-rendering/)
 - 16/05/2018 - 📄 [Building a Modal Component with Vue.js](https://alligator.io/vuejs/vue-modal-component/)
+- 02/10/2018 - 📄 [Computed Properties and Watchers](https://vuejs.org/v2/guide/computed.html)
 
 ### Razor Pages
 
