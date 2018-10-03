@@ -1125,6 +1125,7 @@ Personal goals made open source across computers I use.
 
 - 20/10/2017 - 📄 [Web Babel](https://octuweb.com/web-babel/)
 - 26/10/2017 - 📄 [Tiempos de cambio (o por qué pasarse al desarrollo indie)](https://octuweb.com/tiempos-de-cambio-desarrollo-indie/)
+- 03/10/2018 - 📄 [Imprimir la web en el siglo XXI](https://octuweb.com/imprimir-la-web-en-el-siglo-xxi/)
 
 ### Career
 
