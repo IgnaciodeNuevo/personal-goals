@@ -175,6 +175,7 @@ Personal goals made open source across computers I use.
 - 31/01/2018 - 😍 📄 [Autofill - What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/)
 - 17/03/2018 - 📄 [Labels Required](https://www.filamentgroup.com/lab/a11y-form-labels.html)
 - 30/09/2018 - 📄 [Conversational Semantics](https://alistapart.com/article/conversational-semantics)
+- 03/10/2018 - 📄 [HTML5 articles and sections: what’s the difference?](https://www.brucelawson.co.uk/2010/html5-articles-and-sections-whats-the-difference/)
 
 ### Cascade and Specificity
 
