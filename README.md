@@ -63,7 +63,6 @@ Personal goals made open source across computers I use.
 1.  [Command Line](#command-line)
 1.  [DevTools](#devtools)
 1.  [Engine Internals](#engine-internals)
-1.  [Task Runners](#task-runners)
 1.  [Jekyll](#jekyll)
 1.  [Hugo](#hugo)
 1.  [Testing](#testing)
@@ -223,7 +222,6 @@ Personal goals made open source across computers I use.
 - 06/09/2017 - 📄 [Designing grids](https://zellwk.com/blog/designing-grids/)
 - 17/09/2017 - 😍 📄 [12 Little-Known CSS Facts](https://www.sitepoint.com/12-little-known-css-facts/)
 - 02/10/2017 - 📄 [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/)
-- 09/10/2017 - 📄 [En defensa del noble oficio de maquetador](https://octuweb.com/defensa-noble-oficio-maquetador/)
 - 11/10/2017 - 🎥 [Aspect Ratio Hack - Micro Tip #17 - Supercharged](https://www.youtube.com/watch?v=ht5oFxpADt4)
 - 20/10/2017 - 😍 📄 [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f)
 - 08/11/2017 - 🎥 [Rachel Andrew — The New CSS Layout Technologies](https://www.youtube.com/watch?v=xHOYsOxcYLc)
@@ -410,7 +408,6 @@ Personal goals made open source across computers I use.
 
 ### Animation
 
-- 09/10/2017 - 📄 [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
 - 28/12/2017 - 📄 [Stop Leaving Animation to the Last Minute](https://24ways.org/2017/stop-leaving-animation-to-the-last-minute/)
 - 28/12/2017 - 📄 [Animating Border](https://css-tricks.com/animating-border/)
 - 14/01/2018 - 📄 [Can CSS Custom Properties update animation durations on the fly?](https://benfrain.com/can-css-custom-properties-update-animation-durations-on-the-fly/)
@@ -505,7 +502,6 @@ Personal goals made open source across computers I use.
 - 31/12/2016 - 🎥 [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 - 27/06/2017 - 🎥 [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=kbGYPm9uYfk)
 - 26/07/2017 - 😍 🎥 [Refactoring Legacy CSS](https://www.youtube.com/watch?v=nCPAFcMf8qc)
-- 13/10/2017 - 📄 [Refactorizar - Welcome to the CSS jungle](https://octuweb.com/refactorizar-welcome-the-css-jungle/)
 - 20/10/2017 - 📄 [Are you writing legacy CSS code?](https://tinnedfruit.com/articles/are-you-writing-legacy-css-code.html)
 - 20/10/2017 - 📄 [5 Tips for Starting a Front-End Refactor](https://css-tricks.com/5-tips-starting-front-end-refactor/)
 - 26/10/2017 - 😍 📄 [Refactoring Tunnels](https://csswizardry.com/2017/06/refactoring-tunnels)
@@ -523,7 +519,6 @@ Personal goals made open source across computers I use.
 - 02/08/2017 - 📄 [Fix 90% of Your Problems With Susy by Getting This One Concept Right](https://zellwk.com/blog/context-with-susy/)
 - 13/10/2017 - 📄 [Use a Sass Variable for a Selector](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
 - 28/12/2017 - 📄 [V6 - Typography and Proportions](http://v6.robweychert.com/blog/2017/11/v6-typography-proportions/)
-- 23/02/2018 - 📄 [Esparta utilizaría Stylelint](https://octuweb.com/esparta-utilizaria-stylelint/)
 
 ### Stylable
 
@@ -579,7 +574,6 @@ Personal goals made open source across computers I use.
 - 26/09/2017 - 😍 📄 [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
 - 27/09/2017 - 📄 [Building Inclusive Toggle Buttons](https://www.smashingmagazine.com/2017/09/building-inclusive-toggle-buttons/)
 - 27/09/2017 - 📄 [Writing CSS with Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
-- 02/10/2017 - 📄 [CSS al rescate: UX y Formularios](https://octuweb.com/css-al-rescate-ux-formularios/)
 - 12/10/2017 - 📄 [How to Ensure Accessibility for Every Online Audience](http://mangomattermedia.com/web-design/ensure-accessibility-every-online-audience/)
 - 18/10/2017 - 📄 [Usability and Accessibility](https://medium.com/@myplanet/usability-and-accessibility-213c3185314f)
 - 18/10/2017 - 😍 📄 [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
@@ -717,7 +711,6 @@ Personal goals made open source across computers I use.
 - 09/10/2017 - 📄 [Typography that sacred cow](https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70)
 - 09/10/2017 - 📄 [Keeping track of letter-spacing, some guidelines](https://css-tricks.com/keeping-track-letter-spacing-guidelines/)
 - 13/10/2017 - 😍 📄 [8-Point Grid - Vertical Rhythm](https://builttoadapt.io/8-point-grid-vertical-rhythm-90d05ad95032)
-- 26/10/2017 - 📄 [Guía incompleta de diseño visual de textos para productos digitales](https://octuweb.com/guia-incompleta-diseno-visual-textos/)
 - 07/11/2017 - 🎥 [Chris Lilley on The State of WebFonts at SmashingConf Barcelona 2017](https://vimeo.com/241102754)
 - 21/12/2017 - 🎥 [Variable fonts - a million times the possibilities](https://www.youtube.com/watch?v=63Uv_VC7nbY)
 - 25/12/2017 - 😍 🎥 [Performance and Web Typography](https://www.youtube.com/watch?v=emLfXChvVPQ)
@@ -790,9 +783,6 @@ Personal goals made open source across computers I use.
 - 25/08/2017 - 📄 [How to Choose a Good Color Scheme For Your Website](http://www.websitebuilderexpert.com/how-to-choose-color-for-your-website/)
 - 17/09/2017 - 📄 [Removing the White Bars in Safari on iPhone X](http://stephenradford.me/removing-the-white-bars-in-safari-on-iphone-x/)
 - 18/09/2017 - 📄 [000 ¿Por qué debería tener conocimientos sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/000-por-qu%C3%A9-deber%C3%ADa-tener-una-base-sobre-dise%C3%B1o-cadbdeb6fed7)
-- 18/09/2017 - 📄 [¿Y si WordPress está dañando el sector del diseño y desarrollo web?](https://octuweb.com/wordpress-sector-diseno-desarrollo-web/)
-- 20/10/2017 - 📄 [Iconos en interfaces](https://octuweb.com/iconos-en-interfaces/)
-- 26/10/2017 - 📄 [I want to believe… en los principios de diseño](https://octuweb.com/principios-diseno/)
 - 26/10/2017 - 📄 [Design for Developers: Specific Steps to Improve Your Website Design](https://www.taniarascia.com/design-for-developers/)
 - 01/11/2017 - 😍 🎥 [Mark Boulton | Designing Grids | CSS Day 2017](https://vimeo.com/239782886)
 - 03/12/2017 - 📄 [000 | ¿Por qué debería tener conocimientos sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/000-por-qu%C3%A9-deber%C3%ADa-tener-una-base-sobre-dise%C3%B1o-cadbdeb6fed7)
@@ -905,7 +895,6 @@ Personal goals made open source across computers I use.
 - 30/09/2017 - 📄 [When 'not' to use arrow functions](https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript)
 - 07/10/2017 - 📄 [ES8 was Released and here are its Main New Features ?](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66)
 - 08/10/2017 - 🎥 [Default Parameters in JavaScript | ES6 | ES2015](https://tylermcginnis.com/videos/default-parameters/)
-- 24/10/2017 - 📄 [5 preguntas a tener en cuenta al utilizar una librería](https://octuweb.com/5-preguntas-utilizar-libreria/)
 - 04/11/2017 - 🎥 [Masterclass DOM y eventos](https://www.youtube.com/watch?v=FXZRaDCFqhc)
 - 06/11/2017 - 🎥 [Unit testing in JavaScript Part 1 - Why unit testing?](https://www.youtube.com/watch?v=Eu35xM76kKY)
 - 26/11/2017 - 🎥 [Think about performance](https://www.youtube.com/watch?v=H14grgqN87A)
@@ -927,7 +916,6 @@ Personal goals made open source across computers I use.
 - 02/03/2018 - 📄 [addEventListener vs onclick](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick)
 - 05/03/2018 - 🎥 [Observable JavaScript playbook, asynchronous generators and hacking the Fun Fun Forum](https://www.youtube.com/watch?v=MmRmxzrr4lk)
 - 06/03/2018 - 📄 [How to Use Local Storage with JavaScript](https://www.taniarascia.com/how-to-use-local-storage-with-javascript/)
-- 07/03/2018 - 📄 [La programación asíncrona es la reina de la selva](https://octuweb.com/programacion-asincrona/)
 - 07/03/2018 - 📄 [When 'not' to use arrow functions](https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/)
 - 12/03/2018 - 🎥 [Structuring JavaScript projects for testability](https://www.youtube.com/watch?v=aL6SouuO0_k)
 - 16/03/2018 - 📄 [Taming huge collections of DOM nodes](https://codeburst.io/taming-huge-collections-of-dom-nodes-bebafdba332)
@@ -999,7 +987,6 @@ Personal goals made open source across computers I use.
 - 22/05/2017 - 😍 📄 [Leveling Up With React - Container Components](https://css-tricks.com/learning-react-container-components/)
 - 23/05/2017 - 😍 📄 [Leveling Up with React - ReduX](https://css-tricks.com/learning-react-redux/)
 - 15/01/2018 - 📄 [Fixing the callback hell of over-parenting with React](https://medium.com/@tornoe/fixing-the-callback-hell-of-over-parenting-with-react-1aa7801a6856)
-- 04/03/2018 - 📄 [Las URLs nos han traído hasta aquí](https://octuweb.com/las-urls-nos-han-traido-hasta-aqui/)
 
 ### Vue
 
@@ -1022,7 +1009,6 @@ Personal goals made open source across computers I use.
 
 ### Command Line
 
-- 13/10/2017 - 📄 [La línea de comandos es el futuro](https://octuweb.com/la-linea-comandos-es-el-futuro/)
 - 03/02/2018 - 📄 [To CLI or not to CLI, that is the question](https://www.youtube.com/watch?v=33uJPrrYRLI&feature=youtu.be)
 
 ### DevTools
@@ -1036,10 +1022,6 @@ Personal goals made open source across computers I use.
 ### Engine Internals
 
 - 25/02/2018 - 🎥 [JavaScript Engine Internals for JavaScript Developers](https://vimeo.com/254852822)
-
-### Task Runners
-
-- 27/10/2017 - 📄 [Asteroids - nuestro starter kit de proyectos web](https://octuweb.com/asteroids-starter-kit-proyectos-web/)
 
 ### Jekyll
 
@@ -1123,8 +1105,22 @@ Personal goals made open source across computers I use.
 
 ### Octuweb
 
+- 18/09/2017 - 📄 [¿Y si WordPress está dañando el sector del diseño y desarrollo web?](https://octuweb.com/wordpress-sector-diseno-desarrollo-web/)
+- 02/10/2017 - 📄 [CSS al rescate: UX y Formularios](https://octuweb.com/css-al-rescate-ux-formularios/)
+- 09/10/2017 - 📄 [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
+- 09/10/2017 - 📄 [En defensa del noble oficio de maquetador](https://octuweb.com/defensa-noble-oficio-maquetador/)
+- 13/10/2017 - 📄 [La línea de comandos es el futuro](https://octuweb.com/la-linea-comandos-es-el-futuro/)
+- 13/10/2017 - 📄 [Refactorizar - Welcome to the CSS jungle](https://octuweb.com/refactorizar-welcome-the-css-jungle/)
+- 20/10/2017 - 📄 [Iconos en interfaces](https://octuweb.com/iconos-en-interfaces/)
 - 20/10/2017 - 📄 [Web Babel](https://octuweb.com/web-babel/)
+- 24/10/2017 - 📄 [5 preguntas a tener en cuenta al utilizar una librería](https://octuweb.com/5-preguntas-utilizar-libreria/)
+- 26/10/2017 - 📄 [I want to believe… en los principios de diseño](https://octuweb.com/principios-diseno/)
+- 26/10/2017 - 📄 [Guía incompleta de diseño visual de textos para productos digitales](https://octuweb.com/guia-incompleta-diseno-visual-textos/)
 - 26/10/2017 - 📄 [Tiempos de cambio (o por qué pasarse al desarrollo indie)](https://octuweb.com/tiempos-de-cambio-desarrollo-indie/)
+- 27/10/2017 - 📄 [Asteroids - nuestro starter kit de proyectos web](https://octuweb.com/asteroids-starter-kit-proyectos-web/)
+- 23/02/2018 - 📄 [Esparta utilizaría Stylelint](https://octuweb.com/esparta-utilizaria-stylelint/)
+- 04/03/2018 - 📄 [Las URLs nos han traído hasta aquí](https://octuweb.com/las-urls-nos-han-traido-hasta-aqui/)
+- 07/03/2018 - 📄 [La programación asíncrona es la reina de la selva](https://octuweb.com/programacion-asincrona/)
 - 03/10/2018 - 📄 [Imprimir la web en el siglo XXI](https://octuweb.com/imprimir-la-web-en-el-siglo-xxi/)
 
 ### Career
