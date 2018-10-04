@@ -1171,3 +1171,4 @@ Personal goals made open source across computers I use.
 - 07/03/2018 - 🎥 [El feliz developer | T3chFest 2018](https://www.youtube.com/watch?v=BtIMCqFZNQ4)
 - 11/03/2018 - 🎥 [Wonderwoman no era ingeniera | T3chFest 2018](https://www.youtube.com/watch?v=Jc-6OYvdXm0)
 - 11/03/2018 - 🎥 [Wubba lubba dub dub! | T3chFest 2018](https://www.youtube.com/watch?v=r6s-ntue7Eo)
+- 04/10/2018 - 🎥 [Meetup - Tips para tu primera charla técnica](https://www.youtube.com/watch?v=A7y7T0giv_0)
