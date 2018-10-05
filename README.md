@@ -551,6 +551,7 @@ Personal goals made open source across computers I use.
 - 05/09/2018 - 🎥 [James Hughes - The Twelve Factor App Methodology](https://www.youtube.com/watch?v=bLc3eKbyFNg)
 - 19/09/2018 - 🎥 [Working with Time is Easy Jon Skeet](https://www.youtube.com/watch?v=saeKBuPewcU&t=1s)
 - 20/09/2018 - 🎥 [CSS for the next billion users | CSS Day 2018](https://vimeo.com/290265581)
+- 05/10/2018 - 🎥 [My LIGHTWEIGHT build tooling setup](https://www.youtube.com/watch?v=govQMsfzgZA)
 
 ### a11y
 
