@@ -751,6 +751,7 @@ Personal goals made open source across computers I use.
 - 30/09/2018 - 📄 [8-Point Grid: Typography On The Web](https://medium.freecodecamp.org/8-point-grid-typography-on-the-web-be5dc97db6bc)
 - 30/09/2018 - 😍 📄 [Deep dive CSS: font metrics, line-height and vertical-align](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 - 05/10/2018 - 🎥 [Ana Cirujano: Tipografía responsive: mejora el diseño de tu web](https://wordpress.tv/2018/04/23/ana-cirujano-tipografia-responsive-mejora-el-diseno-de-tu-web/)
+- 05/10/2018 - 🎥 [Ana Cirujano: ¿Puede la tipografía aumentar las ventas de tu tienda online?](https://wordpress.tv/2018/09/23/ana-cirujano-puede-la-tipografia-aumentar-las-ventas-de-tu-tienda-online/)
 
 
 ### Design Systems
