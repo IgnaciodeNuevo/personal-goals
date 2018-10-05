@@ -949,6 +949,7 @@ Personal goals made open source across computers I use.
 - 01/08/2018 - 📄 [Proper Error Handling in JavaScript](https://scotch.io/tutorials/proper-error-handling-in-javascript)
 - 13/09/2018 - 🎥 [Code Review 🦊 SO MUCH LEARNING #6 Building an Online Business](https://www.youtube.com/watch?v=mqqIKGz6pXI)
 - 18/09/2018 - 🎥 [Introduccion a Service Workers y Push API](https://www.youtube.com/watch?v=JjryBKrZih4)
+- 05/10/2018 - 🎥 [ONE tip to INSTANTLY up your JavaScript function game!](https://www.youtube.com/watch?v=uce-Go9rMnY)
 
 ### JavaScript Patterns
 
