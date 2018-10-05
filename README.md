@@ -1123,6 +1123,7 @@ Personal goals made open source across computers I use.
 - 04/03/2018 - 📄 [Las URLs nos han traído hasta aquí](https://octuweb.com/las-urls-nos-han-traido-hasta-aqui/)
 - 07/03/2018 - 📄 [La programación asíncrona es la reina de la selva](https://octuweb.com/programacion-asincrona/)
 - 03/10/2018 - 📄 [Imprimir la web en el siglo XXI](https://octuweb.com/imprimir-la-web-en-el-siglo-xxi/)
+- 05/10/2018 - 📄 [Accesibilidad](https://octuweb.com/accesibilidad/)
 
 ### Career
 
