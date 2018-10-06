@@ -752,6 +752,7 @@ Personal goals made open source across computers I use.
 - 30/09/2018 - 😍 📄 [Deep dive CSS: font metrics, line-height and vertical-align](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 - 05/10/2018 - 🎥 [Ana Cirujano: Tipografía responsive: mejora el diseño de tu web](https://wordpress.tv/2018/04/23/ana-cirujano-tipografia-responsive-mejora-el-diseno-de-tu-web/)
 - 05/10/2018 - 🎥 [Ana Cirujano: ¿Puede la tipografía aumentar las ventas de tu tienda online?](https://wordpress.tv/2018/09/23/ana-cirujano-puede-la-tipografia-aumentar-las-ventas-de-tu-tienda-online/)
+- 06/10/2018 - 🎥 [Ana Cirujano: ¿Roboto, Comic Sans, Helvetica? ¿De verdad es importante elegir la tipografía para…](https://wordpress.tv/2018/06/03/ana-cirujano-roboto-comic-sans-helvetica-de-verdad-es-importante-elegir-la-tipografia-para/)
 
 
 ### Design Systems
