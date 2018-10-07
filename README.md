@@ -423,6 +423,7 @@ Personal goals made open source across computers I use.
 - 27/04/2018 - 📄 [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web/)
 - 11/05/2018 - 😍 📄 [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 - 05/10/2018 - 🎥 [CSS Animation with Physics Simulation 📈 (so much over-engineering ⚙️)](https://www.youtube.com/watch?v=Gx24SikMfGw)
+- 07/10/2018 - 🎥 [Sarah Drasner on Building an SVG Animation from Start to Finish](https://vimeo.com/292473138)
 
 ### Custom Properties
 
