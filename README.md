@@ -617,6 +617,7 @@ Personal goals made open source across computers I use.
 - 18/07/2018 - 📄 [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
 - 01/09/2018 - 🎥 [The Links vs. Buttons Showdown](https://www.youtube.com/watch?v=8XjwDq9zG4I)
 - 30/09/2018 - 🎥 [Managing focus for accessibility](https://dev.to/robdodson/managing-focus-64l)
+- 07/10/2018 - 🎥 [Marcy Sutton on Accessibility Audit (Live)](https://vimeo.com/292467043)
 
 ### Hilos Sego
 
