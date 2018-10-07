@@ -2,78 +2,78 @@
 
 Personal goals made open source across computers I use.
 
-# Overarching Goals for 2018:
+## Overarching Goals for 2018
 
-1.  📚 JavaScript!
+1. 📚 JavaScript!
 
-# Legend
+## Legend
 
-1.  😍 _MUST_ Read (📄) / Watch (🎥) / Listen (🎼)
-1.  📚 Study!
-1.  📕 Book
-1.  💡 Project
-1.  🚀 Things to do
-1.  🎥 Video
-1.  📄 Article
-1.  🎼 Audio
-1.  💊 Resource or CodePen
+1. 😍 _MUST_ Read (📄) / Watch (🎥) / Listen (🎼)
+1. 📚 Study!
+1. 📕 Book
+1. 💡 Project
+1. 🚀 Things to do
+1. 🎥 Video
+1. 📄 Article
+1. 🎼 Audio
+1. 💊 Resource or CodePen
 
 ## Index
 
-1.  [Projects](#projects)
-1.  [Books](#books)
-1.  [Podcasts](#podcasts)
-1.  [Things I'll do in the future](#things-ill-do-in-the-future)
-1.  [HTML](#html)
-1.  [Cascade and Specificity](#cascade-and-specificity)
-1.  [CSS](#css)
-1.  [CSS Units](#css-units)
-1.  [Feature Queries](#feature-queries)
-1.  [Container Queries](#container-queries)
-1.  [Responsive Images](#responsive-images)
-1.  [Flexbox](#flexbox)
-1.  [Grid vs Flexbox](#grid-vs-flexbox)
-1.  [CSS Grid Layout](#css-grid-layout)
-1.  [Multi Column Layout](#multi-column-layout)
-1.  [Animation](#animation)
-1.  [Custom Properties](#custom-properties)
-1.  [CSS Architecture and Naming](#css-architecture-and-naming)
-1.  [Refactoring CSS](#refactoring-css)
-1.  [Sass](#sass)
-1.  [Stylable](#stylable)
-1.  [General Frontend](#general-frontend)
-1.  [Hilos Sego](#hilos-sego)
-1.  [Refactoring UI](#refactoring-ui)
-1.  [a11y](#a11y)
-1.  [Perf](#perf)
-1.  [Typography](#typography)
-1.  [Design Systems](#design-systems)
-1.  [Design](#design)
-1.  [SVG](#svg)
-1.  [UX](#ux)
-1.  [JavaScript](#javascript)
-1.  [JavaScript Patterns](#javascript-patterns)
-1.  [JavaScript Security](#javascript-security)
-1.  [TypeScript](#typescript)
-1.  [Angular](#angular)
-1.  [React](#react)
-1.  [Vue](#vue)
-1.  [Razor Pages](#razor-pages)
-1.  [Git](#git)
-1.  [Command Line](#command-line)
-1.  [DevTools](#devtools)
-1.  [Engine Internals](#engine-internals)
-1.  [Jekyll](#jekyll)
-1.  [Hugo](#hugo)
-1.  [Testing](#testing)
-1.  [Linting](#linting)
-1.  [OOP](#object-oriented-programming)
-1.  [Software Crafting](#software-crafting)
-1.  [Mentoring](#mentoring)
-1.  [Octuweb](#octuweb)
-1.  [Career](#career)
-1.  [Documentation](#documentation)
-1.  [Other resources](#other-resources)
+1. [Projects](#projects)
+1. [Books](#books)
+1. [Podcasts](#podcasts)
+1. [Things I'll do in the future](#things-ill-do-in-the-future)
+1. [HTML](#html)
+1. [Cascade and Specificity](#cascade-and-specificity)
+1. [CSS](#css)
+1. [CSS Units](#css-units)
+1. [Feature Queries](#feature-queries)
+1. [Container Queries](#container-queries)
+1. [Responsive Images](#responsive-images)
+1. [Flexbox](#flexbox)
+1. [Grid vs Flexbox](#grid-vs-flexbox)
+1. [CSS Grid Layout](#css-grid-layout)
+1. [Multi Column Layout](#multi-column-layout)
+1. [Animation](#animation)
+1. [Custom Properties](#custom-properties)
+1. [CSS Architecture and Naming](#css-architecture-and-naming)
+1. [Refactoring CSS](#refactoring-css)
+1. [Sass](#sass)
+1. [Stylable](#stylable)
+1. [General Frontend](#general-frontend)
+1. [Hilos Sego](#hilos-sego)
+1. [Refactoring UI](#refactoring-ui)
+1. [a11y](#a11y)
+1. [Perf](#perf)
+1. [Typography](#typography)
+1. [Design Systems](#design-systems)
+1. [Design](#design)
+1. [SVG](#svg)
+1. [UX](#ux)
+1. [JavaScript](#javascript)
+1. [JavaScript Patterns](#javascript-patterns)
+1. [JavaScript Security](#javascript-security)
+1. [TypeScript](#typescript)
+1. [Angular](#angular)
+1. [React](#react)
+1. [Vue](#vue)
+1. [Razor Pages](#razor-pages)
+1. [Git](#git)
+1. [Command Line](#command-line)
+1. [DevTools](#devtools)
+1. [Engine Internals](#engine-internals)
+1. [Jekyll](#jekyll)
+1. [Hugo](#hugo)
+1. [Testing](#testing)
+1. [Linting](#linting)
+1. [OOP](#object-oriented-programming)
+1. [Software Crafting](#software-crafting)
+1. [Mentoring](#mentoring)
+1. [Octuweb](#octuweb)
+1. [Career](#career)
+1. [Documentation](#documentation)
+1. [Other resources](#other-resources)
 
 ### Projects
 
@@ -188,7 +188,7 @@ Personal goals made open source across computers I use.
 - 13/11/2017 - 💊 [Specificity Graph Generator](https://jonassebastianohlsson.com/specificity-graph/)
 - 13/11/2017 - 😍 📄 [Hacks for dealing with specificity](https://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/)
 - 29/12/2017 - 😍 📄 [Link Specificity](https://meyerweb.com/eric/css/link-specificity.html)
-- 12/01/2018 - 📄 [The latest ways to deal with the cascade, inheritance and specificity ](https://css-tricks.com/latest-ways-deal-cascade-inheritance-specificity/)
+- 12/01/2018 - 📄 [The latest ways to deal with the cascade, inheritance and specificity](https://css-tricks.com/latest-ways-deal-cascade-inheritance-specificity/)
 
 ### CSS
 
@@ -232,7 +232,7 @@ Personal goals made open source across computers I use.
 - 27/12/2017 - 📄 [Stunning examples of CSS pseudo-classes in action](https://www.catswhocode.com/blog/stunning-examples-of-css-pseudo-classes-in-action)
 - 28/12/2017 - 😍 📄 [Understanding CSS Layout And The Block Formatting Context](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/)
 - 28/12/2017 - 📄 [Calc() function with Use Cases](https://pineco.de/calc-function-with-use-cases/)
-- 28/12/2017 - 📄 [Breaking Out With Viewport Units and Calc ](https://cloudfour.com/thinks/breaking-out-with-viewport-units-and-calc/)
+- 28/12/2017 - 📄 [Breaking Out With Viewport Units and Calc](https://cloudfour.com/thinks/breaking-out-with-viewport-units-and-calc/)
 - 29/12/2017 - 📄 [CSS element() function](http://iamvdo.me/en/blog/css-element-function)
 - 17/01/2018 - 🎥 [dotCSS 2017 - Adam Detrick - Write Less CSS](https://www.youtube.com/watch?v=5tvHSwFR4-Y)
 - 18/01/2018 - 🎥 [dotCSS 2017 - Jackie Balzer - Schrödinger's Website](https://www.youtube.com/watch?v=_noRkLSQ4nY)
@@ -760,7 +760,6 @@ Personal goals made open source across computers I use.
 - 06/10/2018 - 🎥 [Ana Cirujano: Tipografía responsive: maqueta textos para todos los dispositivos](https://wordpress.tv/2017/11/22/ana-cirujano-tipografia-responsive-maqueta-textos-para-todos-los-dispositivos/)
 - 06/10/2018 - 🎥 [Tipografía responsive: mejora el diseño de tu web. Ana Cirujano](https://wordpress.tv/2018/03/07/acirujano-meetup-madrid-tipografia-responsive-mejora-el-diseno-de-tu-web/)
 
-
 ### Design Systems
 
 - 25/08/2017 - 📄 [Design Systems Sprint 0: The Silver Bullet of Product Development](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
@@ -836,7 +835,7 @@ Personal goals made open source across computers I use.
 - 25/08/2017 - 😍 📄 [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
 - 01/09/2017 - 😍 🎥 [Front End Center — Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
 - 27/09/2017 - 📄 [Using SVG clip-path to change a logos colour on scroll](https://eduardoboucas.com/blog/2017/09/25/svg-clip-path-logo-colour.html)
-- 27/12/2017 - 😍 📄 [Inline SVG vs Icon Fonts [CAGEMATCH] ](https://css-tricks.com/icon-fonts-vs-svg/)
+- 27/12/2017 - 😍 📄 [Inline SVG vs Icon Fonts [CAGEMATCH]](https://css-tricks.com/icon-fonts-vs-svg/)
 - 12/01/2018 - 📄 [Optimizing SVG Text & Image Delivery with Inline SVG](https://www.sarasoueidan.com/blog/optimizing-svg-delivery-with-svg/)
 - 14/01/2018 - 📄 [Cropping & Scaling Images Using SVG Documents](http://www.sarasoueidan.com/blog/svg-object-fit/)
 - 05/02/2018 - 📄 [Seriously, Don’t Use Icon Fonts](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/)
@@ -918,7 +917,7 @@ Personal goals made open source across computers I use.
 - 14/01/2018 - 📄 [Understanding the DOM 3/5 - How To Access Elements in the DOM](https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom)
 - 14/01/2018 - 📄 [Understanding the DOM 4/5 - How To Traverse the DOM](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
 - 14/01/2018 - 📄 [Understanding the DOM 5/5 - How To Make Changes to the DOM](https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom)
-- 07/02/2018 - 😍 📄 [ Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
+- 07/02/2018 - 😍 📄 [Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
 - 09/02/2018 - 🎥 [ECMAScript 2018 - Descubre el nuevo Rest Operator](https://www.youtube.com/watch?v=viOGjE4yf0I)
 - 12/02/2018 - 🎥 [Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
 - 20/02/2018 - 🎥 [cookies vs localStorage vs sessionStorage - Beau teaches JavaScript](https://www.youtube.com/watch?v=AwicscsvGLg)
@@ -966,7 +965,6 @@ Personal goals made open source across computers I use.
 ### JavaScript Patterns
 
 - 02/10/2018 - 📄 [JavaScript Design Patterns: The Observer Pattern](https://www.sitepoint.com/javascript-design-patterns-observer-pattern/)
-
 
 ### JavaScript Security
 
@@ -1151,7 +1149,7 @@ Personal goals made open source across computers I use.
 ### Other resources
 
 - 01/01/2016 - 🎥 [Mastering Markdown](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
-- 04/11/2016 - 🎥 [Supercharged ](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
+- 04/11/2016 - 🎥 [Supercharged](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
 - 06/11/2016 - 🎥 [HTTP2](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e)
 - 17/11/2016 - 🎥 [Docker, gestión y despliegue en Azure](https://www.youtube.com/watch?v=najjrEg5_D4)
 - 24/11/2016 - 🎥 [You Should Learn to Program - Christian Genco at TEDxSMU](https://www.youtube.com/watch?v=xfBWk4nw440)
