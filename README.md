@@ -826,6 +826,7 @@ Personal goals made open source across computers I use.
 - 30/09/2018 - 📄 [How paper wireframing will make you a better designer](https://blog.prototypr.io/how-paper-wireframing-will-make-you-a-better-designer-5a57db8dca13)
 - 30/09/2018 - 😍 📄 [Styling buttons, the right way](https://fvsch.com/styling-buttons/)
 - 01/10/2018 - 📄 [Mejora tu diseño UI utilizando retículas](http://www.uifrommars.com/mejora-tu-diseno-ui-utilizando-reticulas/)
+- 07/10/2018 - 🎥 [Eva-Lotta Lamm - on You can sketch. (You might just not know it yet.)](https://vimeo.com/292461456)
 
 ### SVG
 
