@@ -1055,6 +1055,7 @@ Personal goals made open source across computers I use.
 - 17/09/2018 - 📄 [A Step-by-Step Guide: Jekyll 3.0 on Netlify](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/)
 - 08/10/2018 - 📄 [Scoring 100 on Google’s PageSpeed Insights with Jekyll](https://medium.com/@dimitrikoenig/scoring-100-on-googles-pagespeed-insights-with-jekyll-adcbbb229baf)
 - 08/10/2018 - 🎥 [Speed up Jekyll with Gulp](https://www.youtube.com/watch?v=z0zk6qJdTkU)
+- 08/10/2018 - 📄 [Gulp, Jekyll and GitHub (pages)](https://www.chenhuijing.com/blog/gulp-jekyll-github/#%F0%9F%8E%B9)
 
 ### Hugo
 
