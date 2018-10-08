@@ -1056,6 +1056,7 @@ Personal goals made open source across computers I use.
 - 08/10/2018 - 📄 [Scoring 100 on Google’s PageSpeed Insights with Jekyll](https://medium.com/@dimitrikoenig/scoring-100-on-googles-pagespeed-insights-with-jekyll-adcbbb229baf)
 - 08/10/2018 - 🎥 [Speed up Jekyll with Gulp](https://www.youtube.com/watch?v=z0zk6qJdTkU)
 - 08/10/2018 - 📄 [Gulp, Jekyll and GitHub (pages)](https://www.chenhuijing.com/blog/gulp-jekyll-github/#%F0%9F%8E%B9)
+- 08/10/2018 - 📄 [Jekyll workflow with Gulp](https://codegaze.github.io/2016/01/09/a-jekyll-workflow-with-gulp/)
 
 ### Hugo
 
