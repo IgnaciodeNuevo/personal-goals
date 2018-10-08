@@ -962,6 +962,7 @@ Personal goals made open source across computers I use.
 - 13/09/2018 - 🎥 [Code Review 🦊 SO MUCH LEARNING #6 Building an Online Business](https://www.youtube.com/watch?v=mqqIKGz6pXI)
 - 18/09/2018 - 🎥 [Introduccion a Service Workers y Push API](https://www.youtube.com/watch?v=JjryBKrZih4)
 - 05/10/2018 - 🎥 [ONE tip to INSTANTLY up your JavaScript function game!](https://www.youtube.com/watch?v=uce-Go9rMnY)
+- 08/10/2018 - 📄 [A Quick Guide To JavaScript Touch Events](http://www.thatsoftwaredude.com/content/8579/javascript-touch-events)
 
 ### JavaScript Patterns
 
