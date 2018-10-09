@@ -1061,6 +1061,7 @@ Personal goals made open source across computers I use.
 - 08/10/2018 - 📄 [Gulp, Jekyll and GitHub (pages)](https://www.chenhuijing.com/blog/gulp-jekyll-github/#%F0%9F%8E%B9)
 - 08/10/2018 - 📄 [Jekyll workflow with Gulp](https://codegaze.github.io/2016/01/09/a-jekyll-workflow-with-gulp/)
 - 09/10/2018 - 📄 [How I’m Using Jekyll in 2017](https://mademistakes.com/articles/using-jekyll-2017/)
+- 09/10/2018 - 📄 [Optimizing Jekyll Performance with Gulp](https://savaslabs.com/2016/10/19/optimizing-jekyll-with-gulp.html)
 
 ### Hugo
 
