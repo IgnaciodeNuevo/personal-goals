@@ -221,6 +221,7 @@ Personal goals made open source across computers I use.
 - 23/08/2017 - 📄 [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
 - 06/09/2017 - 📄 [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
 - 06/09/2017 - 📄 [Designing grids](https://zellwk.com/blog/designing-grids/)
+- 17/09/2017 - 😍 📄 [Sub-Pixel Problems in CSS](https://johnresig.com/blog/sub-pixel-problems-in-css/)
 - 17/09/2017 - 😍 📄 [12 Little-Known CSS Facts](https://www.sitepoint.com/12-little-known-css-facts/)
 - 02/10/2017 - 📄 [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/)
 - 11/10/2017 - 🎥 [Aspect Ratio Hack - Micro Tip #17 - Supercharged](https://www.youtube.com/watch?v=ht5oFxpADt4)
