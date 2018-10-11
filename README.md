@@ -268,6 +268,7 @@ Personal goals made open source across computers I use.
 - 12/08/2018 - 📄 [On Switching from HEX & RGB to HSL](https://www.sarasoueidan.com/blog/hex-rgb-to-hsl/)
 - 14/09/2018 - 📄 [Drop Caps in CSS Using first-letter & initial-letter](https://alligator.io/css/drop-caps/)
 - 21/09/2018 - 😍 🎥 [Box Alignment | CSS Day 2018](https://vimeo.com/289479045)
+- 11/10/2018 - 📄 [Stuff you can do with CSS pointer events](https://codepen.io/MartijnCuppens/full/MBjqbM/)
 
 ### CSS Units
 
