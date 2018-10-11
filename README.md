@@ -848,6 +848,7 @@ Personal goals made open source across computers I use.
 - 05/02/2018 - 😍 🎥 [#137 SVG is for Everybody](https://css-tricks.com/video-screencasts/137-svg-is-for-everybody/)
 - 11/03/2018 - 🎥 [SVG](https://www.youtube.com/watch?v=OpvtZQChZZY)
 - 16/08/2018 - 🎥 [SVG Filters - The Crash Course | CSS Day 2018](https://vimeo.com/283654933)
+- 11/10/2018 - 📄 [Managing SVG Interaction With The Pointer Events Property](https://www.smashingmagazine.com/2018/05/svg-interaction-pointer-events-property/)
 
 ### UX
 
