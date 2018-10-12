@@ -1151,6 +1151,7 @@ Personal goals made open source across computers I use.
 - 08/10/2018 - 📄 [La importancia de la honestidad durante el proceso de diseño](https://octuweb.com/la-importancia-de-la-honestidad-durante-el-proceso-de-diseno/)
 - 11/10/2018 - 📄 [Testing en el front](https://octuweb.com/testing-front/)
 - 11/10/2018 - 📄 [Observa cómo usan las personas tu producto digital: no hay mejor manera de aprender (si se hace bien)](https://octuweb.com/observa-como-usan-tu-producto-digital/)
+- 12/10/2018 - 📄 [VueJS para tod@s](https://octuweb.com/vuejs-para-todos/)
 
 ### Career
 
