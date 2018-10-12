@@ -851,6 +851,7 @@ Personal goals made open source across computers I use.
 - 11/03/2018 - 🎥 [SVG](https://www.youtube.com/watch?v=OpvtZQChZZY)
 - 16/08/2018 - 🎥 [SVG Filters - The Crash Course | CSS Day 2018](https://vimeo.com/283654933)
 - 11/10/2018 - 📄 [Managing SVG Interaction With The Pointer Events Property](https://www.smashingmagazine.com/2018/05/svg-interaction-pointer-events-property/)
+- 12/10/2018 - 📄 [The guide to integrating and styling icon systems — SVG sprites, SVG symbols and icon fonts](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-svg-sprites-svg-symbols-and-icon-fonts-da7c424dac1b)
 
 ### UX
 
