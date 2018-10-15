@@ -58,6 +58,7 @@ Personal goals made open source across computers I use.
 1. [Angular](#angular)
 1. [React](#react)
 1. [Vue](#vue)
+1. [GraphQL](#graphql)
 1. [Razor Pages](#razor-pages)
 1. [Git](#git)
 1. [Command Line](#command-line)
@@ -1024,6 +1025,10 @@ Personal goals made open source across computers I use.
 - 16/05/2018 - 📄 [Building a Modal Component with Vue.js](https://alligator.io/vuejs/vue-modal-component/)
 - 02/10/2018 - 📄 [Computed Properties and Watchers](https://vuejs.org/v2/guide/computed.html)
 - 08/10/2018 - 📄 [Handle Touch Events in Vue.js with vue-touch](https://alligator.io/vuejs/vue-touch-events/)
+
+### GraphQL
+
+- 15/10/2018 - 🎥 [Implementing and Using GraphQL at GitHub](https://www.youtube.com/watch?v=wPPFhcqGcvk)
 
 ### Razor Pages
 
