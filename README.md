@@ -1169,6 +1169,7 @@ Personal goals made open source across computers I use.
 - 11/10/2018 - 📄 [Observa cómo usan las personas tu producto digital: no hay mejor manera de aprender (si se hace bien)](https://octuweb.com/observa-como-usan-tu-producto-digital/)
 - 12/10/2018 - 📄 [VueJS para tod@s](https://octuweb.com/vuejs-para-todos/)
 - 15/10/2018 - 📄 [Cómo planificar un proyecto siendo freelance](https://octuweb.com/como-planificar-proyecto-siendo-freelance/)
+- 16/10/2018 - 📄 [Zero Config y Machine Learning aplicado al “bundling” de Web Apps](https://octuweb.com/zero-config-machine-learning-bundling-web-apps/)
 
 ### Career
 
