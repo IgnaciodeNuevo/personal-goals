@@ -630,6 +630,7 @@ Personal goals made open source across computers I use.
 - 30/09/2018 - 🎥 [Managing focus for accessibility](https://dev.to/robdodson/managing-focus-64l)
 - 07/10/2018 - 🎥 [Marcy Sutton on Accessibility Audit (Live)](https://vimeo.com/292467043)
 - 13/10/2018 - 🎥 [Peeling Back the Layers of Web Accessibility](https://www.youtube.com/watch?v=DxpDjdbK3XE)
+- 18/10/2018 - 📄 [Cómo diseñar una web o una app accesible](https://www.uifrommars.com/como-disenar-web-app-accesible/)
 
 ### Hilos Sego
 
