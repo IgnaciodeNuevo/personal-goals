@@ -774,6 +774,7 @@ Personal goals made open source across computers I use.
 - 06/10/2018 - 🎥 [Ana Cirujano: ¿Roboto, Comic Sans, Helvetica? ¿De verdad es importante elegir la tipografía para…](https://wordpress.tv/2018/06/03/ana-cirujano-roboto-comic-sans-helvetica-de-verdad-es-importante-elegir-la-tipografia-para/)
 - 06/10/2018 - 🎥 [Ana Cirujano: Tipografía responsive: maqueta textos para todos los dispositivos](https://wordpress.tv/2017/11/22/ana-cirujano-tipografia-responsive-maqueta-textos-para-todos-los-dispositivos/)
 - 06/10/2018 - 🎥 [Tipografía responsive: mejora el diseño de tu web. Ana Cirujano](https://wordpress.tv/2018/03/07/acirujano-meetup-madrid-tipografia-responsive-mejora-el-diseno-de-tu-web/)
+- 17/10/2018 - 😍 📄 [Rhythm in Web Typography](https://betterwebtype.com/rhythm-in-web-typography)
 
 ### Design Systems
 
