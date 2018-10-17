@@ -631,6 +631,7 @@ Personal goals made open source across computers I use.
 - 07/10/2018 - 🎥 [Marcy Sutton on Accessibility Audit (Live)](https://vimeo.com/292467043)
 - 13/10/2018 - 🎥 [Peeling Back the Layers of Web Accessibility](https://www.youtube.com/watch?v=DxpDjdbK3XE)
 - 18/10/2018 - 📄 [Cómo diseñar una web o una app accesible](https://www.uifrommars.com/como-disenar-web-app-accesible/)
+- 18/10/2018 - 😍 📄 [Page Scrolling in Mobile Safari & VoiceOver](https://marcysutton.com/page-scrolling-in-mobile-safari-voiceover/)
 
 ### Hilos Sego
 
