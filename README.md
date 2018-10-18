@@ -777,6 +777,7 @@ Personal goals made open source across computers I use.
 - 17/10/2018 - 😍 📄 [Rhythm in Web Typography](https://betterwebtype.com/rhythm-in-web-typography)
 - 17/10/2018 - 📄 [Better CSS Font Stacks](http://artequalswork.com/posts/better-css-font-stacks/)
 - 18/10/2018 - 📄 [Flexible typography with CSS locks](https://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/)
+- 18/10/2018 - 📄 [Creating a type style guide](https://blog.typekit.com/2014/10/22/creating-a-type-style-guide/)
 
 ### Design Systems
 
