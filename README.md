@@ -776,6 +776,7 @@ Personal goals made open source across computers I use.
 - 06/10/2018 - 🎥 [Tipografía responsive: mejora el diseño de tu web. Ana Cirujano](https://wordpress.tv/2018/03/07/acirujano-meetup-madrid-tipografia-responsive-mejora-el-diseno-de-tu-web/)
 - 17/10/2018 - 😍 📄 [Rhythm in Web Typography](https://betterwebtype.com/rhythm-in-web-typography)
 - 17/10/2018 - 📄 [Better CSS Font Stacks](http://artequalswork.com/posts/better-css-font-stacks/)
+- 18/10/2018 - 📄 [Flexible typography with CSS locks](https://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/)
 
 ### Design Systems
 
