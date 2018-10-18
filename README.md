@@ -1225,3 +1225,4 @@ Personal goals made open source across computers I use.
 - 11/03/2018 - 🎥 [Wonderwoman no era ingeniera | T3chFest 2018](https://www.youtube.com/watch?v=Jc-6OYvdXm0)
 - 11/03/2018 - 🎥 [Wubba lubba dub dub! | T3chFest 2018](https://www.youtube.com/watch?v=r6s-ntue7Eo)
 - 04/10/2018 - 🎥 [Meetup - Tips para tu primera charla técnica](https://www.youtube.com/watch?v=A7y7T0giv_0)
+- 18/10/2018 - 🎥 [Building Your Backend With Serverless Functions](https://www.youtube.com/watch?v=iZrzuUwm-9Y)
