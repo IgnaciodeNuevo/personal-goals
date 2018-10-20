@@ -271,6 +271,7 @@ Personal goals made open source across computers I use.
 - 14/09/2018 - 📄 [Drop Caps in CSS Using first-letter & initial-letter](https://alligator.io/css/drop-caps/)
 - 21/09/2018 - 😍 🎥 [Box Alignment | CSS Day 2018](https://vimeo.com/289479045)
 - 11/10/2018 - 📄 [Stuff you can do with CSS pointer events](https://codepen.io/MartijnCuppens/full/MBjqbM/)
+- 20/10/2018 - 📄 [When to use display:contents to improve semantics in your HTML](https://stuffandnonsense.co.uk/blog/when-to-use-display-contents-to-improve-semantics-in-your-html)
 
 ### CSS Units
 
