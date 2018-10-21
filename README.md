@@ -991,6 +991,7 @@ Personal goals made open source across computers I use.
 - 05/10/2018 - 🎥 [ONE tip to INSTANTLY up your JavaScript function game!](https://www.youtube.com/watch?v=uce-Go9rMnY)
 - 08/10/2018 - 📄 [A Quick Guide To JavaScript Touch Events](http://www.thatsoftwaredude.com/content/8579/javascript-touch-events)
 - 12/10/2018 - 🎥 [Jafar Husain: Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
+- 21/10/2018 - 🎥 [Our favourite ES2018 features](https://www.youtube.com/watch?v=JYz12w8hjfI)
 
 ### JavaScript Patterns
 
