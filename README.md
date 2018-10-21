@@ -569,6 +569,7 @@ Personal goals made open source across computers I use.
 - 13/10/2018 - 📄 [Imágenes responsive y WebP](https://jorgeatgu.com/blog/responsive-webp-gulp/)
 - 13/10/2018 - 📄 [Working with Gulp step by step](https://medium.com/@jontorrado/working-with-gulp-step-by-step-e0d5fe2d2f23)
 - 13/10/2018 - 😍 📄 [Working with Gulp (2)](https://medium.com/@jontorrado/working-with-gulp-2-19376bfdd077)
+- 21/10/2018 - 📄 [Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers](https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/)
 
 ### a11y
 
