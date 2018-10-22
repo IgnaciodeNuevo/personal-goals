@@ -1041,6 +1041,7 @@ Personal goals made open source across computers I use.
 - 16/05/2018 - 📄 [Building a Modal Component with Vue.js](https://alligator.io/vuejs/vue-modal-component/)
 - 02/10/2018 - 📄 [Computed Properties and Watchers](https://vuejs.org/v2/guide/computed.html)
 - 08/10/2018 - 📄 [Handle Touch Events in Vue.js with vue-touch](https://alligator.io/vuejs/vue-touch-events/)
+- 22/10/2018 - 📄 [Lazy Loading Images with Vue.js Directives and Intersection Observer])(https://css-tricks.com/lazy-loading-images-with-vue-js-directives-and-intersection-observer/)
 
 ### GraphQL
 
