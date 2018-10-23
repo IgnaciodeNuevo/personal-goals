@@ -274,6 +274,7 @@ Personal goals made open source across computers I use.
 - 20/10/2018 - 📄 [When to use display:contents to improve semantics in your HTML](https://stuffandnonsense.co.uk/blog/when-to-use-display-contents-to-improve-semantics-in-your-html)
 - 21/10/2018 - 📄 [Creating a simple form with Flexbox](https://zellwk.com/blog/simple-form-with-flexbox/)
 - 23/10/2018 - 📄 [Apply a Filter to a Background Image](https://css-tricks.com/apply-a-filter-to-a-background-image/)
+- 23/10/2018 - 📄 [CSS Border-Radius Can Do That?](https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae)
 
 ### CSS Units
 
