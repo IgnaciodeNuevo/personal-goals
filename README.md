@@ -856,6 +856,7 @@ Personal goals made open source across computers I use.
 - 01/10/2018 - 📄 [Mejora tu diseño UI utilizando retículas](http://www.uifrommars.com/mejora-tu-diseno-ui-utilizando-reticulas/)
 - 07/10/2018 - 🎥 [Eva-Lotta Lamm - on You can sketch. (You might just not know it yet.)](https://vimeo.com/292461456)
 - 08/10/2018 - 📄 [Icon design considerations for iPhone X (etc)](http://jontelang.com/blog/2018/09/27/Icon-design-considerations-for-iphone-x-etc.html)
+- 23/10/2018 - 📄 [A guide to the Golden Ratio for designers](https://www.invisionapp.com/inside-design/golden-ratio-designers)
 
 ### SVG
 
