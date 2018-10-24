@@ -578,6 +578,7 @@ Personal goals made open source across computers I use.
 -   24/10/2018 - 😍 📄 [Gulp 4: The new task execution system - gulp.parallel and gulp.series](https://fettblog.eu/gulp-4-parallel-and-series/)
 -   24/10/2018 - 🎥 [Intro to Gulp 4, Totally Tooling Tips (S3 Mini Tip #1)](https://www.youtube.com/watch?v=N42LQ2dLoA8)
 -   24/10/2018 - 📄 [How do I update to Gulp 4?](https://www.liquidlight.co.uk/blog/article/how-do-i-update-to-gulp-4/)
+-   24/10/2018 - 📄 [Getting Started with the Prettier Plugin for ESLint](https://cloudfour.com/thinks/getting-started-with-the-prettier-plugin-for-eslint/)
 
 ### a11y
 
