@@ -575,6 +575,7 @@ Personal goals made open source across computers I use.
 -   21/10/2018 - 📄 [Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers](https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/)
 -   24/10/2018 - 📄 [Migrating to gulp 4 by example](https://blog.wearewizards.io/migrating-to-gulp-4-by-example)
 -   24/10/2018 - 😍 📄 [Gulp 4: The new task execution system - gulp.parallel and gulp.series](https://fettblog.eu/gulp-4-parallel-and-series/)
+-   24/10/2018 - 🎥 [Intro to Gulp 4, Totally Tooling Tips (S3 Mini Tip #1)](https://www.youtube.com/watch?v=N42LQ2dLoA8)
 
 ### a11y
 
