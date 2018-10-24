@@ -42,6 +42,7 @@ Personal goals made open source across computers I use.
 1. [Sass](#sass)
 1. [Stylable](#stylable)
 1. [General Frontend](#general-frontend)
+1. [Task tools](#task-tools)
 1. [Hilos Sego](#hilos-sego)
 1. [Refactoring UI](#refactoring-ui)
 1. [a11y](#a11y)
@@ -96,10 +97,6 @@ Personal goals made open source across computers I use.
 -   🚀 Markdown
 -   🚀 YAML
 -   🚀 Liquid
--   21/10/2016 - 🚀 [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
--   26/10/2016 - 🚀 [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
--   03/11/2016 - 🚀 [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
--   1/03/207 - 🚀 JavaScript Jabber
 
 ### Books
 
@@ -543,7 +540,7 @@ Personal goals made open source across computers I use.
 
 ### General Frontend
 
--   25/12/2016 - 😍 🎥 [What Comes Next Is the Future (2016)](https://vimeo.com/177267839)
+-   25/12/2016 - 😍 🎥 [What Comes Next Is the Future 2016](https://vimeo.com/177267839)
 -   26/11/2017 - 🎥 [¿Qué es un Senior Developer? - LUIS G. VALLE](https://www.youtube.com/watch?v=Vp0mR0XUrGo)
 -   30/11/2017 - 🎥 [dotCSS 2014 - Harry Roberts - 10 Principles for effective Front-end Development](https://www.youtube.com/watch?v=CiMGKZpnHQE)
 -   30/11/2017 - 🎥 [EnhanceConf - Aaron Gustafson - Learn from the Past, Enhance for the Future](https://www.youtube.com/watch?v=0XCjjMsT3MM)
@@ -571,6 +568,10 @@ Personal goals made open source across computers I use.
 -   05/10/2018 - 🎥 [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
 -   13/10/2018 - 📄 [Base, iniciando proyectos desde cero](https://jorgeatgu.com/blog/iniciando-proyectos-con-base/)
 -   13/10/2018 - 📄 [Imágenes responsive y WebP](https://jorgeatgu.com/blog/responsive-webp-gulp/)
+
+### Task tools
+
+-   21/10/2016 - 🚀 [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
 -   13/10/2018 - 📄 [Working with Gulp step by step](https://medium.com/@jontorrado/working-with-gulp-step-by-step-e0d5fe2d2f23)
 -   13/10/2018 - 😍 📄 [Working with Gulp (2)](https://medium.com/@jontorrado/working-with-gulp-2-19376bfdd077)
 -   21/10/2018 - 📄 [Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers](https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/)
@@ -900,6 +901,8 @@ Personal goals made open source across computers I use.
 
 ### JavaScript
 
+-   26/10/2016 - 🎥 [Aprende JavaScript esencial en español](https://www.youtube.com/watch?v=FFPGrnr82oE&list=PLM-Y_YQmMEqAedHjvY3_v7EfGfFCHXYHv)
+-   03/11/2016 - 🎥 [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 -   15/11/2016 - 😍 🎥 [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 -   15/11/2016 - 🎥 [Emanuel Kluge - Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
 -   25/11/2016 - 🎥 [Addy Osmani - Object.observe](https://www.youtube.com/watch?v=mfOh-J-9BY0)
