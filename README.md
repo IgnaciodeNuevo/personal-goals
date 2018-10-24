@@ -574,6 +574,7 @@ Personal goals made open source across computers I use.
 -   13/10/2018 - 😍 📄 [Working with Gulp (2)](https://medium.com/@jontorrado/working-with-gulp-2-19376bfdd077)
 -   21/10/2018 - 📄 [Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers](https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/)
 -   24/10/2018 - 📄 [Migrating to gulp 4 by example](https://blog.wearewizards.io/migrating-to-gulp-4-by-example)
+-   24/10/2018 - 😍 📄 [Gulp 4: The new task execution system - gulp.parallel and gulp.series](https://fettblog.eu/gulp-4-parallel-and-series/)
 
 ### a11y
 
