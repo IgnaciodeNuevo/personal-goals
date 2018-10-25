@@ -997,6 +997,7 @@ Personal goals made open source across computers I use.
 - 08/10/2018 - 📄 [A Quick Guide To JavaScript Touch Events](http://www.thatsoftwaredude.com/content/8579/javascript-touch-events)
 - 12/10/2018 - 🎥 [Jafar Husain: Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
 - 21/10/2018 - 🎥 [Our favourite ES2018 features](https://www.youtube.com/watch?v=JYz12w8hjfI)
+- 25/10/2018 - 😍 📄 [NaN and typeof](https://javascriptrefined.io/nan-and-typeof-36cd6e2a4e43)
 
 ### JavaScript Patterns
 
