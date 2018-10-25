@@ -274,6 +274,7 @@ Personal goals made open source across computers I use.
 - 11/10/2018 - 📄 [Stuff you can do with CSS pointer events](https://codepen.io/MartijnCuppens/full/MBjqbM/)
 - 20/10/2018 - 📄 [When to use display:contents to improve semantics in your HTML](https://stuffandnonsense.co.uk/blog/when-to-use-display-contents-to-improve-semantics-in-your-html)
 - 21/10/2018 - 📄 [Creating a simple form with Flexbox](https://zellwk.com/blog/simple-form-with-flexbox/)
+- 25/10/2018 - 📄 [Use Cases For Flexbox](https://www.smashingmagazine.com/2018/10/flexbox-use-cases/)
 
 ### CSS Units
 
