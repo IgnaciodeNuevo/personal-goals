@@ -638,6 +638,7 @@ Personal goals made open source across computers I use.
 - 13/10/2018 - 🎥 [Peeling Back the Layers of Web Accessibility](https://www.youtube.com/watch?v=DxpDjdbK3XE)
 - 18/10/2018 - 📄 [Cómo diseñar una web o una app accesible](https://www.uifrommars.com/como-disenar-web-app-accesible/)
 - 18/10/2018 - 😍 📄 [Page Scrolling in Mobile Safari & VoiceOver](https://marcysutton.com/page-scrolling-in-mobile-safari-voiceover/)
+- 25/10/2018 - 😍 📄 [Customise radio buttons without compromising accessibility](https://www.chenhuijing.com/blog/customise-radios-without-compromising-accessibility/#%F0%9F%92%BB)
 
 ### Hilos Sego
 
