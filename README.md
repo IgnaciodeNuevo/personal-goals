@@ -511,6 +511,7 @@ Personal goals made open source across computers I use.
 -   30/11/2017 - 🎥 [dotCSS 2014 - Nicolas Gallagher - Thinking beyond “Scalable CSS”](https://www.youtube.com/watch?v=L8w3v9m6G04)
 -   03/03/2018 - 📄 [Patterns for writing manageable CSS without a framework](https://medium.com/kpcc-labs/patterns-for-writing-manageable-css-without-a-framework-109779743c41)
 -   26/03/2018 - 📄 [How to organize your CSS? Methodologies, style guides & architectures.](https://medium.com/ekino/how-to-organize-your-css-methodologies-style-guides-architectures-3447a5273071)
+-   26/10/2018 - 📄 [Keys to maintainable CSS: Order](https://pyx.space/post/keys-to-maintainable-css-order)
 
 ### Refactoring CSS
 
