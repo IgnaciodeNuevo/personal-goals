@@ -193,7 +193,7 @@ Personal goals made open source across computers I use.
 ### CSS
 
 -   01/11/2016 - 🎥 [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
--   03/11/2016 - 🎥 [Lessons Learned From Building Your Own CSS FrameworkN](https://www.youtube.com/watch?v=QOVNb-DzZdA&feature=youtu.be)
+-   03/11/2016 - 🎥 [Lessons Learned From Building Your Own CSS FrameworkN](https://www.youtube.com/watch?v=QOVNb-DzZdA)
 -   30/11/2016 - 🎥 [Lourdes Montano - Methods to Organize Your Learning Process in CSS - CascadiaFest 2016](https://www.youtube.com/watch?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe&v=IwMDKB27_ko)
 -   06/12/2016 - 🎥 [CSS Tips and Tricks #1 - CSS-only Christmas Lights](https://www.youtube.com/watch?v=B9OZkATMbag)
 -   02/12/2016 - 😍 ["Real Art Direction on the Web" - View Source Conference talk by Jen Simmons](https://www.youtube.com/watch?v=5Z7lSSMwRgo&index=12&list=PLo3w8EB99pqJBRZU8kUrtoznwE-yyT2Yh)
@@ -823,7 +823,7 @@ Personal goals made open source across computers I use.
 ### Design
 
 -   01/11/2016 - 🎥 [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
--   30/12/2016 - 😍 🎥 [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
+-   30/12/2016 - 😍 🎥 [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc)
 -   08/07/2017 - 📄 [Build a Style Guide Straight from Sass](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/)
 -   01/08/2017 - 📄 [Eight rules about color palettes that everyone should know](https://medium.springboard.com/a-designers-guide-to-selecting-colors-for-your-product-9944756838d4?mc_cid=abd76f7ad4)
 -   02/08/2017 - 📄 [Better grid systems in UI design tools](https://medium.com/subform/better-grid-systems-in-ui-design-tools-495dc35c5791)
@@ -1085,7 +1085,7 @@ Personal goals made open source across computers I use.
 
 ### Command Line
 
--   03/02/2018 - 📄 [To CLI or not to CLI, that is the question](https://www.youtube.com/watch?v=33uJPrrYRLI&feature=youtu.be)
+-   03/02/2018 - 📄 [To CLI or not to CLI, that is the question](https://www.youtube.com/watch?v=33uJPrrYRLI)
 
 ### DevTools
 
