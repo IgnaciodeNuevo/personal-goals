@@ -720,6 +720,7 @@ Personal goals made open source across computers I use.
 -   07/10/2018 - 🎥 [Live Perf audit by Harry Roberts](https://vimeo.com/292463696)
 -   10/10/2018 - 😍 📄 [Start Performance Budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3)
 -   12/10/2018 - 🎥 [Tim Kadlec on Performance Audit (Live)](https://vimeo.com/292482492)
+-   26/10/2018 - 📄 [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
 
 ### Typography
 
