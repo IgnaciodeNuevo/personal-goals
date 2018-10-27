@@ -801,6 +801,7 @@ Personal goals made open source across computers I use.
 -   18/10/2018 - 📄 [Creating a type style guide](https://blog.typekit.com/2014/10/22/creating-a-type-style-guide/)
 -   18/10/2018 - 📄 [Responsive Typography is a Physical Discipline, But Your Computer Doesn’t Know It (Yet)](https://alistapart.com/column/responsive-typography-is-a-physical-discipline)
 -   25/10/2018 - 📄 [Your Body Text Is Too Small](https://blog.marvelapp.com/body-text-small/)
+-   27/10/2018 - 📄 [Typographic Design Patterns And Current Practices (2013 Edition)](https://www.smashingmagazine.com/2013/05/typographic-design-patterns-practices-case-study-2013/)
 
 ### Design Systems
 
