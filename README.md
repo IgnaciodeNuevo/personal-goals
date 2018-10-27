@@ -906,6 +906,7 @@ Personal goals made open source across computers I use.
 -   07/02/2018 - 📄 [Use these top 10 tips when you design for forms](https://medium.com/@ChaymaeLougmani/use-these-top-10-tips-when-you-design-forms-d095d6e3ab8a)
 -   19/02/2018 - 📄 [Dropdown alternatives for better (mobile) forms](https://medium.com/@kollinz/dropdown-alternatives-for-better-mobile-forms-53e40d641b53)
 -   27/10/2018 - 😍 📄 [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 1)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/)
+-   27/10/2018 - 📄 [Creating meaningful micro-interactions](https://uxplanet.org/creating-meaningful-micro-interactions-99cbde1fbee7)
 
 ### JavaScript
 
