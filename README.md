@@ -905,7 +905,6 @@ Personal goals made open source across computers I use.
 -   02/02/2018 - 📄 [Best Practices for Modals / Overlays / Dialog Windows](https://heydesigner.com/blog/best-practices-modals-overlays-dialog-windows/)
 -   07/02/2018 - 📄 [Use these top 10 tips when you design for forms](https://medium.com/@ChaymaeLougmani/use-these-top-10-tips-when-you-design-forms-d095d6e3ab8a)
 -   19/02/2018 - 📄 [Dropdown alternatives for better (mobile) forms](https://medium.com/@kollinz/dropdown-alternatives-for-better-mobile-forms-53e40d641b53)
--   27/10/2018 - 📄 [El botón ha muerto. Larga vida al botón.](https://octuweb.com/el-boton-ha-muerto-larga-vida-al-boton/)
 
 ### JavaScript
 
@@ -1214,6 +1213,8 @@ Personal goals made open source across computers I use.
 -   12/10/2018 - 📄 [VueJS para tod@s](https://octuweb.com/vuejs-para-todos/)
 -   15/10/2018 - 📄 [Cómo planificar un proyecto siendo freelance](https://octuweb.com/como-planificar-proyecto-siendo-freelance/)
 -   16/10/2018 - 📄 [Zero Config y Machine Learning aplicado al “bundling” de Web Apps](https://octuweb.com/zero-config-machine-learning-bundling-web-apps/)
+-   27/10/2018 - 📄 [El botón ha muerto. Larga vida al botón.](https://octuweb.com/el-boton-ha-muerto-larga-vida-al-boton/)
+-   27/10/2018 - 📄 [CSS Grid Layout también es para niños](https://octuweb.com/css-grid-layout-tambien-para-ninos/)
 
 ### Career
 
