@@ -723,6 +723,7 @@ Personal goals made open source across computers I use.
 -   10/10/2018 - 😍 📄 [Start Performance Budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3)
 -   12/10/2018 - 🎥 [Tim Kadlec on Performance Audit (Live)](https://vimeo.com/292482492)
 -   26/10/2018 - 📄 [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
+-   29/10/2018 - 📄 [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing/)
 
 ### Typography
 
