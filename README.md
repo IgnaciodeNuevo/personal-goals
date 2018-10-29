@@ -176,6 +176,7 @@ Personal goals made open source across computers I use.
 -   03/10/2018 - 📄 [HTML5 articles and sections: what’s the difference?](https://www.brucelawson.co.uk/2010/html5-articles-and-sections-whats-the-difference/)
 -   19/10/2018 - 📄 [Unbuttoning Buttons](https://www.scottohara.me/blog/2018/10/03/unbutton-buttons.html)
 -   22/10/2018 - 📄 [https://www.viget.com/articles/the-dialog-element/](The dialog element)
+-   29/10/2018 - 📄 [You're using <em> wrong](https://logrocket.com/blog/youre-using-em-wrong)
 
 ### Cascade and Specificity
 
