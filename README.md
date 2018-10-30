@@ -278,6 +278,7 @@ Personal goals made open source across computers I use.
 -   25/10/2018 - 📄 [Use Cases For Flexbox](https://www.smashingmagazine.com/2018/10/flexbox-use-cases/)
 -   26/10/2018 - 📄 [Stacking Contexts: z-index](http://tellthemachines.com/stacking-contexts/)
 -   26/10/2018 - 📄 [Nested Links](https://css-tricks.com/nested-links/)
+-   30/10/2018 - 📄 [Nested Links Without Nesting Links ](https://www.sarasoueidan.com/blog/nested-links/)
 
 ### CSS Units
 
