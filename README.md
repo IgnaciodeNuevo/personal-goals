@@ -1071,6 +1071,7 @@ Personal goals made open source across computers I use.
 -   23/10/2018 - 🎥 [React vs Web Components?](https://www.youtube.com/watch?v=plt-iH_47GE)
 -   23/10/2018 - 📄 [How to set up Internationalization in React from start to finish](https://medium.freecodecamp.org/setting-up-internationalization-in-react-from-start-to-finish-6cb94a7af725)
 -   30/10/2018 - 📄 [Using Axios with React](https://alligator.io/react/axios-react/)
+-   30/10/2018 - 📄 [Create-React-App & Dotenv](https://medium.com/@danieljameskay/create-react-app-dotenv-281693a19ecd)
 
 ### Vue
 
