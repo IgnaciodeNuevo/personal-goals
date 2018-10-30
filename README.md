@@ -879,6 +879,7 @@ Personal goals made open source across computers I use.
 -   08/10/2018 - 📄 [Icon design considerations for iPhone X (etc)](http://jontelang.com/blog/2018/09/27/Icon-design-considerations-for-iphone-x-etc.html)
 -   25/10/2018 - 📄 [The Magic of Paper Prototyping](https://uxplanet.org/the-magic-of-paper-prototyping-51693eac6bc3)
 -   30/10/2018 - 😍 📄 [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+-   30/10/2018 - 📄 [Color Blindness in a Digital World](https://www.secretstache.com/blog/designing-for-color-blind-users/)
 
 ### SVG
 
