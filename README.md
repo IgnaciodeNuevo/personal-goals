@@ -655,6 +655,7 @@ Personal goals made open source across computers I use.
 -   18/10/2018 - 😍 📄 [Page Scrolling in Mobile Safari & VoiceOver](https://marcysutton.com/page-scrolling-in-mobile-safari-voiceover/)
 -   25/10/2018 - 😍 📄 [Customise radio buttons without compromising accessibility](https://www.chenhuijing.com/blog/customise-radios-without-compromising-accessibility/#%F0%9F%92%BB)
 -   30/10/2018 - 📄 [ARIA States](https://a11yproject.com/posts/ARIA-states/)
+-   30/10/2018 - 📄 [ARIA Properties](https://a11yproject.com/posts/ARIA-properties/)
 
 ### Hilos Sego
 
