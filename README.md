@@ -1064,14 +1064,15 @@ Personal goals made open source across computers I use.
 -   22/05/2017 - 🎥 [Create React App](https://www.youtube.com/watch?v=gbVhmaW04bc)
 -   22/05/2017 - 📄 [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
 -   22/05/2017 - 📄 [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/)
--   22/05/2017 - 😍 📄 [Leveling Up With React - React Router](https://css-tricks.com/learning-react-router/)
--   22/05/2017 - 😍 📄 [Leveling Up With React - Container Components](https://css-tricks.com/learning-react-container-components/)
--   23/05/2017 - 😍 📄 [Leveling Up with React - ReduX](https://css-tricks.com/learning-react-redux/)
+-   22/05/2017 - 📄 [Leveling Up With React - React Router](https://css-tricks.com/learning-react-router/)
+-   22/05/2017 - 📄 [Leveling Up With React - Container Components](https://css-tricks.com/learning-react-container-components/)
+-   23/05/2017 - 📄 [Leveling Up with React - ReduX](https://css-tricks.com/learning-react-redux/)
 -   15/01/2018 - 📄 [Fixing the callback hell of over-parenting with React](https://medium.com/@tornoe/fixing-the-callback-hell-of-over-parenting-with-react-1aa7801a6856)
 -   23/10/2018 - 🎥 [React vs Web Components?](https://www.youtube.com/watch?v=plt-iH_47GE)
 -   23/10/2018 - 📄 [How to set up Internationalization in React from start to finish](https://medium.freecodecamp.org/setting-up-internationalization-in-react-from-start-to-finish-6cb94a7af725)
 -   30/10/2018 - 📄 [Using Axios with React](https://alligator.io/react/axios-react/)
 -   30/10/2018 - 📄 [Create-React-App & Dotenv](https://medium.com/@danieljameskay/create-react-app-dotenv-281693a19ecd)
+-   30/10/2018 - 📄 [Create-react-app environments](https://medium.com/@tacomanator/environments-with-create-react-app-7b645312c09d)
 
 ### Vue
 
