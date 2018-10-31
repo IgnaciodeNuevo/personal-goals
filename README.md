@@ -280,6 +280,7 @@ Personal goals made open source across computers I use.
 -   26/10/2018 - 📄 [Nested Links](https://css-tricks.com/nested-links/)
 -   30/10/2018 - 📄 [Nested Links Without Nesting Links ](https://www.sarasoueidan.com/blog/nested-links/)
 -   30/10/2018 - 📄 [:empty and :blank](https://zellwk.com/blog/empty-and-blank/)
+-   31/10/2018 - 📄 [Concise Media Queries with CSS Grid](https://robots.thoughtbot.com/concise-media-queries-with-css-grid)
 
 ### CSS Units
 
