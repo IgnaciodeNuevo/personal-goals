@@ -1231,6 +1231,7 @@ Personal goals made open source across computers I use.
 -   16/10/2018 - 📄 [Zero Config y Machine Learning aplicado al “bundling” de Web Apps](https://octuweb.com/zero-config-machine-learning-bundling-web-apps/)
 -   27/10/2018 - 📄 [El botón ha muerto. Larga vida al botón.](https://octuweb.com/el-boton-ha-muerto-larga-vida-al-boton/)
 -   27/10/2018 - 📄 [CSS Grid Layout también es para niños](https://octuweb.com/css-grid-layout-tambien-para-ninos/)
+-   31/10/2018 - 📄 [Diseñador VS Programador: El club de la lucha](https://octuweb.com/disenador-vs-programador-el-club-de-la-lucha/)
 
 ### Career
 
