@@ -660,6 +660,7 @@ Personal goals made open source across computers I use.
 -   30/10/2018 - 📄 [ARIA States](https://a11yproject.com/posts/ARIA-states/)
 -   30/10/2018 - 📄 [ARIA Properties](https://a11yproject.com/posts/ARIA-properties/)
 -   31/10/2018 - 📄 [Describing aria-describedby](https://developer.paciellogroup.com/blog/2018/09/describing-aria-describedby/)
+-   01/11/2018 - 📄 [Designing Accessible Content: Typography, Font Styling, and Structure](https://webdesign.tutsplus.com/articles/designing-accessible-content-typography-font-styling-and-structure--cms-31934)
 
 ### Hilos Sego
 
