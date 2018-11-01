@@ -282,7 +282,8 @@ Personal goals made open source across computers I use.
 -   30/10/2018 - 📄 [Nested Links Without Nesting Links ](https://www.sarasoueidan.com/blog/nested-links/)
 -   30/10/2018 - 📄 [:empty and :blank](https://zellwk.com/blog/empty-and-blank/)
 -   31/10/2018 - 📄 [Concise Media Queries with CSS Grid](https://robots.thoughtbot.com/concise-media-queries-with-css-grid)
--   31/10/2018 - 📄 [Text Experiments with CSS](https://www.youtube.com/watch?v=5qgUC_z8syw)
+-   01/10/2018 - 🎥 [Text Experiments with CSS](https://www.youtube.com/watch?v=5qgUC_z8syw)
+-   01/10/2018 - 🎥 [Be like water Applying Bruce Lee's philosophy to web design](https://www.youtube.com/watch?v=QoZOJ_5ZIwc)
 
 ### CSS Units
 
@@ -736,7 +737,7 @@ Personal goals made open source across computers I use.
 -   26/10/2018 - 📄 [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
 -   29/10/2018 - 📄 [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing/)
 -   29/10/2018 - 📄 [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/)
--   01/11/2018 - 📄 [A Tale of Performance & User Experience](https://www.youtube.com/watch?v=qDzoxjgoPLc&)
+-   01/11/2018 - 🎥 [A Tale of Performance & User Experience](https://www.youtube.com/watch?v=qDzoxjgoPLc&)
 
 ### Typography
 
