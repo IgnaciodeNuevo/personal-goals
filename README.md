@@ -814,6 +814,7 @@ Personal goals made open source across computers I use.
 -   25/10/2018 - 📄 [Your Body Text Is Too Small](https://blog.marvelapp.com/body-text-small/)
 -   27/10/2018 - 📄 [Typographic Design Patterns And Current Practices (2013 Edition)](https://www.smashingmagazine.com/2013/05/typographic-design-patterns-practices-case-study-2013/)
 -   01/11/2018 - 📄 [Implementing a variable font with fallback web fonts](https://www.zeichenschatz.net/typografie/implementing-a-variable-font-with-fallback-web-fonts.html)
+-   01/11/2018 - 📄 [Subset Numerals so They’re as Awesome as the Rest of Your Content](https://css-tricks.com/subset-numerals-so-theyre-as-awesome-as-the-rest-of-your-content/)
 
 ### Design Systems
 
