@@ -465,6 +465,7 @@ Personal goals made open source across computers I use.
 -   01/10/2018 - 📄 [Create your design system, part 6/6: Buttons](https://medium.com/codyhouse/create-your-design-system-part-6-buttons-58e2eda2173e)
 -   07/10/2018 - 🎥 [Rachel Andrew on Pattern Library First: An Approach For Managing CSS](https://vimeo.com/292470224)
 -   13/10/2018 - 📄 [Let’s make multi-colored icons with SVG symbols and CSS variables](https://medium.freecodecamp.org/lets-make-your-svg-symbol-icons-multi-colored-with-css-variables-cddd1769fca4)
+-   02/11/2018 - 🎥 [Building Inclusive Experiences with CSS and SVG](https://vimeo.com/296790813)
 
 ### CSS Architecture and Naming
 
