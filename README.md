@@ -1085,6 +1085,7 @@ Personal goals made open source across computers I use.
 -   30/10/2018 - 📄 [Create-React-App & Dotenv](https://medium.com/@danieljameskay/create-react-app-dotenv-281693a19ecd)
 -   30/10/2018 - 📄 [Create-react-app environments](https://medium.com/@tacomanator/environments-with-create-react-app-7b645312c09d)
 -   02/11/2018 - 📄 [Getting to know React DOM’s event handling system inside out](https://medium.com/the-guild/getting-to-know-react-doms-event-handling-system-inside-out-378c44d2a5d0)
+-   02/11/2018 - 📄 [FAQ State](https://reactjs.org/docs/faq-state.html)
 
 ### Vue
 
