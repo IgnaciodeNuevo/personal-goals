@@ -1303,3 +1303,4 @@ Personal goals made open source across computers I use.
 -   04/10/2018 - 🎥 [Meetup - Tips para tu primera charla técnica](https://www.youtube.com/watch?v=A7y7T0giv_0)
 -   18/10/2018 - 🎥 [Building Your Backend With Serverless Functions](https://www.youtube.com/watch?v=iZrzuUwm-9Y)
 -   22/10/2018 - 🎥 [El programador lingüista](https://www.youtube.com/watch?v=MN-j4kDpcRI)
+-   02/11/2018 - 🎥 [Masterclass: Http protocol](https://www.youtube.com/watch?v=VMtcVuokhuQ)
