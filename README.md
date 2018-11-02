@@ -1041,6 +1041,7 @@ Personal goals made open source across computers I use.
 -   26/10/2018 - 📄 [How to Write Accessible JavaScript](https://medium.com/dailyjs/4-javascript-techniques-for-building-accessible-web-interfaces-348f820c157f)
 -   29/10/2018 - 🎥 [The State of JavaScript - The State of the Web](https://www.youtube.com/watch?v=i5R7giitymk)
 -   31/10/2018 - 📄 [Debouncing your JavaScript events](https://gomakethings.com/debouncing-your-javascript-events/)
+-   02/11/2018 - 😍 🎥 [What is THIS in JavaScript?](https://www.youtube.com/watch?v=iM0ah0Sa-P8)
 
 ### JavaScript Patterns
 
