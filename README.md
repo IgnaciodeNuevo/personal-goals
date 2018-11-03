@@ -582,6 +582,7 @@ Personal goals made open source across computers I use.
 -   05/10/2018 - 🎥 [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
 -   13/10/2018 - 📄 [Base, iniciando proyectos desde cero](https://jorgeatgu.com/blog/iniciando-proyectos-con-base/)
 -   13/10/2018 - 📄 [Imágenes responsive y WebP](https://jorgeatgu.com/blog/responsive-webp-gulp/)
+-   03/11/2018 - 📄 [Designing Progressive Web Apps](https://vimeo.com/296793040)
 
 ### Task tools
 
