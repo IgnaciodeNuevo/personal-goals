@@ -282,9 +282,10 @@ Personal goals made open source across computers I use.
 -   30/10/2018 - 📄 [Nested Links Without Nesting Links ](https://www.sarasoueidan.com/blog/nested-links/)
 -   30/10/2018 - 📄 [:empty and :blank](https://zellwk.com/blog/empty-and-blank/)
 -   31/10/2018 - 📄 [Concise Media Queries with CSS Grid](https://robots.thoughtbot.com/concise-media-queries-with-css-grid)
--   01/10/2018 - 🎥 [Text Experiments with CSS](https://www.youtube.com/watch?v=5qgUC_z8syw)
--   01/10/2018 - 🎥 [Be like water Applying Bruce Lee's philosophy to web design](https://www.youtube.com/watch?v=QoZOJ_5ZIwc)
--   02/10/2018 - 🎥 [Layouts & Beyond](https://www.youtube.com/watch?v=9fTUeLsR2Hc)
+-   01/11/2018 - 🎥 [Text Experiments with CSS](https://www.youtube.com/watch?v=5qgUC_z8syw)
+-   01/11/2018 - 🎥 [Be like water Applying Bruce Lee's philosophy to web design](https://www.youtube.com/watch?v=QoZOJ_5ZIwc)
+-   02/11/2018 - 🎥 [Layouts & Beyond](https://www.youtube.com/watch?v=9fTUeLsR2Hc)
+-   03/11/2018 - 🎥 [Smashing Case Study](https://vimeo.com/223433196)
 
 ### CSS Units
 
