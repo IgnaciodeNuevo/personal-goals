@@ -43,6 +43,7 @@ Personal goals made open source across computers I use.
 1. [Stylable](#stylable)
 1. [General Frontend](#general-frontend)
 1. [Task tools](#task-tools)
+1. [!Important Show](!important-show)
 1. [Hilos Sego](#hilos-sego)
 1. [Refactoring UI](#refactoring-ui)
 1. [a11y](#a11y)
@@ -420,7 +421,6 @@ Personal goals made open source across computers I use.
 -   29/05/2018 - 😍 🎥 [CSS Grid Eliminates Margin Collapsing?!?](https://www.youtube.com/watch?v=jfHNzL5h1Aw)
 -   13/09/2018 - 🎥 [“Designing with Grid” by Jen Simmons – An Event Apart Denver 2017](https://www.youtube.com/watch?v=t0b3uBoDkBs)
 -   21/09/2018 - 📄 [Will we be flattening our HTML for CSS Grids?](https://css-tricks.com/will-flattening-html-css-grids/)
--   04/11/2018 - 📄 [How basecamp.com uses CSS Grid](https://xotv.me/channels/22-important/vod_videos/1205-important-slash-slash-basecamp-dot-com-css-grid)
 
 ### Multi Column Layout
 
@@ -671,6 +671,11 @@ Personal goals made open source across computers I use.
 -   31/10/2018 - 📄 [Describing aria-describedby](https://developer.paciellogroup.com/blog/2018/09/describing-aria-describedby/)
 -   01/11/2018 - 📄 [Designing Accessible Content: Typography, Font Styling, and Structure](https://webdesign.tutsplus.com/articles/designing-accessible-content-typography-font-styling-and-structure--cms-31934)
 -   01/11/2018 - 📄 [Accessible Breadcrumb Navigation Pattern](https://scottaohara.github.io/a11y_breadcrumbs/)
+
+### !Important Show
+
+-   04/11/2018 - 🎥 [Case study: basecamp.com](https://xotv.me/channels/22-important/vod_videos/1205-important-slash-slash-basecamp-dot-com-css-grid)
+-   04/11/2018 - 🎥 [Case study: gridtoflex.com](https://xotv.me/channels/22-important/vod_videos/1136-important-slash-slash-gridtoflex-dot-com)
 
 ### Hilos Sego
 
