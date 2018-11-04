@@ -420,6 +420,7 @@ Personal goals made open source across computers I use.
 -   29/05/2018 - 😍 🎥 [CSS Grid Eliminates Margin Collapsing?!?](https://www.youtube.com/watch?v=jfHNzL5h1Aw)
 -   13/09/2018 - 🎥 [“Designing with Grid” by Jen Simmons – An Event Apart Denver 2017](https://www.youtube.com/watch?v=t0b3uBoDkBs)
 -   21/09/2018 - 📄 [Will we be flattening our HTML for CSS Grids?](https://css-tricks.com/will-flattening-html-css-grids/)
+-   04/11/2018 - 📄 [How basecamp.com uses CSS Grid](https://xotv.me/channels/22-important/vod_videos/1205-important-slash-slash-basecamp-dot-com-css-grid)
 
 ### Multi Column Layout
 
