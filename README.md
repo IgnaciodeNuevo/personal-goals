@@ -851,6 +851,7 @@ Personal goals made open source across computers I use.
 -   30/09/2018 - 😍 📄 [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 -   19/10/2018 - 😍 📄 [Dealing with Dependencies Inside Design Systems](https://medium.com/eightshapes-llc/dealing-with-dependencies-inside-design-systems-aa6ce2cf7bc3)
 -   19/10/2018 - 🎥 [What's in a name? How Design Systems lead to better terminology decisions](https://www.youtube.com/watch?v=YKMvxMqABIk)
+-   05/11/2018 - 📄 [Building a Visual Language - Behind the scenes of our new design system](https://airbnb.design/building-a-visual-language/)
 
 ### Design
 
