@@ -473,6 +473,7 @@ Personal goals made open source across computers I use.
 -   02/11/2018 - 🎥 [4½ Methods for Theming in (S)CSS](https://www.youtube.com/watch?v=oy1IUEwosL0)
 -   05/11/2018 - 📄 [Pragmatic, Practical, and Progressive Theming with Custom Properties](https://csswizardry.com/2016/10/pragmatic-practical-progressive-theming-with-custom-properties/)
 -   05/11/2018 - 📄 [CSS Custom Properties and Theming](https://css-tricks.com/css-custom-properties-theming/)
+-   05/11/2018 - 📄 [Control CSS loading with custom properties](https://jakearchibald.com/2016/css-loading-with-custom-props/)
 
 ### CSS Architecture and Naming
 
