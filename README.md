@@ -471,6 +471,7 @@ Personal goals made open source across computers I use.
 -   13/10/2018 - 📄 [Let’s make multi-colored icons with SVG symbols and CSS variables](https://medium.freecodecamp.org/lets-make-your-svg-symbol-icons-multi-colored-with-css-variables-cddd1769fca4)
 -   02/11/2018 - 🎥 [Building Inclusive Experiences with CSS and SVG](https://vimeo.com/296790813)
 -   02/11/2018 - 🎥 [4½ Methods for Theming in (S)CSS](https://www.youtube.com/watch?v=oy1IUEwosL0)
+-   05/11/2018 - 📄  [Pragmatic, Practical, and Progressive Theming with Custom Properties](https://csswizardry.com/2016/10/pragmatic-practical-progressive-theming-with-custom-properties/)
 
 ### CSS Architecture and Naming
 
