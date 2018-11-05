@@ -287,6 +287,7 @@ Personal goals made open source across computers I use.
 -   01/11/2018 - 🎥 [Be like water Applying Bruce Lee's philosophy to web design](https://www.youtube.com/watch?v=QoZOJ_5ZIwc)
 -   02/11/2018 - 🎥 [Layouts & Beyond](https://www.youtube.com/watch?v=9fTUeLsR2Hc)
 -   03/11/2018 - 🎥 [Smashing Case Study](https://vimeo.com/223433196)
+-   05/11/2018 - 📄 [Understanding Logical Properties And Values](https://www.smashingmagazine.com/2018/03/understanding-logical-properties-values/)
 
 ### CSS Units
 
