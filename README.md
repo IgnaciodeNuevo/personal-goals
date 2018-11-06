@@ -532,6 +532,7 @@ Personal goals made open source across computers I use.
 -   03/03/2018 - 📄 [Patterns for writing manageable CSS without a framework](https://medium.com/kpcc-labs/patterns-for-writing-manageable-css-without-a-framework-109779743c41)
 -   26/03/2018 - 📄 [How to organize your CSS? Methodologies, style guides & architectures.](https://medium.com/ekino/how-to-organize-your-css-methodologies-style-guides-architectures-3447a5273071)
 -   26/10/2018 - 📄 [Keys to maintainable CSS: Order](https://pyx.space/post/keys-to-maintainable-css-order)
+-   06/11/2018 - 📄 [In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css)
 
 ### Refactoring CSS
 
