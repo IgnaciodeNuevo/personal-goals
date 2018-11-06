@@ -758,6 +758,7 @@ Personal goals made open source across computers I use.
 -   01/11/2018 - 🎥 [A Tale of Performance & User Experience](https://www.youtube.com/watch?v=qDzoxjgoPLc&)
 -   03/11/2018 - 🎥 [The Long Tail of Performance](https://vimeo.com/296791460)
 -   06/11/2018 - 📄 [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+-   06/11/2018 - 📄 [The different shades of Progressive Web Apps](https://medium.com/@jmperezperez/the-different-shades-of-progressive-web-apps-d516f6213cc0)
 
 ### Typography
 
