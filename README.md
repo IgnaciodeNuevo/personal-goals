@@ -476,6 +476,7 @@ Personal goals made open source across computers I use.
 -   05/11/2018 - 📄 [CSS Custom Properties and Theming](https://css-tricks.com/css-custom-properties-theming/)
 -   05/11/2018 - 📄 [Control CSS loading with custom properties](https://jakearchibald.com/2016/css-loading-with-custom-props/)
 -   05/11/2018 - 😍 📄 [A Strategy Guide To CSS Custom Properties](https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/)
+-   06/11/2018 - 📄 [Bridging CSS and JS with Custom Properties](https://sgom.es/posts/2017-02-10-bridging-css-and-js-with-custom-properties/)
 
 ### CSS Architecture and Naming
 
