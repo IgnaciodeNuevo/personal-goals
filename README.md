@@ -757,6 +757,7 @@ Personal goals made open source across computers I use.
 -   29/10/2018 - 📄 [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/)
 -   01/11/2018 - 🎥 [A Tale of Performance & User Experience](https://www.youtube.com/watch?v=qDzoxjgoPLc&)
 -   03/11/2018 - 🎥 [The Long Tail of Performance](https://vimeo.com/296791460)
+-   06/11/2018 - 📄 [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 
 ### Typography
 
