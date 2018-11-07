@@ -481,6 +481,7 @@ Personal goals made open source across computers I use.
 -   06/11/2018 - 📄 [Unlocking the Benefits of CSS Variables](https://jonathan-harrell.com/unlocking-benefits-css-variables/)
 -   06/11/2018 - 📄 [Using CSS variables correctly](https://www.madebymike.com.au/writing/using-css-variables/)
 -   07/11/2018 - 📄 [Advanced CSS Theming with Custom Properties and JavaScript](https://www.sitepoint.com/css-theming-custom-properties-javascript/)
+-   07/11/2018 - 📄 [Redesigning your product and website for dark mode](https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode)
 
 ### CSS Architecture and Naming
 
