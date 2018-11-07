@@ -480,6 +480,7 @@ Personal goals made open source across computers I use.
 -   06/11/2018 - 📄 [Bridging CSS and JS with Custom Properties](https://sgom.es/posts/2017-02-10-bridging-css-and-js-with-custom-properties/)
 -   06/11/2018 - 📄 [Unlocking the Benefits of CSS Variables](https://jonathan-harrell.com/unlocking-benefits-css-variables/)
 -   06/11/2018 - 📄 [Using CSS variables correctly](https://www.madebymike.com.au/writing/using-css-variables/)
+-   07/11/2018 - 📄 [Advanced CSS Theming with Custom Properties and JavaScript](https://www.sitepoint.com/css-theming-custom-properties-javascript/)
 
 ### CSS Architecture and Naming
 
