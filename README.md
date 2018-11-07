@@ -288,6 +288,7 @@ Personal goals made open source across computers I use.
 -   02/11/2018 - 🎥 [Layouts & Beyond](https://www.youtube.com/watch?v=9fTUeLsR2Hc)
 -   03/11/2018 - 🎥 [Smashing Case Study](https://vimeo.com/223433196)
 -   05/11/2018 - 📄 [Understanding Logical Properties And Values](https://www.smashingmagazine.com/2018/03/understanding-logical-properties-values/)
+-   07/11/2018 - 📄 [Styling better focus states](https://nelo.is/writing/styling-better-focus-states/?)
 
 ### CSS Units
 
