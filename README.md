@@ -1115,6 +1115,7 @@ Personal goals made open source across computers I use.
 -   02/11/2018 - 📄 [FAQ State](https://reactjs.org/docs/faq-state.html)
 -   02/11/2018 - 😍 📄 [props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
 -   02/11/2018 - 😍 📄 [ReactJS: Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)
+-   07/11/2018 - 📄 [Clean Code vs. Dirty Code: React Best Practices](https://americanexpress.io/clean-code-dirty-code/)
 
 ### Vue
 
