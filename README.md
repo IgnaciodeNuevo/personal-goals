@@ -453,6 +453,7 @@ Personal goals made open source across computers I use.
 -   17/10/2018 - 🎥 [How to make an awesome text reveal effect with just CSS!](https://www.youtube.com/watch?v=NahTzBgDkTA)
 -   04/11/2018 - 🎥 [githubuniverse.com animations audit](https://xotv.me/channels/22-important/vod_videos/1171-important-slash-slash-githubuniverse-dot-com)
 -   07/11/2018 - 🎥 [Creating a circular reveal animation with JavaScript and CSS!](https://www.youtube.com/watch?v=YdvQPkJd0gc)
+-   08/11/2018 - 📄 [Improve your motion](https://medium.com/@elcferreira/improve-your-motion-2ae6475641ca)
 
 ### Custom Properties
 
