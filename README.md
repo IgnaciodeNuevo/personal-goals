@@ -289,6 +289,7 @@ Personal goals made open source across computers I use.
 -   03/11/2018 - 🎥 [Smashing Case Study](https://vimeo.com/223433196)
 -   05/11/2018 - 📄 [Understanding Logical Properties And Values](https://www.smashingmagazine.com/2018/03/understanding-logical-properties-values/)
 -   07/11/2018 - 📄 [Styling better focus states](https://nelo.is/writing/styling-better-focus-states/?)
+-   08/11/2018 - 📄 [Sticky, Smooth, Active Nav](https://css-tricks.com/sticky-smooth-active-nav/)
 
 ### CSS Units
 
