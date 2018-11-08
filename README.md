@@ -600,6 +600,7 @@ Personal goals made open source across computers I use.
 -   13/10/2018 - 📄 [Base, iniciando proyectos desde cero](https://jorgeatgu.com/blog/iniciando-proyectos-con-base/)
 -   13/10/2018 - 📄 [Imágenes responsive y WebP](https://jorgeatgu.com/blog/responsive-webp-gulp/)
 -   03/11/2018 - 📄 [Designing Progressive Web Apps](https://vimeo.com/296793040)
+-   08/11/2018 - 📄 [Refactoring an inherited codebase](https://www.chenhuijing.com/blog/refactoring-an-inherited-codebase/#%F0%9F%91%BE)
 
 ### Task tools
 
@@ -867,7 +868,7 @@ Personal goals made open source across computers I use.
 -   19/10/2018 - 😍 📄 [Dealing with Dependencies Inside Design Systems](https://medium.com/eightshapes-llc/dealing-with-dependencies-inside-design-systems-aa6ce2cf7bc3)
 -   19/10/2018 - 🎥 [What's in a name? How Design Systems lead to better terminology decisions](https://www.youtube.com/watch?v=YKMvxMqABIk)
 -   05/11/2018 - 📄 [Building a Visual Language - Behind the scenes of our new design system](https://airbnb.design/building-a-visual-language/)
--   08/11/2018 - 📄 [Build your design system like the pros](https://www.invisionapp.com/design-system-manager/expert-advice)
+-   08/11/2018 - 🎥 [Build your design system like the pros](https://www.invisionapp.com/design-system-manager/expert-advice)
 
 ### Design
 
