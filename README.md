@@ -305,6 +305,7 @@ Personal goals made open source across computers I use.
 
 -   27/05/2017 - 😍 📄 [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 -   28/05/2017 - 📄 [Cascading Web Design with Feature Queries](https://24ways.org/2017/cascading-web-design/)
+-   08/11/2018 - 📄 [Using Feature Detection to Write CSS with Cross-Browser Support](https://css-tricks.com/using-feature-detection-to-write-css-with-cross-browser-support/)
 
 ### Container Queries
 
