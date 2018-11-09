@@ -455,6 +455,7 @@ Personal goals made open source across computers I use.
 -   07/11/2018 - 🎥 [Creating a circular reveal animation with JavaScript and CSS!](https://www.youtube.com/watch?v=YdvQPkJd0gc)
 -   08/11/2018 - 📄 [Improve your motion](https://medium.com/@elcferreira/improve-your-motion-2ae6475641ca)
 -   08/11/2018 - 😍 📄 [60fps animations and hacks](https://librosweb.es/tutorial/como-mejorar-el-rendimiento-de-las-animaciones-con-css/)
+-   09/11/2018 - 📄 [On translate3d and layer creation hacks](https://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/)
 
 ### Custom Properties
 
