@@ -774,6 +774,7 @@ Personal goals made open source across computers I use.
 -   06/11/2018 - 📄 [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 -   06/11/2018 - 📄 [The different shades of Progressive Web Apps](https://medium.com/@jmperezperez/the-different-shades-of-progressive-web-apps-d516f6213cc0)
 -   09/11/2018 - 🎥 [The Applied Science of Runtime Performance](https://www.youtube.com/watch?v=RCFQu0hK6bU)
+-   09/11/2018 - 🎥 [UI Elements at 60fps](https://www.youtube.com/watch?v=ZqdNgn5Huqk)
 
 ### Typography
 
