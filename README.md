@@ -1083,6 +1083,7 @@ Personal goals made open source across computers I use.
 -   31/10/2018 - 📄 [Debouncing your JavaScript events](https://gomakethings.com/debouncing-your-javascript-events/)
 -   02/11/2018 - 😍 🎥 [What is THIS in JavaScript?](https://www.youtube.com/watch?v=iM0ah0Sa-P8)
 -   06/11/2018 - 😍 🎥 [How good are class arrow functions in JavaScript?](https://www.youtube.com/watch?v=uCuTQYf80FU)
+-   09/11/2018 - 📄 [Determining Service Worker Support for your Site](https://deanhume.com/determining-service-worker-support/)
 
 ### JavaScript Patterns
 
