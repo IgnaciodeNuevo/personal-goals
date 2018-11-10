@@ -427,6 +427,7 @@ Personal goals made open source across computers I use.
 -   13/09/2018 - 🎥 [“Designing with Grid” by Jen Simmons – An Event Apart Denver 2017](https://www.youtube.com/watch?v=t0b3uBoDkBs)
 -   21/09/2018 - 📄 [Will we be flattening our HTML for CSS Grids?](https://css-tricks.com/will-flattening-html-css-grids/)
 -   07/11/2018 - 📄 [CSS Grid Level 2: Here Comes Subgrid](https://www.smashingmagazine.com/2018/07/css-grid-2/)
+-   10/11/2018 - 📄 [Changes on CSS Grid Layout in percentages and indefinite height](https://blogs.igalia.com/mrego/2018/08/10/changes-on-css-grid-layout-in-percentages-and-indefinite-height/)
 
 ### Multi Column Layout
 
