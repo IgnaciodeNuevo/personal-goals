@@ -782,6 +782,7 @@ Personal goals made open source across computers I use.
 -   09/11/2018 - 🎥 [Mobile Web performance auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM)
 -   10/11/2018 - 🎥 [High performance web user interfaces](https://www.youtube.com/watch?v=thNyy5eYfbc)
 -   10/11/2018 - 🎥 [Performance Signup in React & Transactional Apps with Redux](https://www.youtube.com/watch?v=V8oTJ8OZ5S0)
+-   10/11/2018 - 🎥 [Browser painting and considerations for web performance](https://css-tricks.com/browser-painting-and-considerations-for-web-performance/)
 
 ### Typography
 
