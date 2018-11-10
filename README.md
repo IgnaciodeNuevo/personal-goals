@@ -779,6 +779,7 @@ Personal goals made open source across computers I use.
 -   09/11/2018 - 🎥 [The Applied Science of Runtime Performance](https://www.youtube.com/watch?v=RCFQu0hK6bU)
 -   09/11/2018 - 🎥 [UI Elements at 60fps](https://www.youtube.com/watch?v=ZqdNgn5Huqk)
 -   09/11/2018 - 🎥 [Mobile Web performance auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM)
+-   10/11/2018 - 🎥 [High performance web user interfaces](https://www.youtube.com/watch?v=thNyy5eYfbc)
 
 ### Typography
 
