@@ -460,6 +460,7 @@ Personal goals made open source across computers I use.
 -   09/11/2018 - 📄 [On translate3d and layer creation hacks](https://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/)
 -   09/11/2018 - 📄 [Increase Your Site’s Performance with Hardware-Accelerated CSS](https://blog.teamtreehouse.com/increase-your-sites-performance-with-hardware-accelerated-css)
 -   11/11/2018 - 📄 [Make your animations perform well](https://www.youtube.com/watch?v=wQ-jn1KYUkQ)
+-   11/11/2018 - 🎥 [Vanilla JS Graphics and Animations](https://www.youtube.com/watch?v=BYztulUzY4k)
 
 ### Custom Properties
 
