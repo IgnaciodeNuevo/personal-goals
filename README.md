@@ -1311,6 +1311,7 @@ Personal goals made open source across computers I use.
 
 -   26/10/2017 - 🎥 [Being A Developer After 40 (App Builders Switzerland 2016)](https://www.youtube.com/watch?v=GQx_beRMHVg)
 -   22/10/2018 - 📄 [How I'm dealing with Imposter Syndrome and Stress](https://dev.to/helenanders26/how-im-dealing-with-imposter-syndrome-and-stress-4fdm)
+-   11/11/2017 - 🎥 [The big fails theory](https://www.youtube.com/watch?v=u4j5U8ldrcI)
 
 ### Documentation
 
