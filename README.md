@@ -8,7 +8,7 @@ Personal goals made open source across computers I use.
 
 ## Legend
 
-1. 😍 _MUST_ Read (📄) / Watch (🎥) / Listen (🎼)
+1. 😍 _MUST_ (Appreciation completely subjective at the time of consuming the content, perhaps later I would change my mind). Read (📄) / Watch (🎥) / Listen (🎼)
 1. 📚 Study!
 1. 📕 Book
 1. 💡 Project
@@ -1098,6 +1098,7 @@ Personal goals made open source across computers I use.
 -   09/11/2018 - 📄 [Determining Service Worker Support for your Site](https://deanhume.com/determining-service-worker-support/)
 -   11/11/2018 - 🎥 [Mastering UIs with Finite State Machines](https://www.youtube.com/watch?v=rltGBd_tMks)
 -   11/11/2018 - 🎥 [¿Cómo funciona un Virtual DOM?](https://www.youtube.com/watch?v=yFE4iWkrI2Y)
+-   12/11/2018 - 🎥 [The Cost Of JavaScript 2018](https://www.youtube.com/watch?v=63I-mEuSvGA)
 
 ### JavaScript Patterns
 
