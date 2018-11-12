@@ -701,6 +701,7 @@ Personal goals made open source across computers I use.
 -   01/11/2018 - 📄 [Accessible Breadcrumb Navigation Pattern](https://scottaohara.github.io/a11y_breadcrumbs/)
 -   08/11/2018 - 📄 [Supporting users who change colours on GOV.UK](https://accessibility.blog.gov.uk/2018/08/01/supporting-users-who-change-colours-on-gov-uk/)
 -   12/11/2018 - 📄 [The Web Accessibility Introduction I Wish I Had](https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope)
+-   12/11/2018 - 📄 [LGBTQ-inclusive web design](https://axesslab.com/lgbtq-inclusive-web-design/)
 
 ### !Important Show
 
