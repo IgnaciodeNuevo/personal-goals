@@ -551,6 +551,7 @@ Personal goals made open source across computers I use.
 -   26/03/2018 - 📄 [How to organize your CSS? Methodologies, style guides & architectures.](https://medium.com/ekino/how-to-organize-your-css-methodologies-style-guides-architectures-3447a5273071)
 -   26/10/2018 - 📄 [Keys to maintainable CSS: Order](https://pyx.space/post/keys-to-maintainable-css-order)
 -   06/11/2018 - 📄 [In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css)
+-   12/11/2018 - 📄 [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/)
 
 ### Refactoring CSS
 
