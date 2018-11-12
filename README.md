@@ -698,6 +698,7 @@ Personal goals made open source across computers I use.
 -   01/11/2018 - 📄 [Designing Accessible Content: Typography, Font Styling, and Structure](https://webdesign.tutsplus.com/articles/designing-accessible-content-typography-font-styling-and-structure--cms-31934)
 -   01/11/2018 - 📄 [Accessible Breadcrumb Navigation Pattern](https://scottaohara.github.io/a11y_breadcrumbs/)
 -   08/11/2018 - 📄 [Supporting users who change colours on GOV.UK](https://accessibility.blog.gov.uk/2018/08/01/supporting-users-who-change-colours-on-gov-uk/)
+-   12/11/2018 - 📄 [The Web Accessibility Introduction I Wish I Had](https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope)
 
 ### !Important Show
 
