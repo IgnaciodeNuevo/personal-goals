@@ -970,6 +970,7 @@ Personal goals made open source across computers I use.
 -   11/10/2018 - 📄 [Managing SVG Interaction With The Pointer Events Property](https://www.smashingmagazine.com/2018/05/svg-interaction-pointer-events-property/)
 -   12/10/2018 - 📄 [The guide to integrating and styling icon systems — SVG sprites, SVG symbols and icon fonts](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-svg-sprites-svg-symbols-and-icon-fonts-da7c424dac1b)
 -   13/10/2018 - 📄 [The guide to integrating and styling icon systems — inline SVG and icon components](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-inline-svg-and-icon-components-9ed234419166)
+-   13/11/2018 - 📄 [abc to SVG](https://css-tricks.com/abc-to-svg/)
 
 ### UX
 
