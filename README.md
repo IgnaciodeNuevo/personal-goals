@@ -958,6 +958,7 @@ Personal goals made open source across computers I use.
 -   25/10/2018 - 📄 [The Magic of Paper Prototyping](https://uxplanet.org/the-magic-of-paper-prototyping-51693eac6bc3)
 -   30/10/2018 - 😍 📄 [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 -   30/10/2018 - 📄 [Color Blindness in a Digital World](https://www.secretstache.com/blog/designing-for-color-blind-users/)
+-   14/11/2018 - 📄 [The 8-Point Grid](https://spec.fm/specifics/8-pt-grid)
 
 ### SVG
 
