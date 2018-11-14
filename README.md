@@ -706,6 +706,7 @@ Personal goals made open source across computers I use.
 -   12/11/2018 - 📄 [LGBTQ-inclusive web design](https://axesslab.com/lgbtq-inclusive-web-design/)
 -   13/11/2018 - 📄 [Implementing a reduced-motion mode](https://hugogiraudel.com/2018/03/19/implementing-a-reduced-motion-mode/)
 -   13/11/2018 - 📄 [On Designing and Building Toggle Switches](https://www.sarasoueidan.com/blog/toggle-switch-design/)
+-   14/11/2018 - 📄 [I Used The Web For A Day With Just A Keyboard](https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/)
 
 ### !Important Show
 
