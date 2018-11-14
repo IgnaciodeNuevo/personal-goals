@@ -463,6 +463,7 @@ Personal goals made open source across computers I use.
 -   09/11/2018 - 📄 [Increase Your Site’s Performance with Hardware-Accelerated CSS](https://blog.teamtreehouse.com/increase-your-sites-performance-with-hardware-accelerated-css)
 -   11/11/2018 - 📄 [Make your animations perform well](https://www.youtube.com/watch?v=wQ-jn1KYUkQ)
 -   11/11/2018 - 🎥 [Vanilla JS Graphics and Animations](https://www.youtube.com/watch?v=BYztulUzY4k)
+-   14/11/2018 - 📄 [Getting those saucy UI animations for mobile and web](https://uxdesign.cc/getting-those-saucy-ui-animations-for-mobile-web-40ceff492e60)
 
 ### Custom Properties
 
