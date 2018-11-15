@@ -433,6 +433,7 @@ Personal goals made open source across computers I use.
 -   10/11/2018 - 📄 [Changes on CSS Grid Layout in percentages and indefinite height](https://blogs.igalia.com/mrego/2018/08/10/changes-on-css-grid-layout-in-percentages-and-indefinite-height/)
 -   15/11/2018 - 🎥 [CSS Grid Changes EVERYTHING](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 -   15/11/2018 - 📄 [CSS Grid Crash Course](https://codeburst.io/css-grid-crash-course-9b13dfaaa43a)
+-   15/11/2018 - 📄 [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
 
 ### Multi Column Layout
 
