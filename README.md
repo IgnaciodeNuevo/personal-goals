@@ -1114,6 +1114,7 @@ Personal goals made open source across computers I use.
 -   11/11/2018 - 🎥 [Mastering UIs with Finite State Machines](https://www.youtube.com/watch?v=rltGBd_tMks)
 -   11/11/2018 - 🎥 [¿Cómo funciona un Virtual DOM?](https://www.youtube.com/watch?v=yFE4iWkrI2Y)
 -   12/11/2018 - 🎥 [The Cost Of JavaScript 2018](https://www.youtube.com/watch?v=63I-mEuSvGA)
+-   15/11/2018 - 😍 📄 [A Bunch of Options for Looping Over querySelectorAll NodeLists](https://css-tricks.com/a-bunch-of-options-for-looping-over-queryselectorall-nodelists)
 
 ### JavaScript Patterns
 
