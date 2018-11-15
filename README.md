@@ -192,6 +192,7 @@ Personal goals made open source across computers I use.
 -   13/11/2017 - 😍 📄 [Hacks for dealing with specificity](https://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/)
 -   29/12/2017 - 😍 📄 [Link Specificity](https://meyerweb.com/eric/css/link-specificity.html)
 -   12/01/2018 - 📄 [The latest ways to deal with the cascade, inheritance and specificity](https://css-tricks.com/latest-ways-deal-cascade-inheritance-specificity/)
+-   15/11/2018 - 📄 [The “C” in CSS: The Cascade](https://css-tricks.com/the-c-in-css-the-cascade/)
 
 ### CSS
 
