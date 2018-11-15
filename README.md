@@ -432,6 +432,7 @@ Personal goals made open source across computers I use.
 -   07/11/2018 - 📄 [CSS Grid Level 2: Here Comes Subgrid](https://www.smashingmagazine.com/2018/07/css-grid-2/)
 -   10/11/2018 - 📄 [Changes on CSS Grid Layout in percentages and indefinite height](https://blogs.igalia.com/mrego/2018/08/10/changes-on-css-grid-layout-in-percentages-and-indefinite-height/)
 -   15/11/2018 - 🎥 [CSS Grid Changes EVERYTHING](https://www.youtube.com/watch?v=7kVeCqQCxlk)
+-   15/11/2018 - 📄 [CSS Grid Crash Course](https://codeburst.io/css-grid-crash-course-9b13dfaaa43a)
 
 ### Multi Column Layout
 
