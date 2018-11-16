@@ -802,6 +802,7 @@ Personal goals made open source across computers I use.
 -   10/11/2018 - 🎥 [Performance Signup in React & Transactional Apps with Redux](https://www.youtube.com/watch?v=V8oTJ8OZ5S0)
 -   10/11/2018 - 🎥 [Browser painting and considerations for web performance](https://css-tricks.com/browser-painting-and-considerations-for-web-performance/)
 -   11/11/2018 - 🎥 [Front performance](https://www.youtube.com/watch?v=Lw1H9Owj2Mo)
+-   16/11/2018 - 😍 📄 [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 
 ### Typography
 
