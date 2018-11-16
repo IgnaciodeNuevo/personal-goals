@@ -502,6 +502,7 @@ Personal goals made open source across computers I use.
 -   07/11/2018 - 📄 [Advanced CSS Theming with Custom Properties and JavaScript](https://www.sitepoint.com/css-theming-custom-properties-javascript/)
 -   07/11/2018 - 📄 [Redesigning your product and website for dark mode](https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode)
 -   15/11/2018 - 📄 [CSS dark mode](http://markdotto.com/2018/11/05/css-dark-mode/)
+-   16/11/2018 - 📄 [Spacings and CSS Custom properties](https://voices.basedesign.com/spacings-and-css-custom-properties-bdae00eaf3f1)
 
 ### CSS Architecture and Naming
 
