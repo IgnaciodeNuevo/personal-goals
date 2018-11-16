@@ -1172,6 +1172,7 @@ Personal goals made open source across computers I use.
 -   07/11/2018 - 📄 [Clean Code vs. Dirty Code: React Best Practices](https://americanexpress.io/clean-code-dirty-code/)
 -   07/11/2018 - 📄 [Understanding React Render Props and HOC](https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196)
 -   14/11/2018 - 📄 [Categorizing Components Into Smart & Dumb Components](https://alligator.io/react/smart-dumb-components/)
+-   16/11/2018 - 📄 [Introducing the Single Element Pattern](https://medium.freecodecamp.org/introducing-the-single-element-pattern-dfbd2c295c5d)
 
 ### Vue
 
