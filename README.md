@@ -504,6 +504,7 @@ Personal goals made open source across computers I use.
 -   07/11/2018 - 📄 [Redesigning your product and website for dark mode](https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode)
 -   15/11/2018 - 📄 [CSS dark mode](http://markdotto.com/2018/11/05/css-dark-mode/)
 -   16/11/2018 - 📄 [Spacings and CSS Custom properties](https://voices.basedesign.com/spacings-and-css-custom-properties-bdae00eaf3f1)
+-   17/11/2018 - 📄 [Practical tips for working with CSS variables](https://css-irl.info/practical-tips-css-variables/)
 
 ### CSS Architecture and Naming
 
