@@ -716,6 +716,7 @@ Personal goals made open source across computers I use.
 -   13/11/2018 - 📄 [On Designing and Building Toggle Switches](https://www.sarasoueidan.com/blog/toggle-switch-design/)
 -   14/11/2018 - 📄 [I Used The Web For A Day With Just A Keyboard](https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/)
 -   16/11/2018 - 😍 📄 [The current state of modal dialog accessibility](https://developer.paciellogroup.com/blog/2018/06/the-current-state-of-modal-dialog-accessibility/)
+-   17/11/2018 - 📄 [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 
 ### !Important Show
 
