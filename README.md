@@ -293,6 +293,7 @@ Personal goals made open source across computers I use.
 -   07/11/2018 - 📄 [Styling better focus states](https://nelo.is/writing/styling-better-focus-states/?)
 -   08/11/2018 - 📄 [Sticky, Smooth, Active Nav](https://css-tricks.com/sticky-smooth-active-nav/)
 -   10/11/2018 - 🎥 [Teaching CSS to a Coder 🙀 (How to Lazy Load Images)](https://www.youtube.com/watch?v=a-74Zy9EfMQ)
+-   17/11/2018 - 📄 [Level up your CSS selector skills](https://blog.logrocket.com/level-up-your-css-selector-skills-5d7bb45ddd37)
 
 ### CSS Units
 
