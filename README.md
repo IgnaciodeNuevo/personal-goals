@@ -324,6 +324,7 @@ Personal goals made open source across computers I use.
 -   02/11/2016 - 😍 🎥 [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
 -   09/10/2017 - 📄 [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
 -   17/11/2018 - 📄 [Image Inconsistencies: How and When Browsers Download Images](https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/)
+-   24/11/2018 - 📄 [Why and how to use WebP images today](https://bitsofco.de/why-and-how-to-use-webp-images-today/)
 
 ### Flexbox
 
