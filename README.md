@@ -475,7 +475,7 @@ Personal goals made open source across computers I use.
 -   11/11/2018 - 📄 [Make your animations perform well](https://www.youtube.com/watch?v=wQ-jn1KYUkQ)
 -   11/11/2018 - 🎥 [Vanilla JS Graphics and Animations](https://www.youtube.com/watch?v=BYztulUzY4k)
 -   14/11/2018 - 📄 [Getting those saucy UI animations for mobile and web](https://uxdesign.cc/getting-those-saucy-ui-animations-for-mobile-web-40ceff492e60)
--   24/11/2018 - 😍 📄 [A Comparison of Animation Technologies]https://css-tricks.com/comparison-animation-technologies/)
+-   24/11/2018 - 😍 📄 [A Comparison of Animation Technologies](https://css-tricks.com/comparison-animation-technologies/)
 
 ### Custom Properties
 
