@@ -194,6 +194,7 @@ Personal goals made open source across computers I use.
 -   12/01/2018 - 📄 [The latest ways to deal with the cascade, inheritance and specificity](https://css-tricks.com/latest-ways-deal-cascade-inheritance-specificity/)
 -   15/11/2018 - 📄 [The “C” in CSS: The Cascade](https://css-tricks.com/the-c-in-css-the-cascade/)
 -   16/11/2018 - 📄 [Optimizing CSS: ID Selectors and Other Myths](https://www.sitepoint.com/optimizing-css-id-selectors-and-other-myths/)
+-   24/11/2018 - 📄 [How CSS works: Understanding the cascade](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8)
 
 ### CSS
 
@@ -293,7 +294,7 @@ Personal goals made open source across computers I use.
 -   07/11/2018 - 📄 [Styling better focus states](https://nelo.is/writing/styling-better-focus-states/?)
 -   08/11/2018 - 📄 [Sticky, Smooth, Active Nav](https://css-tricks.com/sticky-smooth-active-nav/)
 -   10/11/2018 - 🎥 [Teaching CSS to a Coder 🙀 (How to Lazy Load Images)](https://www.youtube.com/watch?v=a-74Zy9EfMQ)
--   17/11/2018 - 📄 [Level up your CSS selector skills](https://blog.logrocket.com/level-up-your-css-selector-skills-5d7bb45ddd37)
+-   17/11/2018 - 😍 📄 [Level up your CSS selector skills](https://blog.logrocket.com/level-up-your-css-selector-skills-5d7bb45ddd37)
 -   24/11/2018 - 😍 📄 [Hardcore CSS calc( )](https://medium.com/buildit/hardcore-css-calc-bdfb0162993c)
 
 ### CSS Units
