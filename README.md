@@ -1271,7 +1271,8 @@ Personal goals made open source across computers I use.
 -   11/03/2018 - 🎥 [Testing práctico con JavaScript - Ramón Guijarro](https://www.youtube.com/watch?v=DCPpDw_HfgI)
 -   04/06/2018 - 🎥 [Robert C. Martin - Advanced TDD: The Transformation Priority Premise](https://vimeo.com/97516288)
 -   22/10/2018 - 😍 📄 [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
--   24/11/2018 - 😍 📄 [Revisiting Testing](https://docs.google.com/presentation/d/1uvFRiw_7Yd5qelblqgnNuQ-D6w9mRDUK7aml6dXFNCA/edit#slide=id.p)
+-   24/11/2018 - 📄 [Revisiting Testing](https://docs.google.com/presentation/d/1uvFRiw_7Yd5qelblqgnNuQ-D6w9mRDUK7aml6dXFNCA/edit#slide=id.p)
+-   24/11/2018 - 📄 [Testing React with Jest and Enzyme I](https://medium.com/codeclan/testing-react-with-jest-and-enzyme-20505fec4675)
 
 ### Linting
 
