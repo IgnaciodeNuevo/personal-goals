@@ -898,6 +898,7 @@ Personal goals made open source across computers I use.
 -   10/11/2018 - 📄 [Variable Fonts and Dynamic Typography with CSS](https://www.youtube.com/watch?v=ftdGfntMiMQ)
 -   13/11/2018 - 📄 [Tips for balancing web fonts and page load](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
 -   14/11/2018 - 📄 [Upcoming changes to the CSS you need for variable fonts](http://clagnut.com/blog/2391/)
+-   24/11/2018 - 📄 [The Five Whys of Web Font Loading Performance](https://www.youtube.com/watch?v=FbguhX3n3Uc)
 
 ### Design Systems
 
