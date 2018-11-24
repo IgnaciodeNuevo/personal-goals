@@ -728,6 +728,7 @@ Personal goals made open source across computers I use.
 -   16/11/2018 - 😍 📄 [The current state of modal dialog accessibility](https://developer.paciellogroup.com/blog/2018/06/the-current-state-of-modal-dialog-accessibility/)
 -   17/11/2018 - 📄 [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 -   24/11/2018 - 😍 📄 [ARIA Landmarks](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/aria-landmarks/)
+-   24/11/2018 - 📄 [Accessible CSS-Only Floating Labels](https://medium.com/@eugeniolujambio/accessible-css-only-floating-labels-74bf9173bc5f)
 
 ### !Important Show
 
