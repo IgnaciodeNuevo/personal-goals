@@ -1281,6 +1281,7 @@ Personal goals made open source across computers I use.
 -   22/10/2018 - 😍 📄 [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 -   24/11/2018 - 📄 [Revisiting Testing](https://docs.google.com/presentation/d/1uvFRiw_7Yd5qelblqgnNuQ-D6w9mRDUK7aml6dXFNCA/edit#slide=id.p)
 -   24/11/2018 - 📄 [Testing React with Jest and Enzyme I](https://medium.com/codeclan/testing-react-with-jest-and-enzyme-20505fec4675)
+-   24/11/2018 - 😍 📄 [How and Why We Unit Test Our Sass](https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass)
 
 ### Linting
 
