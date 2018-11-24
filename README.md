@@ -1139,6 +1139,7 @@ Personal goals made open source across computers I use.
 -   15/11/2018 - 😍 📄 [A Bunch of Options for Looping Over querySelectorAll NodeLists](https://css-tricks.com/a-bunch-of-options-for-looping-over-queryselectorall-nodelists)
 -   24/11/2018 - 📄 [JavaScript async patterns quick guide](https://www.imaginarycloud.com/blog/asynch-javascript-patterns-guide/)
 -   24/11/2018 - 📄 [You might not need a loop](https://bitsofco.de/you-might-not-need-a-loop/)
+-   24/11/2018 - 📄 [Best Practices for Using Modern JavaScript Syntax](https://www.sitepoint.com/modern-javascript-best-practices/)
 
 ### JavaScript Patterns
 
