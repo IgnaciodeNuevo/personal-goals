@@ -180,6 +180,7 @@ Personal goals made open source across computers I use.
 -   22/10/2018 - 📄 [The dialog element](https://www.viget.com/articles/the-dialog-element/)
 -   29/10/2018 - 📄 [You're using `<em>` wrong](https://logrocket.com/blog/youre-using-em-wrong)
 -   31/10/2018 - 📄 [The details and summary elements](https://www.scottohara.me/blog/2018/09/03/details-and-summary.html)
+-   25/11/2018 - 📄 [Security and Performance Benefit from the rel=”noopener”](https://pineco.de/security-and-performance-benefit-from-the-rel-noopener/)
 
 ### Cascade and Specificity
 
@@ -1161,7 +1162,6 @@ Personal goals made open source across computers I use.
 ### JavaScript Security
 
 -   12/01/2018 - 📄 [The Spectre Attack and Critical CSS](https://www.filamentgroup.com/lab/spectre-js-cookie.html)
-
 
 ### Workers
 
