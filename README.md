@@ -835,6 +835,7 @@ Personal goals made open source across computers I use.
 -   15/05/2018 - 📄 [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
 -   25/11/2018 - 📄 [How CSS works: Parsing & painting CSS in the critical rendering path](https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3)
 -   25/11/2018 - 📄 [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
+-   25/11/2018 - 🎥 [Critical CSS + Fail](https://www.youtube.com/watch?v=Ay2uty18TFA)
 
 ### Typography
 
