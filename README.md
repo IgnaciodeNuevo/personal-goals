@@ -1261,6 +1261,7 @@ Personal goals made open source across computers I use.
 
 -   25/02/2018 - 🎥 [JavaScript Engine Internals for JavaScript Developers](https://vimeo.com/254852822)
 -   12/11/2018 - 📄 [Browser painting and considerations for web performance](https://css-tricks.com/browser-painting-and-considerations-for-web-performance/)
+-   25/11/2018 - 📄 [How JavaScript works: the rendering engine and tips to optimize its performance](https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda)
 
 ### Jekyll
 
