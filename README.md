@@ -322,6 +322,7 @@ Personal goals made open source across computers I use.
 -   06/09/2017 - 📄 [Element Queries: the Future of Responsive Web Design](https://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
 -   12/01/2018 - 🎥 [dotCSS 2017 - Jonathan Snook - Container Queries](https://www.youtube.com/watch?v=s1J4T1NW3qo)
 -   12/01/2018 - 📄 [Thoughts on a Syntax for Element Queries](https://codepen.io/tomhodgins/post/thoughts-on-a-syntax-for-element-queries)
+-   25/11/2018 - 📄 [Responsive Components: a Solution to the Container Queries Problem](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/)
 
 ### Responsive Images
 
