@@ -1163,6 +1163,7 @@ Personal goals made open source across computers I use.
 ### JavaScript Patterns
 
 -   02/10/2018 - 📄 [JavaScript Design Patterns: The Observer Pattern](https://www.sitepoint.com/javascript-design-patterns-observer-pattern/)
+-   25/11/2018 - 😍 📄 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 
 ### JavaScript Security
 
