@@ -517,6 +517,7 @@ Personal goals made open source across computers I use.
 -   16/11/2018 - 📄 [Spacings and CSS Custom properties](https://voices.basedesign.com/spacings-and-css-custom-properties-bdae00eaf3f1)
 -   17/11/2018 - 📄 [Practical tips for working with CSS variables](https://css-irl.info/practical-tips-css-variables/)
 -   24/11/2018 - 📄 [Difference between currentColor & Custom Properties](https://www.madebymike.com.au/writing/currentcolor-and-custom-properties/)
+-   25/11/2018 - 📄 [Contextual styling with custom properties](http://simurai.com/blog/2018/04/01/contextual-styling)
 
 ### CSS Architecture and Naming
 
