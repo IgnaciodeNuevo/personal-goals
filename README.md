@@ -1151,6 +1151,7 @@ Personal goals made open source across computers I use.
 -   24/11/2018 - 📄 [You might not need a loop](https://bitsofco.de/you-might-not-need-a-loop/)
 -   24/11/2018 - 📄 [Best Practices for Using Modern JavaScript Syntax](https://www.sitepoint.com/modern-javascript-best-practices/)
 -   24/11/2018 - 😍 📄 [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
+-   25/11/2018 - 📄 [Traversing the DOM with JavaScript](https://zellwk.com/blog/dom-traversals/)
 
 ### JavaScript Patterns
 
