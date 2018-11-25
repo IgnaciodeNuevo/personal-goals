@@ -56,6 +56,7 @@ Personal goals made open source across computers I use.
 1. [JavaScript](#javascript)
 1. [JavaScript Patterns](#javascript-patterns)
 1. [JavaScript Security](#javascript-security)
+1. [Critical Path](#critical-path)
 1. [Workers](#workers)
 1. [TypeScript](#typescript)
 1. [Angular](#angular)
@@ -641,7 +642,6 @@ Personal goals made open source across computers I use.
 -   08/11/2018 - 📄 [Refactoring an inherited codebase](https://www.chenhuijing.com/blog/refactoring-an-inherited-codebase/#%F0%9F%91%BE)
 -   11/11/2018 - 🎥 [Creando las aplicaciones del futuro hoy](https://www.youtube.com/watch?v=UBwZBS-_iAM)
 -   17/11/2018 - 📄 [Your Brain on Front-End Development](https://css-tricks.com/your-brain-on-front-end-development/)
--   25/11/2018 - 📄 [How CSS works: Parsing & painting CSS in the critical rendering path](https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3)
 
 ### Task tools
 
@@ -802,9 +802,7 @@ Personal goals made open source across computers I use.
 -   11/04/2018 - 🎥 [Optimización de imágenes para la web](https://www.youtube.com/watch?v=-Qn68izRs_A) - [Slides](https://slides.com/joanleon/image-optimization/#/)
 -   15/05/2018 - 📄 [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
 -   15/05/2018 - 📄 [Optimizing Content Efficiency](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/)
--   15/05/2018 - 📄 [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
 -   15/05/2018 - 📄 [Render-Blocking Resources](https://developers.google.com/web/tools/lighthouse/audits/blocking-resources)
--   15/05/2018 - 📄 [Render Blocking CSS](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css)
 -   15/05/2018 - 📄 [Taking A Look At The State Of Progressive Images And User Perception](https://www.smashingmagazine.com/2018/02/progressive-image-loading-user-perceived-performance/)
 -   15/05/2018 - 📄 [Progressive jpegs: a new best practice](https://calendar.perfplanet.com/2012/progressive-jpegs-a-new-best-practice/)
 -   18/05/2018 - 🎥 [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
@@ -852,7 +850,6 @@ Personal goals made open source across computers I use.
 -   23/08/2017 - 📄 [A Responsive Guide to Type Sizing](https://cloudfour.com/thinks/responsive-guide-to-type-sizing/)
 -   23/08/2017 - 📄 [AtoZ CSS Quick Tip - Benefits of rem and em Values](https://www.sitepoint.com/atoz-css-quick-tip-rem-em-values/)
 -   23/08/2017 - 📄 [Fluid Type on Blogs](https://blog.codepen.io/2016/10/31/fluid-type-blogs/)
--   23/08/2017 - 📄 [Optimización de fuentes web](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization#webfonts_and_the_critical_rendering_path)
 -   23/08/2017 - 😍 📄 [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html)
 -   23/08/2017 - 📄 [Lazy loading web fonts is probably not what you want](https://www.zachleat.com/web/lazy-loading-webfonts/)
 -   25/08/2017 - 📄 [Critial Web Fonts](https://www.zachleat.com/web/critical-webfonts/)
@@ -1162,6 +1159,14 @@ Personal goals made open source across computers I use.
 ### JavaScript Security
 
 -   12/01/2018 - 📄 [The Spectre Attack and Critical CSS](https://www.filamentgroup.com/lab/spectre-js-cookie.html)
+
+### Critical Path
+
+-   23/08/2017 - 📄 [Optimización de fuentes web](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization#webfonts_and_the_critical_rendering_path)
+-   15/05/2018 - 📄 [Render Blocking CSS](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css)
+-   15/05/2018 - 📄 [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+-   25/11/2018 - 📄 [How CSS works: Parsing & painting CSS in the critical rendering path](https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3)
+-   25/11/2018 - 📄 [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
 
 ### Workers
 
