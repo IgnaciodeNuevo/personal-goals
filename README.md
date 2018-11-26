@@ -1392,6 +1392,7 @@ Personal goals made open source across computers I use.
 -   22/10/2018 - 📄 [How I'm dealing with Imposter Syndrome and Stress](https://dev.to/helenanders26/how-im-dealing-with-imposter-syndrome-and-stress-4fdm)
 -   11/11/2017 - 🎥 [The big fails theory](https://www.youtube.com/watch?v=u4j5U8ldrcI)
 -   24/11/2017 - 📄 [Notas para orientación profesional como programador](https://gist.github.com/gimenete/7307756d0c0986d0aebe29b41b5ef6aa)
+-   26/11/2017 - 😍 📄 [How To Craft The Perfect Web Developer Ré­su­mé](https://www.smashingmagazine.com/2018/06/web-developer-resume/)
 
 ### Documentation
 
