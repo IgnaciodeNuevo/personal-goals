@@ -182,6 +182,7 @@ Personal goals made open source across computers I use.
 -   29/10/2018 - 📄 [You're using `<em>` wrong](https://logrocket.com/blog/youre-using-em-wrong)
 -   31/10/2018 - 📄 [The details and summary elements](https://www.scottohara.me/blog/2018/09/03/details-and-summary.html)
 -   25/11/2018 - 📄 [Security and Performance Benefit from the rel=”noopener”](https://pineco.de/security-and-performance-benefit-from-the-rel-noopener/)
+-   27/11/2018 - 📄 [Native Lazy Loading on the Web](https://www.youtube.com/watch?v=x-BUe68grtY)
 
 ### Cascade and Specificity
 
