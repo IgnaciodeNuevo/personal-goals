@@ -1442,3 +1442,4 @@ Personal goals made open source across computers I use.
 -   18/10/2018 - 🎥 [Building Your Backend With Serverless Functions](https://www.youtube.com/watch?v=iZrzuUwm-9Y)
 -   22/10/2018 - 🎥 [El programador lingüista](https://www.youtube.com/watch?v=MN-j4kDpcRI)
 -   02/11/2018 - 🎥 [Masterclass: Http protocol](https://www.youtube.com/watch?v=VMtcVuokhuQ)
+-   27/11/2018 - 🎥 [Acercándonos a la programación funcional a través de la arquitectura hexagonal](https://www.youtube.com/watch?v=H8j3Vjhn2Xg)
