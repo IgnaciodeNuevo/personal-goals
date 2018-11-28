@@ -1251,6 +1251,7 @@ Personal goals made open source across computers I use.
 -   24/09/2017 - 📄 [When to make a Git Commit](https://dev.to/gonedark/when-to-make-a-git-commit)
 -   18/02/2018 - 📄 [How I Use Git](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
 -   23/02/2018 - 📄 [Comprobando tu CSS antes de subirlo a Git](http://jorgeatgu.com/blog/lint-staged-css-stylelint/)
+-   28/11/2018 - 📄 [Git aliases for lazy developers](https://bitsofco.de/git-aliases-for-lazy-developers/)
 
 ### Command Line
 
