@@ -922,6 +922,7 @@ Personal goals made open source across computers I use.
 -   13/11/2018 - 📄 [Tips for balancing web fonts and page load](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
 -   14/11/2018 - 📄 [Upcoming changes to the CSS you need for variable fonts](http://clagnut.com/blog/2391/)
 -   24/11/2018 - 📄 [The Five Whys of Web Font Loading Performance](https://www.youtube.com/watch?v=FbguhX3n3Uc)
+-   28/11/2018 - 📄 [Smooth Text Scaling in JavaScript & CSS](https://itnext.io/smooth-text-scaling-in-javascript-css-a817ae8cc4c9)
 
 ### Design Systems
 
