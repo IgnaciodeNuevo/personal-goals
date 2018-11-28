@@ -483,6 +483,7 @@ Personal goals made open source across computers I use.
 -   11/11/2018 - 🎥 [Vanilla JS Graphics and Animations](https://www.youtube.com/watch?v=BYztulUzY4k)
 -   14/11/2018 - 📄 [Getting those saucy UI animations for mobile and web](https://uxdesign.cc/getting-those-saucy-ui-animations-for-mobile-web-40ceff492e60)
 -   24/11/2018 - 😍 📄 [A Comparison of Animation Technologies](https://css-tricks.com/comparison-animation-technologies/)
+-   28/11/2018 - 😍 📄 [Toggling Animations On and Off](https://www.kirupa.com/html5/toggling_animations_on_off.htm)
 
 ### Custom Properties
 
