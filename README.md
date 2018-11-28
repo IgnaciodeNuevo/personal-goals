@@ -1182,6 +1182,7 @@ Personal goals made open source across computers I use.
 ### Workers
 
 -   25/11/2018 - 📄 [Web workers vs Service workers vs Worklets](https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/)
+-   28/11/2018 - 📄 [Inlining or Caching? Both Please!](https://www.filamentgroup.com/lab/inlining-cache.html)
 
 ### TypeScript
 
