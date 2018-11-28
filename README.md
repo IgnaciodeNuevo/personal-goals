@@ -1268,6 +1268,7 @@ Personal goals made open source across computers I use.
 -   13/03/2018 - 😍 📄 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
 -   11/05/2018 - 🎥 [Depurando código JavaScript con developer tools de Chrome](https://www.youtube.com/watch?v=_DMJu0teAMc)
 -   12/11/2018 - 🎥 [Fast but not furious: debugging user interaction performance issues](https://www.youtube.com/watch?v=FmpNNw1Jjwk)
+-   28/11/2018 - 📄 [How to integrate Prettier with ESLint and stylelint](https://medium.freecodecamp.org/integrating-prettier-with-eslint-and-stylelint-99e74fede33f)
 
 ### Engine Internals
 
