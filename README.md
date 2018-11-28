@@ -57,7 +57,7 @@ Personal goals made open source across computers I use.
 1. [JavaScript](#javascript)
 1. [JavaScript Patterns](#javascript-patterns)
 1. [JavaScript Security](#javascript-security)
-1. [Workers](#workers)
+1. [Progressive Web Apps](#progressive-web-apps)
 1. [TypeScript](#typescript)
 1. [Angular](#angular)
 1. [React](#react)
@@ -1181,10 +1181,11 @@ Personal goals made open source across computers I use.
 
 -   12/01/2018 - 📄 [The Spectre Attack and Critical CSS](https://www.filamentgroup.com/lab/spectre-js-cookie.html)
 
-### Workers
+### Progressive Web Apps
 
 -   25/11/2018 - 📄 [Web workers vs Service workers vs Worklets](https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/)
 -   28/11/2018 - 📄 [Inlining or Caching? Both Please!](https://www.filamentgroup.com/lab/inlining-cache.html)
+-   28/11/2018 - 📄 [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
 
 ### TypeScript
 
