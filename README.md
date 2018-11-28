@@ -1006,6 +1006,7 @@ Personal goals made open source across computers I use.
 -   30/10/2018 - 📄 [Color Blindness in a Digital World](https://www.secretstache.com/blog/designing-for-color-blind-users/)
 -   14/11/2018 - 📄 [The 8-Point Grid](https://spec.fm/specifics/8-pt-grid)
 -   24/11/2018 - 📄 [7 Rules of Using Radio Buttons vs Drop-Down Menus](https://blog.prototypr.io/7-rules-of-using-radio-buttons-vs-drop-down-menus-fddf50d312d1)
+-   28/11/2018 - 📄 [Content-out Layout](https://alistapart.com/article/content-out-layout)
 
 ### SVG
 
