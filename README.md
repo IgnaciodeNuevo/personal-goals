@@ -524,6 +524,7 @@ Personal goals made open source across computers I use.
 -   17/11/2018 - 📄 [Practical tips for working with CSS variables](https://css-irl.info/practical-tips-css-variables/)
 -   24/11/2018 - 📄 [Difference between currentColor & Custom Properties](https://www.madebymike.com.au/writing/currentcolor-and-custom-properties/)
 -   25/11/2018 - 📄 [Contextual styling with custom properties](http://simurai.com/blog/2018/04/01/contextual-styling)
+-   28/11/2018 - 📄 [Everything about CSS environment variables - iPhone X Notch ones](https://bitsofco.de/css-environment-variables/)
 
 ### CSS Architecture and Naming
 
