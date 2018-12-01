@@ -1232,6 +1232,7 @@ Personal goals made open source across computers I use.
 -   14/11/2018 - 📄 [Categorizing Components Into Smart & Dumb Components](https://alligator.io/react/smart-dumb-components/)
 -   16/11/2018 - 📄 [Introducing the Single Element Pattern](https://medium.freecodecamp.org/introducing-the-single-element-pattern-dfbd2c295c5d)
 -   25/11/2018 - 📄 [Increase the Performance of your Site with Lazy-Loading and Code-Splitting](https://jmperezperez.com/high-performance-lazy-loading/)
+-   01/12/2018 - 🎥 [Creamos un proyecto con ReactJS desde cero](https://www.youtube.com/watch?v=0Q1p1cXI_64)
 
 ### Vue
 
