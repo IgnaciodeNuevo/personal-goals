@@ -302,6 +302,7 @@ Personal goals made open source across computers I use.
 -   24/11/2018 - 😍 📄 [Hardcore CSS calc( )](https://medium.com/buildit/hardcore-css-calc-bdfb0162993c)
 -   25/11/2018 - 📄 [:visited](https://css-tricks.com/almanac/selectors/v/visited/)
 -   03/12/2018 - 📄 [A look at CSS Resets in 2018](https://bitsofco.de/a-look-at-css-resets-in-2018/)
+-   03/12/2018 - 📄 [Styling Underlines on the Web](https://css-tricks.com/styling-underlines-web/)
 
 ### CSS Units
 
