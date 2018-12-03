@@ -948,6 +948,7 @@ Personal goals made open source across computers I use.
 -   19/10/2018 - 🎥 [What's in a name? How Design Systems lead to better terminology decisions](https://www.youtube.com/watch?v=YKMvxMqABIk)
 -   05/11/2018 - 📄 [Building a Visual Language - Behind the scenes of our new design system](https://airbnb.design/building-a-visual-language/)
 -   08/11/2018 - 🎥 [Build your design system like the pros](https://www.invisionapp.com/design-system-manager/expert-advice)
+-   03/12/2018 - 📄 [Should I Use JavaScript to Load My Web Fonts?](https://www.filamentgroup.com/lab/js-web-fonts.html)
 
 ### Design
 
