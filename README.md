@@ -103,10 +103,10 @@ Personal goals made open source across computers I use.
 
 ### Books
 
--   😍 📕 [Designing for Performance](http://designingforperformance.com)
--   😍 📕 [Mobile First](https://abookapart.com/products/mobile-first)
--   😍 📕 [SMACSS](https://smacss.com)
--   😍 📕 [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
+-   📕 [Designing for Performance](http://designingforperformance.com)
+-   📕 [Mobile First](https://abookapart.com/products/mobile-first)
+-   📕 [SMACSS](https://smacss.com)
+-   📕 [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
 -   📕 [Best of 9 Smashing years](http://provide.smashingmagazine.com/eBooks/best-of-nine-smashing-years.pdf)
 -   📕 [Colour Accesibility](https://www.fivesimplesteps.com/products/colour-accessibility)
 -   📕 [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
@@ -193,7 +193,7 @@ Personal goals made open source across computers I use.
 -   13/11/2017 - 💊 [Specificity Image by Andy Clarke](https://stuffandnonsense.co.uk/archives/images/specificitywars-05v2.jpg)
 -   13/11/2017 - 😍 💊 [Specificity Calculator](https://specificity.keegan.st/)
 -   13/11/2017 - 💊 [Specificity Graph Generator](https://jonassebastianohlsson.com/specificity-graph/)
--   13/11/2017 - 😍 📄 [Hacks for dealing with specificity](https://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/)
+-   13/11/2017 - 📄 [Hacks for dealing with specificity](https://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/)
 -   29/12/2017 - 😍 📄 [Link Specificity](https://meyerweb.com/eric/css/link-specificity.html)
 -   12/01/2018 - 📄 [The latest ways to deal with the cascade, inheritance and specificity](https://css-tricks.com/latest-ways-deal-cascade-inheritance-specificity/)
 -   15/11/2018 - 📄 [The “C” in CSS: The Cascade](https://css-tricks.com/the-c-in-css-the-cascade/)
