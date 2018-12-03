@@ -1235,6 +1235,7 @@ Personal goals made open source across computers I use.
 -   16/11/2018 - 📄 [Introducing the Single Element Pattern](https://medium.freecodecamp.org/introducing-the-single-element-pattern-dfbd2c295c5d)
 -   25/11/2018 - 📄 [Increase the Performance of your Site with Lazy-Loading and Code-Splitting](https://jmperezperez.com/high-performance-lazy-loading/)
 -   01/12/2018 - 🎥 [Creamos un proyecto con ReactJS desde cero](https://www.youtube.com/watch?v=0Q1p1cXI_64)
+-   03/12/2018 - 📄 [How to become a pro with React setState() in 10 minutes](https://medium.freecodecamp.org/get-pro-with-react-setstate-in-10-minutes-d38251d1c781)
 
 ### Vue
 
