@@ -652,10 +652,10 @@ Personal goals made open source across computers I use.
 
 -   21/10/2016 - 🚀 [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
 -   13/10/2018 - 📄 [Working with Gulp step by step](https://medium.com/@jontorrado/working-with-gulp-step-by-step-e0d5fe2d2f23)
--   13/10/2018 - 😍 📄 [Working with Gulp (2)](https://medium.com/@jontorrado/working-with-gulp-2-19376bfdd077)
+-   13/10/2018 - 📄 [Working with Gulp (2)](https://medium.com/@jontorrado/working-with-gulp-2-19376bfdd077)
 -   21/10/2018 - 📄 [Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers](https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/)
 -   24/10/2018 - 📄 [Migrating to gulp 4 by example](https://blog.wearewizards.io/migrating-to-gulp-4-by-example)
--   24/10/2018 - 😍 📄 [Gulp 4: The new task execution system - gulp.parallel and gulp.series](https://fettblog.eu/gulp-4-parallel-and-series/)
+-   24/10/2018 - 📄 [Gulp 4: The new task execution system - gulp.parallel and gulp.series](https://fettblog.eu/gulp-4-parallel-and-series/)
 -   24/10/2018 - 🎥 [Intro to Gulp 4, Totally Tooling Tips (S3 Mini Tip #1)](https://www.youtube.com/watch?v=N42LQ2dLoA8)
 -   24/10/2018 - 📄 [How do I update to Gulp 4?](https://www.liquidlight.co.uk/blog/article/how-do-i-update-to-gulp-4/)
 -   24/10/2018 - 📄 [Getting Started with the Prettier Plugin for ESLint](https://cloudfour.com/thinks/getting-started-with-the-prettier-plugin-for-eslint/)
@@ -663,7 +663,7 @@ Personal goals made open source across computers I use.
 ### a11y
 
 -   01/01/2016 - 😍 🎥 [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
--   25/11/2016 - 😍 🎥 [Accessibility for developers - Alistair Duggin](https://www.youtube.com/watch?v=msrcqmlAnLA)
+-   25/11/2016 - 🎥 [Accessibility for developers - Alistair Duggin](https://www.youtube.com/watch?v=msrcqmlAnLA)
 -   19/06/2017 - 📄 [CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
 -   01/08/2017 - 😍 📄 [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
 -   02/08/2017 - 📄 [Make site accessible screen magnifiers](https://axesslab.com/make-site-accessible-screen-magnifiers/)
@@ -691,14 +691,14 @@ Personal goals made open source across computers I use.
 -   17/11/2017 - 📄 [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 -   19/11/2017 - 📄 [iPhone X – Welcome Screen Inaccessible to Blind Users](https://axesslab.com/iphone-x-onboarding-bug/)
 -   25/12/2017 - 📄 [So You Want to Become an Accessibility Specialist](https://www.24a11y.com/2017/want-become-accessibility-specialist/)
--   25/12/2017 - 😍 📄 [Accessibility Testing Tools for Desktop and Mobile Websites](https://www.24a11y.com/2017/accessibility-testing-tools-desktop-mobile-websites/)
--   25/12/2017 - 😍 📄 [Accessibility Testing Tools](https://css-tricks.com/accessibility-testing-tools/)
+-   25/12/2017 - 📄 [Accessibility Testing Tools for Desktop and Mobile Websites](https://www.24a11y.com/2017/accessibility-testing-tools-desktop-mobile-websites/)
+-   25/12/2017 - 📄 [Accessibility Testing Tools](https://css-tricks.com/accessibility-testing-tools/)
 -   25/12/2017 - 📄 [How “invert brightness” can improve accessibility and help us use our devices](https://developer.paciellogroup.com/blog/2017/12/how-invert-brightness-can-improve-accessibility-and-help-us-use-our-devices/)
 -   25/12/2017 - 📄 [Our Users Have no Disabilities](http://axesslab.com/users-no-disabilities/)
 -   27/12/2017 - 📄 [Color Contrast, Beyond the Basics](https://www.24a11y.com/2017/color-contrast-beyond-basics/)
--   27/09/2017 - 😍 📄 [SVG, Icon Fonts, and Accessibility: A Case Study](https://www.24a11y.com/2017/svg-icon-fonts-accessibility-case-study/)
+-   27/09/2017 - 📄 [SVG, Icon Fonts, and Accessibility: A Case Study](https://www.24a11y.com/2017/svg-icon-fonts-accessibility-case-study/)
 -   27/12/2017 - 📄 [Accessibility Through Semantic HTML](https://24ways.org/2017/accessibility-through-semantic-html/)
--   28/12/2017 - 😍 📄 [Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/)
+-   28/12/2017 - 📄 [Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/)
 -   28/12/2017 - 📄 [Accessibility in Resizing Text](https://www.24a11y.com/2017/accessibility-resizing-text/)
 -   28/12/2017 - 📄 [A Developer’s Guide to Better Accessibility](https://www.24a11y.com/2017/a-developers-guide-to-better-accessibility/)
 -   28/12/2017 - 😍 📄 [Accessible Links Re visited](https://www.filamentgroup.com/lab/a11y-links.html)
@@ -725,7 +725,7 @@ Personal goals made open source across computers I use.
 -   07/10/2018 - 🎥 [Marcy Sutton on Accessibility Audit (Live)](https://vimeo.com/292467043)
 -   13/10/2018 - 🎥 [Peeling Back the Layers of Web Accessibility](https://www.youtube.com/watch?v=DxpDjdbK3XE)
 -   18/10/2018 - 📄 [Cómo diseñar una web o una app accesible](https://www.uifrommars.com/como-disenar-web-app-accesible/)
--   18/10/2018 - 😍 📄 [Page Scrolling in Mobile Safari & VoiceOver](https://marcysutton.com/page-scrolling-in-mobile-safari-voiceover/)
+-   18/10/2018 - 📄 [Page Scrolling in Mobile Safari & VoiceOver](https://marcysutton.com/page-scrolling-in-mobile-safari-voiceover/)
 -   25/10/2018 - 😍 📄 [Customise radio buttons without compromising accessibility](https://www.chenhuijing.com/blog/customise-radios-without-compromising-accessibility/#%F0%9F%92%BB)
 -   30/10/2018 - 📄 [ARIA States](https://a11yproject.com/posts/ARIA-states/)
 -   30/10/2018 - 📄 [ARIA Properties](https://a11yproject.com/posts/ARIA-properties/)
@@ -744,7 +744,7 @@ Personal goals made open source across computers I use.
 -   24/11/2018 - 📄 [Accessible CSS-Only Floating Labels](https://medium.com/@eugeniolujambio/accessible-css-only-floating-labels-74bf9173bc5f)
 -   24/11/2018 - 📄 [How to create a simple CSS loading spinner & make it accessible](https://codeburst.io/how-to-create-a-simple-css-loading-spinner-make-it-accessible-e5c83c2e464c)
 -   24/11/2018 - 📄 [Know your ARIA: 'Hidden' vs 'None'](https://www.scottohara.me/blog/2018/05/05/hidden-vs-none.html)
--   28/11/2018 - 😍 📄 [Accessible Mobile Navigation](http://www.a11ymatters.com/pattern/mobile-nav/)
+-   28/11/2018 - 📄 [Accessible Mobile Navigation](http://www.a11ymatters.com/pattern/mobile-nav/)
 
 ### !Important Show
 
