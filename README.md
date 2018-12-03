@@ -1049,11 +1049,11 @@ Personal goals made open source across computers I use.
 
 ### JavaScript
 
--   15/11/2016 - 😍 🎥 [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+-   15/11/2016 - 🎥 [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 -   15/11/2016 - 🎥 [Emanuel Kluge - Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
 -   25/11/2016 - 🎥 [Addy Osmani - Object.observe](https://www.youtube.com/watch?v=mfOh-J-9BY0)
 -   28/11/2016 - 🎥 [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
--   29/12/2016 - 😍 🎥 [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM)
+-   29/12/2016 - 🎥 [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM)
 -   01/11/2016 - 🎥 [Brenna O'Brien: JavaScript Community: The Good Parts | JSConf EU 2015](https://www.youtube.com/watch?v=2ypYniQa7_o)
 -   07/06/2017 - 😍 📄 [Introduction to commonly used ES6 features](https://zellwk.com/blog/es6/)
 -   15/06/2017 - 😍 📄 [Altering the DOM with JavaScript](https://zellwk.com/blog/js-in-dom/)
@@ -1112,7 +1112,7 @@ Personal goals made open source across computers I use.
 -   12/02/2018 - 🎥 [Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
 -   20/02/2018 - 🎥 [cookies vs localStorage vs sessionStorage - Beau teaches JavaScript](https://www.youtube.com/watch?v=AwicscsvGLg)
 -   20/02/2018 - 🎥 [Quick Start to JavaScript - Volume 1](https://app.pluralsight.com/library/courses/quick-start-javascript-1-1870/table-of-contents)
--   25/02/2018 - 😍 🎥 [An Introduction to Local Storage with JavaScript](https://www.youtube.com/watch?v=T9GWHFDcELQ)
+-   25/02/2018 - 🎥 [An Introduction to Local Storage with JavaScript](https://www.youtube.com/watch?v=T9GWHFDcELQ)
 -   25/02/2018 - 😍 🎥 [The Event Loop](https://vimeo.com/254947206)
 -   26/02/2018 - 🎥 [Optional Chaining Operator in JavaScript](https://www.youtube.com/watch?v=FKRVqtP8o48)
 -   02/03/2018 - 📄 [addEventListener vs onclick](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick)
@@ -1155,7 +1155,7 @@ Personal goals made open source across computers I use.
 -   12/10/2018 - 🎥 [Jafar Husain: Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
 -   21/10/2018 - 🎥 [Our favourite ES2018 features](https://www.youtube.com/watch?v=JYz12w8hjfI)
 -   23/10/2018 - 📄 [A guide to the Golden Ratio for designers](https://www.invisionapp.com/inside-design/golden-ratio-designers)
--   25/10/2018 - 😍 📄 [NaN and typeof](https://javascriptrefined.io/nan-and-typeof-36cd6e2a4e43)
+-   25/10/2018 - 📄 [NaN and typeof](https://javascriptrefined.io/nan-and-typeof-36cd6e2a4e43)
 -   26/10/2018 - 📄 [Recovering from JavaScript errors](https://hugogiraudel.com/2018/08/13/recovering-from-javascript-errors/)
 -   26/10/2018 - 📄 [How to Write Accessible JavaScript](https://medium.com/dailyjs/4-javascript-techniques-for-building-accessible-web-interfaces-348f820c157f)
 -   29/10/2018 - 🎥 [The State of JavaScript - The State of the Web](https://www.youtube.com/watch?v=i5R7giitymk)
@@ -1178,7 +1178,7 @@ Personal goals made open source across computers I use.
 ### JavaScript Patterns
 
 -   02/10/2018 - 📄 [JavaScript Design Patterns: The Observer Pattern](https://www.sitepoint.com/javascript-design-patterns-observer-pattern/)
--   25/11/2018 - 😍 📄 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
+-   25/11/2018 - 📄 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 -   25/11/2018 - 📄 [Asynchronous Patterns in JavaScript](https://blog.bloomca.me/2018/03/24/async-patterns-js.html)
 -   28/11/2018 - 📄 [Tricks with JavaScript Destructuring](https://alligator.io/js/tricks-with-destructuring/)
 
