@@ -318,7 +318,7 @@ Personal goals made open source across computers I use.
 
 ### Feature Queries
 
--   27/05/2017 - 😍 📄 [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
+-   27/05/2017 - 📄 [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 -   28/05/2017 - 📄 [Cascading Web Design with Feature Queries](https://24ways.org/2017/cascading-web-design/)
 -   08/11/2018 - 📄 [Using Feature Detection to Write CSS with Cross-Browser Support](https://css-tricks.com/using-feature-detection-to-write-css-with-cross-browser-support/)
 
@@ -331,7 +331,7 @@ Personal goals made open source across computers I use.
 
 ### Responsive Images
 
--   02/11/2016 - 😍 🎥 [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
+-   02/11/2016 - 🎥 [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
 -   09/10/2017 - 📄 [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
 -   17/11/2018 - 📄 [Image Inconsistencies: How and When Browsers Download Images](https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/)
 -   24/11/2018 - 📄 [Why and how to use WebP images today](https://bitsofco.de/why-and-how-to-use-webp-images-today/)
@@ -353,24 +353,24 @@ Personal goals made open source across computers I use.
 ### CSS Grid Layout
 
 -   01/11/2016 - 🎥 [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
--   27/05/2017 - 😍 📄 [CSS Grid Layout Module Level 1 Specification](https://www.w3.org/TR/css-grid-1/)
--   27/05/2017 - 😍 📄 [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
--   27/05/2017 - 😍 📄 [CSS Grids Guides on MDN](https://www.rachelandrew.co.uk/archives/2017/03/07/css-grid-guides-on-mdn/)
--   27/05/2017 - 😍 📄 [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
--   27/05/2017 - 😍 📄 [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
+-   27/05/2017 - 📄 [CSS Grid Layout Module Level 1 Specification](https://www.w3.org/TR/css-grid-1/)
+-   27/05/2017 - 📄 [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+-   27/05/2017 - 📄 [CSS Grids Guides on MDN](https://www.rachelandrew.co.uk/archives/2017/03/07/css-grid-guides-on-mdn/)
+-   27/05/2017 - 📄 [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+-   27/05/2017 - 📄 [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
 -   27/05/2017 - 😍 📄 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 -   27/05/2017 - 😍 📄 [Grid by Example](https://gridbyexample.com/)
 -   27/05/2017 - 😍 📄 [Grid Fallbacks](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
 -   27/05/2017 - 😍 📄 [Box Alignment Cheetsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
--   27/05/2017 - 😍 📄 [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
+-   27/05/2017 - 📄 [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
 -   17/06/2017 - 😍 📄 [How the minmax() function works](https://bitsofco.de/how-the-minmax-function-works/)
--   27/05/2017 - 😍 💊 [Griddy](http://griddy.io/)
--   27/05/2017 - 😍 💊 [LearnCSSGrid](http://learncssgrid.com/)
--   27/05/2017 - 😍 💊 [Grid Talk examples](https://codepen.io/collection/DEPOzv/)
--   27/05/2017 - 😍 💊 [Grid Layout Collection](https://codepen.io/collection/DgwjNL/)
--   27/05/2017 - 😍 💊 [CSS Grid Layout](https://codepen.io/collection/XRRJGq/)
--   27/05/2017 - 😍 🎥 [CSS Grid Layout | Frontend NE: Video](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) & [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
--   27/05/2017 - 😍 📄 [Grid Exercises](http://labs.jensimmons.com/2017/exercises.html)
+-   27/05/2017 - 💊 [Griddy](http://griddy.io/)
+-   27/05/2017 - 💊 [LearnCSSGrid](http://learncssgrid.com/)
+-   27/05/2017 - 💊 [Grid Talk examples](https://codepen.io/collection/DEPOzv/)
+-   27/05/2017 - 💊 [Grid Layout Collection](https://codepen.io/collection/DgwjNL/)
+-   27/05/2017 - 💊 [CSS Grid Layout](https://codepen.io/collection/XRRJGq/)
+-   27/05/2017 - 🎥 [CSS Grid Layout | Frontend NE: Video](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) & [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
+-   27/05/2017 - 📄 [Grid Exercises](http://labs.jensimmons.com/2017/exercises.html)
 -   01/08/2017 - 🎥 [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4)
 -   18/08/2017 - 😍 📄 [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
 -   19/06/2017 - 📄 [Building Production Ready CSS Grid Layout](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
@@ -407,7 +407,6 @@ Personal goals made open source across computers I use.
 -   31/08/2017 - 📄 [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
 -   31/08/2017 - 💊 [The CoffeeCup Guide to liberating layout through CSS Grid](https://cssgrid.cc/)
 -   19/09/2017 - 📄 [Web truths: CSS is not real programming](https://christianheilmann.com/2017/09/19/web-truths-css-is-not-real-programming/)
--   27/09/2017 - 😍 📄 [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 -   27/09/2017 - 📄 [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 -   29/09/2017 - 🎥 [CSS Grid Layout](https://www.youtube.com/watch?v=AxVXpS6PyRE)
 -   20/10/2017 - 📄 [Grid is all about the container](https://rachelandrew.co.uk/archives/2017/03/31/grid-is-all-about-the-container/)
@@ -973,6 +972,7 @@ Personal goals made open source across computers I use.
 -   17/09/2017 - 📄 [Removing the White Bars in Safari on iPhone X](http://stephenradford.me/removing-the-white-bars-in-safari-on-iphone-x/)
 -   18/09/2017 - 📄 [000 ¿Por qué debería tener conocimientos sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/000-por-qu%C3%A9-deber%C3%ADa-tener-una-base-sobre-dise%C3%B1o-cadbdeb6fed7)
 -   26/10/2017 - 📄 [Design for Developers: Specific Steps to Improve Your Website Design](https://www.taniarascia.com/design-for-developers/)
+-   27/09/2017 - 😍 📄 [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 -   01/11/2017 - 😍 🎥 [Mark Boulton | Designing Grids | CSS Day 2017](https://vimeo.com/239782886)
 -   03/12/2017 - 📄 [000 | ¿Por qué debería tener conocimientos sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/000-por-qu%C3%A9-deber%C3%ADa-tener-una-base-sobre-dise%C3%B1o-cadbdeb6fed7)
 -   03/12/2017 - 📄 [001 | Tengo prisa ¿Cómo puedo saber más sobre Diseño?](https://medium.com/dise%C3%B1oparanodise%C3%B1adores/002-tengo-prisa-c%C3%B3mo-puedo-saber-m%C3%A1s-sobre-dise%C3%B1o-c21dcca7c6dc)
