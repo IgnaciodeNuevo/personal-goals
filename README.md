@@ -8,7 +8,7 @@ Personal goals made open source across computers I use.
 
 ## Legend
 
-1. 😍 _MUST_ (Appreciation completely subjective at the time of consuming the content, perhaps later I would change my mind). Read (📄) / Watch (🎥) / Listen (🎼)
+1. 😍 _MUST_ Read (📄) / Watch (🎥) / Listen (🎼)
 1. 📚 Study!
 1. 📕 Book
 1. 💡 Project
@@ -1034,6 +1034,7 @@ Personal goals made open source across computers I use.
 -   13/10/2018 - 📄 [The guide to integrating and styling icon systems — inline SVG and icon components](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-inline-svg-and-icon-components-9ed234419166)
 -   13/11/2018 - 📄 [abc to SVG](https://css-tricks.com/abc-to-svg/)
 -   16/11/2018 - 📄 [Building a responsive image](https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6)
+-   04/12/2018 - 📄 [Accessible SVG Icons with Inline Sprites](https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/)
 
 ### UX
 
