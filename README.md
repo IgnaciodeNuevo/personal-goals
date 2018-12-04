@@ -336,6 +336,7 @@ Personal goals made open source across computers I use.
 -   17/11/2018 - 📄 [Image Inconsistencies: How and When Browsers Download Images](https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/)
 -   24/11/2018 - 📄 [Why and how to use WebP images today](https://bitsofco.de/why-and-how-to-use-webp-images-today/)
 -   28/11/2018 - 😍 📄 [image-set to support retina images](https://cloudfour.com/thinks/safari-6-and-chrome-21-add-image-set-to-support-retina-images/) - [CSS background image-set test](https://cloudfour.com/examples/image-set/)
+-   04/12/2018 - 😍 📄 [Responsive Images: Use Cases and Documented Code Snippets to Get You Started](https://dev.opera.com/articles/responsive-images/)
 
 ### Flexbox
 
