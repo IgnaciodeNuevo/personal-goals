@@ -932,6 +932,7 @@ Personal goals made open source across computers I use.
 -   28/11/2018 - 📄 [Smooth Text Scaling in JavaScript & CSS](https://itnext.io/smooth-text-scaling-in-javascript-css-a817ae8cc4c9)
 -   01/12/2018 - 🎥 [Font Loading Performance 📉 6 Experiments with FOUT & FOIT](https://www.youtube.com/watch?v=vTf9HRTWKtM)
 -   03/12/2018 - 📄 [Creating a type style guide](https://blog.typekit.com/2014/10/22/creating-a-type-style-guide/)
+-   08/12/2018 - 🎥 [How to Load Web Fonts in 2019](https://www.youtube.com/watch?v=s-G1m23Emlk)
 
 ### Design Systems
 
