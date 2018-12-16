@@ -1018,6 +1018,7 @@ Personal goals made open source across computers I use.
 -   28/11/2018 - 📄 [Content-out Layout](https://alistapart.com/article/content-out-layout)
 -   16/12/2018 - 🎥 Refactoring UI Book: Designing Content.mp4
 -   16/12/2018 - 🎥 Refactoring UI Book: Designing a Dashboard.mp4
+-   16/12/2018 - 🎥 Refactoring UI Book: Designing a Complex Form.mp4
 
 ### SVG
 
