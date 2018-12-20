@@ -749,6 +749,7 @@ Personal goals made open source across computers I use.
 -   24/11/2018 - 📄 [How to create a simple CSS loading spinner & make it accessible](https://codeburst.io/how-to-create-a-simple-css-loading-spinner-make-it-accessible-e5c83c2e464c)
 -   24/11/2018 - 📄 [Know your ARIA: 'Hidden' vs 'None'](https://www.scottohara.me/blog/2018/05/05/hidden-vs-none.html)
 -   28/11/2018 - 📄 [Accessible Mobile Navigation](http://www.a11ymatters.com/pattern/mobile-nav/)
+-   20/12/2018 - 📄 [Making the abbr element work for touchscreen, keyboard, and mouse](https://bitsofco.de/making-abbr-work-for-touchscreen-keyboard-mouse/)
 
 ### !Important Show
 
