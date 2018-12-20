@@ -958,6 +958,7 @@ Personal goals made open source across computers I use.
 -   05/11/2018 - 📄 [Building a Visual Language - Behind the scenes of our new design system](https://airbnb.design/building-a-visual-language/)
 -   08/11/2018 - 🎥 [Build your design system like the pros](https://www.invisionapp.com/design-system-manager/expert-advice)
 -   03/12/2018 - 📄 [Should I Use JavaScript to Load My Web Fonts?](https://www.filamentgroup.com/lab/js-web-fonts.html)
+-   20/12/2018 - 📄 [Buttons in Design Systems](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23)
 
 ### Design
 
