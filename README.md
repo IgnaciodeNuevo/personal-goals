@@ -1185,6 +1185,7 @@ Personal goals made open source across computers I use.
 -   25/11/2018 - 📄 [Traversing the DOM with JavaScript](https://zellwk.com/blog/dom-traversals/)
 -   27/11/2018 - 😍 📄 [JavaScript type coercion explained](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
 -   27/11/2018 - 🎥 [Are microbenchmarks any good?](https://www.youtube.com/watch?v=aikZfYlYWDQ)
+-   20/12/2018 - 📄 [A one-line solution to highlighting search matches](https://bitsofco.de/a-one-line-solution-to-highlighting-search-matches/)
 
 ### JavaScript Patterns
 
