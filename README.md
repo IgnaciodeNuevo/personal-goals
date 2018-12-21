@@ -701,7 +701,7 @@ Personal goals made open source across computers I use.
 -   25/12/2017 - 📄 [How “invert brightness” can improve accessibility and help us use our devices](https://developer.paciellogroup.com/blog/2017/12/how-invert-brightness-can-improve-accessibility-and-help-us-use-our-devices/)
 -   25/12/2017 - 📄 [Our Users Have no Disabilities](http://axesslab.com/users-no-disabilities/)
 -   27/12/2017 - 📄 [Color Contrast, Beyond the Basics](https://www.24a11y.com/2017/color-contrast-beyond-basics/)
--   27/09/2017 - 📄 [SVG, Icon Fonts, and Accessibility: A Case Study](https://www.24a11y.com/2017/svg-icon-fonts-accessibility-case-study/)
+-   27/09/2017 - 😍 📄 [SVG, Icon Fonts, and Accessibility: A Case Study](https://www.24a11y.com/2017/svg-icon-fonts-accessibility-case-study/)
 -   27/12/2017 - 📄 [Accessibility Through Semantic HTML](https://24ways.org/2017/accessibility-through-semantic-html/)
 -   28/12/2017 - 📄 [Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/)
 -   28/12/2017 - 📄 [Accessibility in Resizing Text](https://www.24a11y.com/2017/accessibility-resizing-text/)
@@ -840,6 +840,7 @@ Personal goals made open source across computers I use.
 -   11/11/2018 - 🎥 [Front performance](https://www.youtube.com/watch?v=Lw1H9Owj2Mo)
 -   16/11/2018 - 😍 📄 [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 -   03/12/2018 - 📄 [Preventing Content Reflow From Lazy-Loaded Images](https://css-tricks.com/preventing-content-reflow-from-lazy-loaded-images/)
+-   21/12/2018 - 📄 [Jank-Free Image Loads](https://24ways.org/2018/jank-free-image-loads/)
 
 ### Critical Path
 
