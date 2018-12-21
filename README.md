@@ -306,6 +306,7 @@ Personal goals made open source across computers I use.
 -   03/12/2018 - 📄 [Styling Underlines on the Web](https://css-tricks.com/styling-underlines-web/)
 -   20/12/2018 - 📄 [Styling a Select Like It’s 2019](https://www.filamentgroup.com/lab/select-css.html)
 -   21/12/2018 - 📄 [My CSS Reset/Base](https://bitsofco.de/my-css-reset-base/)
+-   21/12/2018 - 📄 [Media Queries Level 4: Detect a touch device with only CSS](https://medium.com/@ferie/detect-a-touch-device-with-only-css-9f8e30fa1134)
 
 ### CSS Units
 
