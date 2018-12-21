@@ -305,6 +305,7 @@ Personal goals made open source across computers I use.
 -   03/12/2018 - 📄 [A look at CSS Resets in 2018](https://bitsofco.de/a-look-at-css-resets-in-2018/)
 -   03/12/2018 - 📄 [Styling Underlines on the Web](https://css-tricks.com/styling-underlines-web/)
 -   20/12/2018 - 📄 [Styling a Select Like It’s 2019](https://www.filamentgroup.com/lab/select-css.html)
+-   21/12/2018 - 📄 [My CSS Reset/Base](https://bitsofco.de/my-css-reset-base/)
 
 ### CSS Units
 
