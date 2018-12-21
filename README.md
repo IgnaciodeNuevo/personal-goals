@@ -654,6 +654,7 @@ Personal goals made open source across computers I use.
 -   17/11/2018 - 📄 [Your Brain on Front-End Development](https://css-tricks.com/your-brain-on-front-end-development/)
 -   21/12/2018 - 📄 [Supporting older browsers 1/4](https://zellwk.com/blog/older-browsers/)
 -   21/12/2018 - 📄 [Supporting older browsers 2/4: CSS](https://zellwk.com/blog/older-browsers-css/)
+-   21/12/2018 - 📄 [Supporting older browsers 3/4: JavaSript](https://zellwk.com/blog/older-browsers-js/)
 
 ### Task tools
 
