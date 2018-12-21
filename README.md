@@ -652,6 +652,7 @@ Personal goals made open source across computers I use.
 -   08/11/2018 - 📄 [Refactoring an inherited codebase](https://www.chenhuijing.com/blog/refactoring-an-inherited-codebase/#%F0%9F%91%BE)
 -   11/11/2018 - 🎥 [Creando las aplicaciones del futuro hoy](https://www.youtube.com/watch?v=UBwZBS-_iAM)
 -   17/11/2018 - 📄 [Your Brain on Front-End Development](https://css-tricks.com/your-brain-on-front-end-development/)
+-   21/12/2018 - 📄 [Supporting older browsers](https://zellwk.com/blog/older-browsers/)
 
 ### Task tools
 
