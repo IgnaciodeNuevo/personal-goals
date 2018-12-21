@@ -657,6 +657,7 @@ Personal goals made open source across computers I use.
 -   21/12/2018 - 📄 [Supporting older browsers 1/4](https://zellwk.com/blog/older-browsers/)
 -   21/12/2018 - 📄 [Supporting older browsers 2/4: CSS](https://zellwk.com/blog/older-browsers-css/)
 -   21/12/2018 - 📄 [Supporting older browsers 3/4: JavaSript](https://zellwk.com/blog/older-browsers-js/)
+-   21/12/2018 - 📄 [Stop Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 
 ### Task tools
 
