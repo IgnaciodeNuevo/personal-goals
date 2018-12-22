@@ -760,6 +760,7 @@ Personal goals made open source across computers I use.
 -   28/11/2018 - 📄 [Accessible Mobile Navigation](http://www.a11ymatters.com/pattern/mobile-nav/)
 -   20/12/2018 - 📄 [Making the abbr element work for touchscreen, keyboard, and mouse](https://bitsofco.de/making-abbr-work-for-touchscreen-keyboard-mouse/)
 -   21/12/2018 - 📄 [Using aria-live](https://bitsofco.de/using-aria-live/)
+-   22/12/2018 - 📄 [5 Digital Accessibility Myths Busted](https://medium.com/@cariefisher/5-digital-accessibility-myths-busted-8d845ff0df9c)
 
 ### !Important Show
 
