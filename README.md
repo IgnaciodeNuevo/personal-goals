@@ -1036,6 +1036,7 @@ Personal goals made open source across computers I use.
 -   16/12/2018 - 🎥 Refactoring UI Book: Designing Content.mp4
 -   16/12/2018 - 🎥 Refactoring UI Book: Designing a Dashboard.mp4
 -   16/12/2018 - 🎥 Refactoring UI Book: Designing a Complex Form.mp4
+-   24/12/2018 - 📄 [Make sense of rounded corners on buttons](https://uxdesign.cc/make-sense-of-rounded-corners-on-buttons-dfc8e13ea7f7)
 
 ### SVG
 
