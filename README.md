@@ -762,6 +762,7 @@ Personal goals made open source across computers I use.
 -   20/12/2018 - 📄 [Making the abbr element work for touchscreen, keyboard, and mouse](https://bitsofco.de/making-abbr-work-for-touchscreen-keyboard-mouse/)
 -   21/12/2018 - 📄 [Using aria-live](https://bitsofco.de/using-aria-live/)
 -   22/12/2018 - 📄 [5 Digital Accessibility Myths Busted](https://medium.com/@cariefisher/5-digital-accessibility-myths-busted-8d845ff0df9c)
+-   24/12/2018 - 📄 [The visibility property isn’t just about visibility](https://bitsofco.de/the-visibility-property-isnt-just-about-visibility/)
 
 ### !Important Show
 
