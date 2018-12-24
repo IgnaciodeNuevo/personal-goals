@@ -1231,6 +1231,7 @@ Personal goals made open source across computers I use.
 -   24/12/2018 - 📄 [Going offline first 1/5: Introduction & Ghost Theme Setup](https://www.youtube.com/watch?v=d39LNcggR0I)
 -   24/12/2018 - 📄 [Going offline first 2/5: Saving Pages to Cache Storag](https://www.youtube.com/watch?v=pJRdTYZLKvo)
 -   24/12/2018 - 📄 [Going offline first 3/5: Creating an Offline Page](https://www.youtube.com/watch?v=8F2xEpLDX3Q)
+-   24/12/2018 - 📄 [Going offline first 4/5: Service Worker & Serving Offline Pages](https://www.youtube.com/watch?v=VEjRhRArVR4)
 
 ### TypeScript
 
