@@ -1228,7 +1228,8 @@ Personal goals made open source across computers I use.
 -   28/11/2018 - 📄 [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
 -   20/12/2018 - 📄 [Handling broken images with the service worker](https://bitsofco.de/handling-broken-images-with-service-worker/)
 -   22/12/2018 - 📄 [Cache API 101](https://bitsofco.de/cache-api-101/)
--   24/12/2018 - 📄 [PWA 1/5: Introduction & Ghost Theme Setup](https://www.youtube.com/watch?v=d39LNcggR0I)
+-   24/12/2018 - 📄 [Going offline first 1/5: Introduction & Ghost Theme Setup](https://www.youtube.com/watch?v=d39LNcggR0I)
+-   24/12/2018 - 📄 [Going offline first 1/5: Saving Pages to Cache Storag](https://www.youtube.com/watch?v=pJRdTYZLKvo)
 
 ### TypeScript
 
