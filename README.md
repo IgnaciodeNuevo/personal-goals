@@ -309,6 +309,7 @@ Personal goals made open source across computers I use.
 -   21/12/2018 - 📄 [Media Queries Level 4: Detect a touch device with only CSS](https://medium.com/@ferie/detect-a-touch-device-with-only-css-9f8e30fa1134)
 -   22/12/2018 - 📄 [Keep Math in the CSS](https://css-tricks.com/keep-math-in-the-css/)
 -   24/12/2018 - 📄 [When do the :hover, :focus, and :active pseudo-classes apply?](https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/)
+-   24/12/2018 - 📄 [Multi-Line Padded Text](https://css-tricks.com/multi-line-padded-text/)
 
 ### CSS Units
 
