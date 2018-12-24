@@ -852,6 +852,7 @@ Personal goals made open source across computers I use.
 -   16/11/2018 - 😍 📄 [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 -   03/12/2018 - 📄 [Preventing Content Reflow From Lazy-Loaded Images](https://css-tricks.com/preventing-content-reflow-from-lazy-loaded-images/)
 -   21/12/2018 - 📄 [Jank-Free Image Loads](https://24ways.org/2018/jank-free-image-loads/)
+-   24/12/2018 - 📄 [All about prefetching](https://calendar.perfplanet.com/2018/all-about-prefetching/)
 
 ### Critical Path
 
