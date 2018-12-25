@@ -955,6 +955,7 @@ Personal goals made open source across computers I use.
 -   03/12/2018 - 📄 [Creating a type style guide](https://blog.typekit.com/2014/10/22/creating-a-type-style-guide/)
 -   08/12/2018 - 🎥 [How to Load Web Fonts in 2019](https://www.youtube.com/watch?v=s-G1m23Emlk)
 -   25/12/2018 - 😍 📄 [The Font Loading Checklist](https://www.zachleat.com/web/font-checklist/)
+-   25/12/2018 - 📄 [Managing Flow and Rhythm with CSS Custom Properties](https://24ways.org/2018/managing-flow-and-rhythm-with-css-custom-properties)
 
 ### Design Systems
 
