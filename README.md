@@ -68,8 +68,7 @@ Personal goals made open source across computers I use.
 1. [Command Line](#command-line)
 1. [DevTools](#devtools)
 1. [Engine Internals](#engine-internals)
-1. [Jekyll](#jekyll)
-1. [Hugo](#hugo)
+1. [Static Site Generators](#static-site-generators)
 1. [Testing](#testing)
 1. [Linting](#linting)
 1. [OOP](#object-oriented-programming)
@@ -1331,12 +1330,18 @@ Personal goals made open source across computers I use.
 -   12/11/2018 - 📄 [Browser painting and considerations for web performance](https://css-tricks.com/browser-painting-and-considerations-for-web-performance/)
 -   25/11/2018 - 📄 [How JavaScript works: the rendering engine and tips to optimize its performance](https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda)
 
-### Jekyll
+### Static Site Generators
 
 -   31/12/2016 - 📄 [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
 -   31/12/2016 - 🎥 [SEO in Jekyll](https://www.youtube.com/watch?v=dExYSVImSJc&list=PLUybESC8Y06q_aV6D-ow9mmOQzc3-UnXq)
 -   01/01/2017 - 🎥 [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
+-   09/02/2017 - 📄 [Hugo, the scope, the context and the dot](https://regisphilibert.com/blog/2018/02/hugo-the-scope-the-context-and-the-dot/)
 -   01/01/2017 - 🎥 [Jekyll Conf 2016](https://www.youtube.com/playlist?list=PLrxYIq_0LFJdi2HJ6lnY4nm7ewu221hyS)
+-   16/02/2017 - 😍 📄 [Building a production website with Hugo and GulpJS](http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/)
+-   16/02/2017 - 📄 [The CMS is dead. Long live Hugo, Wercker, Prose.io and CloudFront](https://atchai.com/blog/the-cms-is-dead-long-live-hugo-wercker-proseio-and-cloudfront/)
+-   16/02/2017 - 📄 [Building a theme with Hugo](http://www.humboldtux.net/sbcb-demo/post/post-01/)
+-   03/12/2017 - 🎥 [Section Templates | Hugo - Static Site Generator](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
+-   03/12/2017 - 📄 [Migrating from Jekyll+Github Pages to Hugo+Netlify](http://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/)
 -   13/01/2018 - 📄 [Managing data with Jekyll](https://www.chenhuijing.com/blog/managing-data-with-jekyll/)
 -   15/09/2018 - 🎥 [Jekyll Playlist by CloudCannon](https://www.youtube.com/watch?v=_f4aly6xblQ&list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
 -   15/09/2018 - 🎥 [Jekyll - Static Site Generator Playlist](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
@@ -1356,15 +1361,6 @@ Personal goals made open source across computers I use.
 -   09/10/2018 - 📄 [How I’m Using Jekyll in 2017](https://mademistakes.com/articles/using-jekyll-2017/)
 -   09/10/2018 - 📄 [Optimizing Jekyll Performance with Gulp](https://savaslabs.com/2016/10/19/optimizing-jekyll-with-gulp.html)
 -   25/12/2018 - 📄 [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/)
-
-### Hugo
-
--   03/12/2017 - 🎥 [Section Templates | Hugo - Static Site Generator](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
--   03/12/2017 - 📄 [Migrating from Jekyll+Github Pages to Hugo+Netlify](http://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/)
--   09/02/2017 - 📄 [Hugo, the scope, the context and the dot](https://regisphilibert.com/blog/2018/02/hugo-the-scope-the-context-and-the-dot/)
--   16/02/2017 - 😍 📄 [Building a production website with Hugo and GulpJS](http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/)
--   16/02/2017 - 📄 [The CMS is dead. Long live Hugo, Wercker, Prose.io and CloudFront](https://atchai.com/blog/the-cms-is-dead-long-live-hugo-wercker-proseio-and-cloudfront/)
--   16/02/2017 - 📄 [Building a theme with Hugo](http://www.humboldtux.net/sbcb-demo/post/post-01/)
 
 ### Testing
 
