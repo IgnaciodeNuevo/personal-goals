@@ -930,7 +930,6 @@ Personal goals made open source across computers I use.
 -   15/08/2018 - 🎥 [Web Typography | CSS Day 2018](https://vimeo.com/285086929)
 -   15/08/2018 - 📄 [How to use variable fonts in the real world](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
 -   15/08/2018 - 📄 [Upcoming changes to the CSS you need for variable fonts](https://medium.com/@clagnut/upcoming-changes-to-the-css-for-variable-fonts-4494b3b7ecdc)
--   04/09/2018 - 😍 📄 [The Font Loading Checklist](https://www.zachleat.com/web/font-checklist/)
 -   04/09/2018 - 📄 [The Problem with font-display and Reflow](https://www.zachleat.com/web/font-display-reflow/)
 -   30/09/2018 - 📄 [8-Point Grid: Typography On The Web](https://medium.freecodecamp.org/8-point-grid-typography-on-the-web-be5dc97db6bc)
 -   30/09/2018 - 😍 📄 [Deep dive CSS: font metrics, line-height and vertical-align](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
@@ -956,6 +955,7 @@ Personal goals made open source across computers I use.
 -   01/12/2018 - 🎥 [Font Loading Performance 📉 6 Experiments with FOUT & FOIT](https://www.youtube.com/watch?v=vTf9HRTWKtM)
 -   03/12/2018 - 📄 [Creating a type style guide](https://blog.typekit.com/2014/10/22/creating-a-type-style-guide/)
 -   08/12/2018 - 🎥 [How to Load Web Fonts in 2019](https://www.youtube.com/watch?v=s-G1m23Emlk)
+-   25/12/2018 - 😍 📄 [The Font Loading Checklist](https://www.zachleat.com/web/font-checklist/)
 
 ### Design Systems
 
