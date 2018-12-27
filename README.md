@@ -961,6 +961,7 @@ Personal goals made open source across computers I use.
 -   25/12/2018 - 😍 📄 [The Font Loading Checklist](https://www.zachleat.com/web/font-checklist/)
 -   25/12/2018 - 📄 [Managing Flow and Rhythm with CSS Custom Properties](https://24ways.org/2018/managing-flow-and-rhythm-with-css-custom-properties)
 -   27/12/2018 - 📄 [Beware of text-size-adjust none](https://www.456bereastreet.com/archive/201011/beware_of_-webkit-text-size-adjustnone/)
+-   27/12/2018 - 📄 [Jir, Sushi & Web Type](https://trentwalton.com/2012/06/08/jiro-sushi-web-type/)
 
 ### Design Systems
 
