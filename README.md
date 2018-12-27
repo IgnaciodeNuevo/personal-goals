@@ -324,6 +324,7 @@ Personal goals made open source across computers I use.
 -   01/10/2018 - 📄 [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
 -   13/11/2018 - 📄 [The trick to viewport units on mobile](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
 -   13/11/2018 - 📄 [There’s no reason to use pointer-events for HTML elements](https://bitsofco.de/theres-no-reason-to-use-pointer-events-for-html-elements/)
+-   27/12/2018 - 📄 [A tale of two viewports — part two](https://quirksmode.org/mobile/viewports2.html)
 
 ### Feature Queries
 
