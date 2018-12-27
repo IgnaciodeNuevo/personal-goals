@@ -861,6 +861,7 @@ Personal goals made open source across computers I use.
 -   21/12/2018 - 📄 [Jank-Free Image Loads](https://24ways.org/2018/jank-free-image-loads/)
 -   24/12/2018 - 📄 [All about prefetching](https://calendar.perfplanet.com/2018/all-about-prefetching/)
 -   25/12/2018 - 📄 [Performance-Driven Development](https://calendar.perfplanet.com/2018/performance-driven-development/)
+-   27/12/2018 - 📄 [Getting started with web performance: 2019 beginner’s guide](https://calendar.perfplanet.com/2018/getting-started-with-web-performance-2019-beginners-guide/)
 
 ### Critical Path
 
