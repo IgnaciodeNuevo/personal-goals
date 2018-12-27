@@ -332,6 +332,7 @@ Personal goals made open source across computers I use.
 -   22/12/2018 - 📄 [Keep Math in the CSS](https://css-tricks.com/keep-math-in-the-css/)
 -   24/12/2018 - 📄 [When do the :hover, :focus, and :active pseudo-classes apply?](https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/)
 -   24/12/2018 - 📄 [Multi-Line Padded Text](https://css-tricks.com/multi-line-padded-text/)
+-   27/12/2018 - 📄 [Unitless line-heights](https://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
 </details>
 
 ### CSS Units
@@ -348,6 +349,7 @@ Personal goals made open source across computers I use.
 -   01/10/2018 - 📄 [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
 -   13/11/2018 - 📄 [The trick to viewport units on mobile](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
 -   13/11/2018 - 📄 [There’s no reason to use pointer-events for HTML elements](https://bitsofco.de/theres-no-reason-to-use-pointer-events-for-html-elements/)
+-   27/12/2018 - 📄 [A tale of two viewports — part two](https://quirksmode.org/mobile/viewports2.html)
 </details>
 
 ### Feature Queries
@@ -731,6 +733,7 @@ Personal goals made open source across computers I use.
 -   21/12/2018 - 📄 [Supporting older browsers 2/4: CSS](https://zellwk.com/blog/older-browsers-css/)
 -   21/12/2018 - 📄 [Supporting older browsers 3/4: JavaSript](https://zellwk.com/blog/older-browsers-js/)
 -   21/12/2018 - 📄 [Stop Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
+-   27/12/2018 - 📄 [Taking care of your dependencies](https://sirikon.me/post/taking-care-of-your-dependencies/)
 </details>
 
 ### Task tools
@@ -940,6 +943,7 @@ Personal goals made open source across computers I use.
 -   21/12/2018 - 📄 [Jank-Free Image Loads](https://24ways.org/2018/jank-free-image-loads/)
 -   24/12/2018 - 📄 [All about prefetching](https://calendar.perfplanet.com/2018/all-about-prefetching/)
 -   25/12/2018 - 📄 [Performance-Driven Development](https://calendar.perfplanet.com/2018/performance-driven-development/)
+-   27/12/2018 - 📄 [Getting started with web performance: 2019 beginner’s guide](https://calendar.perfplanet.com/2018/getting-started-with-web-performance-2019-beginners-guide/)
 </details>
 
 ### Critical Path
@@ -1044,6 +1048,8 @@ Personal goals made open source across computers I use.
 -   08/12/2018 - 🎥 [How to Load Web Fonts in 2019](https://www.youtube.com/watch?v=s-G1m23Emlk)
 -   25/12/2018 - 😍 📄 [The Font Loading Checklist](https://www.zachleat.com/web/font-checklist/)
 -   25/12/2018 - 📄 [Managing Flow and Rhythm with CSS Custom Properties](https://24ways.org/2018/managing-flow-and-rhythm-with-css-custom-properties)
+-   27/12/2018 - 📄 [Beware of text-size-adjust none](https://www.456bereastreet.com/archive/201011/beware_of_-webkit-text-size-adjustnone/)
+-   27/12/2018 - 📄 [Jir, Sushi & Web Type](https://trentwalton.com/2012/06/08/jiro-sushi-web-type/)
 </details>
 
 ### Design Systems
