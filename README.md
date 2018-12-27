@@ -959,6 +959,7 @@ Personal goals made open source across computers I use.
 -   08/12/2018 - 🎥 [How to Load Web Fonts in 2019](https://www.youtube.com/watch?v=s-G1m23Emlk)
 -   25/12/2018 - 😍 📄 [The Font Loading Checklist](https://www.zachleat.com/web/font-checklist/)
 -   25/12/2018 - 📄 [Managing Flow and Rhythm with CSS Custom Properties](https://24ways.org/2018/managing-flow-and-rhythm-with-css-custom-properties)
+-   27/12/2018 - 📄 [Beware of text-size-adjust none](https://www.456bereastreet.com/archive/201011/beware_of_-webkit-text-size-adjustnone/)
 
 ### Design Systems
 
