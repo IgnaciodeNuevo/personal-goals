@@ -946,7 +946,8 @@ Personal goals made open source across computers I use.
 -   25/12/2018 - 📄 [Performance-Driven Development](https://calendar.perfplanet.com/2018/performance-driven-development/)
 -   27/12/2018 - 📄 [Getting started with web performance: 2019 beginner’s guide](https://calendar.perfplanet.com/2018/getting-started-with-web-performance-2019-beginners-guide/)
 -   31/12/2018 - 📄 [Image Optimization](https://www.youtube.com/watch?v=jTXhYj2aCDU)
--   31/12/2018 - 📄 [Paul Irish | The Latest in Metrics & Measurement](https://www.youtube.com/watch?v=XvZ7-Uh0R4Q)
+-   31/12/2018 - 📄 [The Latest in Metrics & Measurement](https://www.youtube.com/watch?v=XvZ7-Uh0R4Q)
+-   31/12/2018 - 📄 [Building a Foundation for Performance](https://www.youtube.com/watch?v=FBeR6QvroEQ)
 </details>
 
 ### Perf Reviews
