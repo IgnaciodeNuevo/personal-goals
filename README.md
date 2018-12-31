@@ -48,6 +48,7 @@ Personal goals made open source across computers I use.
 1. [Refactoring UI](#refactoring-ui)
 1. [a11y](#a11y)
 1. [Perf](#perf)
+1. [Perf Reviews](#perf-reviews)
 1. [Critical Path](#critical-path)
 1. [Typography](#typography)
 1. [Design Systems](#design-systems)
@@ -83,7 +84,7 @@ Personal goals made open source across computers I use.
 ### Projects
 <details>
   <summary>Expandir</summary>
-  
+
 -   💡 [WeCodeSign Podcast's Website](http://wecodesignpodcast.com/)
 -   💡 [Open Source Weekends Website](https://osweekends.github.io)
 -   💡 19/12/2016 - [Semillasocial](https://www.semillasocial.org)
@@ -92,7 +93,7 @@ Personal goals made open source across computers I use.
 ### Big Improvements
 <details>
   <summary>Expandir</summary>
-  
+
 -   🚀 Flexbox
 -   🚀 Curso Intensivo CSS3 Wakkos
 -   🚀 Review Trazos Master's theme
@@ -110,7 +111,7 @@ Personal goals made open source across computers I use.
 ### Books
 <details>
   <summary>Expandir</summary>
-  
+
 -   📕 [Designing for Performance](http://designingforperformance.com)
 -   📕 [Mobile First](https://abookapart.com/products/mobile-first)
 -   📕 [SMACSS](https://smacss.com)
@@ -138,7 +139,7 @@ Personal goals made open source across computers I use.
 ### Podcasts
 <details>
   <summary>Expandir</summary>
-  
+
 -   🎼 [base.cs](https://www.codenewbie.org/basecs)
 -   🎼 [Basta ya de picar](http://www.bastayadepicar.com/)
 -   🎼 [betabeers](http://www.ivoox.com/podcast-betabeers-podcast_sq_f1334967_1.html)
@@ -185,7 +186,7 @@ Personal goals made open source across computers I use.
 ### HTML
 <details>
   <summary>Expandir</summary>
-  
+
 -   02/10/2017 - 📄 [I’ve seen the future, it’s full of HTML.](https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210)
 -   27/12/2017 - 😍 📄 [An Overview of HTML5 Semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
 -   12/01/2018 - 📄 [What’s New in HTML 5.2?](https://bitsofco.de/whats-new-in-html-5-2/)
@@ -205,7 +206,7 @@ Personal goals made open source across computers I use.
 ### Cascade and Specificity
 <details>
   <summary>Expandir</summary>
-  
+
 -   07/11/2017 - 😍 📄 [CSS Specificity - Things You Should Know](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
 -   07/11/2017 - 📄 [CSS Specificity And Inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)
 -   09/11/2017 - 📄 [Inherit, Initial and Unset Values for CSS Properties](https://alligator.io/css/inherit-initial-unset/)
@@ -224,7 +225,7 @@ Personal goals made open source across computers I use.
 ### CSS
 <details>
   <summary>Expandir</summary>
-  
+
 -   01/11/2016 - 🎥 [CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
 -   03/11/2016 - 🎥 [Lessons Learned From Building Your Own CSS FrameworkN](https://www.youtube.com/watch?v=QOVNb-DzZdA)
 -   30/11/2016 - 🎥 [Lourdes Montano - Methods to Organize Your Learning Process in CSS - CascadiaFest 2016](https://www.youtube.com/watch?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe&v=IwMDKB27_ko)
@@ -338,7 +339,7 @@ Personal goals made open source across computers I use.
 ### CSS Units
 <details>
   <summary>Expandir</summary>
-  
+
 -   02/08/2017 - 😍 📄 [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
 -   15/08/2017 - 📄 [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/)
 -   20/10/2017 - 📄 [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
@@ -355,7 +356,7 @@ Personal goals made open source across computers I use.
 ### Feature Queries
 <details>
   <summary>Expandir</summary>
-  
+
 -   27/05/2017 - 📄 [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 -   28/05/2017 - 📄 [Cascading Web Design with Feature Queries](https://24ways.org/2017/cascading-web-design/)
 -   08/11/2018 - 📄 [Using Feature Detection to Write CSS with Cross-Browser Support](https://css-tricks.com/using-feature-detection-to-write-css-with-cross-browser-support/)
@@ -364,7 +365,7 @@ Personal goals made open source across computers I use.
 ### Container Queries
 <details>
   <summary>Expandir</summary>
-  
+
 -   06/09/2017 - 📄 [Element Queries: the Future of Responsive Web Design](https://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
 -   12/01/2018 - 🎥 [dotCSS 2017 - Jonathan Snook - Container Queries](https://www.youtube.com/watch?v=s1J4T1NW3qo)
 -   12/01/2018 - 📄 [Thoughts on a Syntax for Element Queries](https://codepen.io/tomhodgins/post/thoughts-on-a-syntax-for-element-queries)
@@ -374,7 +375,7 @@ Personal goals made open source across computers I use.
 ### Responsive Images
 <details>
   <summary>Expandir</summary>
-  
+
 -   02/11/2016 - 🎥 [Responsive Images Are Here. Now What? by Jason Grigsby](https://vimeo.com/177732167)
 -   09/10/2017 - 📄 [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
 -   17/11/2018 - 📄 [Image Inconsistencies: How and When Browsers Download Images](https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/)
@@ -387,7 +388,7 @@ Personal goals made open source across computers I use.
 ### Flexbox
 <details>
   <summary>Expandir</summary>
-  
+
 -   01/01/2016 - 🎥 [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 -   05/03/2018 - 📄 [Space-between, por favor](https://robertotunon.com/space-between-por-favor/)
 -   13/11/2018 - 📄 [The peculiar magic of flexbox and auto margins](https://css-tricks.com/the-peculiar-magic-of-flexbox-and-auto-margins/)
@@ -397,7 +398,7 @@ Personal goals made open source across computers I use.
 ### Grid vs Flexbox
 <details>
   <summary>Expandir</summary>
-  
+
 -   20/10/2017 - 📄 [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 -   25/12/2017 - 📄 [How should we resolve percentage margins and padding on grid and flex items?](https://www.w3.org/blog/CSS/2017/12/20/how-should-we-resolve-percentage-margins-and-padding-on-grid-and-flex-items/)
 -   12/01/2018 - 📄 [Fun Times With Sizing Grid Elements](https://css-tricks.com/fun-times-sizing-grid-elements/)
@@ -406,7 +407,7 @@ Personal goals made open source across computers I use.
 ### CSS Grid Layout
 <details>
   <summary>Expandir</summary>
-  
+
 -   01/11/2016 - 🎥 [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
 -   27/05/2017 - 📄 [CSS Grid Layout Module Level 1 Specification](https://www.w3.org/TR/css-grid-1/)
 -   27/05/2017 - 📄 [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
@@ -510,7 +511,7 @@ Personal goals made open source across computers I use.
 ### Multi Column Layout
 <details>
   <summary>Expandir</summary>
-  
+
 -   09/08/2017 - 📄 [Changes to the Grid Spec and taking on Multi-Column layout](https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/)
 -   20/10/2017 - 😍 📄 [Exploring Multi-Column Layouts in CSS](https://alligator.io/css/multi-column-layouts/)
 -   09/02/2018 - 📄 [CSS Grid + CSS Multi-Columns = ♥](https://medium.com/@patrickbrosset/css-grid-css-multi-columns-7664f59bb60c)
@@ -519,7 +520,7 @@ Personal goals made open source across computers I use.
 ### Animation
 <details>
   <summary>Expandir</summary>
-  
+
 -   28/12/2017 - 📄 [Stop Leaving Animation to the Last Minute](https://24ways.org/2017/stop-leaving-animation-to-the-last-minute/)
 -   28/12/2017 - 📄 [Animating Border](https://css-tricks.com/animating-border/)
 -   14/01/2018 - 📄 [Can CSS Custom Properties update animation durations on the fly?](https://benfrain.com/can-css-custom-properties-update-animation-durations-on-the-fly/)
@@ -553,7 +554,7 @@ Personal goals made open source across computers I use.
 ### Custom Properties
 <details>
   <summary>Expandir</summary>
-  
+
 -   08/07/2017 - 📄 [Locally Scoped CSS Variables - What, How, and Why](https://una.im/local-css-vars/#💁)
 -   11/07/2017 - 📄 [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
 -   11/07/2017 - 📄 [Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/)
@@ -596,7 +597,7 @@ Personal goals made open source across computers I use.
 ### CSS Architecture and Naming
 <details>
   <summary>Expandir</summary>
-  
+
 -   23/11/2016 - 🎥 [Manage large CSS projects with ITCSS](https://www.youtube.com/watch?v=hz76JIU_xB0)
 -   24/11/2016 - 🎥 [Managing CSS Projects with ITCSS](https://www.youtube.com/watch?v=1OKZOV-iLj4)
 -   26/07/2017 - 🎥 [Organizing CSS with OOCSS, SMACSS, and BEM](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
@@ -659,7 +660,7 @@ Personal goals made open source across computers I use.
 ### Refactoring CSS
 <details>
   <summary>Expandir</summary>
-  
+
 -   31/12/2016 - 🎥 [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 -   27/06/2017 - 🎥 [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=kbGYPm9uYfk)
 -   26/07/2017 - 🎥 [Refactoring Legacy CSS](https://www.youtube.com/watch?v=nCPAFcMf8qc)
@@ -676,7 +677,7 @@ Personal goals made open source across computers I use.
 ### Sass
 <details>
   <summary>Expandir</summary>
-  
+
 -   31/07/2017 - 📄 [Susy 3](https://medium.com/oddbird-web/welcome-to-susy3-a0127e594b53)
 -   31/07/2017 - 📄 [Advanced SCSS](https://gist.github.com/jareware/4738651)
 -   31/07/2017 - 📄 [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/)
@@ -689,14 +690,14 @@ Personal goals made open source across computers I use.
 ### Stylable
 <details>
   <summary>Expandir</summary>
-  
+
 -   28/12/2017 - 📄 [Styling Components - Typed CSS With Stylable](https://24ways.org/2017/styling-components-typed-css-with-stylable/)
 </details>
 
 ### General Frontend
 <details>
   <summary>Expandir</summary>
-  
+
 -   25/12/2016 - 😍 🎥 [What Comes Next Is the Future 2016](https://vimeo.com/177267839)
 -   26/11/2017 - 🎥 [¿Qué es un Senior Developer? - LUIS G. VALLE](https://www.youtube.com/watch?v=Vp0mR0XUrGo)
 -   30/11/2017 - 🎥 [dotCSS 2014 - Harry Roberts - 10 Principles for effective Front-end Development](https://www.youtube.com/watch?v=CiMGKZpnHQE)
@@ -739,7 +740,7 @@ Personal goals made open source across computers I use.
 ### Task tools
 <details>
   <summary>Expandir</summary>
-  
+
 -   21/10/2016 - 🚀 [Crea tu workflow front-end con Gulp.js](https://www.youtube.com/watch?v=gsxSoPjz0XY&list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf)
 -   13/10/2018 - 📄 [Working with Gulp step by step](https://medium.com/@jontorrado/working-with-gulp-step-by-step-e0d5fe2d2f23)
 -   13/10/2018 - 📄 [Working with Gulp (2)](https://medium.com/@jontorrado/working-with-gulp-2-19376bfdd077)
@@ -754,7 +755,7 @@ Personal goals made open source across computers I use.
 ### a11y
 <details>
   <summary>Expandir</summary>
-  
+
 -   01/01/2016 - 😍 🎥 [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 -   25/11/2016 - 🎥 [Accessibility for developers - Alistair Duggin](https://www.youtube.com/watch?v=msrcqmlAnLA)
 -   19/06/2017 - 📄 [CSS as a Testing / Accessibility-enforcing tool](https://medium.com/@amir.guirguis/css-as-a-testing-accessibility-enforcing-tool-76908cfad19f)
@@ -847,7 +848,7 @@ Personal goals made open source across computers I use.
 ### !Important Show
 <details>
   <summary>Expandir</summary>
-  
+
 -   04/11/2018 - 🎥 [Case study: basecamp.com](https://xotv.me/channels/22-important/vod_videos/1205-important-slash-slash-basecamp-dot-com-css-grid)
 -   04/11/2018 - 🎥 [Case study: gridtoflex.com](https://xotv.me/channels/22-important/vod_videos/1136-important-slash-slash-gridtoflex-dot-com)
 </details>
@@ -855,7 +856,7 @@ Personal goals made open source across computers I use.
 ### Hilos Sego
 <details>
   <summary>Expandir</summary>
-  
+
 -   18/02/2018 - 📄 [Springfield](https://twitter.com/SeGo/status/957176037359661056)
 -   18/02/2018 - 📄 [Seguridad Social](https://twitter.com/sego/status/959722511746457601)
 -   18/02/2018 - 📄 [Zara](https://twitter.com/SeGo/status/962255893663502336)
@@ -872,7 +873,7 @@ Personal goals made open source across computers I use.
 ### Perf
 <details>
   <summary>Expandir</summary>
-  
+
 -   01/01/2016 - 🎥 [Totally Tooling Tips](https://www.youtube.com/watch?v=6LQJtH90-aA&index=1&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
 -   11/12/2016 - 🎥 [Optimise your Web Development Workflow - Umar Hansa](https://www.youtube.com/watch?v=N33lYfsAsoU)
 -   01/08/2017 - 📄 [Performance and Resilience - Stress-Testing Third Parties](https://csswizardry.com/2017/07/performance-and-resilience-stress-testing-third-parties/)
@@ -946,10 +947,16 @@ Personal goals made open source across computers I use.
 -   27/12/2018 - 📄 [Getting started with web performance: 2019 beginner’s guide](https://calendar.perfplanet.com/2018/getting-started-with-web-performance-2019-beginners-guide/)
 </details>
 
+### Perf Reviews
+<details>
+  <summary>Expandir</summary>
+-   27/12/2018 - 📄 [PerfReviews 1.1 - mediamarkt.es](https://www.youtube.com/watch?v=xD8MbFUZPKQ)
+<details>
+
 ### Critical Path
 <details>
   <summary>Expandir</summary>
-  
+
 -   23/08/2017 - 📄 [Optimización de fuentes web](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization#webfonts_and_the_critical_rendering_path)
 -   15/05/2018 - 📄 [Render Blocking CSS](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css)
 -   15/05/2018 - 📄 [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
@@ -961,7 +968,7 @@ Personal goals made open source across computers I use.
 ### Typography
 <details>
   <summary>Expandir</summary>
-  
+
 -   27/05/2017 - 🎥 [A Chinese typography experiment - Talk.CSS](https://www.youtube.com/watch?v=tTV60oAk6Cs)
 -   19/06/2017 - 📄 [Responsive Typography Scales in CSS](https://blog.madewithenvy.com/responsive-typographic-scales-in-css-b9f60431d1c4)
 -   31/07/2017 - 😍 🎥 [Front End Center — Crafting Webfont Fallbacks](https://www.youtube.com/watch?v=tO01ul1WNW8)
@@ -1055,7 +1062,7 @@ Personal goals made open source across computers I use.
 ### Design Systems
 <details>
   <summary>Expandir</summary>
-  
+
 -   25/08/2017 - 📄 [Design Systems Sprint 0: The Silver Bullet of Product Development](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
 -   25/08/2017 - 📄 [Design Systems Sprint 1: The Interface Inventory](https://medium.com/@marcintreder/design-systems-sprint-1-the-interface-inventory-1f78d376e49a)
 -   25/08/2017 - 📄 [Design Systems Sprint 2: One Color Palette to Rule them All](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
@@ -1080,7 +1087,7 @@ Personal goals made open source across computers I use.
 ### Design
 <details>
   <summary>Expandir</summary>
-  
+
 -   01/11/2016 - 🎥 [Effective Wireframes - UxBrighton June 2016](https://vimeo.com/170385312)
 -   30/12/2016 - 🎥 [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc)
 -   08/07/2017 - 📄 [Build a Style Guide Straight from Sass](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/)
@@ -1148,7 +1155,7 @@ Personal goals made open source across computers I use.
 ### SVG
 <details>
   <summary>Expandir</summary>
-  
+
 -   17/08/2017 - 📄 [SVG can do THAT?!](http://slides.com/sdrasner/svg-can-do-that#/)
 -   25/08/2017 - 😍 📄 [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
 -   01/09/2017 - 😍 🎥 [Front End Center — Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
@@ -1173,7 +1180,7 @@ Personal goals made open source across computers I use.
 ### UX
 <details>
   <summary>Expandir</summary>
-  
+
 -   24/08/2017 - 📄 [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 -   02/10/2017 - 📄 [Charming interfaces – make your users smile](https://axesslab.com/humor/)
 -   08/11/2017 - 💊 [Links vs Buttons](https://codepen.io/AmeliaBR/full/RjaqrN/)
@@ -1191,7 +1198,7 @@ Personal goals made open source across computers I use.
 ### JavaScript
 <details>
   <summary>Expandir</summary>
-  
+
 -   15/11/2016 - 🎥 [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 -   15/11/2016 - 🎥 [Emanuel Kluge - Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
 -   25/11/2016 - 🎥 [Addy Osmani - Object.observe](https://www.youtube.com/watch?v=mfOh-J-9BY0)
@@ -1325,7 +1332,7 @@ Personal goals made open source across computers I use.
 ### JavaScript Patterns
 <details>
   <summary>Expandir</summary>
-  
+
 -   02/10/2018 - 📄 [JavaScript Design Patterns: The Observer Pattern](https://www.sitepoint.com/javascript-design-patterns-observer-pattern/)
 -   25/11/2018 - 📄 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 -   25/11/2018 - 📄 [Asynchronous Patterns in JavaScript](https://blog.bloomca.me/2018/03/24/async-patterns-js.html)
@@ -1336,14 +1343,14 @@ Personal goals made open source across computers I use.
 ### JavaScript Security
 <details>
   <summary>Expandir</summary>
-  
+
 -   12/01/2018 - 📄 [The Spectre Attack and Critical CSS](https://www.filamentgroup.com/lab/spectre-js-cookie.html)
 </details>
 
 ### Progressive Web Apps
 <details>
   <summary>Expandir</summary>
-  
+
 -   25/11/2018 - 📄 [Web workers vs Service workers vs Worklets](https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/)
 -   28/11/2018 - 📄 [Inlining or Caching? Both Please!](https://www.filamentgroup.com/lab/inlining-cache.html)
 -   28/11/2018 - 📄 [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
@@ -1359,14 +1366,14 @@ Personal goals made open source across computers I use.
 ### TypeScript
 <details>
   <summary>Expandir</summary>
-  
+
 -   29/03/2018 - 📄 [Typescript: cast an object to other type. How? And instanceof or typeof?](https://acdcjunior.github.io/typescript-cast-object-to-other-type-or-instanceof.html)
 </details>
 
 ### Angular
 <details>
   <summary>Expandir</summary>
-  
+
 -   15/12/2016 - 🎥 [Curso de Angular 2](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd)
 -   15/12/2016 - 🎥 [Curso de Angular 2 desde el @CampusMadrid de Google](https://www.youtube.com/watch?v=YVVjXpquzBE)
 -   16/12/2016 - 🎥 [Get Started with Angular 2](https://egghead.io/courses/angular-2-fundamentals)
@@ -1375,7 +1382,7 @@ Personal goals made open source across computers I use.
 ### React
 <details>
   <summary>Expandir</summary>
-  
+
 -   18/05/2017 - 📄 [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
 -   18/05/2017 - 📄 [Teaching React without using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)
 -   18/05/2017 - 📄 [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
@@ -1414,7 +1421,7 @@ Personal goals made open source across computers I use.
 ### Vue
 <details>
   <summary>Expandir</summary>
-  
+
 -   22/08/2017 - 🎥 [Cómo empezar con Vue.js | Primeros pasos con Vue](https://www.youtube.com/watch?v=L0F4OPPsm0c)
 -   15/05/2018 - 📄 [Progressive Image Rendering in Vue.js with v-lazy-image](https://alligator.io/vuejs/progressive-image-rendering/)
 -   16/05/2018 - 📄 [Building a Modal Component with Vue.js](https://alligator.io/vuejs/vue-modal-component/)
@@ -1427,21 +1434,21 @@ Personal goals made open source across computers I use.
 ### GraphQL
 <details>
   <summary>Expandir</summary>
-  
+
 -   15/10/2018 - 🎥 [Implementing and Using GraphQL at GitHub](https://www.youtube.com/watch?v=wPPFhcqGcvk)
 </details>
 
 ### Razor Pages
 <details>
   <summary>Expandir</summary>
-  
+
 -   12/02/2018 - 📄 [Using Razor Pages to simplify basic actions in ASP.NET Core 2.0 preview 1](https://andrewlock.net/using-razorpages-to-simplify-basic-actions-in-asp-net-core-2-0-preview-1/)
 </details>
 
 ### Git
 <details>
   <summary>Expandir</summary>
-  
+
 -   30/07/2017 - 📄 [Comandos de Git - Rebase](https://inside.runroom.com/comandos-de-git-rebase/)
 -   08/08/2017 - 📄 [Squash your commits with git rebase](https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase)
 -   24/09/2017 - 📄 [When to make a Git Commit](https://dev.to/gonedark/when-to-make-a-git-commit)
@@ -1453,14 +1460,14 @@ Personal goals made open source across computers I use.
 ### Command Line
 <details>
   <summary>Expandir</summary>
-  
+
 -   03/02/2018 - 📄 [To CLI or not to CLI, that is the question](https://www.youtube.com/watch?v=33uJPrrYRLI)
 </details>
 
 ### DevTools
 <details>
   <summary>Expandir</summary>
-  
+
 -   13/10/2017 - 🎥 [Modern DevTools - Running a performance profile on the YouTube search box](https://www.youtube.com/watch?v=E4KAWf_fKbM)
 -   28/10/2017 - 🎥 [Modern Tooling, Testing, and Automation (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=7-XnEMrQnn4)
 -   01/11/2017 - 🎥 [DevTools (Chrome/Firefox)](https://www.youtube.com/watch?v=hQ3zvTyPjNg)
@@ -1474,7 +1481,7 @@ Personal goals made open source across computers I use.
 ### Engine Internals
 <details>
   <summary>Expandir</summary>
-  
+
 -   25/02/2018 - 🎥 [JavaScript Engine Internals for JavaScript Developers](https://vimeo.com/254852822)
 -   12/11/2018 - 📄 [Browser painting and considerations for web performance](https://css-tricks.com/browser-painting-and-considerations-for-web-performance/)
 -   25/11/2018 - 📄 [How JavaScript works: the rendering engine and tips to optimize its performance](https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda)
@@ -1483,7 +1490,7 @@ Personal goals made open source across computers I use.
 ### Static Site Generators
 <details>
   <summary>Expandir</summary>
-  
+
 -   31/12/2016 - 📄 [How I’m Using Jekyll in 2016 × Made Mistakes](https://mademistakes.com/articles/using-jekyll-2016/)
 -   31/12/2016 - 🎥 [SEO in Jekyll](https://www.youtube.com/watch?v=dExYSVImSJc&list=PLUybESC8Y06q_aV6D-ow9mmOQzc3-UnXq)
 -   01/01/2017 - 🎥 [Jekyll Casts - Jekyll Static Site Generator](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh)
@@ -1518,7 +1525,7 @@ Personal goals made open source across computers I use.
 ### Testing
 <details>
   <summary>Expandir</summary>
-  
+
 -   18/08/2017 - 🎥 [TW Hangouts | Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo)
 -   21/10/2017 - 🎥 [Anti-patrones de test - Infrastructure Mocking](https://www.youtube.com/watch?v=XbkjUz20pOk)
 -   21/10/2017 - 🎥 [Anti-patrones de test - Swot testing (test empollón)](https://www.youtube.com/watch?v=Y-UOIxncAI0)
@@ -1536,7 +1543,7 @@ Personal goals made open source across computers I use.
 ### Linting
 <details>
   <summary>Expandir</summary>
-  
+
 -   26/10/2017 - 📄 [Prettier + Stylelint, Writing Very Clean CSS](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)
 -   26/10/2017 - 📄 [Lint your CSS with stylelint](https://css-tricks.com/stylelint/)
 -   26/10/2017 - 📄 [Enforcing CSS Syntax Style (and more!)](https://css-tricks.com/enforcing-css-syntax-style/)
@@ -1545,14 +1552,14 @@ Personal goals made open source across computers I use.
 ### Object Oriented Programming
 <details>
   <summary>Expandir</summary>
-  
+
 -   05/02/2018 - 🎥 [Desorientados a Objetos - MODESTO SAN JUAN](https://www.youtube.com/watch?v=qesB3BvcWjA)
 </details>
 
 ### Software Crafting
 <details>
   <summary>Expandir</summary>
-  
+
 -   09/08/2017 - 🎥 [Eduardo Ferro - El patadón palante. Posponer decisiones en CAS Vitoria 2016](https://www.youtube.com/watch?v=vEr2xbNoUxM)
 -   13/08/2017 - 🎥 [Antonio de la Torre - Comunidades de necesidad vs comunidades de soluciones en CAS Vitoria 2016](https://www.youtube.com/watch?v=jzV7pMshyic)
 -   13/08/2017 - 🎥 [Sandro Mancuso/Masook Badar - Curing Agile Hangover with Craftsmanship](https://vimeo.com/44243846)
@@ -1575,7 +1582,7 @@ Personal goals made open source across computers I use.
 ### Mentoring
 <details>
   <summary>Expandir</summary>
-  
+
 -   26/10/2017 - 📄 [Mentorship in Software Craftsmanship 1/3](https://codurance.com/2011/10/05/mentoring-in-software-craftsmanship/)
 -   26/10/2017 - 📄 [Mentorship in Software Craftsmanship 2/3](https://codurance.com/2011/10/10/mentoring-in-software-craftsmanship_09/)
 -   26/10/2017 - 📄 [Mentorship in Software Craftsmanship 3/3](https://codurance.com/2011/10/28/mentorship-in-software-craftsmanship/)
@@ -1592,7 +1599,7 @@ Personal goals made open source across computers I use.
 ### Octuweb
 <details>
   <summary>Expandir</summary>
-  
+
 -   18/09/2017 - 📄 [¿Y si WordPress está dañando el sector del diseño y desarrollo web?](https://octuweb.com/wordpress-sector-diseno-desarrollo-web/)
 -   02/10/2017 - 📄 [CSS al rescate: UX y Formularios](https://octuweb.com/css-al-rescate-ux-formularios/)
 -   09/10/2017 - 📄 [Motion Craftsmanship](https://octuweb.com/motion-craftsmanship/)
@@ -1625,7 +1632,7 @@ Personal goals made open source across computers I use.
 ### Career
 <details>
   <summary>Expandir</summary>
-  
+
 -   26/10/2017 - 🎥 [Being A Developer After 40 (App Builders Switzerland 2016)](https://www.youtube.com/watch?v=GQx_beRMHVg)
 -   22/10/2018 - 📄 [How I'm dealing with Imposter Syndrome and Stress](https://dev.to/helenanders26/how-im-dealing-with-imposter-syndrome-and-stress-4fdm)
 -   11/11/2017 - 🎥 [The big fails theory](https://www.youtube.com/watch?v=u4j5U8ldrcI)
@@ -1636,7 +1643,7 @@ Personal goals made open source across computers I use.
 ### Documentation
 <details>
   <summary>Expandir</summary>
-  
+
 -   12/01/2018 - 📄 [8 Best Practices for Perfect CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139)
 -   14/01/2018 - 📄 [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/)
 -   14/01/2018 - 📄 [Designing Better Design Documentation](https://medium.muz.li/design-docs-6bb34589f7a9)
@@ -1645,7 +1652,7 @@ Personal goals made open source across computers I use.
 ### Other resources
 <details>
   <summary>Expandir</summary>
-  
+
 -   01/01/2016 - 🎥 [Mastering Markdown](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
 -   04/11/2016 - 🎥 [Supercharged](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
 -   06/11/2016 - 🎥 [HTTP2](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e)
