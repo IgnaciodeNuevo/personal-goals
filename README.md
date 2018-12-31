@@ -945,6 +945,7 @@ Personal goals made open source across computers I use.
 -   24/12/2018 - 📄 [All about prefetching](https://calendar.perfplanet.com/2018/all-about-prefetching/)
 -   25/12/2018 - 📄 [Performance-Driven Development](https://calendar.perfplanet.com/2018/performance-driven-development/)
 -   27/12/2018 - 📄 [Getting started with web performance: 2019 beginner’s guide](https://calendar.perfplanet.com/2018/getting-started-with-web-performance-2019-beginners-guide/)
+-   31/12/2018 - 📄 [Image Optimization](https://www.youtube.com/watch?v=jTXhYj2aCDU)
 </details>
 
 ### Perf Reviews
