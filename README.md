@@ -950,7 +950,8 @@ Personal goals made open source across computers I use.
 ### Perf Reviews
 <details>
   <summary>Expandir</summary>
--   27/12/2018 - 📄 [PerfReviews 1.1 - mediamarkt.es](https://www.youtube.com/watch?v=xD8MbFUZPKQ)
+-   31/12/2018 - 📄 [PerfReviews 1.1 - mediamarkt.es](https://www.youtube.com/watch?v=xD8MbFUZPKQ)
+-   31/12/2018 - 📄 [PerfReviews 1.2 - elcorteingles.es](https://www.youtube.com/watch?v=yyLAPxgwSGM)
 <details>
 
 ### Critical Path
