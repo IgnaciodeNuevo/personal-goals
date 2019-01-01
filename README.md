@@ -949,6 +949,7 @@ Personal goals made open source across computers I use.
 -   31/12/2018 - 📄 [The Latest in Metrics & Measurement](https://www.youtube.com/watch?v=XvZ7-Uh0R4Q)
 -   31/12/2018 - 📄 [Building a Foundation for Performance](https://www.youtube.com/watch?v=FBeR6QvroEQ)
 -   31/12/2018 - 📄 [PWA Challenges](https://www.youtube.com/watch?v=1570FmnYtck)
+-   01/01/2019 - 📄 [Past, Present and Future of Resource Loading](https://www.youtube.com/watch?v=XwEKGuq_e0o)
 </details>
 
 ### Perf Reviews
