@@ -955,6 +955,7 @@ Personal goals made open source across computers I use.
 -   01/01/2019 - 📄 [Past, Present and Future of Resource Loading](https://www.youtube.com/watch?v=XwEKGuq_e0o)
 -   01/01/2019 - 📄 [The Long-Tail of Performance](https://www.youtube.com/watch?v=6vMvg38CXFk)
 -   01/01/2019 - 📄 [Debugging UI Performance Issues](https://www.youtube.com/watch?v=JGdIzKcAEkI)
+-   01/01/2019 - 📄 [Make JavaScript Faster](https://www.youtube.com/watch?v=RwSlubTBnew)
 </details>
 
 ### Perf Reviews
