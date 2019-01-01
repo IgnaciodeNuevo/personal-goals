@@ -2,9 +2,12 @@
 
 Personal goals made open source across computers I use.
 
-## Overarching Goals for 2018
+## Overarching Goals for 2019
 
 1. 📚 JavaScript!
+1. 📚 Web Perf
+1. 📚 Accessibility
+1. 📚 Web Typography
 
 ## Legend
 
