@@ -339,6 +339,7 @@ Personal goals made open source across computers I use.
 -   27/12/2018 - 📄 [Unitless line-heights](https://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
 -   02/01/2018 - 😍 🎥 [Line breaking](https://www.youtube.com/watch?v=r5PLrAoyhv0)
 -   02/01/2018 - 🎥 [Write Less CSS](https://www.youtube.com/watch?v=5tvHSwFR4-Y)
+-   02/01/2018 - 🎥 [What CSS taught me](https://www.youtube.com/watch?v=kBtDHWrRZ3Q)
 </details>
 
 ### CSS Units
