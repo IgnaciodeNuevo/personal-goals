@@ -341,6 +341,7 @@ Personal goals made open source across computers I use.
 -   02/01/2018 - 🎥 [Write Less CSS](https://www.youtube.com/watch?v=5tvHSwFR4-Y)
 -   02/01/2018 - 🎥 [What CSS taught me](https://www.youtube.com/watch?v=kBtDHWrRZ3Q)
 -   02/01/2018 - 🎥 [Don't write HTML the way George Lucas wrote Star Wars](https://www.youtube.com/watch?v=f9DV0CRopJk)
+-   02/01/2018 - 🎥 [i18n: A Brief Primer of Web Internationalization](https://www.youtube.com/watch?v=3c9Ard9Ffxc)
 </details>
 
 ### CSS Units
