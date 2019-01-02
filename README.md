@@ -337,6 +337,7 @@ Personal goals made open source across computers I use.
 -   24/12/2018 - 📄 [When do the :hover, :focus, and :active pseudo-classes apply?](https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/)
 -   24/12/2018 - 📄 [Multi-Line Padded Text](https://css-tricks.com/multi-line-padded-text/)
 -   27/12/2018 - 📄 [Unitless line-heights](https://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
+-   02/01/2018 - 🎥  [Line breaking](https://www.youtube.com/watch?v=r5PLrAoyhv0)
 </details>
 
 ### CSS Units
