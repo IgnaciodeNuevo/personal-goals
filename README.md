@@ -1712,4 +1712,5 @@ Personal goals made open source across computers I use.
 -   02/11/2018 - 🎥 [Masterclass: Http protocol](https://www.youtube.com/watch?v=VMtcVuokhuQ)
 -   27/11/2018 - 🎥 [Acercándonos a la programación funcional a través de la arquitectura hexagonal](https://www.youtube.com/watch?v=H8j3Vjhn2Xg)
 -   27/11/2018 - 😍 🎥 [TDD: Toxicity Driven Development](https://www.youtube.com/watch?v=oKVq7rHQ_-o)
+-   03/01/2018 - 🎥 [CSS at the Intersection](https://www.youtube.com/watch?v=MJVRKmA83LU)
 </details>
