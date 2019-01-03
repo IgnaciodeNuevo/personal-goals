@@ -343,6 +343,7 @@ Personal goals made open source across computers I use.
 -   02/01/2018 - 🎥 [Don't write HTML the way George Lucas wrote Star Wars](https://www.youtube.com/watch?v=f9DV0CRopJk)
 -   02/01/2018 - 🎥 [i18n: A Brief Primer of Web Internationalization](https://www.youtube.com/watch?v=3c9Ard9Ffxc)
 -   03/01/2018 - 🎥 [Not your usual CSS counters](https://www.youtube.com/watch?v=9OH45755NKs)
+-   03/01/2018 - 🎥 [Read color hex codes](https://www.youtube.com/watch?v=eqZqx6lRPe0)
 </details>
 
 ### CSS Units
