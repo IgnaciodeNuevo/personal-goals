@@ -342,6 +342,7 @@ Personal goals made open source across computers I use.
 -   02/01/2018 - 🎥 [What CSS taught me](https://www.youtube.com/watch?v=kBtDHWrRZ3Q)
 -   02/01/2018 - 🎥 [Don't write HTML the way George Lucas wrote Star Wars](https://www.youtube.com/watch?v=f9DV0CRopJk)
 -   02/01/2018 - 🎥 [i18n: A Brief Primer of Web Internationalization](https://www.youtube.com/watch?v=3c9Ard9Ffxc)
+-   03/01/2018 - 🎥 [Not your usual CSS counters](https://www.youtube.com/watch?v=9OH45755NKs)
 </details>
 
 ### CSS Units
@@ -1193,7 +1194,7 @@ Personal goals made open source across computers I use.
 -   16/11/2018 - 📄 [Building a responsive image](https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6)
 -   04/12/2018 - 📄 [Accessible SVG Icons with Inline Sprites](https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/)
 -   25/12/2018 - 📄 [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
--   01/03/2019 - 📄 [SVG Filters: A Mini Crash Course](https://www.youtube.com/watch?v=PHKLzpt-syI)
+-   01/03/2019 - 🎥 [SVG Filters: A Mini Crash Course](https://www.youtube.com/watch?v=PHKLzpt-syI)
 </details>
 
 ### UX
