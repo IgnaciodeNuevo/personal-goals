@@ -204,6 +204,7 @@ Personal goals made open source across computers I use.
 -   25/11/2018 - 📄 [Security and Performance Benefit from the rel=”noopener”](https://pineco.de/security-and-performance-benefit-from-the-rel-noopener/)
 -   27/11/2018 - 📄 [Native Lazy Loading on the Web](https://www.youtube.com/watch?v=x-BUe68grtY)
 -   25/12/2018 - 📄 [HTML Imputs](https://alligator.io/html/html5-inputs/)
+-   09/01/2018 - 📄 [Los Orígenes del lenguaje HTML](https://www.youtube.com/watch?v=FId9w-FMJJ0)
 </details>
 
 ### Cascade and Specificity
