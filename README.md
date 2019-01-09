@@ -873,8 +873,11 @@ Personal goals made open source across computers I use.
 -   18/02/2018 - 📄 [Zara](https://twitter.com/SeGo/status/962255893663502336)
 -   24/02/2018 - 📄 [El Corte Inglés](https://twitter.com/sego/status/967313957399744513)
 -   08/04/2018 - 📄 [Sevilla FC vs Bayern Munich](https://twitter.com/SeGo/status/977487709198536704)
+</details>
 
-### Refactoring UI
+### Refactoring UI
+<details>
+  <summary>Expandir</summary>
 
 -   11/05/2018 - 🎥 [Refactoring UI: WP Pusher Checkout Page](https://www.youtube.com/watch?v=5gdYHlYAKDY)
 -   11/05/2018 - 🎥 [Refactoring UI: Bad About](https://www.youtube.com/watch?v=S6-q5BheEYU)
@@ -969,9 +972,10 @@ Personal goals made open source across computers I use.
 ### Perf Reviews
 <details>
   <summary>Expandir</summary>
+
 -   31/12/2018 - 📄 [PerfReviews 1.1 - mediamarkt.es](https://www.youtube.com/watch?v=xD8MbFUZPKQ)
 -   31/12/2018 - 📄 [PerfReviews 1.2 - elcorteingles.es](https://www.youtube.com/watch?v=yyLAPxgwSGM)
-<details>
+</details>
 
 ### Critical Path
 <details>
