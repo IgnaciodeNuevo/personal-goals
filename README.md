@@ -136,7 +136,7 @@ Personal goals made open source across computers I use.
 -   04/09/2018 - 📕 [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
 -   12/09/2018 - 📕 [Practical SVG](https://abookapart.com/products/practical-svg)
 -   15/12/2018 - 📕 [Practical Responsive Images](https://payhip.com/b/yPep)
--   26/12/2018 - 📕 [Better Web Typography for a Better We](https://betterwebtype.com/)
+-   26/12/2018 - 📕 [Better Web Typography for a Better Web](https://betterwebtype.com/)
 </details>
 
 ### Podcasts
