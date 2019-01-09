@@ -976,6 +976,7 @@ Personal goals made open source across computers I use.
 
 -   31/12/2018 - 📄 [PerfReviews 1.1 - mediamarkt.es](https://www.youtube.com/watch?v=xD8MbFUZPKQ)
 -   31/12/2018 - 📄 [PerfReviews 1.2 - elcorteingles.es](https://www.youtube.com/watch?v=yyLAPxgwSGM)
+-   09/01/2018 - 📄 [PerfReviews 1.3 - zara.com](https://www.youtube.com/watch?v=QbJAf5Oa64Y)
 </details>
 
 ### Critical Path
