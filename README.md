@@ -1355,6 +1355,7 @@ Personal goals made open source across computers I use.
 -   20/12/2018 - 📄 [A one-line solution to highlighting search matches](https://bitsofco.de/a-one-line-solution-to-highlighting-search-matches/)
  -   21/12/2018 - 📄 [Scroll an element into the center of the viewport](https://hiddedevries.nl/en/blog/2018-12-10-scroll-an-element-into-the-center-of-the-viewport)
  -   21/12/2018 - 😍 📄 [The trick to viewport units on mobile](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
+ -   10/01/2018 - 📄 [The Promise of a Better Future](https://www.javascriptjanuary.com/blog/the-promise-of-a-better-future)
 </details>
 
 ### JavaScript Patterns
