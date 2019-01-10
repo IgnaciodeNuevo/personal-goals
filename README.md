@@ -338,13 +338,14 @@ Personal goals made open source across computers I use.
 -   24/12/2018 - 📄 [When do the :hover, :focus, and :active pseudo-classes apply?](https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/)
 -   24/12/2018 - 📄 [Multi-Line Padded Text](https://css-tricks.com/multi-line-padded-text/)
 -   27/12/2018 - 📄 [Unitless line-heights](https://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
--   02/01/2018 - 😍 🎥 [Line breaking](https://www.youtube.com/watch?v=r5PLrAoyhv0)
--   02/01/2018 - 🎥 [Write Less CSS](https://www.youtube.com/watch?v=5tvHSwFR4-Y)
--   02/01/2018 - 🎥 [What CSS taught me](https://www.youtube.com/watch?v=kBtDHWrRZ3Q)
--   02/01/2018 - 🎥 [Don't write HTML the way George Lucas wrote Star Wars](https://www.youtube.com/watch?v=f9DV0CRopJk)
--   02/01/2018 - 🎥 [i18n: A Brief Primer of Web Internationalization](https://www.youtube.com/watch?v=3c9Ard9Ffxc)
--   03/01/2018 - 🎥 [Not your usual CSS counters](https://www.youtube.com/watch?v=9OH45755NKs)
--   03/01/2018 - 🎥 [Read color hex codes](https://www.youtube.com/watch?v=eqZqx6lRPe0)
+-   02/01/2019 - 😍 🎥 [Line breaking](https://www.youtube.com/watch?v=r5PLrAoyhv0)
+-   02/01/2019 - 🎥 [Write Less CSS](https://www.youtube.com/watch?v=5tvHSwFR4-Y)
+-   02/01/2019 - 🎥 [What CSS taught me](https://www.youtube.com/watch?v=kBtDHWrRZ3Q)
+-   02/01/2019 - 🎥 [Don't write HTML the way George Lucas wrote Star Wars](https://www.youtube.com/watch?v=f9DV0CRopJk)
+-   02/01/2019 - 🎥 [i18n: A Brief Primer of Web Internationalization](https://www.youtube.com/watch?v=3c9Ard9Ffxc)
+-   03/01/2019 - 🎥 [Not your usual CSS counters](https://www.youtube.com/watch?v=9OH45755NKs)
+-   03/01/2019 - 🎥 [Read color hex codes](https://www.youtube.com/watch?v=eqZqx6lRPe0)
+-   10/01/2019 - 📄 [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
 </details>
 
 ### CSS Units
