@@ -346,6 +346,7 @@ Personal goals made open source across computers I use.
 -   03/01/2019 - 🎥 [Not your usual CSS counters](https://www.youtube.com/watch?v=9OH45755NKs)
 -   03/01/2019 - 🎥 [Read color hex codes](https://www.youtube.com/watch?v=eqZqx6lRPe0)
 -   10/01/2019 - 📄 [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
+-   10/01/2019 - 📄 [Multi-Line Inline Gradient](https://css-tricks.com/multi-line-inline-gradient/)
 </details>
 
 ### CSS Units
