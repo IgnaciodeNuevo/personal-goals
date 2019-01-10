@@ -1047,7 +1047,7 @@ Personal goals made open source across computers I use.
 -   24/02/2018 - 📄 [Understanding Web Fonts](https://css-tricks.com/understanding-web-fonts-getting/)
 -   28/02/2018 - 😍 📄 [Responsive Vertical Rhythm with CSS Custom Properties and CSS Calc](https://zellwk.com/blog/responsive-vertical-rhythm/)
 -   02/03/2018 - 📄 [Laissez-faire Font Smoothing and Anti-aliasing](https://www.zachleat.com/web/font-smooth/)
--   03/03/2018 - 📄 [Deep dive CSS: font metrics, line-height and vertical-align](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
+-   03/03/2018 - 😍 📄 [Deep dive CSS: font metrics, line-height and vertical-align](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 -   08/03/2018 - 📄 [CSS Baseline: The Good, The Bad And The Ugly](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
 -   11/03/2018 - 🎥 [Tim Brown - More Perfect Typography](https://vimeo.com/17079380)
 -   11/03/2018 - 🎥 [Tipografía del futuro para problemas del presente | T3chFest 2018](https://www.youtube.com/watch?v=WwN_WiRS9hE)
