@@ -749,6 +749,7 @@ Personal goals made open source across computers I use.
 -   21/12/2018 - 📄 [Supporting older browsers 3/4: JavaSript](https://zellwk.com/blog/older-browsers-js/)
 -   21/12/2018 - 📄 [Stop Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 -   27/12/2018 - 📄 [Taking care of your dependencies](https://sirikon.me/post/taking-care-of-your-dependencies/)
+-   10/01/2019 - 📄 [A comprehensive look back at front-end in 2018](https://blog.logrocket.com/a-comprehensive-look-back-at-frontend-in-2018-8122e724a802)
 </details>
 
 ### Task tools
