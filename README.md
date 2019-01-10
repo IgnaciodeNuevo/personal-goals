@@ -1084,6 +1084,7 @@ Personal goals made open source across computers I use.
 -   27/12/2018 - 📄 [Beware of text-size-adjust none](https://www.456bereastreet.com/archive/201011/beware_of_-webkit-text-size-adjustnone/)
 -   27/12/2018 - 📄 [Jir, Sushi & Web Type](https://trentwalton.com/2012/06/08/jiro-sushi-web-type/)
 -   02/01/2018 - 🎥 [Variable Fonts and the Future of Web Design](https://www.youtube.com/watch?v=luAqYCd_TC8)
+-   10/01/2018 - 📄 [What is Typesetting?](https://alistapart.com/article/flexible-typesetting)
 </details>
 
 ### Design Systems
