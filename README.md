@@ -1222,7 +1222,8 @@ Personal goals made open source across computers I use.
 -   27/10/2018 - 😍 📄 [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 1)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/)
 -   27/10/2018 - 📄 [Creating meaningful micro-interactions](https://uxplanet.org/creating-meaningful-micro-interactions-99cbde1fbee7)
 -   22/12/2018 - 📄 [2019 UI and UX Design Trends](https://uxplanet.org/2019-ui-and-ux-design-trends-92dfa8323225)
--   10/01/2019 - 📄 [](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
+-   10/01/2019 - 📄 [Breaking down Amazon's mega dropdown](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
+-   10/01/2019 - 📄 [The Most Important Rule in UX Design that Everyone Breaks](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931)
 </details>
 
 ### JavaScript
