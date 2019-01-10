@@ -1355,7 +1355,7 @@ Personal goals made open source across computers I use.
 -   20/12/2018 - 📄 [A one-line solution to highlighting search matches](https://bitsofco.de/a-one-line-solution-to-highlighting-search-matches/)
  -   21/12/2018 - 📄 [Scroll an element into the center of the viewport](https://hiddedevries.nl/en/blog/2018-12-10-scroll-an-element-into-the-center-of-the-viewport)
  -   21/12/2018 - 😍 📄 [The trick to viewport units on mobile](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
- -   10/01/2018 - 📄 [The Promise of a Better Future](https://www.javascriptjanuary.com/blog/the-promise-of-a-better-future)
+ -   10/01/2019 - 📄 [The Promise of a Better Future](https://www.javascriptjanuary.com/blog/the-promise-of-a-better-future)
 </details>
 
 ### JavaScript Patterns
@@ -1390,6 +1390,7 @@ Personal goals made open source across computers I use.
 -   24/12/2018 - 🎥 [Going offline first 3/5: Creating an Offline Page](https://www.youtube.com/watch?v=8F2xEpLDX3Q)
 -   24/12/2018 - 🎥 [Going offline first 4/5: Service Worker & Serving Offline Pages](https://www.youtube.com/watch?v=VEjRhRArVR4)
 -   24/12/2018 - 🎥 [Going offline first 5/5: Handling Assets while Offline](https://www.youtube.com/watch?v=ARTKRkJX7iM)
+-   10/01/2019 - 📄 [Going Offline In An Online-Only Browser](https://www.javascriptjanuary.com/blog/going-offline-in-an-online-only-browser)
 </details>
 
 ### TypeScript
