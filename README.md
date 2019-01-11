@@ -348,6 +348,7 @@ Personal goals made open source across computers I use.
 -   10/01/2019 - 📄 [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
 -   10/01/2019 - 📄 [Multi-Line Inline Gradient](https://css-tricks.com/multi-line-inline-gradient/)
 -   10/01/2019 - 😍 📄 [Common CSS Issues For Front-End Projects](https://www.smashingmagazine.com/2018/12/common-css-issues-front-end-projects/)
+-   11/01/2019 - 📄 [How to check if an input is empty with CSS](https://medium.freecodecamp.org/how-to-check-if-an-input-is-empty-with-css-1a83715f9f3e)
 </details>
 
 ### CSS Units
