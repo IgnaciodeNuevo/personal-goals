@@ -606,6 +606,7 @@ Personal goals made open source across computers I use.
 -   25/11/2018 - 📄 [Contextual styling with custom properties](http://simurai.com/blog/2018/04/01/contextual-styling)
 -   28/11/2018 - 📄 [Everything about CSS environment variables - iPhone X Notch ones](https://bitsofco.de/css-environment-variables/)
 -   20/12/2018 - 😍 📄 [Typography Scale with Custom Properties](https://codyhouse.co/ds/docs/globals/typography)
+-   11/01/2019 - 📄 [Animation principles for UX and UI designers](https://uxplanet.org/animation-that-matters-adding-value-to-your-interface-65496fe4c182)
 </details>
 
 ### CSS Architecture and Naming
