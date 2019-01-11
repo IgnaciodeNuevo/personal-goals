@@ -1363,9 +1363,10 @@ Personal goals made open source across computers I use.
 -   27/11/2018 - 😍 📄 [JavaScript type coercion explained](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
 -   27/11/2018 - 🎥 [Are microbenchmarks any good?](https://www.youtube.com/watch?v=aikZfYlYWDQ)
 -   20/12/2018 - 📄 [A one-line solution to highlighting search matches](https://bitsofco.de/a-one-line-solution-to-highlighting-search-matches/)
- -   21/12/2018 - 📄 [Scroll an element into the center of the viewport](https://hiddedevries.nl/en/blog/2018-12-10-scroll-an-element-into-the-center-of-the-viewport)
- -   21/12/2018 - 😍 📄 [The trick to viewport units on mobile](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
- -   10/01/2019 - 📄 [The Promise of a Better Future](https://www.javascriptjanuary.com/blog/the-promise-of-a-better-future)
+-   21/12/2018 - 📄 [Scroll an element into the center of the viewport](https://hiddedevries.nl/en/blog/2018-12-10-scroll-an-element-into-the-center-of-the-viewport)
+-   21/12/2018 - 😍 📄 [The trick to viewport units on mobile](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
+-   10/01/2019 - 📄 [The Promise of a Better Future](https://www.javascriptjanuary.com/blog/the-promise-of-a-better-future)
+-   11/01/2019 - 📄 [ECMAScript - A Taste from ES2019 (ES10)](https://nitayneeman.com/posts/a-taste-from-ecmascript-2019/)
 </details>
 
 ### JavaScript Patterns
