@@ -894,6 +894,7 @@ Personal goals made open source across computers I use.
 -   01/01/2019 - 📄 [Debugging UI Performance Issues](https://www.youtube.com/watch?v=JGdIzKcAEkI)
 -   01/01/2019 - 📄 [Make JavaScript Faster](https://www.youtube.com/watch?v=RwSlubTBnew)
 -   12/01/2019 - 📄 [Fostering a Web Performance Culture](https://jmperezperez.com/fostering-web-performance-culture/)
+-   12/01/2019 - 😍 📄 [ The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 
 ### Perf Reviews
 
