@@ -794,6 +794,7 @@ Personal goals made open source across computers I use.
 -   22/12/2018 - 📄 [5 Digital Accessibility Myths Busted](https://medium.com/@cariefisher/5-digital-accessibility-myths-busted-8d845ff0df9c)
 -   24/12/2018 - 📄 [The visibility property isn’t just about visibility](https://bitsofco.de/the-visibility-property-isnt-just-about-visibility/)
 -   12/01/2019 - 📄 [Accessible SVGs](https://css-tricks.com/accessible-svgs/)
+-   16/01/2019 - 📄 ["Fixing" Lists](https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html)
 
 ### !Important Show
 
