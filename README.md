@@ -1294,6 +1294,7 @@ Personal goals made open source across computers I use.
 -   10/01/2019 - 📄 [Going Offline In An Online-Only Browser](https://www.javascriptjanuary.com/blog/going-offline-in-an-online-only-browser)
 -   16/01/2019 - 😍 📄 [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 -   16/01/2019 - 📄 [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
+-   16/01/2019 - 📄 [Getting Started with Service Workers](https://alligator.io/js/service-workers/)
 
 ### TypeScript
 
