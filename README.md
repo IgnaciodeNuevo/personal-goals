@@ -331,6 +331,7 @@ Personal goals made open source across computers I use.
 -   11/01/2019 - 📄 [How to check if an input is empty with CSS](https://medium.freecodecamp.org/how-to-check-if-an-input-is-empty-with-css-1a83715f9f3e)
 -   12/01/2019 - 📄 [An Initial Implementation of clip-path: path();](https://css-tricks.com/an-initial-implementation-of-clip-path-path/)
 -   12/01/2019 - 📄 [Keeping aspect-ratio with HTML and no padding tricks](https://codeburst.io/keeping-aspect-ratio-with-html-and-no-padding-tricks-40705656808b)
+-   16/01/2019 - 📄 [Use the :lang pseudo-class over the lang attribute selector for language-specific styles](https://bitsofco.de/use-the-lang-pseudo-class-over-the-lang-attribute-for-language-specific-styles/)
 
 ### CSS Units
 
