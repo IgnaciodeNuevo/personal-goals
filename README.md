@@ -486,6 +486,7 @@ Personal goals made open source across computers I use.
 -   15/11/2018 - 📄 [CSS Grid Crash Course](https://codeburst.io/css-grid-crash-course-9b13dfaaa43a)
 -   15/11/2018 - 📄 [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
 -   24/11/2018 - 📄 [Grid Tile Layouts with auto-fit and minmax](https://gedd.ski/post/tile-layouts/)
+-   17/01/2019 - 📄 [Solving a Tricky Layout Problem with CSS Grid](https://css-irl.info/solving-a-tricky-layout-problem/)
 
 ### Multi Column Layout
 
