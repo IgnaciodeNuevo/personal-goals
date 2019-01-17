@@ -191,7 +191,7 @@ Personal goals made open source across computers I use.
 -   27/11/2018 - 📄 [Native Lazy Loading on the Web](https://www.youtube.com/watch?v=x-BUe68grtY)
 -   25/12/2018 - 📄 [HTML Imputs](https://alligator.io/html/html5-inputs/)
 -   09/01/2018 - 📄 [Los Orígenes del lenguaje HTML](https://www.youtube.com/watch?v=FId9w-FMJJ0)
--   17/01/2019 - 📄 [HTML5 Input Types: Where Are They Now?](https://css-tricks.com/how-well-do-you-know-css-layout/)
+-   17/01/2019 - 📄 [HTML5 Input Types: Where Are They Now?](https://www.smashingmagazine.com/2019/01/html5-input-types/)
 
 ### Cascade and Specificity
 
@@ -334,6 +334,7 @@ Personal goals made open source across computers I use.
 -   12/01/2019 - 📄 [Keeping aspect-ratio with HTML and no padding tricks](https://codeburst.io/keeping-aspect-ratio-with-html-and-no-padding-tricks-40705656808b)
 -   16/01/2019 - 📄 [Use the :lang pseudo-class over the lang attribute selector for language-specific styles](https://bitsofco.de/use-the-lang-pseudo-class-over-the-lang-attribute-for-language-specific-styles/)
 -   16/01/2019 - 📄 [Complex Layouts with CSS Grid or Flexbox… or neither?](http://joshpalmeri.com/blog/2018/10/01/complex-layouts-with-css-grid-or-flexbox-or-neither-2/)
+-   17/01/2019 - 📄 [How Well Do You Know CSS Layout?](https://css-tricks.com/how-well-do-you-know-css-layout/)
 
 ### CSS Units
 
