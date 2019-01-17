@@ -796,6 +796,7 @@ Personal goals made open source across computers I use.
 -   24/12/2018 - 📄 [The visibility property isn’t just about visibility](https://bitsofco.de/the-visibility-property-isnt-just-about-visibility/)
 -   12/01/2019 - 📄 [Accessible SVGs](https://css-tricks.com/accessible-svgs/)
 -   16/01/2019 - 📄 ["Fixing" Lists](https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html)
+-   17/01/2019 - 📄 [Instagram – You’ve been Axessified!](https://axesslab.com/axessified-instagram/)
 
 ### !Important Show
 
