@@ -1097,6 +1097,7 @@ Personal goals made open source across computers I use.
 -   16/12/2018 - 🎥 Refactoring UI Book: Designing a Dashboard.mp4
 -   16/12/2018 - 🎥 Refactoring UI Book: Designing a Complex Form.mp4
 -   24/12/2018 - 📄 [Make sense of rounded corners on buttons](https://uxdesign.cc/make-sense-of-rounded-corners-on-buttons-dfc8e13ea7f7)
+-   17/01/2019 - 📄 [¿Qué significa ser Full Stack Designer?](https://medium.com/@juanpernu/qu%C3%A9-significa-ser-full-stack-designer-198aa231117b)
 
 ### SVG
 
