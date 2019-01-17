@@ -191,6 +191,7 @@ Personal goals made open source across computers I use.
 -   27/11/2018 - 📄 [Native Lazy Loading on the Web](https://www.youtube.com/watch?v=x-BUe68grtY)
 -   25/12/2018 - 📄 [HTML Imputs](https://alligator.io/html/html5-inputs/)
 -   09/01/2018 - 📄 [Los Orígenes del lenguaje HTML](https://www.youtube.com/watch?v=FId9w-FMJJ0)
+-   17/01/2019 - 📄 [HTML5 Input Types: Where Are They Now?](https://css-tricks.com/how-well-do-you-know-css-layout/)
 
 ### Cascade and Specificity
 
