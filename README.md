@@ -493,6 +493,7 @@ Personal goals made open source across computers I use.
 -   09/08/2017 - 📄 [Changes to the Grid Spec and taking on Multi-Column layout](https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/)
 -   20/10/2017 - 😍 📄 [Exploring Multi-Column Layouts in CSS](https://alligator.io/css/multi-column-layouts/)
 -   09/02/2018 - 📄 [CSS Grid + CSS Multi-Columns = ♥](https://medium.com/@patrickbrosset/css-grid-css-multi-columns-7664f59bb60c)
+-   18/01/2019 - 📄 [When And How To Use CSS Multi-Column Layout](https://www.smashingmagazine.com/2019/01/css-multiple-column-layout-multicol/)
 
 ### Animation
 
