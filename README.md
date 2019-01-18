@@ -903,7 +903,8 @@ Personal goals made open source across computers I use.
 -   01/01/2019 - 📄 [Make JavaScript Faster](https://www.youtube.com/watch?v=RwSlubTBnew)
 -   12/01/2019 - 📄 [Fostering a Web Performance Culture](https://jmperezperez.com/fostering-web-performance-culture/)
 -   12/01/2019 - 😍 📄 [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
--   17/01/2019 - 😍 📄 [Web Performance Mini Series: Responses](https://www.youtube.com/watch?v=-AkHdG7MNCY)
+-   17/01/2019 - 📄 [Web Performance Mini Series: Responses](https://www.youtube.com/watch?v=-AkHdG7MNCY)
+-   18/01/2019 - 📄 [How Improving Website Performance Can Help Save The Planet](https://www.smashingmagazine.com/2019/01/save-planet-improving-website-performance/)
 
 ### Perf Reviews
 
