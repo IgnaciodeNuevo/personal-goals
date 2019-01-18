@@ -1146,6 +1146,7 @@ Personal goals made open source across computers I use.
 -   10/01/2019 - 📄 [Breaking down Amazon's mega dropdown](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
 -   10/01/2019 - 📄 [The Most Important Rule in UX Design that Everyone Breaks](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931)
 -   12/01/2019 - 📄 [UI Design: Look Back at 12 Top Interface Design Trends in 2018](https://icons8.com/articles/ui-design-top-interface-design-trends/)
+-   18/01/2019 - 📄 [Tap to Dismiss](https://medium.com/tap-to-dismiss/tap-to-dismiss-fbc66bdf500a)
 
 ### JavaScript
 
