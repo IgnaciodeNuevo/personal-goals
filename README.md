@@ -907,6 +907,7 @@ Personal goals made open source across computers I use.
 -   12/01/2019 - 😍 📄 [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 -   17/01/2019 - 📄 [Web Performance Mini Series: Responses](https://www.youtube.com/watch?v=-AkHdG7MNCY)
 -   18/01/2019 - 📄 [How Improving Website Performance Can Help Save The Planet](https://www.smashingmagazine.com/2019/01/save-planet-improving-website-performance/)
+-   21/01/2019 - 📄 [An introduction to CSS Containment](https://blogs.igalia.com/mrego/2019/01/11/an-introduction-to-css-containment/)
 
 ### Perf Reviews
 
