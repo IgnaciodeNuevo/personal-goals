@@ -1105,6 +1105,7 @@ Personal goals made open source across computers I use.
 -   24/12/2018 - 📄 [Make sense of rounded corners on buttons](https://uxdesign.cc/make-sense-of-rounded-corners-on-buttons-dfc8e13ea7f7)
 -   17/01/2019 - 📄 [¿Qué significa ser Full Stack Designer?](https://medium.com/@juanpernu/qu%C3%A9-significa-ser-full-stack-designer-198aa231117b)
 -   18/01/2019 - 📄 [Design v17](https://css-tricks.com/design-v17/)
+-   21/01/2019 - 📄 [Using Red and Green in UI Design](http://babich.biz/red-and-green/)
 
 ### SVG
 
