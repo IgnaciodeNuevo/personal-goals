@@ -1492,6 +1492,7 @@ Personal goals made open source across computers I use.
 -   03/07/2018 - 🎥 [Javascript Kata: aplicando clean code y buenas prácticas en vivo](https://www.youtube.com/watch?v=C5IrXwu6nSQ)
 -   27/10/2018 - 🎥 [How to Work with Legacy Code](https://www.youtube.com/watch?v=iEN2nTuNqDE)
 -   11/11/2018 - 🎥 [Masterclass: Craftsmanship](https://www.youtube.com/watch?v=9CfKXIbCSik)
+-   22/01/2019 - 🎥 [Masterclass: Pairing](https://www.youtube.com/watch?v=qji7NK3wPNg)
 
 ### Mentoring
 
