@@ -809,6 +809,7 @@ Personal goals made open source across computers I use.
 -   04/11/2018 - 🎥 [Case study: basecamp.com](https://xotv.me/channels/22-important/vod_videos/1205-important-slash-slash-basecamp-dot-com-css-grid)
 -   04/11/2018 - 🎥 [Case study: gridtoflex.com](https://xotv.me/channels/22-important/vod_videos/1136-important-slash-slash-gridtoflex-dot-com)
 -   03/01/2019 - 🎥 [Case study: mozilla.org](https://xotv.me/channels/22-important/vod_videos/1272-important-slash-slash-mozilla-dot-org)
+-   22/01/2019 - 🎥 [How to use JavaScript Promises](https://xotv.me/channels/22-important/vod_videos/1293-important-focus-slash-slash-how-to-use-javascript-promises)
 
 ### Hilos Sego
 
