@@ -335,6 +335,7 @@ Personal goals made open source across computers I use.
 -   16/01/2019 - 📄 [Use the :lang pseudo-class over the lang attribute selector for language-specific styles](https://bitsofco.de/use-the-lang-pseudo-class-over-the-lang-attribute-for-language-specific-styles/)
 -   16/01/2019 - 📄 [Complex Layouts with CSS Grid or Flexbox… or neither?](http://joshpalmeri.com/blog/2018/10/01/complex-layouts-with-css-grid-or-flexbox-or-neither-2/)
 -   17/01/2019 - 📄 [How Well Do You Know CSS Layout?](https://css-tricks.com/how-well-do-you-know-css-layout/)
+-   22/01/2019 - 📄 [CSS doesn’t suck](https://andy-bell.design/wrote/css-doesnt-suck/)
 
 ### CSS Units
 
