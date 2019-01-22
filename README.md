@@ -1593,3 +1593,4 @@ Personal goals made open source across computers I use.
 -   27/11/2018 - 😍 🎥 [TDD: Toxicity Driven Development](https://www.youtube.com/watch?v=oKVq7rHQ_-o)
 -   03/01/2019 - 🎥 [CSS at the Intersection](https://www.youtube.com/watch?v=MJVRKmA83LU)
 -   11/01/2019 - 📄 [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
+-   22/01/2019 - 📄 [¿Quién eres en realidad?](https://www.youtube.com/watch?v=Hf-3jPWbzVQ)
