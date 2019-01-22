@@ -803,6 +803,7 @@ Personal goals made open source across computers I use.
 -   17/01/2019 - 📄 [Instagram – You’ve been Axessified!](https://axesslab.com/axessified-instagram/)
 -   18/01/2019 - 😍 📄 [Creating Accessible SVGs](https://www.deque.com/blog/creating-accessible-svgs/)
 -   21/01/2019 - 📄 [Implementing a reduced-motion mode](https://hugogiraudel.com/2018/03/19/implementing-a-reduced-motion-mode/)
+-   22/01/2019 - 📄 [Dando sentido a la *World* Wide Web](https://www.youtube.com/watch?v=3OjcVnH213w)
 
 ### !Important Show
 
