@@ -914,6 +914,7 @@ Personal goals made open source across computers I use.
 -   18/01/2019 - 📄 [How Improving Website Performance Can Help Save The Planet](https://www.smashingmagazine.com/2019/01/save-planet-improving-website-performance/)
 -   21/01/2019 - 📄 [An introduction to CSS Containment](https://blogs.igalia.com/mrego/2019/01/11/an-introduction-to-css-containment/)
 -   21/01/2019 - 📄 [Web Page Usability Matters](https://dev.to/addyosmani/web-page-usability-matters-3aok)
+-   23/01/2019 - 📄 [Browser Rendering Optimizations for Frontend Development](https://scotch.io/tutorials/browser-rendering-optimizations-for-frontend-development)
 
 ### Perf Reviews
 
