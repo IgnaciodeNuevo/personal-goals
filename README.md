@@ -653,6 +653,7 @@ Personal goals made open source across computers I use.
 -   13/10/2017 - 📄 [Use a Sass Variable for a Selector](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
 -   28/12/2017 - 📄 [V6 - Typography and Proportions](http://v6.robweychert.com/blog/2017/11/v6-typography-proportions/)
 -   17/11/2018 - 📄 [How and Why We Unit Test Our Sass](https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass)
+-   23/01/2019 - 📄 [Sass Techniques from the Trenches](https://css-tricks.com/sass-techniques-from-the-trenches/)
 
 ### Stylable
 
