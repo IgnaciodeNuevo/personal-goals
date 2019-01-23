@@ -337,6 +337,7 @@ Personal goals made open source across computers I use.
 -   17/01/2019 - 📄 [How Well Do You Know CSS Layout?](https://css-tricks.com/how-well-do-you-know-css-layout/)
 -   22/01/2019 - 📄 [CSS doesn’t suck](https://andy-bell.design/wrote/css-doesnt-suck/)
 -   23/01/2019 - 📄 [2019 CSS Wishlist](https://css-tricks.com/2019-css-wishlist/)
+-   23/01/2019 - 📄 [Practical CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping/)
 
 ### CSS Units
 
