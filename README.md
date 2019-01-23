@@ -1295,6 +1295,7 @@ Personal goals made open source across computers I use.
 -   10/01/2019 - 📄 [The Promise of a Better Future](https://www.javascriptjanuary.com/blog/the-promise-of-a-better-future)
 -   11/01/2019 - 📄 [ECMAScript - A Taste from ES2019 (ES10)](https://nitayneeman.com/posts/a-taste-from-ecmascript-2019/)
 -   22/01/2019 - 📄 [Masterclass: Async JS](https://www.youtube.com/watch?v=AXZtuR69uzc)
+-   23/01/2019 - 📄 [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag)
 
 ### JavaScript Patterns
 
