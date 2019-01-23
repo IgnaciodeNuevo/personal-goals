@@ -336,6 +336,7 @@ Personal goals made open source across computers I use.
 -   16/01/2019 - 📄 [Complex Layouts with CSS Grid or Flexbox… or neither?](http://joshpalmeri.com/blog/2018/10/01/complex-layouts-with-css-grid-or-flexbox-or-neither-2/)
 -   17/01/2019 - 📄 [How Well Do You Know CSS Layout?](https://css-tricks.com/how-well-do-you-know-css-layout/)
 -   22/01/2019 - 📄 [CSS doesn’t suck](https://andy-bell.design/wrote/css-doesnt-suck/)
+-   23/01/2019 - 📄 [2019 CSS Wishlist](https://css-tricks.com/2019-css-wishlist/)
 
 ### CSS Units
 
