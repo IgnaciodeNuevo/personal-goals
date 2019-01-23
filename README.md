@@ -380,6 +380,7 @@ Personal goals made open source across computers I use.
 -   05/03/2018 - 📄 [Space-between, por favor](https://robertotunon.com/space-between-por-favor/)
 -   13/11/2018 - 📄 [The peculiar magic of flexbox and auto margins](https://css-tricks.com/the-peculiar-magic-of-flexbox-and-auto-margins/)
 -   25/11/2018 - 📄 [Flex-grow 9999 Hack](https://joren.co/flex-grow-9999-hack/)
+-   23/12/2019 - 📄 [The Flexbox Holy Albatross](http://www.heydonworks.com/article/the-flexbox-holy-albatross)
 
 ### Grid vs Flexbox
 
