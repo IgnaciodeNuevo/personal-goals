@@ -918,6 +918,7 @@ Personal goals made open source across computers I use.
 -   21/01/2019 - 📄 [An introduction to CSS Containment](https://blogs.igalia.com/mrego/2019/01/11/an-introduction-to-css-containment/)
 -   21/01/2019 - 📄 [Web Page Usability Matters](https://dev.to/addyosmani/web-page-usability-matters-3aok)
 -   23/01/2019 - 📄 [Browser Rendering Optimizations for Frontend Development](https://scotch.io/tutorials/browser-rendering-optimizations-for-frontend-development)
+-   24/01/2019 - 📄 [Web Performance Mini Series: Animations](https://www.youtube.com/watch?v=ohc8ejzSn48)
 
 ### Perf Reviews
 
