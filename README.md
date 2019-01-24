@@ -1400,6 +1400,7 @@ Personal goals made open source across computers I use.
 -   18/02/2018 - 📄 [How I Use Git](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
 -   23/02/2018 - 📄 [Comprobando tu CSS antes de subirlo a Git](http://jorgeatgu.com/blog/lint-staged-css-stylelint/)
 -   28/11/2018 - 📄 [Git aliases for lazy developers](https://bitsofco.de/git-aliases-for-lazy-developers/)
+-   24/01/2019 - 📄 [My Pull Request Review/Merge Workflow](https://www.youtube.com/watch?v=AgJGC5Vsxlo)
 
 ### Command Line
 
