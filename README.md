@@ -1307,6 +1307,7 @@ Personal goals made open source across computers I use.
 -   25/11/2018 - 📄 [Asynchronous Patterns in JavaScript](https://blog.bloomca.me/2018/03/24/async-patterns-js.html)
 -   28/11/2018 - 📄 [Tricks with JavaScript Destructuring](https://alligator.io/js/tricks-with-destructuring/)
 -   21/12/2018 - 📄 [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
+ -   28/01/2019 - 📄 [Dependency Injection in JavaScript 101](https://dev.to/jeremylikness/dependency-injection-in-javascript-101-2b1e)
 
 ### JavaScript Security
 
