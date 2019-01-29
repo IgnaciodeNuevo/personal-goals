@@ -920,15 +920,16 @@ Personal goals made open source across computers I use.
 -   21/01/2019 - 📄 [An introduction to CSS Containment](https://blogs.igalia.com/mrego/2019/01/11/an-introduction-to-css-containment/)
 -   21/01/2019 - 📄 [Web Page Usability Matters](https://dev.to/addyosmani/web-page-usability-matters-3aok)
 -   23/01/2019 - 📄 [Browser Rendering Optimizations for Frontend Development](https://scotch.io/tutorials/browser-rendering-optimizations-for-frontend-development)
--   24/01/2019 - 📄 [Web Performance Mini Series: Animations](https://www.youtube.com/watch?v=ohc8ejzSn48)
+-   24/01/2019 - 🎥 [Web Performance Mini Series: Animations](https://www.youtube.com/watch?v=ohc8ejzSn48)
+-   29/01/2019 - 🎥 [Chat with the brilliant Paul Irish](https://www.youtube.com/watch?v=44amosp4AmM)
 
 ### Perf Reviews
 
--   31/12/2018 - 📄 [PerfReviews 1.1 - mediamarkt.es](https://www.youtube.com/watch?v=xD8MbFUZPKQ)
--   31/12/2018 - 📄 [PerfReviews 1.2 - elcorteingles.es](https://www.youtube.com/watch?v=yyLAPxgwSGM)
--   09/01/2018 - 📄 [PerfReviews 1.3 - zara.com](https://www.youtube.com/watch?v=QbJAf5Oa64Y)
--   14/01/2018 - 📄 [PerfTools 1.1 - Lighthouse Report](https://www.youtube.com/watch?v=1x2A2wZKJPU)
--   29/01/2019 - 📄 [PerfReviews 1.4 - smashingmagazine.com](https://www.youtube.com/watch?v=NalgDNrjHUg)
+-   31/12/2018 - 🎥 [PerfReviews 1.1 - mediamarkt.es](https://www.youtube.com/watch?v=xD8MbFUZPKQ)
+-   31/12/2018 - 🎥 [PerfReviews 1.2 - elcorteingles.es](https://www.youtube.com/watch?v=yyLAPxgwSGM)
+-   09/01/2018 - 🎥 [PerfReviews 1.3 - zara.com](https://www.youtube.com/watch?v=QbJAf5Oa64Y)
+-   14/01/2018 - 🎥 [PerfTools 1.1 - Lighthouse Report](https://www.youtube.com/watch?v=1x2A2wZKJPU)
+-   29/01/2019 - 🎥 [PerfReviews 1.4 - smashingmagazine.com](https://www.youtube.com/watch?v=NalgDNrjHUg)
 
 ### Critical Path
 
