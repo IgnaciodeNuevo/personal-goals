@@ -1302,6 +1302,7 @@ Personal goals made open source across computers I use.
 -   11/01/2019 - 📄 [ECMAScript - A Taste from ES2019 (ES10)](https://nitayneeman.com/posts/a-taste-from-ecmascript-2019/)
 -   22/01/2019 - 📄 [Masterclass: Async JS](https://www.youtube.com/watch?v=AXZtuR69uzc)
 -   23/01/2019 - 📄 [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag)
+-   07/02/2019 - 🎥 [DevUI: poniendo orden en el front](https://www.youtube.com/watch?v=5d1sfBh0BE4)
 
 ### JavaScript Patterns
 
