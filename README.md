@@ -922,6 +922,7 @@ Personal goals made open source across computers I use.
 -   23/01/2019 - 📄 [Browser Rendering Optimizations for Frontend Development](https://scotch.io/tutorials/browser-rendering-optimizations-for-frontend-development)
 -   24/01/2019 - 🎥 [Web Performance Mini Series: Animations](https://www.youtube.com/watch?v=ohc8ejzSn48)
 -   29/01/2019 - 🎥 [Chat with the brilliant Paul Irish](https://www.youtube.com/watch?v=44amosp4AmM)
+-   12/02/2019 - 🎥 [Web Performance Mini Series: Idle](https://www.youtube.com/watch?v=9vGr3JvbahY)
 
 ### Perf Reviews
 
