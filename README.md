@@ -1147,7 +1147,8 @@ Personal goals made open source across computers I use.
 -   16/11/2018 - 📄 [Building a responsive image](https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6)
 -   04/12/2018 - 📄 [Accessible SVG Icons with Inline Sprites](https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/)
 -   25/12/2018 - 📄 [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
--   01/03/2019 - 🎥 [SVG Filters: A Mini Crash Course](https://www.youtube.com/watch?v=PHKLzpt-syI)
+-   01/02/2019 - 🎥 [SVG Filters: A Mini Crash Course](https://www.youtube.com/watch?v=PHKLzpt-syI)
+-   12/02/2019 - 🎥 [Making Future Interfaces: Inline SVG](https://www.youtube.com/watch?v=1CDTw_UpQoQ)
 
 ### UX
 
