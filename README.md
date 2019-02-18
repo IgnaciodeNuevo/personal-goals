@@ -1339,6 +1339,7 @@ Personal goals made open source across computers I use.
 -   16/01/2019 - 📄 [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
 -   16/01/2019 - 📄 [Getting Started with Service Workers](https://alligator.io/js/service-workers/)
 -   18/01/2019 - 🎥 [My First Progressive Web App (PWA)](https://www.youtube.com/watch?v=sg8grVYpi4g)
+-   18/02/2019 - 📄 [How I made a Progressive Web App out of my Blog](https://alexjover.com/blog/how-i-made-a-progressive-web-app-out-of-my-blog/)
 
 ### TypeScript
 
