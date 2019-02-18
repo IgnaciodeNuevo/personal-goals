@@ -1038,6 +1038,7 @@ Personal goals made open source across computers I use.
 -   02/01/2018 - 🎥 [Variable Fonts and the Future of Web Design](https://www.youtube.com/watch?v=luAqYCd_TC8)
 -   10/01/2018 - 📄 [What is Typesetting?](https://alistapart.com/article/flexible-typesetting)
 -   21/01/2019 - 📄 [Working Type](https://medium.com/airbnb-design/working-type-81294544608b)
+-   18/02/2019 - 📄 [Intro to Font Metrics](http://westonthayer.com/writing/intro-to-font-metrics/)
 
 ### Design Systems
 
