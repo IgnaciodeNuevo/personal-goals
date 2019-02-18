@@ -339,6 +339,7 @@ Personal goals made open source across computers I use.
 -   23/01/2019 - 📄 [2019 CSS Wishlist](https://css-tricks.com/2019-css-wishlist/)
 -   23/01/2019 - 📄 [Practical CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping/)
 -   18/02/2019 - 📄 [Position: stuck; — and a Way to Fix It](https://uxdesign.cc/position-stuck-96c9f55d9526)
+-   18/02/2019 - 📄 [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
 
 ### CSS Units
 
