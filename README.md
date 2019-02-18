@@ -377,6 +377,7 @@ Personal goals made open source across computers I use.
 -   28/11/2018 - 😍 📄 [image-set to support retina images](https://cloudfour.com/thinks/safari-6-and-chrome-21-add-image-set-to-support-retina-images/) - [CSS background image-set test](https://cloudfour.com/examples/image-set/)
 -   04/12/2018 - 😍 📄 [Responsive Images: Use Cases and Documented Code Snippets to Get You Started](https://dev.opera.com/articles/responsive-images/)
 -   04/12/2018 - 📄 [Guía práctica de imágenes responsive](https://trip2themoon.com/guia-imagenes-responsive/)
+-   18/02/2018 - 📄 [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/)
 
 ### Flexbox
 
