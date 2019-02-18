@@ -701,6 +701,7 @@ Personal goals made open source across computers I use.
 -   21/12/2018 - 📄 [Stop Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 -   27/12/2018 - 📄 [Taking care of your dependencies](https://sirikon.me/post/taking-care-of-your-dependencies/)
 -   10/01/2019 - 📄 [A comprehensive look back at front-end in 2018](https://blog.logrocket.com/a-comprehensive-look-back-at-frontend-in-2018-8122e724a802)
+-   18/02/2019 - 📄 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 
 ### Task tools
 
