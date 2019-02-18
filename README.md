@@ -338,6 +338,7 @@ Personal goals made open source across computers I use.
 -   22/01/2019 - 📄 [CSS doesn’t suck](https://andy-bell.design/wrote/css-doesnt-suck/)
 -   23/01/2019 - 📄 [2019 CSS Wishlist](https://css-tricks.com/2019-css-wishlist/)
 -   23/01/2019 - 📄 [Practical CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping/)
+-   18/02/2019 - 📄 [Position: stuck; — and a Way to Fix It](https://uxdesign.cc/position-stuck-96c9f55d9526)
 
 ### CSS Units
 
