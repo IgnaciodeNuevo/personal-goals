@@ -933,6 +933,7 @@ Personal goals made open source across computers I use.
 -   29/01/2019 - 🎥 [Chat with the brilliant Paul Irish](https://www.youtube.com/watch?v=44amosp4AmM)
 -   12/02/2019 - 🎥 [Web Performance Mini Series: Idle](https://www.youtube.com/watch?v=9vGr3JvbahY)
 -   19/02/2019 - 🎥 [Web Performance Mini Series: Load](https://www.youtube.com/watch?v=zlWDRURgKBI)
+-   19/02/2019 - 📄 [Bandwidth or Latency: When to Optimise for Which](https://csswizardry.com/2019/01/bandwidth-or-latency-when-to-optimise-which/)
 
 ### Perf Reviews
 
