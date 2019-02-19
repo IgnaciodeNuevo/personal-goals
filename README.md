@@ -1629,3 +1629,4 @@ Personal goals made open source across computers I use.
 -   11/01/2019 - 📄 [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 -   22/01/2019 - 📄 [¿Quién eres en realidad?](https://www.youtube.com/watch?v=Hf-3jPWbzVQ)
 -   18/02/2019 - 📄 [Voy a pensar en voz alta ¿Te apuntas?](https://medium.com/@victorriberoguasch/voy-a-pensar-en-voz-alta-te-apuntas-5830ef6700c7)
+-   19/02/2019 - 📄 [¿Qué es un Senior Developer?](https://medium.com/@Rafael_Casuso/qu%C3%A9-es-un-senior-developer-7d2911605da8)
