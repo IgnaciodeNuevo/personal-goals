@@ -930,6 +930,7 @@ Personal goals made open source across computers I use.
 -   24/01/2019 - 🎥 [Web Performance Mini Series: Animations](https://www.youtube.com/watch?v=ohc8ejzSn48)
 -   29/01/2019 - 🎥 [Chat with the brilliant Paul Irish](https://www.youtube.com/watch?v=44amosp4AmM)
 -   12/02/2019 - 🎥 [Web Performance Mini Series: Idle](https://www.youtube.com/watch?v=9vGr3JvbahY)
+-   19/02/2019 - 🎥 [Web Performance Mini Series: Load](https://www.youtube.com/watch?v=zlWDRURgKBI)
 
 ### Perf Reviews
 
