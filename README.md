@@ -1161,6 +1161,7 @@ Personal goals made open source across computers I use.
 -   25/12/2018 - 📄 [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
 -   01/02/2019 - 🎥 [SVG Filters: A Mini Crash Course](https://www.youtube.com/watch?v=PHKLzpt-syI)
 -   12/02/2019 - 🎥 [Making Future Interfaces: Inline SVG](https://www.youtube.com/watch?v=1CDTw_UpQoQ)
+-   19/02/2019 - 📄 [The Many Ways to Change an SVG Fill on Hover (and When to Use Them)](https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/)
 
 ### UX
 
