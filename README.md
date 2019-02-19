@@ -192,6 +192,7 @@ Personal goals made open source across computers I use.
 -   25/12/2018 - 📄 [HTML Imputs](https://alligator.io/html/html5-inputs/)
 -   09/01/2018 - 📄 [Los Orígenes del lenguaje HTML](https://www.youtube.com/watch?v=FId9w-FMJJ0)
 -   17/01/2019 - 📄 [HTML5 Input Types: Where Are They Now?](https://www.smashingmagazine.com/2019/01/html5-input-types/)
+-   19/02/2019 - 📄 [Revisiting the abbr element](https://bitsofco.de/revisiting-the-abbr-element/)
 
 ### Cascade and Specificity
 
