@@ -494,6 +494,7 @@ Personal goals made open source across computers I use.
 -   15/11/2018 - 📄 [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
 -   24/11/2018 - 📄 [Grid Tile Layouts with auto-fit and minmax](https://gedd.ski/post/tile-layouts/)
 -   17/01/2019 - 📄 [Solving a Tricky Layout Problem with CSS Grid](https://css-irl.info/solving-a-tricky-layout-problem/)
+-   19/02/2019 - 📄 [My CSS Grid Wishlist](https://css-irl.info/my-css-grid-wishlist/)
 
 ### Multi Column Layout
 
