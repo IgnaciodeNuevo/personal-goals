@@ -1483,6 +1483,7 @@ Personal goals made open source across computers I use.
 -   09/10/2018 - 📄 [How I’m Using Jekyll in 2017](https://mademistakes.com/articles/using-jekyll-2017/)
 -   09/10/2018 - 📄 [Optimizing Jekyll Performance with Gulp](https://savaslabs.com/2016/10/19/optimizing-jekyll-with-gulp.html)
 -   25/12/2018 - 📄 [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/)
+-   21/02/2019 - 📄 [Handling external posts on your own Jekyll site](https://www.chenhuijing.com/blog/handling-articles-on-external-sites/#%F0%9F%92%BB)
 
 ### Testing
 
