@@ -1401,6 +1401,7 @@ Personal goals made open source across computers I use.
 -   01/12/2018 - 🎥 [Creamos un proyecto con ReactJS desde cero](https://www.youtube.com/watch?v=0Q1p1cXI_64)
 -   03/12/2018 - 📄 [How to become a pro with React setState() in 10 minutes](https://medium.freecodecamp.org/get-pro-with-react-setstate-in-10-minutes-d38251d1c781)
 -   05/02/2019 - 📄 [Styled Components: To Use or Not to Use?](https://medium.com/building-crowdriff/styled-components-to-use-or-not-to-use-a6bb4a7ffc21)
+-   22/02/2019 - 🎥 [Frontend sin #webpack ni #babeljs](https://www.youtube.com/watch?v=LD8o1g-7mX4)
 
 ### Vue
 
