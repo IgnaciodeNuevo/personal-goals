@@ -823,6 +823,7 @@ Personal goals made open source across computers I use.
 -   21/01/2019 - 📄 [Implementing a reduced-motion mode](https://hugogiraudel.com/2018/03/19/implementing-a-reduced-motion-mode/)
 -   22/01/2019 - 📄 [Dando sentido a la *World* Wide Web](https://www.youtube.com/watch?v=3OjcVnH213w)
 -   18/02/2019 - 📄 [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
+-   26/02/2019 - 📄 [Avoid Default Field Validation](http://adrianroselli.com/2019/02/avoid-default-field-validation.html)
 
 ### !Important Show
 
