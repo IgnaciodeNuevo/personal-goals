@@ -1328,6 +1328,7 @@ Personal goals made open source across computers I use.
 -   23/01/2019 - 📄 [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag)
 -   07/02/2019 - 🎥 [DevUI: poniendo orden en el front](https://www.youtube.com/watch?v=5d1sfBh0BE4)
 -   20/02/2019 - 📄 [JavaScript Decorators: What They Are and When to Use Them](https://www.sitepoint.com/javascript-decorators-what-they-are/)
+-   26/02/2019 - 📄 [How to Avoid DOM Blocking in JavaScript](https://www.sitepoint.com/avoiding-dom-blocking/)
 
 ### JavaScript Patterns
 
