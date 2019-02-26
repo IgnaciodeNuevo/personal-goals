@@ -537,6 +537,7 @@ Personal goals made open source across computers I use.
 -   28/11/2018 - 📄 [Toggling Animations On and Off](https://www.kirupa.com/html5/toggling_animations_on_off.htm)
 -   28/11/2018 - 😍 📄 [CSS Animations with Finite State Machines](https://medium.com/@DavidKPiano/css-animations-with-finite-state-machines-7d596bb2914a)
 -   18/02/2019 - 📄 [A Detailed Guide to CSS Animations and Transitions](https://medium.com/engineerbabu/a-detailed-guide-to-css-animations-and-transitions-b544502c089c)
+-   26/02/2019 - 📄 [Writing Animations That Bring Your Site to Life](https://css-tricks.com/writing-animations-that-bring-your-site-to-life/)
 
 ### Custom Properties
 
