@@ -344,6 +344,7 @@ Personal goals made open source across computers I use.
 -   18/02/2019 - 📄 [Position: stuck; — and a Way to Fix It](https://uxdesign.cc/position-stuck-96c9f55d9526)
 -   18/02/2019 - 📄 [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
 -   19/02/2019 - 📄 [A look at CSS hyphenation in 2019](https://justmarkup.com/log/2019/01/a-look-at-css-hyphenation-in-2019/)
+-   27/02/2019 - 📄 [How @supports Works](https://css-tricks.com/how-supports-works/)
 
 ### CSS Units
 
