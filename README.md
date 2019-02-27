@@ -344,7 +344,7 @@ Personal goals made open source across computers I use.
 -   18/02/2019 - 📄 [Position: stuck; — and a Way to Fix It](https://uxdesign.cc/position-stuck-96c9f55d9526)
 -   18/02/2019 - 📄 [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
 -   19/02/2019 - 📄 [A look at CSS hyphenation in 2019](https://justmarkup.com/log/2019/01/a-look-at-css-hyphenation-in-2019/)
--   27/02/2019 - 📄 [How @supports Works](https://css-tricks.com/how-supports-works/)
+-   27/02/2019 - 📄 [Gradient Borders and Border Images in Pure CSS](https://alligator.io/css/gradient-borders-pure-css/)
 
 ### CSS Units
 
@@ -372,6 +372,7 @@ Personal goals made open source across computers I use.
 -   12/01/2018 - 🎥 [dotCSS 2017 - Jonathan Snook - Container Queries](https://www.youtube.com/watch?v=s1J4T1NW3qo)
 -   12/01/2018 - 📄 [Thoughts on a Syntax for Element Queries](https://codepen.io/tomhodgins/post/thoughts-on-a-syntax-for-element-queries)
 -   25/11/2018 - 📄 [Responsive Components: a Solution to the Container Queries Problem](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/)
+-   27/02/2019 - 📄 [How @supports Works](https://css-tricks.com/how-supports-works/)
 
 ### Responsive Images
 
