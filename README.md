@@ -827,6 +827,7 @@ Personal goals made open source across computers I use.
 -   18/02/2019 - 📄 [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
 -   26/02/2019 - 📄 [Avoid Default Field Validation](http://adrianroselli.com/2019/02/avoid-default-field-validation.html)
 -   27/02/2019 - 📄 [CSS Variables + calc() + rgb() = Enforcing High Contrast Colors](https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/)
+-   07/03/2019 - 📄 [The Optimizer’s Guide to Web Accessibility](https://conversionxl.com/blog/web-accessibility/)
 
 ### !Important Show
 
