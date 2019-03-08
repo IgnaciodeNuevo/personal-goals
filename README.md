@@ -59,6 +59,7 @@ Personal goals made open source across computers I use.
 1. [SVG](#svg)
 1. [UX](#ux)
 1. [JavaScript](#javascript)
+1. [JavaScript Events](#javascript-events)
 1. [JavaScript Patterns](#javascript-patterns)
 1. [JavaScript Security](#javascript-security)
 1. [Progressive Web Apps](#progressive-web-apps)
@@ -1338,6 +1339,10 @@ Personal goals made open source across computers I use.
 -   01/03/2019 - 🎥 [A new app, testing...](https://www.youtube.com/watch?v=c9_jw5CzMrc)
 -   05/03/2019 - 🎥 [Carlos Hernández Gómez | JS the unknown](https://www.youtube.com/watch?v=om3Iw5-JBhw)
 -   07/03/2019 - 📄 [Tracking unhandled rejected Promises](http://2ality.com/2016/04/unhandled-rejections.html)
+
+### JavaScript Events
+
+-   08/03/2019 - 📄 [Passive event listeners](https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md)
 
 ### JavaScript Patterns
 
