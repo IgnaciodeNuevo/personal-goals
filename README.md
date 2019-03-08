@@ -830,6 +830,7 @@ Personal goals made open source across computers I use.
 -   27/02/2019 - 📄 [CSS Variables + calc() + rgb() = Enforcing High Contrast Colors](https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/)
 -   07/03/2019 - 📄 [The Optimizer’s Guide to Web Accessibility](https://conversionxl.com/blog/web-accessibility/)
 -   07/03/2019 - 📄 [Effortless accessibility](https://jaicab.com/2016/04/13/effortless-accessibility/)
+-   08/03/2019 - 📄 [Web Accessibility Guide](https://webaccessibility.guide/)
 
 ### !Important Show
 
