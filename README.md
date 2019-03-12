@@ -1426,6 +1426,7 @@ Personal goals made open source across computers I use.
 -   05/02/2019 - 📄 [Styled Components: To Use or Not to Use?](https://medium.com/building-crowdriff/styled-components-to-use-or-not-to-use-a6bb4a7ffc21)
 -   22/02/2019 - 🎥 [Frontend sin #webpack ni #babeljs](https://www.youtube.com/watch?v=LD8o1g-7mX4)
 -   22/02/2019 - 🎥 [Como usar React Lazy y React Suspense](https://www.youtube.com/watch?v=ndnAY1DW7P8)
+-   12/03/2019 - 🎥 [Aprende a CREAR TU PROPIO REACT ⚛️ desde 0](https://www.youtube.com/watch?v=EAXi-yVitxQ)
 
 ### Vue
 
