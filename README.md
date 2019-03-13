@@ -729,6 +729,7 @@ Personal goals made open source across computers I use.
 -   24/10/2018 - 📄 [Getting Started with the Prettier Plugin for ESLint](https://cloudfour.com/thinks/getting-started-with-the-prettier-plugin-for-eslint/)
 -   24/01/2019 - 📄 [What is tree shaking and how does it work?](https://bitsofco.de/what-is-tree-shaking/)
 -   25/01/2019 - 🎥 [Component Library: Tree Shaking CSS solution](https://www.youtube.com/watch?v=EkhD1OMHkYI)
+-   13/03/2019 - 🎥 [ESLint + Prettier + VS Code](https://www.youtube.com/watch?v=lHAeK8t94as)
 
 ### a11y
 
