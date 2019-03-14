@@ -346,6 +346,7 @@ Personal goals made open source across computers I use.
 -   18/02/2019 - 📄 [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
 -   19/02/2019 - 📄 [A look at CSS hyphenation in 2019](https://justmarkup.com/log/2019/01/a-look-at-css-hyphenation-in-2019/)
 -   27/02/2019 - 📄 [Gradient Borders and Border Images in Pure CSS](https://alligator.io/css/gradient-borders-pure-css/)
+-   14/03/2019 - 🎥 [The State of CSS](https://www.youtube.com/watch?v=3LxyRuZxs2w)
 
 ### CSS Units
 
