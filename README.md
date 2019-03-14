@@ -1342,6 +1342,7 @@ Personal goals made open source across computers I use.
 -   01/03/2019 - 🎥 [A new app, testing...](https://www.youtube.com/watch?v=c9_jw5CzMrc)
 -   05/03/2019 - 🎥 [Carlos Hernández Gómez | JS the unknown](https://www.youtube.com/watch?v=om3Iw5-JBhw)
 -   07/03/2019 - 📄 [Tracking unhandled rejected Promises](http://2ality.com/2016/04/unhandled-rejections.html)
+-   14/03/2019 - 🎥 [A framework-independent, decoupled frontend architecture for large-scale projects](https://www.youtube.com/watch?v=FC-i3LXgHvo)
 
 ### JavaScript Events
 
