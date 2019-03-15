@@ -1531,6 +1531,7 @@ Personal goals made open source across computers I use.
 -   24/11/2018 - 📄 [Testing React with Jest and Enzyme I](https://medium.com/codeclan/testing-react-with-jest-and-enzyme-20505fec4675)
 -   24/11/2018 - 📄 [How and Why We Unit Test Our Sass](https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass)
 -   14/03/2019 - 📄 [End-to-end all the things: using Cypress in Spaces](https://medium.com/insiden26/end-to-end-all-the-things-using-cypress-in-spaces-720e32a20d6)
+-   15/05/2019 - 🎥 [Testing sin dogmas](https://www.youtube.com/watch?v=WH3lva8J0IA)
 
 ### Linting
 
