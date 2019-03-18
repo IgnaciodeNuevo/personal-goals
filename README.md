@@ -1065,6 +1065,7 @@ Personal goals made open source across computers I use.
 -   21/01/2019 - 📄 [Working Type](https://medium.com/airbnb-design/working-type-81294544608b)
 -   18/02/2019 - 📄 [Intro to Font Metrics](http://westonthayer.com/writing/intro-to-font-metrics/)
 -   25/02/2019 - 📄 [Exploring Responsive Type Scales](https://medium.com/sketch-app-sources/exploring-responsive-type-scales-cf1da541be54)
+-   18/03/2019 - 📄 [Use rems for global sizing, use ems for local sizing](http://clagnut.com/blog/2384/)
 
 ### Design Systems
 
