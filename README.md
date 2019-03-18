@@ -1067,6 +1067,7 @@ Personal goals made open source across computers I use.
 -   25/02/2019 - 📄 [Exploring Responsive Type Scales](https://medium.com/sketch-app-sources/exploring-responsive-type-scales-cf1da541be54)
 -   18/03/2019 - 📄 [Use rems for global sizing, use ems for local sizing](http://clagnut.com/blog/2384/)
 -   18/03/2019 - 📄 [A More Modern Scale for Web Typography](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
+-   18/03/2019 - 📄 [Contrast Through Scale](http://typecast.com/blog/contrast-through-scale)
 
 ### Design Systems
 
