@@ -59,6 +59,7 @@ Personal goals made open source across computers I use.
 1. [SVG](#svg)
 1. [UX](#ux)
 1. [JavaScript](#javascript)
+1. [JavaScript Basics](#javascript-basics)
 1. [JavaScript Events](#javascript-events)
 1. [JavaScript Patterns](#javascript-patterns)
 1. [JavaScript Security](#javascript-security)
@@ -1354,6 +1355,10 @@ Personal goals made open source across computers I use.
 -   14/03/2019 - 🎥 [A framework-independent, decoupled frontend architecture for large-scale projects](https://www.youtube.com/watch?v=FC-i3LXgHvo)
 -   15/03/2019 - 🎥 [Twitter and Instagram Scraper with Node.js](https://www.youtube.com/watch?v=rWc0xqroY4U)
 
+### JavaScript Basics
+
+-   19/03/2019 - 📄 [JavaScript Deep Cloning, and Value vs Reference](https://medium.com/irrelevant-code/javascript-deep-cloning-and-value-vs-reference-5bf09bf980d6)
+
 ### JavaScript Events
 
 -   08/03/2019 - 📄 [Passive event listeners](https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md)
@@ -1365,7 +1370,7 @@ Personal goals made open source across computers I use.
 -   25/11/2018 - 📄 [Asynchronous Patterns in JavaScript](https://blog.bloomca.me/2018/03/24/async-patterns-js.html)
 -   28/11/2018 - 📄 [Tricks with JavaScript Destructuring](https://alligator.io/js/tricks-with-destructuring/)
 -   21/12/2018 - 📄 [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
- -   28/01/2019 - 📄 [Dependency Injection in JavaScript 101](https://dev.to/jeremylikness/dependency-injection-in-javascript-101-2b1e)
+-   28/01/2019 - 📄 [Dependency Injection in JavaScript 101](https://dev.to/jeremylikness/dependency-injection-in-javascript-101-2b1e)
 
 ### JavaScript Security
 
