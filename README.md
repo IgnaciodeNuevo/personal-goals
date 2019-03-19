@@ -1626,6 +1626,7 @@ Personal goals made open source across computers I use.
 -   24/11/2017 - 📄 [Notas para orientación profesional como programador](https://gist.github.com/gimenete/7307756d0c0986d0aebe29b41b5ef6aa)
 -   26/11/2017 - 😍 📄 [How To Craft The Perfect Web Developer Ré­su­mé](https://www.smashingmagazine.com/2018/06/web-developer-resume/)
 -   05/02/2019 - 😍 📄 [Don’t feel like an expert? Share anyway.](https://medium.com/@sara_ann_marie/dont-feel-like-an-expert-share-anyway-661f2f8cd038?sk=df7b74fe9684d0ac77dcce94f745056b)
+-   19/03/2019 - 📄 [7 Skills Every Senior Developer Should Train](https://medium.com/@Gorzas/8-skills-every-senior-developer-should-train-ba722deed7d9)
 
 ### Diversity
 
