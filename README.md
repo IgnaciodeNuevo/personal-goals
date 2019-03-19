@@ -60,6 +60,7 @@ Personal goals made open source across computers I use.
 1. [UX](#ux)
 1. [JavaScript](#javascript)
 1. [JavaScript Basics](#javascript-basics)
+1. [JavaScript Conditionals](#javascript-Conditionals)
 1. [JavaScript Looping](#javascript-looping)
 1. [JavaScript Events](#javascript-events)
 1. [JavaScript Patterns](#javascript-patterns)
@@ -1360,6 +1361,10 @@ Personal goals made open source across computers I use.
 
 -   19/03/2019 - 📄 [JavaScript Deep Cloning, and Value vs Reference](https://medium.com/irrelevant-code/javascript-deep-cloning-and-value-vs-reference-5bf09bf980d6)
 -   19/03/2019 - 📄 [3 Ways to Set Default Value in JavaScript](https://www.samanthaming.com/tidbits/52-3-ways-to-set-default-value)
+
+### JavaScript Conditionals
+
+-   19/03/2019 - 📄 [Understanding Switch Cases in JavaScript](https://alligator.io/js/switch/)
 
 ### JavaScript Looping
 
