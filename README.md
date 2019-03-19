@@ -1361,6 +1361,7 @@ Personal goals made open source across computers I use.
 
 -   19/03/2019 - 📄 [JavaScript Deep Cloning, and Value vs Reference](https://medium.com/irrelevant-code/javascript-deep-cloning-and-value-vs-reference-5bf09bf980d6)
 -   19/03/2019 - 📄 [3 Ways to Set Default Value in JavaScript](https://www.samanthaming.com/tidbits/52-3-ways-to-set-default-value)
+-   19/03/2019 - 📄 [Understanding Events](https://itnext.io/javascript-fundamentals-understanding-events-4def8c47e313)
 
 ### JavaScript Conditionals
 
