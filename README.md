@@ -958,6 +958,7 @@ Personal goals made open source across computers I use.
 -   19/02/2019 - 📄 [Bandwidth or Latency: When to Optimise for Which](https://csswizardry.com/2019/01/bandwidth-or-latency-when-to-optimise-which/)
 -   22/02/2019 - 🎥 [Extrae Critical Path CSS con Puppeteer, Code Coverage en sólo 20 líneas de código](https://www.youtube.com/watch?v=GIYp3qG1520)
 -   20/03/2019 - 📄 [Making Google Fonts Faster](https://medium.com/clio-calliope/making-google-fonts-faster-aadf3c02a36d)
+-   20/03/2019 - 📄 [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
 
 ### Perf Reviews
 
