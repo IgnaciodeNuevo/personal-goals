@@ -1411,6 +1411,7 @@ Personal goals made open source across computers I use.
 -   18/01/2019 - 🎥 [My First Progressive Web App (PWA)](https://www.youtube.com/watch?v=sg8grVYpi4g)
 -   18/02/2019 - 📄 [How I made a Progressive Web App out of my Blog](https://alexjover.com/blog/how-i-made-a-progressive-web-app-out-of-my-blog/)
 -   19/02/2019 - 📄 [What self.skipWaiting() does to the service worker lifecycle](https://bitsofco.de/what-self-skipwaiting-does-to-the-service-worker-lifecycle/)
+-   20/03/2019 - 📄 [Service Workers for Dummies](https://medium.com/nsoft/service-workers-for-dummies-71369332d47f)
 
 ### TypeScript
 
