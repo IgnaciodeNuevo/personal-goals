@@ -50,6 +50,7 @@ Personal goals made open source across computers I use.
 1. [Hilos Sego](#hilos-sego)
 1. [Refactoring UI](#refactoring-ui)
 1. [a11y](#a11y)
+1. [WAI ARIA](#wai-aria)
 1. [Perf](#perf)
 1. [Perf Reviews](#perf-reviews)
 1. [Critical Path](#critical-path)
@@ -843,6 +844,10 @@ Personal goals made open source across computers I use.
 -   07/03/2019 - 📄 [The Optimizer’s Guide to Web Accessibility](https://conversionxl.com/blog/web-accessibility/)
 -   07/03/2019 - 📄 [Effortless accessibility](https://jaicab.com/2016/04/13/effortless-accessibility/)
 -   08/03/2019 - 📄 [Web Accessibility Guide](https://webaccessibility.guide/)
+
+# WAI-ARIA
+
+-   21/03/2019 - 📄 [WAI-ARIA basics](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
 
 ### !Important Show
 
