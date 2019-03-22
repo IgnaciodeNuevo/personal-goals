@@ -967,6 +967,7 @@ Personal goals made open source across computers I use.
 -   20/03/2019 - 📄 [Making Google Fonts Faster](https://medium.com/clio-calliope/making-google-fonts-faster-aadf3c02a36d)
 -   20/03/2019 - 📄 [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
 -   21/03/2019 - 📄 [Who has the fastest website in F1?](https://jakearchibald.com/2019/f1-perf/)
+-   21/03/2019 - 📄 [Performance of CSS Variables](https://lisilinhart.info/posts/css-variables-performance/)
 
 ### Perf Reviews
 
