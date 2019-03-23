@@ -846,6 +846,7 @@ Personal goals made open source across computers I use.
 -   07/03/2019 - 📄 [The Optimizer’s Guide to Web Accessibility](https://conversionxl.com/blog/web-accessibility/)
 -   07/03/2019 - 📄 [Effortless accessibility](https://jaicab.com/2016/04/13/effortless-accessibility/)
 -   08/03/2019 - 📄 [Web Accessibility Guide](https://webaccessibility.guide/)
+-   22/03/2019 - 🎥 [Accesible, que no es poco | T3chFest 2019](https://www.youtube.com/watch?v=0ELlXb37gTQ)
 
 ### WAI-ARIA
 
@@ -1402,7 +1403,7 @@ Personal goals made open source across computers I use.
 
 ### JavaScript Architecture
 
--   22/03/2019 - 📄 [A framework-independent, decoupled frontend architecture for large-scale projects | T3chFest 2019](https://www.youtube.com/watch?v=yDlp2o2Eh7Q)
+-   22/03/2019 - 🎥 [A framework-independent, decoupled frontend architecture for large-scale projects | T3chFest 2019](https://www.youtube.com/watch?v=yDlp2o2Eh7Q)
 
 ### JavaScript Security
 
