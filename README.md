@@ -65,6 +65,7 @@ Personal goals made open source across computers I use.
 1. [JavaScript Looping](#javascript-looping)
 1. [JavaScript Events](#javascript-events)
 1. [JavaScript Patterns](#javascript-patterns)
+1. [JavaScript Architecture](#javascript-architecture)
 1. [JavaScript Security](#javascript-security)
 1. [Progressive Web Apps](#progressive-web-apps)
 1. [TypeScript](#typescript)
@@ -1398,6 +1399,10 @@ Personal goals made open source across computers I use.
 -   28/11/2018 - 📄 [Tricks with JavaScript Destructuring](https://alligator.io/js/tricks-with-destructuring/)
 -   21/12/2018 - 📄 [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
 -   28/01/2019 - 📄 [Dependency Injection in JavaScript 101](https://dev.to/jeremylikness/dependency-injection-in-javascript-101-2b1e)
+
+### JavaScript Architecture
+
+-   22/03/2019 - 📄 [A framework-independent, decoupled frontend architecture for large-scale projects | T3chFest 2019](https://www.youtube.com/watch?v=yDlp2o2Eh7Q)
 
 ### JavaScript Security
 
