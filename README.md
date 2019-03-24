@@ -1484,6 +1484,7 @@ Personal goals made open source across computers I use.
 -   12/03/2019 - 🎥 [Aprende a CREAR TU PROPIO REACT ⚛️ desde 0](https://www.youtube.com/watch?v=EAXi-yVitxQ)
 -   19/03/2019 - 🎥 [CREA TU PROPIO REACT ⚛️ desde 0 - PARTE II](https://www.youtube.com/watch?v=1OiS6DE6cX0)
 -   24/03/2019 - 🎥 [React.js Frontend with Hooks and Context - Node.js Scraper DAY 3](https://www.youtube.com/watch?v=1C_XpWdbimM)
+-   24/03/2019 - 🎥 [React Charting, Data Massaging and more hooks - Node.js Scraper DAY 4](https://www.youtube.com/watch?v=hPXhz1P5NN4)
 
 ### Vue
 
