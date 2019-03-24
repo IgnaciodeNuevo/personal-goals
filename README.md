@@ -83,6 +83,7 @@ Personal goals made open source across computers I use.
 1. [Linting](#linting)
 1. [OOP](#object-oriented-programming)
 1. [Software Crafting](#software-crafting)
+1. [Software Generalist](#software-generalist)
 1. [Mentoring](#mentoring)
 1. [Octuweb](#octuweb)
 1. [Career](#career)
@@ -1613,6 +1614,10 @@ Personal goals made open source across computers I use.
 -   27/10/2018 - 🎥 [How to Work with Legacy Code](https://www.youtube.com/watch?v=iEN2nTuNqDE)
 -   11/11/2018 - 🎥 [Masterclass: Craftsmanship](https://www.youtube.com/watch?v=9CfKXIbCSik)
 -   22/01/2019 - 🎥 [Masterclass: Pairing](https://www.youtube.com/watch?v=qji7NK3wPNg)
+
+### Software Generalist
+
+-   24/03/2019 - 🎥 [Hasta dónde partir mis microservicios y por qué | T3chFest 2019](https://www.youtube.com/watch?v=-mNCM9NTe38)
 
 ### Mentoring
 
