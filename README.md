@@ -974,6 +974,7 @@ Personal goals made open source across computers I use.
 -   20/03/2019 - 📄 [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
 -   21/03/2019 - 📄 [Who has the fastest website in F1?](https://jakearchibald.com/2019/f1-perf/)
 -   21/03/2019 - 📄 [Performance of CSS Variables](https://lisilinhart.info/posts/css-variables-performance/)
+-   21/03/2019 - 📄 [Preloading Fonts and the Puzzle of Priorities](https://andydavies.me/blog/2019/02/12/preloading-fonts-and-the-puzzle-of-priorities/)
 
 ### Perf Reviews
 
