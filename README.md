@@ -599,6 +599,7 @@ Personal goals made open source across computers I use.
 -   11/01/2019 - 📄 [Animation principles for UX and UI designers](https://uxplanet.org/animation-that-matters-adding-value-to-your-interface-65496fe4c182)
 -   15/03/2019 - 🎥 [Las reglas han cambiado, Custom Properties](https://www.youtube.com/watch?v=NroY5YLLcVY)
 -   21/03/2019 - 📄 [How to combine SASS color functions and CSS Variables](https://codyhouse.co/blog/post/how-to-combine-sass-color-functions-and-css-variables)
+-   25/03/2019 - 📄 [Responsive Designs and CSS Custom Properties: Building a Flexible Grid System](https://css-tricks.com/responsive-designs-and-css-custom-properties-building-a-flexible-grid-system/)
 
 ### CSS Architecture and Naming
 
