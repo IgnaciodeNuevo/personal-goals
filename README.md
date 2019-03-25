@@ -1097,6 +1097,7 @@ Personal goals made open source across computers I use.
 -   18/03/2019 - 📄 [Are Baseline Grids Useful In The Flexible Canvas Of The Web?](https://vanseodesign.com/web-design/baseline-grids-web/)
 -   18/03/2019 - 📄 [Tips For Setting Up A Baseline Grid](http://vanseodesign.com/web-design/baseline-grid/)
 -   18/03/2019 - 📄 [Baseline Grids on the Web](http://jasonsantamaria.com/articles/baseline-grids-on-the-web)
+-   25/03/2019 - 📄 [Six tips for better web typography](https://css-tricks.com/six-tips-for-better-web-typography/)
 
 ### Design Systems
 
