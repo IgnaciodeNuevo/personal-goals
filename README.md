@@ -1388,6 +1388,7 @@ Personal goals made open source across computers I use.
 -   19/03/2019 - 📄 [3 Ways to Set Default Value in JavaScript](https://www.samanthaming.com/tidbits/52-3-ways-to-set-default-value)
 -   19/03/2019 - 📄 [Understanding Events](https://itnext.io/javascript-fundamentals-understanding-events-4def8c47e313)
 -   25/03/2019 - 📄 [Getting Elements in JavaScript and the DOM](https://alligator.io/js/getting-elements/)
+-   25/03/2019 - 📄 [JavaScript Fundamentals: Variables, Scope & Hoisting](https://itnext.io/javascript-fundamentals-variables-scope-hoisting-b6a68dea99fc)
 
 ### JavaScript Conditionals
 
