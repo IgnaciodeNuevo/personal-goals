@@ -735,6 +735,7 @@ Personal goals made open source across computers I use.
 -   10/01/2019 - 📄 [A comprehensive look back at front-end in 2018](https://blog.logrocket.com/a-comprehensive-look-back-at-frontend-in-2018-8122e724a802)
 -   18/02/2019 - 📄 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 -   22/03/2019 - 🎥 [Guardianes de la galaxia front | T3chFest 2019](https://www.youtube.com/watch?v=Z6qM0qsUu50)
+-   27/03/2019 - 📄 [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 
 ### Task tools
 
