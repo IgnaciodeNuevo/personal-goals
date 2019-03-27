@@ -360,6 +360,7 @@ Personal goals made open source across computers I use.
 -   24/03/2019 - 😍 🎥 [Overwatch Hero Picker](https://www.youtube.com/watch?time_continue=7&v=ccRyCOI0-7Q)
 -   24/03/2019 - 🎥 [The Impossible CSS Layout: Grid? Flexbox? Floats? Columns? JS!](https://www.youtube.com/watch?v=CCUNQud5gEI)
 -   26/03/2019 - 📄 [Finally, a CSS only solution to :hover on touchscreens](https://blog.usejournal.com/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c?ref=heydesigner)
+-   27/03/2019 - 📄 [Text Wrapping & Inline Pseudo Elements](https://www.jayfreestone.com/writing/wrapping-and-inline-pseudo-elements/)
 
 ### CSS Units
 
