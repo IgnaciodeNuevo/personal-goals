@@ -1395,6 +1395,7 @@ Personal goals made open source across computers I use.
 -   25/03/2019 - 📄 [Getting Elements in JavaScript and the DOM](https://alligator.io/js/getting-elements/)
 -   26/03/2019 - 📄 [JavaScript Fundamentals: Variables, Scope & Hoisting](https://itnext.io/javascript-fundamentals-variables-scope-hoisting-b6a68dea99fc)
 -   26/03/2019 - 📄 [All about “this” keyword](https://codeburst.io/all-about-this-and-new-keywords-in-javascript-38039f71780c)
+-   27/03/2019 - 📄 [A Look at Scopes, Context, Object Reference and Instantiation in JavaScript](https://alligator.io/js/object-reference-context-scope-instantiation/)
 
 ### JavaScript Conditionals
 
