@@ -401,6 +401,7 @@ Personal goals made open source across computers I use.
 -   04/12/2018 - 😍 📄 [Responsive Images: Use Cases and Documented Code Snippets to Get You Started](https://dev.opera.com/articles/responsive-images/)
 -   04/12/2018 - 📄 [Guía práctica de imágenes responsive](https://trip2themoon.com/guia-imagenes-responsive/)
 -   18/02/2018 - 📄 [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/)
+-   27/03/2019 - 📄 [Serve Responsive Images](https://web.dev/fast/serve-responsive-images)
 
 ### Flexbox
 
