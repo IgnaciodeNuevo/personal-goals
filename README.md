@@ -1696,6 +1696,7 @@ Personal goals made open source across computers I use.
 ### Diversity
 
 -   15/03/2019 - 🎥 [La igualdad en los espacios laborales: retos y beneficios](https://www.youtube.com/watch?v=640YazUAORU)
+-   31/03/2019 - 🎥 [¿Qué puedes hacer tú para facilitar la diversidad en el sector tecnológico? | T3chFest 2019](https://www.youtube.com/watch?v=lx4lplshNaE)
 
 ### Documentation
 
