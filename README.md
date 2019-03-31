@@ -982,6 +982,7 @@ Personal goals made open source across computers I use.
 -   21/03/2019 - 📄 [Performance of CSS Variables](https://lisilinhart.info/posts/css-variables-performance/)
 -   21/03/2019 - 📄 [Preloading Fonts and the Puzzle of Priorities](https://andydavies.me/blog/2019/02/12/preloading-fonts-and-the-puzzle-of-priorities/)
 -   26/03/2019 - 📄 [Measuring the Performance Impact of Third-Party Scripts](https://www.lullabot.com/articles/measuring-performance-impact-third-party-scripts)
+-   31/03/2019 - 😍 🎥 [¡Hay que poner internet a dieta! | T3chFest 2019](https://www.youtube.com/watch?v=jNI8rZ4l-5Q)
 
 ### Perf Reviews
 
