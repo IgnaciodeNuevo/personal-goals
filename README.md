@@ -1754,3 +1754,4 @@ Personal goals made open source across computers I use.
 -   19/02/2019 - 📄 [¿Qué es un Senior Developer?](https://medium.com/@Rafael_Casuso/qu%C3%A9-es-un-senior-developer-7d2911605da8)
 -   26/02/2019 - 📄 [¿Dónde están esas devs?](http://fightingkitten.webcindario.com/?p=1720)
 -   22/03/2019 - 🎥 [Developers y demás parientes | T3chFest 2019](https://www.youtube.com/watch?v=EcZoR1N6Cz0)
+-   31/03/2019 - 🎥 [Beware the bloated browser! | T3chFest 2019](https://www.youtube.com/watch?v=dnA6THOT6VA)
