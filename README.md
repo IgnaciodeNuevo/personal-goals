@@ -1389,6 +1389,7 @@ Personal goals made open source across computers I use.
 -   05/03/2019 - 🎥 [Carlos Hernández Gómez | JS the unknown](https://www.youtube.com/watch?v=om3Iw5-JBhw)
 -   07/03/2019 - 📄 [Tracking unhandled rejected Promises](http://2ality.com/2016/04/unhandled-rejections.html)
 -   15/03/2019 - 🎥 [Twitter and Instagram Scraper with Node.js](https://www.youtube.com/watch?v=rWc0xqroY4U)
+-   31/03/2019 - 📄 [Responsible JavaScript: Part I](https://alistapart.com/article/responsible-javascript-part-1)
 
 ### JavaScript Basics
 
