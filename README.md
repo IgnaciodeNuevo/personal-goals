@@ -402,6 +402,7 @@ Personal goals made open source across computers I use.
 -   04/12/2018 - 📄 [Guía práctica de imágenes responsive](https://trip2themoon.com/guia-imagenes-responsive/)
 -   18/02/2018 - 📄 [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/)
 -   27/03/2019 - 📄 [Serve Responsive Images](https://web.dev/fast/serve-responsive-images)
+-   01/04/2019 - 📄 [The anatomy of responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
 
 ### Flexbox
 
