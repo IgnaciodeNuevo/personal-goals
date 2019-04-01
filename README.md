@@ -1248,6 +1248,7 @@ Personal goals made open source across computers I use.
 -   18/01/2019 - 📄 [Tap to Dismiss](https://medium.com/tap-to-dismiss/tap-to-dismiss-fbc66bdf500a)
 -   22/03/2019 - 🎥 [Bad UX | T3chFest 2019](https://www.youtube.com/watch?v=unfZWX8OsJw)
 -   31/03/2019 - 🎥 [UX Engineer: ingenieros mixtos entre diseño y front-end | T3chFest 2019](https://www.youtube.com/watch?v=-mlfB-GlMt4)
+-   01/04/2019 - 🎥 [Diseñar con datos, más allá del A/B Testing | T3chFest 2019](https://www.youtube.com/watch?v=URTtzzBv3_8)
 
 ### JavaScript
 
