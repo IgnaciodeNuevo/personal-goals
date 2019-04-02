@@ -988,6 +988,7 @@ Personal goals made open source across computers I use.
 -   01/04/2019 - 📄 [Improving Perceived Performance With the Link Rel=preconnect HTTP Header](https://andydavies.me/blog/2019/03/22/improving-perceived-performance-with-a-link-rel-equals-preconnect-http-header/)
 -   01/04/2019 - 🎥 [Web performance - Things that you usually forget about](https://www.youtube.com/watch?v=_meMc1jgfiw)
 -   02/04/2019 - 📄 [Tuning Performance for New and “Old” Friends](https://www.filamentgroup.com/lab/cache-state/)
+-   02/04/2019 - 📄 [Downsides of Smooth Scrolling](https://css-tricks.com/downsides-of-smooth-scrolling/)
 
 ### Perf Reviews
 
