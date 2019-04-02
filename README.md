@@ -861,6 +861,7 @@ Personal goals made open source across computers I use.
 ### WAI-ARIA
 
 -   21/03/2019 - 📄 [WAI-ARIA basics](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
+-   01/04/2019 - 📄 [The WAI Forward](https://www.smashingmagazine.com/2014/07/the-wai-forward/)
 
 ### !Important Show
 
