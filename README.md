@@ -857,6 +857,7 @@ Personal goals made open source across computers I use.
 -   07/03/2019 - 📄 [Effortless accessibility](https://jaicab.com/2016/04/13/effortless-accessibility/)
 -   08/03/2019 - 📄 [Web Accessibility Guide](https://webaccessibility.guide/)
 -   22/03/2019 - 🎥 [Accesible, que no es poco | T3chFest 2019](https://www.youtube.com/watch?v=0ELlXb37gTQ)
+-   02/04/2019 - 📄 [Having an open dialog](https://www.scottohara.me/blog/2019/03/05/open-dialog.html)
 
 ### WAI-ARIA
 
