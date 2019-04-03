@@ -606,6 +606,7 @@ Personal goals made open source across computers I use.
 -   21/03/2019 - 📄 [How to combine SASS color functions and CSS Variables](https://codyhouse.co/blog/post/how-to-combine-sass-color-functions-and-css-variables)
 -   25/03/2019 - 📄 [Responsive Designs and CSS Custom Properties: Building a Flexible Grid System](https://css-tricks.com/responsive-designs-and-css-custom-properties-building-a-flexible-grid-system/)
 -   25/03/2019 - 📄 [Do CSS Custom Properties Beat Sass Loops?](https://css-tricks.com/do-css-custom-properties-beat-sass-loops/)
+-   03/01/2019 - 📄 [Performance of CSS Variables](https://lisilinhart.info/posts/css-variables-performance/)
 
 ### CSS Architecture and Naming
 
