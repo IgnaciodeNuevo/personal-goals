@@ -1413,6 +1413,7 @@ Personal goals made open source across computers I use.
 -   26/03/2019 - 📄 [All about “this” keyword](https://codeburst.io/all-about-this-and-new-keywords-in-javascript-38039f71780c)
 -   27/03/2019 - 📄 [A Look at Scopes, Context, Object Reference and Instantiation in JavaScript](https://alligator.io/js/object-reference-context-scope-instantiation/)
 -   03/04/2019 - 📄 [Asynchronous vs Deferred JavaScript](https://bitsofco.de/async-vs-defer/)
+-   03/04/2019 - 📄 [Preload: What Is It Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
 
 ### JavaScript Conditionals
 
