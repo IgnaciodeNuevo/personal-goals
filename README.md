@@ -1412,6 +1412,7 @@ Personal goals made open source across computers I use.
 -   26/03/2019 - 📄 [JavaScript Fundamentals: Variables, Scope & Hoisting](https://itnext.io/javascript-fundamentals-variables-scope-hoisting-b6a68dea99fc)
 -   26/03/2019 - 📄 [All about “this” keyword](https://codeburst.io/all-about-this-and-new-keywords-in-javascript-38039f71780c)
 -   27/03/2019 - 📄 [A Look at Scopes, Context, Object Reference and Instantiation in JavaScript](https://alligator.io/js/object-reference-context-scope-instantiation/)
+-   03/04/2019 - 📄 [Asynchronous vs Deferred JavaScript](https://bitsofco.de/async-vs-defer/)
 
 ### JavaScript Conditionals
 
