@@ -87,6 +87,7 @@ Personal goals made open source across computers I use.
 1. [Mentoring](#mentoring)
 1. [Octuweb](#octuweb)
 1. [Career](#career)
+1. [Interview](#interview)
 1. [Diversity](#diversity)
 1. [Documentation](#documentation)
 1. [Other resources](#other-resources)
@@ -1704,6 +1705,10 @@ Personal goals made open source across computers I use.
 -   05/02/2019 - 😍 📄 [Don’t feel like an expert? Share anyway.](https://medium.com/@sara_ann_marie/dont-feel-like-an-expert-share-anyway-661f2f8cd038?sk=df7b74fe9684d0ac77dcce94f745056b)
 -   19/03/2019 - 📄 [7 Skills Every Senior Developer Should Train](https://medium.com/@Gorzas/8-skills-every-senior-developer-should-train-ba722deed7d9)
 -   27/03/2019 - 📄 [Learning to Learn](https://css-tricks.com/learning-to-learn/)
+
+### Interview
+
+-   03/04/2019 - 📄 [The Coding Interview: an approach to minimize anxiety and improve chances of success](https://medium.com/@mylesborins/the-coding-interview-an-approach-to-minimize-anxiety-and-improve-chances-of-success-e5a8603bfea5)
 
 ### Diversity
 
