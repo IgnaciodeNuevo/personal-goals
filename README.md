@@ -1527,6 +1527,7 @@ Personal goals made open source across computers I use.
 -   02/11/2018 - 📄 [Mixins](https://vuejs.org/v2/guide/mixins.html)
 -   11/01/2019 - 📄 [Website with blog and portfolio using Vue.js + Nuxt + Markdown](https://marinaaisa.com/blog/blog-using-vue-nuxt-markdown/)
 -   20/02/2019 - 🎥 [Build a Reactivity System](https://www.vuemastery.com/courses/advanced-components/build-a-reactivity-system/)
+-   03/04/2019 - 📄 [](https://dev.to/aspittel/a-complete-beginners-guide-to-vue-422n)
 
 ### GraphQL
 
