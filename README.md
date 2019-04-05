@@ -1650,6 +1650,7 @@ Personal goals made open source across computers I use.
 -   27/10/2018 - 🎥 [How to Work with Legacy Code](https://www.youtube.com/watch?v=iEN2nTuNqDE)
 -   11/11/2018 - 🎥 [Masterclass: Craftsmanship](https://www.youtube.com/watch?v=9CfKXIbCSik)
 -   22/01/2019 - 🎥 [Masterclass: Pairing](https://www.youtube.com/watch?v=qji7NK3wPNg)
+-   05/04/2019 - 😍 📄 [A letter to Agile Coaches (Scrum, XP, and software delivery)](https://www.eferro.net/2019/04/a-letter-to-agile-coaches-scrum-xp-and.html)
 
 ### Software Generalist
 
