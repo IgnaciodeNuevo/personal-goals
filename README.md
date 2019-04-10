@@ -1652,6 +1652,7 @@ Personal goals made open source across computers I use.
 -   11/11/2018 - 🎥 [Masterclass: Craftsmanship](https://www.youtube.com/watch?v=9CfKXIbCSik)
 -   22/01/2019 - 🎥 [Masterclass: Pairing](https://www.youtube.com/watch?v=qji7NK3wPNg)
 -   05/04/2019 - 😍 📄 [A letter to Agile Coaches (Scrum, XP, and software delivery)](https://www.eferro.net/2019/04/a-letter-to-agile-coaches-scrum-xp-and.html)
+-   10/04/2019 - 🎥 [Rubén Eguiluz, Alberto Pérez e Isidro López - Alineando valores con prácticas técnicas en CAS 2016](https://www.youtube.com/watch?v=Df6Ppv-C4tI)
 
 ### Software Generalist
 
