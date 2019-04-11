@@ -1416,6 +1416,7 @@ Personal goals made open source across computers I use.
 -   27/03/2019 - 📄 [A Look at Scopes, Context, Object Reference and Instantiation in JavaScript](https://alligator.io/js/object-reference-context-scope-instantiation/)
 -   03/04/2019 - 📄 [Asynchronous vs Deferred JavaScript](https://bitsofco.de/async-vs-defer/)
 -   03/04/2019 - 📄 [Preload: What Is It Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
+-   11/04/2019 - 🎥 [Javascript vs. CSS - More control means more responsibility](https://www.youtube.com/watch?v=4HuJoPIeyQo)
 
 ### JavaScript Conditionals
 
