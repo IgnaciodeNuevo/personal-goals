@@ -67,6 +67,7 @@ Personal goals made open source across computers I use.
 1. [JavaScript Patterns](#javascript-patterns)
 1. [JavaScript Architecture](#javascript-architecture)
 1. [JavaScript Security](#javascript-security)
+1. [Functional JavaScript](#functional-javascript)
 1. [Progressive Web Apps](#progressive-web-apps)
 1. [TypeScript](#typescript)
 1. [Angular](#angular)
@@ -1446,6 +1447,10 @@ Personal goals made open source across computers I use.
 ### JavaScript Security
 
 -   12/01/2018 - 📄 [The Spectre Attack and Critical CSS](https://www.filamentgroup.com/lab/spectre-js-cookie.html)
+
+### Functional JavaScript
+
+-   11/04/2019 - 🎥 [Programación funcional pura en JavaScript - JSDayES 2016](https://www.youtube.com/watch?v=ZfQKYlGzH2g)
 
 ### Progressive Web Apps
 
