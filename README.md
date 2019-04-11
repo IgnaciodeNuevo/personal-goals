@@ -1140,6 +1140,7 @@ Personal goals made open source across computers I use.
 -   03/12/2018 - 📄 [Should I Use JavaScript to Load My Web Fonts?](https://www.filamentgroup.com/lab/js-web-fonts.html)
 -   20/12/2018 - 📄 [Buttons in Design Systems](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23)
 -   21/03/2019 - 📄 [Typography in Design Systems](http://danmall.me/articles/typography-in-design-systems/)
+-   11/04/2019 - 🎥 [Design At Scale - Procesos, herramientas y aprendizajes](https://www.youtube.com/watch?v=i18FcNa1NAU)
 
 ### Design
 
