@@ -1403,6 +1403,7 @@ Personal goals made open source across computers I use.
 -   07/03/2019 - 📄 [Tracking unhandled rejected Promises](http://2ality.com/2016/04/unhandled-rejections.html)
 -   15/03/2019 - 🎥 [Twitter and Instagram Scraper with Node.js](https://www.youtube.com/watch?v=rWc0xqroY4U)
 -   31/03/2019 - 📄 [Responsible JavaScript: Part I](https://alistapart.com/article/responsible-javascript-part-1)
+-   11/04/2019 - 🎥 [Hot Garbage: Clean Code is Dead - Michael Chan - JSConf US 2018](https://www.youtube.com/watch?v=xTJyi49piH4)
 
 ### JavaScript Basics
 
