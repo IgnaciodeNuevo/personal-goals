@@ -1571,6 +1571,7 @@ Personal goals made open source across computers I use.
 -   12/11/2018 - 🎥 [Fast but not furious: debugging user interaction performance issues](https://www.youtube.com/watch?v=FmpNNw1Jjwk)
 -   28/11/2018 - 📄 [How to integrate Prettier with ESLint and stylelint](https://medium.freecodecamp.org/integrating-prettier-with-eslint-and-stylelint-99e74fede33f)
 -   20/12/2018 - 📄 [Using DevTools to understand modern layout techniques](https://www.chenhuijing.com/blog/devtools-for-understanding-modern-layout-techniques/#%F0%9F%92%BB)
+-   11/04/2019 - 🎥 [KIT: Aprende debugging con Chrome Dev Tools](https://www.youtube.com/watch?v=nmcER8DnZMs)
 
 ### Engine Internals
 
