@@ -1722,6 +1722,7 @@ Personal goals made open source across computers I use.
 -   19/03/2019 - 📄 [7 Skills Every Senior Developer Should Train](https://medium.com/@Gorzas/8-skills-every-senior-developer-should-train-ba722deed7d9)
 -   27/03/2019 - 📄 [Learning to Learn](https://css-tricks.com/learning-to-learn/)
 -   10/04/2019 - 🎥 [Modesto San Juan y Ronny Ancorini - El camino del aprendizaje en CAS Vitoria 2016](https://www.youtube.com/watch?v=V0Z9RcgeRbU&list=PLKxa4AIfm4pU9PbGPnp7DutyVZTxKyqJu&index=33)
+-   12/04/2019 - 🎥 [Paciente 6.000.001 del síndrome del impostor - Laura Lacarra](https://www.youtube.com/watch?v=q0GqEHjrP5g)
 
 ### Interview
 
