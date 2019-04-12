@@ -1215,6 +1215,7 @@ Personal goals made open source across computers I use.
 -   26/02/2019 - 📄 [4 Reasons Why You Should Design Without Color First](https://medium.com/devsdesign/4-reasons-why-you-should-design-without-color-first-c0e38180f689)
 -   15/03/2019 - 🎥 [Cómo te la "colamos" los diseñadores todos los días](https://www.youtube.com/watch?v=srS8imBcAmc)
 -   01/04/2019 - 📄 [10 pros and cons of the hamburger menu (with examples)](https://www.invisionapp.com/inside-design/pros-and-cons-of-hamburger-menus/)
+-   12/04/2019 - 😍 📄 [Comunicación, hay que decirlo más](https://luciagomez.me/blog/comunicacion-hay-que-decirlo-mas/)
 
 ### SVG
 
