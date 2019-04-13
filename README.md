@@ -1481,6 +1481,7 @@ Personal goals made open source across computers I use.
 ### TypeScript
 
 -   29/03/2018 - 📄 [Typescript: cast an object to other type. How? And instanceof or typeof?](https://acdcjunior.github.io/typescript-cast-object-to-other-type-or-instanceof.html)
+-   13/04/2019 - 🎥 [No Time for Types - Nick Nisi - JSConf US 2018](https://www.youtube.com/watch?v=qGK541P2xII)
 
 ### Angular
 
