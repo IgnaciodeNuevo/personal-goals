@@ -1422,6 +1422,7 @@ Personal goals made open source across computers I use.
 -   03/04/2019 - 📄 [Asynchronous vs Deferred JavaScript](https://bitsofco.de/async-vs-defer/)
 -   03/04/2019 - 📄 [Preload: What Is It Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
 -   11/04/2019 - 🎥 [Javascript vs. CSS - More control means more responsibility](https://www.youtube.com/watch?v=4HuJoPIeyQo)
+-   13/04/2019 - 🎥 [JavaScript Concurrency and the DOM - Kristofer Baxter and Malte Ubl - JSConf US 2018](https://www.youtube.com/watch?v=XyVQfqmx2CI)
 
 ### JavaScript Conditionals
 
