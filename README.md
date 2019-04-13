@@ -743,6 +743,7 @@ Personal goals made open source across computers I use.
 -   18/02/2019 - 📄 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 -   22/03/2019 - 🎥 [Guardianes de la galaxia front | T3chFest 2019](https://www.youtube.com/watch?v=Z6qM0qsUu50)
 -   27/03/2019 - 📄 [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
+-   13/04/2019 - 📄 [Split](https://adactio.com/journal/15050)
 
 ### Task tools
 
