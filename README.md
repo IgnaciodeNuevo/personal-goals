@@ -1423,6 +1423,7 @@ Personal goals made open source across computers I use.
 -   03/04/2019 - 📄 [Preload: What Is It Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
 -   11/04/2019 - 🎥 [Javascript vs. CSS - More control means more responsibility](https://www.youtube.com/watch?v=4HuJoPIeyQo)
 -   13/04/2019 - 🎥 [JavaScript Concurrency and the DOM - Kristofer Baxter and Malte Ubl - JSConf US 2018](https://www.youtube.com/watch?v=XyVQfqmx2CI)
+-   14/04/2019 - 🎥 [ES6 In Practice - Tim Doherty - JSConf US 2018](https://www.youtube.com/watch?v=Fh0VYI-_uPg)
 
 ### JavaScript Conditionals
 
