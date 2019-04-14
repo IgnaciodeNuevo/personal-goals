@@ -45,6 +45,7 @@ Personal goals made open source across computers I use.
 1. [Sass](#sass)
 1. [Stylable](#stylable)
 1. [General Frontend](#general-frontend)
+1. [General UX Engineering](general-ux-engineering)
 1. [Task tools](#task-tools)
 1. [!Important Show](!important-show)
 1. [Hilos Sego](#hilos-sego)
@@ -744,6 +745,10 @@ Personal goals made open source across computers I use.
 -   22/03/2019 - 🎥 [Guardianes de la galaxia front | T3chFest 2019](https://www.youtube.com/watch?v=Z6qM0qsUu50)
 -   27/03/2019 - 📄 [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 -   13/04/2019 - 📄 [Split](https://adactio.com/journal/15050)
+
+### General UX Engineering
+
+-   13/04/2019 - 📄 [20 Skills Needed to Become a UX Engineer in 2019](https://uxengineer.com/skills-needed-become-a-ux-engineer/)
 
 ### Task tools
 
@@ -1636,6 +1641,7 @@ Personal goals made open source across computers I use.
 -   14/03/2019 - 📄 [End-to-end all the things: using Cypress in Spaces](https://medium.com/insiden26/end-to-end-all-the-things-using-cypress-in-spaces-720e32a20d6)
 -   15/03/2019 - 🎥 [Testing sin dogmas](https://www.youtube.com/watch?v=WH3lva8J0IA)
 -   13/04/2019 - 🎥 [I like my tests, like I like my friends, reliable and flake-free - Amir Rustamzadeh - JSConf US 2018](https://www.youtube.com/watch?v=LqR7t2-U0WA)
+-   14/04/2019 - 🎥 [Please don't mock me - Justin Searls - JSConf US 2018](https://www.youtube.com/watch?v=x8sKpJwq6lY)
 
 ### Linting
 
