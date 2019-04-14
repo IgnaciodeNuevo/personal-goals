@@ -85,6 +85,7 @@ Personal goals made open source across computers I use.
 1. [Linting](#linting)
 1. [OOP](#object-oriented-programming)
 1. [Software Crafting](#software-crafting)
+1. [Code Reviews](#code-reviews)
 1. [Software Generalist](#software-generalist)
 1. [Mentoring](#mentoring)
 1. [Octuweb](#octuweb)
@@ -1653,6 +1654,10 @@ Personal goals made open source across computers I use.
 ### Object Oriented Programming
 
 -   05/02/2018 - 🎥 [Desorientados a Objetos - MODESTO SAN JUAN](https://www.youtube.com/watch?v=qesB3BvcWjA)
+
+### Code Reviews
+
+-   14/04/2019 - 🎥 [Code Review: How can we do it better?](https://www.youtube.com/watch?v=GC_4lBFZl_Y)
 
 ### Software Crafting
 
