@@ -748,7 +748,8 @@ Personal goals made open source across computers I use.
 
 ### General UX Engineering
 
--   13/04/2019 - 📄 [20 Skills Needed to Become a UX Engineer in 2019](https://uxengineer.com/skills-needed-become-a-ux-engineer/)
+-   14/04/2019 - 📄 [20 Skills Needed to Become a UX Engineer in 2019](https://uxengineer.com/skills-needed-become-a-ux-engineer/)
+-   14/04/2019 - 📄 [UX Engineering](https://dev.to/emmawedekind/ux-engineering-3hem)
 
 ### Task tools
 
