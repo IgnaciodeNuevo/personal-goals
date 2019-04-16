@@ -1273,6 +1273,7 @@ Personal goals made open source across computers I use.
 -   22/03/2019 - 🎥 [Bad UX | T3chFest 2019](https://www.youtube.com/watch?v=unfZWX8OsJw)
 -   31/03/2019 - 🎥 [UX Engineer: ingenieros mixtos entre diseño y front-end | T3chFest 2019](https://www.youtube.com/watch?v=-mlfB-GlMt4)
 -   01/04/2019 - 🎥 [Diseñar con datos, más allá del A/B Testing | T3chFest 2019](https://www.youtube.com/watch?v=URTtzzBv3_8)
+-   16/04/2019 - 🎥 [UX / UI Design: The Skills Most Designers IGNORE (2019)](https://www.youtube.com/watch?v=4FcpFtcXmns)
 
 ### JavaScript
 
