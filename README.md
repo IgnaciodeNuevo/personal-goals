@@ -883,6 +883,7 @@ Personal goals made open source across computers I use.
 -   04/11/2018 - 🎥 [Case study: gridtoflex.com](https://xotv.me/channels/22-important/vod_videos/1136-important-slash-slash-gridtoflex-dot-com)
 -   03/01/2019 - 🎥 [Case study: mozilla.org](https://xotv.me/channels/22-important/vod_videos/1272-important-slash-slash-mozilla-dot-org)
 -   22/01/2019 - 🎥 [How to use JavaScript Promises](https://xotv.me/channels/22-important/vod_videos/1293-important-focus-slash-slash-how-to-use-javascript-promises)
+-   18/04/2019 - 🎥 [!important focus // variable fonts [part one]](https://xotv.me/channels/22-important/vod_videos/1641-important-focus-slash-slash-variable-fonts-part-one)
 
 ### Hilos Sego
 
