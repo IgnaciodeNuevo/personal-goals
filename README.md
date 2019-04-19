@@ -1647,6 +1647,7 @@ Personal goals made open source across computers I use.
 -   15/03/2019 - 🎥 [Testing sin dogmas](https://www.youtube.com/watch?v=WH3lva8J0IA)
 -   13/04/2019 - 🎥 [I like my tests, like I like my friends, reliable and flake-free - Amir Rustamzadeh - JSConf US 2018](https://www.youtube.com/watch?v=LqR7t2-U0WA)
 -   14/04/2019 - 🎥 [Please don't mock me - Justin Searls - JSConf US 2018](https://www.youtube.com/watch?v=x8sKpJwq6lY)
+-   19/04/2019 - 🎥 [Test driven development, mocking and dependency injection on real app](https://www.youtube.com/watch?v=k_T_iuvV-i0)
 
 ### Linting
 
