@@ -1543,6 +1543,7 @@ Personal goals made open source across computers I use.
 -   24/03/2019 - 🎥 [React.js Frontend with Hooks and Context - Node.js Scraper DAY 3](https://www.youtube.com/watch?v=1C_XpWdbimM)
 -   24/03/2019 - 🎥 [React Charting, Data Massaging and more hooks - Node.js Scraper DAY 4](https://www.youtube.com/watch?v=hPXhz1P5NN4)
 -   24/04/2019 - 📄 [Infinite Scroll in React Using Intersection Observer](https://scotch.io/tutorials/infinite-scroll-in-react-using-intersection-observer)
+-   24/04/2019 - 📄 [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
 
 ### Vue
 
