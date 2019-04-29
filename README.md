@@ -1654,6 +1654,7 @@ Personal goals made open source across computers I use.
 -   13/04/2019 - 🎥 [I like my tests, like I like my friends, reliable and flake-free - Amir Rustamzadeh - JSConf US 2018](https://www.youtube.com/watch?v=LqR7t2-U0WA)
 -   14/04/2019 - 🎥 [Please don't mock me - Justin Searls - JSConf US 2018](https://www.youtube.com/watch?v=x8sKpJwq6lY)
 -   19/04/2019 - 🎥 [Test driven development, mocking and dependency injection on real app](https://www.youtube.com/watch?v=k_T_iuvV-i0)
+-   29/04/2019 - 🎥 [Testing, react-testing-library, Cypress y más con Daniel de la Cruz | Café con devs](https://www.youtube.com/watch?v=5HZcWiLlmKM)
 
 ### Linting
 
