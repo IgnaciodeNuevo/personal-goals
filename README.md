@@ -1419,6 +1419,7 @@ Personal goals made open source across computers I use.
 -   15/03/2019 - 🎥 [Twitter and Instagram Scraper with Node.js](https://www.youtube.com/watch?v=rWc0xqroY4U)
 -   31/03/2019 - 📄 [Responsible JavaScript: Part I](https://alistapart.com/article/responsible-javascript-part-1)
 -   11/04/2019 - 🎥 [Hot Garbage: Clean Code is Dead - Michael Chan - JSConf US 2018](https://www.youtube.com/watch?v=xTJyi49piH4)
+-   29/04/2019 - 🎥 [Too much data! Let's write an algorithm to distill it down. Scraper Day 5!](https://www.youtube.com/watch?v=_y611MNpxR8)
 
 ### JavaScript Basics
 
