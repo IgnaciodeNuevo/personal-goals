@@ -1546,6 +1546,7 @@ Personal goals made open source across computers I use.
 -   24/04/2019 - 📄 [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
 -   24/04/2019 - 📄 [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 -   24/04/2019 - 🎥 [Using React Context For Global State](https://www.youtube.com/watch?v=52W__dKdNnU)
+-   29/04/2019 - 🎥 [What's the deal with with everything being a component?](https://www.youtube.com/watch?v=bCFnYtobAQ4)
 
 ### Vue
 
