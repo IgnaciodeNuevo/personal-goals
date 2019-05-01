@@ -1551,6 +1551,7 @@ Personal goals made open source across computers I use.
 -   24/04/2019 - 📄 [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 -   24/04/2019 - 🎥 [Using React Context For Global State](https://www.youtube.com/watch?v=52W__dKdNnU)
 -   29/04/2019 - 🎥 [What's the deal with with everything being a component?](https://www.youtube.com/watch?v=bCFnYtobAQ4)
+-   01/05/2019 - 📄 [Using Context API in React (Hooks and Classes)](https://www.taniarascia.com/using-context-api-in-react/)
 
 ### Vue
 
