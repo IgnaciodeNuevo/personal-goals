@@ -1437,6 +1437,7 @@ Personal goals made open source across computers I use.
 -   11/04/2019 - 🎥 [Javascript vs. CSS - More control means more responsibility](https://www.youtube.com/watch?v=4HuJoPIeyQo)
 -   13/04/2019 - 🎥 [JavaScript Concurrency and the DOM - Kristofer Baxter and Malte Ubl - JSConf US 2018](https://www.youtube.com/watch?v=XyVQfqmx2CI)
 -   14/04/2019 - 🎥 [ES6 In Practice - Tim Doherty - JSConf US 2018](https://www.youtube.com/watch?v=Fh0VYI-_uPg)
+-   01/05/2019 - 😍 📄 [URLSearchParams, cómo leer los valores de la querystring sin usar Regex](https://midu.dev/urlsearchparams-como-leer-la-query-string/)
 
 ### JavaScript Conditionals
 
