@@ -1757,6 +1757,7 @@ Personal goals made open source across computers I use.
 -   10/04/2019 - 🎥 [Modesto San Juan y Ronny Ancorini - El camino del aprendizaje en CAS Vitoria 2016](https://www.youtube.com/watch?v=V0Z9RcgeRbU&list=PLKxa4AIfm4pU9PbGPnp7DutyVZTxKyqJu&index=33)
 -   12/04/2019 - 🎥 [Paciente 6.000.001 del síndrome del impostor - Laura Lacarra](https://www.youtube.com/watch?v=q0GqEHjrP5g)
 -   12/04/2019 - 📄 [Tips for Technical Interviews](https://csswizardry.com/2019/04/tips-for-technical-interviews/)
+-   01/05/2019 - 🎥 [A cowgirl journey - Meritxell Calvo - Barcelona Software Crafters 2018](https://www.youtube.com/watch?v=95WU90PaKG0)
 
 ### Interview
 
