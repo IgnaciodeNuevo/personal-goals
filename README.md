@@ -74,6 +74,7 @@ Personal goals made open source across computers I use.
 1. [Angular](#angular)
 1. [React](#react)
 1. [Vue](#vue)
+1. [EStreamerCoders](#estreamercoders)
 1. [GraphQL](#graphql)
 1. [Razor Pages](#razor-pages)
 1. [Git](#git)
@@ -1006,7 +1007,6 @@ Personal goals made open source across computers I use.
 -   02/04/2019 - 📄 [Downsides of Smooth Scrolling](https://css-tricks.com/downsides-of-smooth-scrolling/)
 -   02/05/2019 - 😍 📄 [Preload, prefetch, preconnect, dns-prefetch and prerender on <link> tags](https://3perf.com/blog/link-rels/)
 
-
 ### Perf Reviews
 
 -   31/12/2018 - 🎥 [PerfReviews 1.1 - mediamarkt.es](https://www.youtube.com/watch?v=xD8MbFUZPKQ)
@@ -1566,7 +1566,11 @@ Personal goals made open source across computers I use.
 -   02/11/2018 - 📄 [Mixins](https://vuejs.org/v2/guide/mixins.html)
 -   11/01/2019 - 📄 [Website with blog and portfolio using Vue.js + Nuxt + Markdown](https://marinaaisa.com/blog/blog-using-vue-nuxt-markdown/)
 -   20/02/2019 - 🎥 [Build a Reactivity System](https://www.vuemastery.com/courses/advanced-components/build-a-reactivity-system/)
--   03/04/2019 - 📄 [](https://dev.to/aspittel/a-complete-beginners-guide-to-vue-422n)
+-   03/04/2019 - 📄 [A Complete Beginner's Guide to Vue](https://dev.to/aspittel/a-complete-beginners-guide-to-vue-422n)
+
+### EStreamerCoders
+
+-   02/05/2019 - 🎥 [¡Primer Streaming! Image Lazy Load + Q&A](https://www.twitch.tv/videos/418943004)
 
 ### GraphQL
 
