@@ -1004,6 +1004,8 @@ Personal goals made open source across computers I use.
 -   01/04/2019 - 🎥 [Web performance - Things that you usually forget about](https://www.youtube.com/watch?v=_meMc1jgfiw)
 -   02/04/2019 - 📄 [Tuning Performance for New and “Old” Friends](https://www.filamentgroup.com/lab/cache-state/)
 -   02/04/2019 - 📄 [Downsides of Smooth Scrolling](https://css-tricks.com/downsides-of-smooth-scrolling/)
+-   02/05/2019 - 😍 📄 [Preload, prefetch, preconnect, dns-prefetch and prerender on <link> tags](https://3perf.com/blog/link-rels/)
+
 
 ### Perf Reviews
 
