@@ -1133,6 +1133,7 @@ Personal goals made open source across computers I use.
 -   01/04/2019 - 😍 📄 [All you need to know about hyphenation in CSS](http://clagnut.com/blog/2395)
 -   13/04/2019 - 🎥 [Dynamic Typography with Modern CSS and Variable Fonts](https://www.youtube.com/watch?v=c25NDstvpLY)
 -   03/05/2019 - 📄 [8 Best Tips to Use Variable Fonts on Your Site](https://www.developerdrive.com/2019/04/variable-fonts-best-tips/)
+-   03/05/2019 - 🎥 [Jason Pamental - The Life of p](https://www.youtube.com/watch?v=4ggOmfBtWRM)
 
 ### Design Systems
 
