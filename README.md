@@ -1131,6 +1131,7 @@ Personal goals made open source across computers I use.
 -   26/03/2019 - 📄 [The typographic scale](http://spencermortensen.com/articles/typographic-scale/)
 -   01/04/2019 - 😍 📄 [All you need to know about hyphenation in CSS](http://clagnut.com/blog/2395)
 -   13/04/2019 - 🎥 [Dynamic Typography with Modern CSS and Variable Fonts](https://www.youtube.com/watch?v=c25NDstvpLY)
+-   03/05/2019 - 📄 [8 Best Tips to Use Variable Fonts on Your Site](https://www.developerdrive.com/2019/04/variable-fonts-best-tips/)
 
 ### Design Systems
 
