@@ -1667,6 +1667,7 @@ Personal goals made open source across computers I use.
 -   14/04/2019 - 🎥 [Please don't mock me - Justin Searls - JSConf US 2018](https://www.youtube.com/watch?v=x8sKpJwq6lY)
 -   19/04/2019 - 🎥 [Test driven development, mocking and dependency injection on real app](https://www.youtube.com/watch?v=k_T_iuvV-i0)
 -   29/04/2019 - 🎥 [Testing, react-testing-library, Cypress y más con Daniel de la Cruz | Café con devs](https://www.youtube.com/watch?v=5HZcWiLlmKM)
+-   03/05/2019 - 📄 [DO's and DON'Ts when writing tests](https://rachelcarmena.github.io/2019/04/26/does-and-donts-when-writing-tests.html)
 
 ### Linting
 
