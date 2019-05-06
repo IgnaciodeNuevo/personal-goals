@@ -1008,6 +1008,7 @@ Personal goals made open source across computers I use.
 -   02/04/2019 - 📄 [Tuning Performance for New and “Old” Friends](https://www.filamentgroup.com/lab/cache-state/)
 -   02/04/2019 - 📄 [Downsides of Smooth Scrolling](https://css-tricks.com/downsides-of-smooth-scrolling/)
 -   02/05/2019 - 😍 📄 [Preload, prefetch, preconnect, dns-prefetch and prerender on <link> tags](https://3perf.com/blog/link-rels/)
+-   06/05/2019 - 😍 📄 [Hybrid Lazy Loading: A Progressive Migration To Native Lazy Loading](https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/)
 
 ### Perf Reviews
 
