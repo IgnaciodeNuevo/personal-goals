@@ -1465,6 +1465,7 @@ Personal goals made open source across computers I use.
 -   21/12/2018 - 📄 [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
 -   28/01/2019 - 📄 [Dependency Injection in JavaScript 101](https://dev.to/jeremylikness/dependency-injection-in-javascript-101-2b1e)
 -   03/05/2019 - 🎥 [Pattern Matching in JS - Juan Caicedo - JSConf US 2018](https://www.youtube.com/watch?v=Gfm6kepLop0)
+-   06/05/2019 - 🎥 [Control de errores en funciones asíncronas like a Pro](https://www.youtube.com/watch?v=Jmmtd7ive_w)
 
 ### JavaScript Architecture
 
