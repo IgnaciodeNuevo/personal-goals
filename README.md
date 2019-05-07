@@ -1446,6 +1446,7 @@ Personal goals made open source across computers I use.
 -   13/04/2019 - 🎥 [JavaScript Concurrency and the DOM - Kristofer Baxter and Malte Ubl - JSConf US 2018](https://www.youtube.com/watch?v=XyVQfqmx2CI)
 -   14/04/2019 - 🎥 [ES6 In Practice - Tim Doherty - JSConf US 2018](https://www.youtube.com/watch?v=Fh0VYI-_uPg)
 -   01/05/2019 - 😍 📄 [URLSearchParams, cómo leer los valores de la querystring sin usar Regex](https://midu.dev/urlsearchparams-como-leer-la-query-string/)
+-   07/05/2019 - 😍 📄 [Event delegation](https://javascript.info/event-delegation)
 
 ### JavaScript Conditionals
 
