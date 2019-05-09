@@ -1010,6 +1010,7 @@ Personal goals made open source across computers I use.
 -   02/05/2019 - 😍 📄 [Preload, prefetch, preconnect, dns-prefetch and prerender on <link> tags](https://3perf.com/blog/link-rels/)
 -   06/05/2019 - 😍 📄 [Hybrid Lazy Loading: A Progressive Migration To Native Lazy Loading](https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/)
 -   06/05/2019 - 📄 [Improving third-party web performance at The Telegraph](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5)
+-   09/05/2019 - 🎥 [Speed at Scale: Web Performance Tips and Tricks from the Trenches (Google I/O'19)](https://www.youtube.com/watch?v=WJAda7f1CeY)
 
 ### Perf Reviews
 
