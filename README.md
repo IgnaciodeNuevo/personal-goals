@@ -1511,6 +1511,7 @@ Personal goals made open source across computers I use.
 -   11/05/2019 - 🎥 [PWA Tutorial for Beginners #4 - Android Emulator](https://www.youtube.com/watch?v=1VVKhnHNBeQ)
 -   11/05/2019 - 🎥 [PWA Tutorial for Beginners #5 - iOS Support](https://www.youtube.com/watch?v=jy6hX48pRHw)
 -   11/05/2019 - 🎥 [PWA Tutorial for Beginners #6 - Intro to Service Workers](https://www.youtube.com/watch?v=hxiggHZOGlQ)
+-   11/05/2019 - 🎥 [PWA Tutorial for Beginners #7 - Service Worker Life-cycle](https://www.youtube.com/watch?v=NhQfvZoRb2Q)
 
 ### TypeScript
 
