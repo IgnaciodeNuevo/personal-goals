@@ -1509,6 +1509,7 @@ Personal goals made open source across computers I use.
 -   11/05/2019 - 🎥 [PWA Tutorial for Beginners #2 - Setting up a Project](https://www.youtube.com/watch?v=JQaL5YiSuqE)
 -   11/05/2019 - 🎥 [PWA Tutorial for Beginners #3 - The Web App Manifest](https://www.youtube.com/watch?v=AlEdGOLhuM8)
 -   11/05/2019 - 🎥 [PWA Tutorial for Beginners #4 - Android Emulator](https://www.youtube.com/watch?v=1VVKhnHNBeQ)
+-   11/05/2019 - 🎥 [PWA Tutorial for Beginners #5 - iOS Support](https://www.youtube.com/watch?v=jy6hX48pRHw)
 
 ### TypeScript
 
