@@ -1506,7 +1506,8 @@ Personal goals made open source across computers I use.
 -   20/03/2019 - 📄 [Service Workers for Dummies](https://medium.com/nsoft/service-workers-for-dummies-71369332d47f)
 -   06/05/2019 - 📄 [Cuando las PWAs conocieron a los Service Workers](https://www.twitch.tv/videos/420820536)
 -   11/05/2019 - 🎥 [PWA Tutorial for Beginners #1 - What Are PWA's?](https://www.youtube.com/watch?v=4XT23X0Fjfk)
--   11/05/2019 - 🎥 [PWA Tutorial for Beginners #2- Setting up a Project](https://www.youtube.com/watch?v=JQaL5YiSuqE)
+-   11/05/2019 - 🎥 [PWA Tutorial for Beginners #2 - Setting up a Project](https://www.youtube.com/watch?v=JQaL5YiSuqE)
+-   11/05/2019 - 🎥 [PWA Tutorial for Beginners #3 - The Web App Manifest](https://www.youtube.com/watch?v=AlEdGOLhuM8)
 
 ### TypeScript
 
