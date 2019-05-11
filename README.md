@@ -1505,6 +1505,7 @@ Personal goals made open source across computers I use.
 -   19/02/2019 - 📄 [What self.skipWaiting() does to the service worker lifecycle](https://bitsofco.de/what-self-skipwaiting-does-to-the-service-worker-lifecycle/)
 -   20/03/2019 - 📄 [Service Workers for Dummies](https://medium.com/nsoft/service-workers-for-dummies-71369332d47f)
 -   06/05/2019 - 📄 [Cuando las PWAs conocieron a los Service Workers](https://www.twitch.tv/videos/420820536)
+-   11/05/2019 - 🎥 [PWA Tutorial for Beginners #1 - What Are PWA's?](https://www.youtube.com/watch?v=4XT23X0Fjfk)
 
 ### TypeScript
 
