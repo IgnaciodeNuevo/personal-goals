@@ -1512,6 +1512,7 @@ Personal goals made open source across computers I use.
 -   11/05/2019 - 🎥 [PWA Tutorial for Beginners #5 - iOS Support](https://www.youtube.com/watch?v=jy6hX48pRHw)
 -   11/05/2019 - 🎥 [PWA Tutorial for Beginners #6 - Intro to Service Workers](https://www.youtube.com/watch?v=hxiggHZOGlQ)
 -   11/05/2019 - 🎥 [PWA Tutorial for Beginners #7 - Service Worker Life-cycle](https://www.youtube.com/watch?v=NhQfvZoRb2Q)
+-   14/05/2019 - 🎥 [Construyendo una PWA con Vue: Pomodoro](https://www.twitch.tv/videos/423941585)
 
 ### TypeScript
 
