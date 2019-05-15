@@ -1514,6 +1514,7 @@ Personal goals made open source across computers I use.
 -   11/05/2019 - 🎥 [PWA Tutorial for Beginners #7 - Service Worker Life-cycle](https://www.youtube.com/watch?v=NhQfvZoRb2Q)
 -   15/05/2019 - 🎥 [PWA Tutorial for Beginners #8 - Registering a Service Worker](https://www.youtube.com/watch?v=6s697AJdlB8)
 -   15/05/2019 - 🎥 [PWA Tutorial for Beginners #9 - The Install Event](https://www.youtube.com/watch?v=JnCEXQo_TiI)
+-   15/05/2019 - 🎥 [PWA Tutorial for Beginners #10 - The 'Activate' Event](https://www.youtube.com/watch?v=AmWj52zw9R8)
 
 ### TypeScript
 
