@@ -874,6 +874,7 @@ Personal goals made open source across computers I use.
 -   22/03/2019 - 🎥 [Accesible, que no es poco | T3chFest 2019](https://www.youtube.com/watch?v=0ELlXb37gTQ)
 -   02/04/2019 - 📄 [Having an open dialog](https://www.scottohara.me/blog/2019/03/05/open-dialog.html)
 -   03/05/2019 - 😍 📄 [Details / Summary Are Not [insert control here]](http://adrianroselli.com/2019/04/details-summary-are-not-insert-control-here.html)
+-   16/05/2019 - 😍 📄 [Componentes (casi) accesibles al alcance la mano](https://www.youtube.com/watch?v=BiP2D7_RkUo)
 
 ### WAI-ARIA
 
