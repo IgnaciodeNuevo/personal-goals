@@ -1432,6 +1432,7 @@ Personal goals made open source across computers I use.
 -   11/04/2019 - 🎥 [Hot Garbage: Clean Code is Dead - Michael Chan - JSConf US 2018](https://www.youtube.com/watch?v=xTJyi49piH4)
 -   29/04/2019 - 🎥 [Too much data! Let's write an algorithm to distill it down. Scraper Day 5!](https://www.youtube.com/watch?v=_y611MNpxR8)
 -   30/04/2019 - 🎥 [Making Future Interfaces: ES Modules](https://www.youtube.com/watch?v=dAIckpwW9ds)
+-   17/05/2019 - 📄 [What’s the highest z-index on a page (and other CSS property problems)](https://blog.frankmtaylor.com/2019/05/16/whats-the-highest-z-index-on-a-page-and-other-css-property-problems/)
 
 ### JavaScript Basics
 
