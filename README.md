@@ -13,7 +13,7 @@ Personal goals made open source across computers I use.
 
 1. 😍 _MUST_ Read (📄) / Watch (🎥) / Listen (🎼)
 1. 📚 Study!
-1. 📕 Book
+1. 📚 Book
 1. 💡 Project
 1. 🚀 Things to do
 1. 🎥 Video
@@ -120,28 +120,28 @@ Personal goals made open source across computers I use.
 
 ### Books
 
--   📕 [Designing for Performance](http://designingforperformance.com)
--   📕 [Mobile First](https://abookapart.com/products/mobile-first)
--   📕 [SMACSS](https://smacss.com)
--   📕 [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
--   📕 [Best of 9 Smashing years](http://provide.smashingmagazine.com/eBooks/best-of-nine-smashing-years.pdf)
--   📕 [Colour Accesibility](https://www.fivesimplesteps.com/products/colour-accessibility)
--   📕 [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
--   📕 [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
--   📕 [Design is a Job](https://abookapart.com/products/design-is-a-job)
--   📕 [Front-end Style Guides](http://maban.co.uk/projects/front-end-style-guides)
--   📕 [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers)
--   📕 [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
--   📕 [Responsive Web Design](https://abookapart.com/products/responsive-web-design)
--   📕 [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
--   📕 [Smashing Book 5](https://shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design)
--   📕 [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
--   04/08/2018 - 📕 [Webfont Handbook](https://abookapart.com/products/webfont-handbook)
--   29/08/2018 - 📕 [On Web Typography](https://abookapart.com/products/on-web-typography)
--   04/09/2018 - 📕 [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
--   12/09/2018 - 📕 [Practical SVG](https://abookapart.com/products/practical-svg)
--   15/12/2018 - 📕 [Practical Responsive Images](https://payhip.com/b/yPep)
--   26/12/2018 - 📕 [Better Web Typography for a Better Web](https://betterwebtype.com/)
+-   📚 [Designing for Performance](http://designingforperformance.com)
+-   📚 [Mobile First](https://abookapart.com/products/mobile-first)
+-   📚 [SMACSS](https://smacss.com)
+-   📚 [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
+-   📚 [Best of 9 Smashing years](http://provide.smashingmagazine.com/eBooks/best-of-nine-smashing-years.pdf)
+-   📚 [Colour Accesibility](https://www.fivesimplesteps.com/products/colour-accessibility)
+-   📚 [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
+-   📚 [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
+-   📚 [Design is a Job](https://abookapart.com/products/design-is-a-job)
+-   📚 [Front-end Style Guides](http://maban.co.uk/projects/front-end-style-guides)
+-   📚 [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers)
+-   📚 [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
+-   📚 [Responsive Web Design](https://abookapart.com/products/responsive-web-design)
+-   📚 [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
+-   📚 [Smashing Book 5](https://shop.smashingmagazine.com/products/smashing-book-5-real-life-responsive-web-design)
+-   📚 [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
+-   04/08/2018 - 📚 [Webfont Handbook](https://abookapart.com/products/webfont-handbook)
+-   29/08/2018 - 📚 [On Web Typography](https://abookapart.com/products/on-web-typography)
+-   04/09/2018 - 📚 [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
+-   12/09/2018 - 📚 [Practical SVG](https://abookapart.com/products/practical-svg)
+-   15/12/2018 - 📚 [Practical Responsive Images](https://payhip.com/b/yPep)
+-   26/12/2018 - 📚 [Better Web Typography for a Better Web](https://betterwebtype.com/)
 
 ### Podcasts
 
@@ -640,7 +640,7 @@ Personal goals made open source across computers I use.
 -   13/11/2017 - 📄 [Sass Variable Architecture](http://peteschuster.com/2014/02/sass-variable-architecture/)
 -   13/11/2017 - 🎥 [Organizing CSS with OOCSS, SMACSS, and BEM - Matt Stauffer](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
 -   13/11/2017 - 📄 [Object Oriented CSS](https://github.com/stubbornella/oocss/wiki)
--   13/11/2017 - 📕 [SMACSS](https://smacss.com/book/)
+-   13/11/2017 - 📚 [SMACSS](https://smacss.com/book/)
 -   13/11/2017 - 😍 📄 [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
 -   13/11/2017 - 📄 [Suit CSS](http://suitcss.github.io/)
 -   13/11/2017 - 📄 [Enduring CSS](http://ecss.io/)
@@ -1474,6 +1474,7 @@ Personal goals made open source across computers I use.
 -   28/01/2019 - 📄 [Dependency Injection in JavaScript 101](https://dev.to/jeremylikness/dependency-injection-in-javascript-101-2b1e)
 -   03/05/2019 - 🎥 [Pattern Matching in JS - Juan Caicedo - JSConf US 2018](https://www.youtube.com/watch?v=Gfm6kepLop0)
 -   06/05/2019 - 🎥 [Control de errores en funciones asíncronas like a Pro](https://www.youtube.com/watch?v=Jmmtd7ive_w)
+-   17/05/2019 - 📄 [HTML Includes That Work Today](https://www.filamentgroup.com/lab/html-includes/)
 
 ### JavaScript Architecture
 
