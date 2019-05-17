@@ -1518,6 +1518,7 @@ Personal goals made open source across computers I use.
 -   15/05/2019 - 🎥 [PWA Tutorial for Beginners #10 - The 'Activate' Event](https://www.youtube.com/watch?v=AmWj52zw9R8)
 -   15/05/2019 - 🎥 [PWA Tutorial for Beginners #11 - Lighthouse Audit](https://www.youtube.com/watch?v=egmwY9n6qWY)
 -   17/05/2019 - 🎥 [PWA Tutorial for Beginners #12 - Fetch Events](https://www.youtube.com/watch?v=C0vh57N7vM4)
+-   17/05/2019 - 🎥 [PWA Tutorial for Beginners #13 - The Install Banner](https://www.youtube.com/watch?v=9whdWJ4q7jE)
 
 ### TypeScript
 
