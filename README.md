@@ -1012,6 +1012,7 @@ Personal goals made open source across computers I use.
 -   06/05/2019 - 😍 📄 [Hybrid Lazy Loading: A Progressive Migration To Native Lazy Loading](https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/)
 -   06/05/2019 - 📄 [Improving third-party web performance at The Telegraph](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5)
 -   09/05/2019 - 🎥 [Speed at Scale: Web Performance Tips and Tricks from the Trenches (Google I/O'19)](https://www.youtube.com/watch?v=WJAda7f1CeY)
+-   20/05/2019 - 📄 [A Deep Dive into Native Lazy-Loading for Images and Frames](https://css-tricks.com/a-deep-dive-into-native-lazy-loading-for-images-and-frames/)
 
 ### Perf Reviews
 
