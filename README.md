@@ -527,6 +527,7 @@ Personal goals made open source across computers I use.
 -   17/01/2019 - 📄 [Solving a Tricky Layout Problem with CSS Grid](https://css-irl.info/solving-a-tricky-layout-problem/)
 -   19/02/2019 - 📄 [My CSS Grid Wishlist](https://css-irl.info/my-css-grid-wishlist/)
 -   06/05/2019 - 🎥 [Trying CSS Grid for the first time](https://www.youtube.com/watch?v=3Ne9-9n5Oq0)
+-   21/05/2019 - 🎥 [Jen Simmons on Thinking With Grids at SmashingConf SF 2019](https://vimeo.com/331578108)
 
 ### Multi Column Layout
 
