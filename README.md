@@ -1454,8 +1454,8 @@ Personal goals made open source across computers I use.
 -   01/05/2019 - 😍 📄 [URLSearchParams, cómo leer los valores de la querystring sin usar Regex](https://midu.dev/urlsearchparams-como-leer-la-query-string/)
 -   07/05/2019 - 😍 📄 [Event delegation](https://javascript.info/event-delegation)
 -   17/05/2019 - 😍 🎥 [Async JavaScript: From Callbacks, to Promises, to Async/Await](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)
--   21/05/2019 - 🎥 [Working With Data & APIs #1.1: Fetch](https://www.youtube.com/watch?v=tc8DU14qX6I)
 -   21/05/2019 - 🎥 [Closure exposure therapy - Exploring closures in JavaScript with friendly live mob programming](https://www.youtube.com/watch?v=F3EsDDp4VXg)
+-   21/05/2019 - 🎥 [Working With Data & APIs #1.1: Fetch](https://www.youtube.com/watch?v=tc8DU14qX6I)
 
 ### JavaScript Conditionals
 
