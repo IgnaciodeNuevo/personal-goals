@@ -1591,6 +1591,7 @@ Personal goals made open source across computers I use.
 -   01/05/2019 - 📄 [Using Context API in React (Hooks and Classes)](https://www.taniarascia.com/using-context-api-in-react/)
 -   09/05/2019 - 🎥 [Fun with React Hooks - Michael Jackson and Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw)
 -   21/05/2019 - 🎥 [useLocalStorage, custom hook de React ⚛️, persiste el estado de tu componente](https://www.youtube.com/watch?v=uutiLsX5kFE)
+-   21/05/2019 - 🎥 [Intro to React Hooks](https://developers.facebook.com/videos/2019/intro-to-react-hooks/)
 
 ### Vue
 
