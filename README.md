@@ -1529,6 +1529,7 @@ Personal goals made open source across computers I use.
 -   17/05/2019 - 🎥 [PWA Tutorial for Beginners #13 - The Install Banner](https://www.youtube.com/watch?v=9whdWJ4q7jE)
 -   20/05/2019 - 🎥 [PWA Tutorial for Beginners #14 - Offline Mode Explained](https://www.youtube.com/watch?v=Vz1D28zshaI)
 -   20/05/2019 - 🎥 [PWA Tutorial for Beginners #15 - Pre-Caching Asets](https://www.youtube.com/watch?v=kT3qSf7jG5c)
+-   22/05/2019 - 🎥 [PWA Tutorial for Beginners #16 - Getting Cached Assets](https://www.youtube.com/watch?v=0mAw9Na6hyM)
 
 ### TypeScript
 
