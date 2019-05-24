@@ -1241,6 +1241,7 @@ Personal goals made open source across computers I use.
 -   01/04/2019 - 📄 [10 pros and cons of the hamburger menu (with examples)](https://www.invisionapp.com/inside-design/pros-and-cons-of-hamburger-menus/)
 -   12/04/2019 - 😍 📄 [Comunicación, hay que decirlo más](https://luciagomez.me/blog/comunicacion-hay-que-decirlo-mas/)
 -   20/05/2019 - 📄 [How Frontend Developers Can Help To Bridge The Gap Between Designers And Developers](https://www.smashingmagazine.com/2019/05/frontend-developers-designers/)
+-   24/05/2019 - 📄 [10 tips to improve collaboration between designers and engineers](https://blog.dropbox.com/topics/work-culture/collaboration-designers-engineers)
 
 ### SVG
 
