@@ -1814,6 +1814,7 @@ Personal goals made open source across computers I use.
 -   12/04/2019 - 📄 [Tips for Technical Interviews](https://csswizardry.com/2019/04/tips-for-technical-interviews/)
 -   01/05/2019 - 🎥 [A cowgirl journey - Meritxell Calvo - Barcelona Software Crafters 2018](https://www.youtube.com/watch?v=95WU90PaKG0)
 -   01/05/2019 - 📄 [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/)
+-   24/05/2019 - 📄 [La situación crítica del desarrollo frontend. Una burbuja que hemos de parar](https://www.elrincondevictor.com/blog/burbuja-desarrollo-frontend/)
 
 ### Interview
 
