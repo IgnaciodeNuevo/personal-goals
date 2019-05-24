@@ -1816,6 +1816,7 @@ Personal goals made open source across computers I use.
 -   01/05/2019 - 🎥 [A cowgirl journey - Meritxell Calvo - Barcelona Software Crafters 2018](https://www.youtube.com/watch?v=95WU90PaKG0)
 -   01/05/2019 - 📄 [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/)
 -   24/05/2019 - 📄 [La situación crítica del desarrollo frontend. Una burbuja que hemos de parar](https://www.elrincondevictor.com/blog/burbuja-desarrollo-frontend/)
+-   24/05/2019 - 📄 [Fidelización del talento: Profesionales que se van, profesionales que se quedan](http://blog.talentoit.org/fidelizacion-del-talento-profesionales-que-se-van-profesionales-que-se-quedan/)
 
 ### Interview
 
