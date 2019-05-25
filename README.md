@@ -62,6 +62,7 @@ Personal goals made open source across computers I use.
 1. [UX](#ux)
 1. [JavaScript](#javascript)
 1. [JavaScript Basics](#javascript-basics)
+1. [JavaScript Advanced](#javaScript-advanced)
 1. [JavaScript Conditionals](#javascript-Conditionals)
 1. [JavaScript Looping](#javascript-looping)
 1. [JavaScript Events](#javascript-events)
@@ -1459,6 +1460,10 @@ Personal goals made open source across computers I use.
 -   21/05/2019 - 🎥 [Closure exposure therapy - Exploring closures in JavaScript with friendly live mob programming](https://www.youtube.com/watch?v=F3EsDDp4VXg)
 -   21/05/2019 - 🎥 [Working With Data & APIs #1.1: Fetch](https://www.youtube.com/watch?v=tc8DU14qX6I)
 -   23/05/2019 - 🎥 [Working With Data & APIs #1.2: Tabular Data](https://www.youtube.com/watch?v=RfMkdvN-23o)
+
+### JavaScript Advanced
+
+-   25/05/2019 - 🎥 [Currying in JavaScript](https://www.youtube.com/watch?v=Tx-0tcEl1I0)
 
 ### JavaScript Conditionals
 
