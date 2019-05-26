@@ -1460,6 +1460,7 @@ Personal goals made open source across computers I use.
 -   21/05/2019 - 🎥 [Closure exposure therapy - Exploring closures in JavaScript with friendly live mob programming](https://www.youtube.com/watch?v=F3EsDDp4VXg)
 -   21/05/2019 - 🎥 [Working With Data & APIs #1.1: Fetch](https://www.youtube.com/watch?v=tc8DU14qX6I)
 -   23/05/2019 - 🎥 [Working With Data & APIs #1.2: Tabular Data](https://www.youtube.com/watch?v=RfMkdvN-23o)
+-   26/05/2019 - 🎥 [Working With Data & APIs #1.2: JSON](https://www.youtube.com/watch?v=uxf0--uiX0I)
 
 ### JavaScript Advanced
 
