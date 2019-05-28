@@ -752,6 +752,7 @@ Personal goals made open source across computers I use.
 -   27/03/2019 - 📄 [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 -   13/04/2019 - 📄 [Split](https://adactio.com/journal/15050)
 -   24/05/2019 - 🎥 [El Frontend del Futuro: EcmaScript Modules, Import Maps, Web of Things y más](https://www.youtube.com/watch?v=cpfN48_j_Q4)
+-   28/05/2019 - 🎥 [Performance: Real Time User Monitoring](https://www.youtube.com/watch?v=y2EeeWSfnRw)
 
 ### General UX Engineering
 
