@@ -1542,6 +1542,7 @@ Personal goals made open source across computers I use.
 -   22/05/2019 - 🎥 [PWA Tutorial for Beginners #17 - Cache Versioning](https://www.youtube.com/watch?v=g9LfyCZjeKI)
 -   25/05/2019 - 🎥 [PWA Tutorial for Beginners #18 - Dynamic Caching](https://www.youtube.com/watch?v=ChXgikdQJR8)
 -   25/05/2019 - 🎥 [PWA Tutorial for Beginners #19 - Offline Fallback Page](https://www.youtube.com/watch?v=KLQELCvb-B0)
+-   28/05/2019 - 🎥 [PWA Tutorial for Beginners #20 - Conditional Fallbacks](https://www.youtube.com/watch?v=K9NXQZxKMko)
 
 ### TypeScript
 
