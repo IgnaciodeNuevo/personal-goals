@@ -1623,6 +1623,7 @@ Personal goals made open source across computers I use.
 -   03/04/2019 - 📄 [A Complete Beginner's Guide to Vue](https://dev.to/aspittel/a-complete-beginners-guide-to-vue-422n)
 -   14/05/2019 - 🎥 [Construyendo una PWA con Vue: Pomodoro](https://www.twitch.tv/videos/423941585)
 -   20/05/2019 - 🎥 [PWA con Vue: Acabamos los tests y Q&A](https://www.twitch.tv/videos/425198494)
+-   28/05/2019 - 🎥 [Añadimos Vuex a nuestra aplicación y hacemos llamadas al API](https://www.twitch.tv/videos/430201590)
 
 ### EStreamerCoders
 
