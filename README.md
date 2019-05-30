@@ -1613,6 +1613,7 @@ Personal goals made open source across computers I use.
 -   21/05/2019 - 🎥 [useLocalStorage, custom hook de React ⚛️, persiste el estado de tu componente](https://www.youtube.com/watch?v=uutiLsX5kFE)
 -   21/05/2019 - 🎥 [Intro to React Hooks](https://developers.facebook.com/videos/2019/intro-to-react-hooks/)
 -   24/05/2019 - 😍 🎥 [ReactJS Basics - #14 Component Lifecycle](https://www.youtube.com/watch?v=Oioo0IdoEls)
+-   30/05/2019 - 😍 🎥 [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 
 ### Vue
 
