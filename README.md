@@ -77,6 +77,7 @@ Personal goals made open source across computers I use.
 1. [Vue](#vue)
 1. [EStreamerCoders](#estreamercoders)
 1. [GraphQL](#graphql)
+1. [NodeJS](#nodejs)
 1. [Razor Pages](#razor-pages)
 1. [Git](#git)
 1. [Command Line](#command-line)
@@ -1636,6 +1637,10 @@ Personal goals made open source across computers I use.
 ### GraphQL
 
 -   15/10/2018 - 🎥 [Implementing and Using GraphQL at GitHub](https://www.youtube.com/watch?v=wPPFhcqGcvk)
+
+### NodeJS
+
+-   30/05/2019 - 🎥 [2.1 Server-side with Node.js - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=wxbQP1LMZsw)
 
 ### Razor Pages
 
