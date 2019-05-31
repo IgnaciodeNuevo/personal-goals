@@ -1549,6 +1549,7 @@ Personal goals made open source across computers I use.
 -   28/05/2019 - 🎥 [PWA Tutorial for Beginners #21 - Limiting Cache Size](https://www.youtube.com/watch?v=CHBoXdVdPi0)
 -   29/05/2019 - 🎥 [PWA Tutorial for Beginners #22 - Site Audit Refresh](https://www.youtube.com/watch?v=1tkK-OVno84)
 -   29/05/2019 - 🎥 [PWA Tutorial for Beginners #23 - Firestore Database](https://www.youtube.com/watch?v=ZfL61cOUImw)
+-   31/05/2019 - 🎥 [PWA Tutorial for Beginners #24 - Realtime Data](https://www.youtube.com/watch?v=JP3L0jIXvrY)
 
 ### TypeScript
 
