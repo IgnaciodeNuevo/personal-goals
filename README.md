@@ -1617,6 +1617,7 @@ Personal goals made open source across computers I use.
 -   24/05/2019 - 😍 🎥 [ReactJS Basics - #14 Component Lifecycle](https://www.youtube.com/watch?v=Oioo0IdoEls)
 -   30/05/2019 - 🎥 [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 -   01/06/2019 - 📄 [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
+-   01/06/2019 - 📄 [Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)
 
 ### Vue
 
