@@ -755,6 +755,7 @@ Personal goals made open source across computers I use.
 -   24/05/2019 - 🎥 [El Frontend del Futuro: EcmaScript Modules, Import Maps, Web of Things y más](https://www.youtube.com/watch?v=cpfN48_j_Q4)
 -   28/05/2019 - 🎥 [Performance: Real Time User Monitoring](https://www.youtube.com/watch?v=y2EeeWSfnRw)
 -   04/06/2019 - 🎥 [Pregúntame algo](https://www.twitch.tv/videos/433573125)
+-   04/06/2019 - 🎥 [Pregúntame algo 2](https://www.twitch.tv/videos/433592972)
 
 ### General UX Engineering
 
