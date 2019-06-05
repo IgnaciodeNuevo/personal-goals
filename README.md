@@ -1555,6 +1555,7 @@ Personal goals made open source across computers I use.
 -   31/05/2019 - 🎥 [PWA Tutorial for Beginners #25 - Updating the UI](https://www.youtube.com/watch?v=ezNvFzc0f30)
 -   04/06/2019 - 🎥 [PWA Tutorial for Beginners #26 - Offline Data](https://www.youtube.com/watch?v=ciu62KLlwGQ)
 -   04/06/2019 - 🎥 [PWA Tutorial for Beginners #27 - Adding Recipes](https://www.youtube.com/watch?v=BHCk5TSNUkI)
+-   05/06/2019 - 🎥 [PWA Tutorial for Beginners #28 - Deleting Recipes](https://www.youtube.com/watch?v=zdb8_a0DXTg)
 
 ### TypeScript
 
