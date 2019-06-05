@@ -1920,3 +1920,4 @@ Personal goals made open source across computers I use.
 -   22/03/2019 - 🎥 [Developers y demás parientes | T3chFest 2019](https://www.youtube.com/watch?v=EcZoR1N6Cz0)
 -   31/03/2019 - 🎥 [Beware the bloated browser! | T3chFest 2019](https://www.youtube.com/watch?v=dnA6THOT6VA)
 -   22/05/2019 - 🎥 [How Privilege Defines Performance, Tatiana Mac @ #PerfMatters Conference 2019](https://www.youtube.com/watch?v=nQq_gZiZ-jg)
+-   05/06/2019 - 📄 [I'm Joining Google!](https://una.im/joining-google/)
