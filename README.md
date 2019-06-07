@@ -1856,6 +1856,7 @@ Personal goals made open source across computers I use.
 -   29/05/2019 - 📄 [Battling Imposter Syndrome By Understanding the Dunning Kruger Effect](https://dev.to/avatarkaleb/battling-imposter-syndrome-by-understanding-the-dunning-kruger-effect-904)
 -   30/05/2019 - 📄 [How to go through the job application process](https://zellwk.com/blog/job-application-process/)
 -   30/05/2019 - 📄 [De-Coding the Front-end Development Interview Process](https://codeburst.io/de-coding-the-front-end-development-interview-process-9601bc4c71e5)
+-   07/06/2019 - 🎥 [From doing tutorials to getting an actual job? (MPJ shows his Spotify application)](https://www.youtube.com/watch?v=bW9riRP8odQ)
 
 ### Interview
 
