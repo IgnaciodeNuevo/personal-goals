@@ -1858,6 +1858,7 @@ Personal goals made open source across computers I use.
 -   30/05/2019 - 📄 [De-Coding the Front-end Development Interview Process](https://codeburst.io/de-coding-the-front-end-development-interview-process-9601bc4c71e5)
 -   07/06/2019 - 🎥 [From doing tutorials to getting an actual job? (MPJ shows his Spotify application)](https://www.youtube.com/watch?v=bW9riRP8odQ)
 -   09/06/2019 - 📄 [Estrategias psicológicas para negociar tu salario: El efecto anclaje](http://blog.talentoit.org/estrategias-psicologicas-para-negociar-tu-salario-el-efecto-anclaje/)
+-   09/06/2019 - 📄 [¡Quiero ser una programadora del montón!](https://medium.com/@azaharafernandezguizan/quiero-ser-una-programadora-del-mont%C3%B3n-10d19af6e5f)
 
 ### Interview
 
