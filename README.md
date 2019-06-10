@@ -1502,6 +1502,7 @@ Personal goals made open source across computers I use.
 ### JavaScript Security
 
 -   12/01/2018 - 📄 [The Spectre Attack and Critical CSS](https://www.filamentgroup.com/lab/spectre-js-cookie.html)
+-   10/06/2019 - 📄 [Web security at N26](https://medium.com/insiden26/web-security-at-n26-d1b4644c32fb)
 
 ### Functional JavaScript
 
