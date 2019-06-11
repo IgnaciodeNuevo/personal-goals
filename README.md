@@ -1631,6 +1631,7 @@ Personal goals made open source across computers I use.
 -   10/06/2019 - 🎥 [React Context & Hooks Tutorial #1 - Introduction](https://www.youtube.com/watch?v=6RhOzQciVwI)
 -   10/06/2019 - 🎥 [React Context & Hooks Tutorial #2 - What is the Context API?](https://www.youtube.com/watch?v=XkBB3pPY3t8)
 -   10/06/2019 - 🎥 [React Context & Hooks Tutorial #3 - Adding a Context & Provider](https://www.youtube.com/watch?v=CGRpfIUURE0)
+-   11/06/2019 - 🎥 [Complete React Tutorial (& Redux ) #1- Introduction](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 
 ### Vue
 
