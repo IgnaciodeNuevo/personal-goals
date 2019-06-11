@@ -1634,6 +1634,7 @@ Personal goals made open source across computers I use.
 -   11/06/2019 - 🎥 [Complete React Tutorial (& Redux ) #1- Introduction](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 -   11/06/2019 - 🎥 [Complete React Tutorial (& Redux) #2 - How React Works](https://www.youtube.com/watch?v=pKYiKbf7sP0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=2)
 -   11/06/2019 - 🎥 [Complete React Tutorial (& Redux) #2 - React Setup (with CDN)](https://www.youtube.com/watch?v=SAX6RMEFVM4&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=3)
+-   11/06/2019 - 🎥 [Complete React Tutorial (& Redux) #4 - React Components](https://www.youtube.com/watch?v=Fis_Q3rkgtM&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=4)
 
 ### Vue
 
