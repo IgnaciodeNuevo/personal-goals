@@ -1631,7 +1631,7 @@ Personal goals made open source across computers I use.
 -   10/06/2019 - 🎥 [React Context & Hooks Tutorial #1 - Introduction](https://www.youtube.com/watch?v=6RhOzQciVwI)
 -   10/06/2019 - 🎥 [React Context & Hooks Tutorial #2 - What is the Context API?](https://www.youtube.com/watch?v=XkBB3pPY3t8)
 -   10/06/2019 - 🎥 [React Context & Hooks Tutorial #3 - Adding a Context & Provider](https://www.youtube.com/watch?v=CGRpfIUURE0)
--   11/06/2019 - 🎥 [Complete React Tutorial (& Redux ) #1- Introduction](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+-   11/06/2019 - 🎥 [Complete React Tutorial (& Redux) #1 - Introduction](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 -   11/06/2019 - 🎥 [Complete React Tutorial (& Redux) #2 - How React Works](https://www.youtube.com/watch?v=pKYiKbf7sP0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=2)
 -   11/06/2019 - 🎥 [Complete React Tutorial (& Redux) #2 - React Setup (with CDN)](https://www.youtube.com/watch?v=SAX6RMEFVM4&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=3)
 -   11/06/2019 - 🎥 [Complete React Tutorial (& Redux) #4 - React Components](https://www.youtube.com/watch?v=Fis_Q3rkgtM&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=4)
@@ -1755,6 +1755,7 @@ Personal goals made open source across computers I use.
 -   19/04/2019 - 🎥 [Test driven development, mocking and dependency injection on real app](https://www.youtube.com/watch?v=k_T_iuvV-i0)
 -   29/04/2019 - 🎥 [Testing, react-testing-library, Cypress y más con Daniel de la Cruz | Café con devs](https://www.youtube.com/watch?v=5HZcWiLlmKM)
 -   03/05/2019 - 📄 [DO's and DON'Ts when writing tests](https://rachelcarmena.github.io/2019/04/26/does-and-donts-when-writing-tests.html)
+-   12/06/2019 - 📄 [Creating a culture of testing](https://afontcu.dev/culture-of-testing/)
 
 ### Linting
 
