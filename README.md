@@ -1872,6 +1872,7 @@ Personal goals made open source across computers I use.
 -   09/06/2019 - 📄 [Estrategias psicológicas para negociar tu salario: El efecto anclaje](http://blog.talentoit.org/estrategias-psicologicas-para-negociar-tu-salario-el-efecto-anclaje/)
 -   09/06/2019 - 📄 [¡Quiero ser una programadora del montón!](https://medium.com/@azaharafernandezguizan/quiero-ser-una-programadora-del-mont%C3%B3n-10d19af6e5f)
 -   13/06/2019 - 📄 [PRO TIPS for devs working at home](https://dev.to/boneskull/pro-tips-for-devs-working-at-home-3b63)
+-   13/06/2019 - 📄 [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
 
 ### Interview
 
