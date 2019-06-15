@@ -756,6 +756,7 @@ Personal goals made open source across computers I use.
 -   28/05/2019 - 🎥 [Performance: Real Time User Monitoring](https://www.youtube.com/watch?v=y2EeeWSfnRw)
 -   04/06/2019 - 🎥 [Pregúntame algo](https://www.twitch.tv/videos/433573125)
 -   04/06/2019 - 🎥 [Pregúntame algo 2](https://www.twitch.tv/videos/433592972)
+-   15/06/2019 - 😍 📄 [HTML is the Web](https://www.petelambert.com/journal/html-is-the-web/)
 
 ### General UX Engineering
 
