@@ -1875,7 +1875,7 @@ Personal goals made open source across computers I use.
 -   09/06/2019 - 📄 [¡Quiero ser una programadora del montón!](https://medium.com/@azaharafernandezguizan/quiero-ser-una-programadora-del-mont%C3%B3n-10d19af6e5f)
 -   13/06/2019 - 📄 [PRO TIPS for devs working at home](https://dev.to/boneskull/pro-tips-for-devs-working-at-home-3b63)
 -   13/06/2019 - 📄 [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
--   25/06/2019 - 😍 📄 [Aventuras y desventuras de un mindundi en Spotif](yhttps://www.youtube.com/watch?v=B5GHW8Eym_w)
+-   25/06/2019 - 😍 📄 [Aventuras y desventuras de un mindundi en Spotif](yhttps://www.youtube.com/watch?v=B5GHW8Eym_w) - [Slides](https://speakerdeck.com/islomar/aventuras-y-desventuras-de-un-mindundi-en-spotify)
 
 ### Interview
 
