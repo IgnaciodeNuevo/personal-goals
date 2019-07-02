@@ -1664,6 +1664,8 @@ Personal goals made open source across computers I use.
 ### GraphQL
 
 -   15/10/2018 - 🎥 [Implementing and Using GraphQL at GitHub](https://www.youtube.com/watch?v=wPPFhcqGcvk)
+-   02/07/2019 - 🎥 [Schema Validation with Apollo Engine
+](https://blog.apollographql.com/schema-validation-with-apollo-engine-4032456425ba)
 
 ### NodeJS
 
