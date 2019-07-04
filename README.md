@@ -1765,6 +1765,7 @@ Personal goals made open source across computers I use.
 -   12/06/2019 - 📄 [Creating a culture of testing](https://afontcu.dev/culture-of-testing/)
 -   04/07/2019 - 📄 [Protractor and Dropdowns: validation](https://technpol.wordpress.com/2013/12/01/protractor-and-dropdowns-validation/)
 -   04/07/2019 - 📄 [Unit Testing: Mocks, Stubs and Spies](https://gaboesquivel.com/blog/2014/unit-testing-mocks-stubs-and-spies/)
+-   04/07/2019 - 📄 [Mocking/stubbing the current Date in Jest tests](https://codewithhugo.com/mocking-the-current-date-in-jest-tests/)
 
 ### Linting
 
