@@ -1763,6 +1763,7 @@ Personal goals made open source across computers I use.
 -   29/04/2019 - 🎥 [Testing, react-testing-library, Cypress y más con Daniel de la Cruz | Café con devs](https://www.youtube.com/watch?v=5HZcWiLlmKM)
 -   03/05/2019 - 📄 [DO's and DON'Ts when writing tests](https://rachelcarmena.github.io/2019/04/26/does-and-donts-when-writing-tests.html)
 -   12/06/2019 - 📄 [Creating a culture of testing](https://afontcu.dev/culture-of-testing/)
+-   04/07/2019 - 📄 [Protractor and Dropdowns: validation](https://technpol.wordpress.com/2013/12/01/protractor-and-dropdowns-validation/)
 
 ### Linting
 
