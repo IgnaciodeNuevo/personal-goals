@@ -1640,6 +1640,8 @@ Personal goals made open source across computers I use.
 -   12/06/2019 - 🎥 [React Context & Hooks Tutorial #4 - Accessing Context (part 1)](https://www.youtube.com/watch?v=WkBXRQfpifc)
 -   12/06/2019 - 🎥 [React Context & Hooks Tutorial #5 - Accessing Context (part 2)](https://www.youtube.com/watch?v=1bsvh_0HRwA)
 -   14/06/2019 - 🎥 [React Context & Hooks Tutorial #6 - Updating Context Data](https://www.youtube.com/watch?v=bJXAHHpyVes)
+-   01/07/2019 - 🎥 [Complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5/)
+-   01/07/2019 - 📄 [Complete Intro to React v5 and Intermediate React v2](https://btholt.github.io/complete-intro-to-react-v5/)
 
 ### Vue
 
