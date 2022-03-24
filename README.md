@@ -210,6 +210,7 @@ Personal goals made open source across computers I use.
 -   19/02/2019 - 📄 [Revisiting the abbr element](https://bitsofco.de/revisiting-the-abbr-element/)
 -   26/02/2019 - 🎥 [12 - Etiqueta Http equiv](https://www.youtube.com/watch?v=WEymWNHtO2I)
 -   26/02/2019 - 📄 [Progressively enhanced menu buttons with details/summary [updated]](https://marcus.io/blog/progressive-enhanced-menus-details-summary)
+-   31/07/2021 - 📄 [Checkbox in HTML](https://www.scaler.com/topics/checkbox-in-html/)
 
 ### Cascade and Specificity
 
